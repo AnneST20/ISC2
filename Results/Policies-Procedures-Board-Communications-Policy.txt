@@ -1,1 +1,33 @@
-<em>Published: January 28, 2022</em>
+<h1 class="h1">(ISC)&sup2; Board of Directors Communications Policy</h1>
+<div class="h1-sub bar"><em>Published: January 28, 2022</em></div>
+
+<h2>Introduction</h2>
+<p>(ISC)&sup2; is a Membership association that offers globally recognized certifications and training for cybersecurity professionals. The Board of Directors (the “Board”) values the input and insights of (ISC)&sup2;’s members (the “Members”) and believes that effective communication strengthens the Board’s role as an active, informed, and engaged fiduciary. To facilitate communication, this policy outlines the internal and external procedures for communications between the Board and the Members.</p>
+
+<p>In addition, this policy outlines communications between the Board and the public.</p>
+
+<h2>Communications Initiated by the Board to the Members</h2>
+<p>The Board will provide updates to the Members throughout the year. This includes the Inside (ISC)&sup2; Chairperson/CEO videos and webinars, as well as email notices related to Director elections, annual meeting, and other required communications specified by the <a href="/-/media/Files/Amended-and-Restated-Bylaws.ashx?la=en&amp;hash=5F17B119A251DAE16045F36F89FF88C8159F8F2F" title="PDF link opens in a new tab" target="_blank">(ISC)&sup2; Bylaws</a>. All such communications will be vetted and approved by the Board Chair and the CEO.</p>
+
+<h2>Communications Initiated by the Members to the Board</h2>
+<p>As outlined below, the Board will respond to written communications from Members on appropriate topics. Members will be informed via the (ISC)&sup2; website of which topics are appropriate for the Board and which topics are better suited to management. (ISC)&sup2; General Counsel will vet Member correspondence, forward communications relating to the designated appropriate topics to the Board and provide the Board with a summary of all correspondence deemed more appropriate to be handled by management to allow the Board to review and confirm no Board response is needed.</p>
+
+<h2>Direction to Members</h2>
+<p>(ISC)&sup2; Members can communicate with the Board on the following topics:</p>
+<ul>
+<li>Board succession planning</li>
+<li>CEO succession planning</li>
+<li>Executive compensation</li>
+<li>Corporate governance</li>
+<li>General Board oversight, including accounting, controls, auditing and related matters</li>
+</ul>
+
+<p>If you would like to communicate with the Board regarding one of these matters, you may send an email to: <a href="mailto:Legal@isc2.org">Legal@isc2.org</a>.</p>
+
+<p>Please indicate in the “Re:” line on the email whether your concern is directed to the Board, a specific Board committee, or a specific Director.</p>
+
+<p>All concerns regarding accounting, internal accounting controls, auditing and other related matters should be addressed to the Audit Committee.</p>
+
+<p>Information regarding the composition of the Board, including the current chair of each committee can be found on (ISC)&sup2;’s website at <a href="/About/Board-of-Directors">https://www.isc2.org/About/Board-of-Directors</a>.</p>
+
+<p>The Board believes that matters dealing with (ISC)&sup2; general business operations, including certifications, exams, AMFs, and CPE credits, current and future financial results, strategic direction, and similar matters are most appropriately addressed by management. The Board of Directors will not respond to general member inquiries. As such, Member requests related to general business operations should be sent via email to: <a href="mailto:MemberServices@isc2.org">MemberServices@isc2.org</a>.</p>

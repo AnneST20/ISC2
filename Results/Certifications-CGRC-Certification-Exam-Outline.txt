@@ -1,1 +1,106 @@
-Effective Date: August 15, 2021
+<div class="h1-sub">Effective Date: August 15, 2021</div>
+<h1 class="h1 bar">CGRC Certification Exam Outline</h1>
+<div class="certificationExamOutline__downloadSection">
+<p>View and download the latest PDF version of the CGRC Certification Exam Outline (Effective August 15, 2021):</p>
+<div class="col-sm-4">
+<ul>
+<li><a title="PDF link opens in a new tab" href="/-/media/ISC2/Certifications/Exam-Outlines/2021/CGRC-Exam-Outline.ashx?la=en&amp;hash=331FF16D5E7AABFA16BAF5DA984DA8D2CE4C3A93" target="_blank">CGRC - English</a></li>
+</ul>
+</div>
+</div>
+<br>
+<div class="certificationExamOutline__downloadSectionButton">
+<a href="https://www.isc2.org/Training/Online-Instructor-Led/new-pricing?utm_source=isc2&utm_medium=button&utm_campaign=GBL-OIL-NewPricing&utm_term=capexamoutlinepage&utm_content=training" class="button button--primary">Get New Pricing for Training</a>
+</div>
+
+<br>
+<hr>
+
+<style>
+.certificationExamOutline__downloadSection {
+background-color: #F3FAFF;
+border: 1px solid #2272A5;
+border-radius: 5px;
+display: flex;
+flex-wrap: wrap;
+padding: 20px;
+}
+
+.certificationExamOutline__downloadSectionButton {
+margin: 0 auto;
+text-align: center;
+}
+
+.table.simpleTable th {color: #213e50;}
+.table.simpleTable th, .table.simpleTable td {border-left: 0; border-right: 0;}
+.table.greenZebra {margin-top: 1rem;}
+.table.greenZebra th, .table.greenZebra td {border: 0;}
+.table.greenZebra thead tr {color: #fff; background-color: #213e50;}
+.table.greenZebra tbody tr:nth-child(2n) {background-color: #fff8eb;}
+.table.greenZebra tbody tr:last-child {background-color: #fcd45a;}
+.domainHead {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+align-items: center;
+margin-bottom: 2em;
+}
+.domainHead img { width: 85px; }
+.domainHead h2 {
+line-height: 1.5;
+margin: 0 0.5em;
+}
+.domainListItem {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+}
+.domainListItem h2 {
+color: #006f53; 
+font-weight: bold;
+width: 2.75em;
+}
+.domainListItem .itemContent { width: 100%; }
+.domainListItem h3 { margin-top: 0; }
+
+.cta-promo [class*=col-]:first-child .cta-icon {
+background-size: auto 100% !important;
+border-radius: 0 !important;
+}
+</style>
+
+        <h2 data-jump-link='off' id="1d8bb50f2dd04e39aa1562500e18354b" data-jump-text="">About CGRC</h2>
+<p>A professional earning the Certified in Governance, Risk and Compliance (CGRC<sup>®</sup>) is an information security practitioner who advocates for security risk management in pursuit of information system authorization to support an organization’s mission and operations in accordance with legal and regulatory requirements.</p>
+<p>The broad spectrum of topics included in the CGRC Common Body of Knowledge (CBK<sup>®</sup>) ensure its relevancy across all disciplines in the field of information security. Successful candidates are competent in the following seven domains:</p>
+
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Information Security Risk Management Program</li>
+<li>Scope of the Information System</li>
+<li>Selection and Approval of Security and Privacy Controls</li>
+<li>Implementation of Security and Privacy Controls</li>
+</ul>
+</div>
+
+<div class="col-sm-6">
+<ul>
+<li>Assessment/Audit of Security and Privacy Controls</li>
+<li>Authorization/Approval of Information System</li>
+<li>Continuous Monitoring</li>
+</ul>
+</div>
+</div>
+<h3>Experience Requirements</h3>
+<p>Candidates must have a minimum of two years cumulative work experience in one or more of the seven domains of the CGRC CBK.</p>
+<p>A candidate that doesn’t have the required experience to become a CGRC may become an Associate of (ISC)&sup2; by successfully passing the CGRC examination. The Associate of (ISC)&sup2; will then have three years to earn the two years of required, relevant experience. Learn more about CGRC experience requirements and how to account for part-time work and internships at <a href="/Certifications/CGRC/experience-requirements">www.isc2.org/Certifications/CGRC/experience-requirements</a>.</p>
+
+<h3>Accreditation</h3>
+<p>CGRC is in compliance with the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
+
+<h3>Job Task Analysis (JTA)</h3>
+<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the CGRC. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the CGRC. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
+
+<hr>

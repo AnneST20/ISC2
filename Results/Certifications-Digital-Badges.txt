@@ -1,0 +1,137 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Digital Badges from Credly</h1>
+    <h2>Digital Badges from Credly</h2>
+<style>
+    .btn-isc {
+    background-color: #007057;
+    border: 1px solid #007057;
+    }
+    .btn-isc:active:focus {
+    background-color: #188c72;
+    border: 1px solid #188c72;
+    }
+    .btn-isc:focus {
+    background-color: #188c72;
+    border: 1px solid #188c72;
+    }
+    .btn-isc:hover {
+    background-color: #188c72;
+    border: 1px solid #188c72;
+    }
+</style>
+<div style="float: left; width: 66%;">
+<strong>
+What is a Digital Badge?
+</strong>
+<p>
+A digital badge is a simple way for you to share you credential online. You can attach your badge to a website, email signature, or social network, and with one simple click, employers and other interested parties can easily view and verify your credential and the skills and experience required to earn it.
+</p>
+<strong>
+Why Do You Need a Digital Badge?
+</strong>
+<p>
+<span>Digital badges keep your credentials up-to-date in a web-based world</span>. With digital badges, you never have to make an employer wait while you find your member number, call a phone number, or fill out mandatory fields in an online form; you simply provide them a one-click verification of your certification and skills.
+</p>
+<p>
+When someone clicks the link corresponding to your (ISC)&sup2; digital badge, an overview page is presented on the Credly site, and will look like this:
+</p>
+</div>
+<div style="float: right; width: 33%;"><img style="height: 298px; width: 300px;" src="/-/media/ISC2/Logos/81-Sponsors-2/acclaim-graphic.ashx?h=298&amp;w=300&amp;hash=31BC4E5B02AC7182E01340536CF155FB792431EE&amp;la=en" alt="Credly Graphic"></div>
+<br clear="all">
+<br>
+<div style="text-align: center;">
+<p><img style="height: 639px; width: 689px;" alt="Badge Page" src="/-/media/ISC2/Logos/81-Sponsors-2/badge-page.ashx?h=639&amp;w=689&amp;hash=000FE32A6094C04807BD606A6753278FF15F1581&amp;la=en"></p>
+</div>
+<br clear="all">
+<div class="cstm-callout" style="background-color: #f7f7f9; padding: 15px; text-align: center;">
+<p>ISC2 Candidates and Members: Claim your badge by using the email associated with your ISC2 membership to set up your Credly account.</p>
+<p><a rel="noopener" title="Link opens in a new tab" target="_blank" href="https://www.credly.com/users/sign_up" class="button button--legacy-light-blue">Claim My Badge</a></p>
+</div>
+<br>
+
+
+
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>When will I get my badge?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p> <span style="color: #424a54;">If you have recently earned your certification, the email notification to claim your badge will be sent to you within <strong>two weeks</strong> of earning the certification. If you have <span style="text-decoration: underline;">not</span> received your badge email invitation, please contact&nbsp;</span><a href="mailto:badges@isc2.org?subject=Badge Support">badges@isc2.org</a>.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I hold multiple ISC2 credentials, can I claim a badge for each one?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Yes, all (ISC)&sup2; certification badges are available. You will be able to claim an electronic badge for each active credential you hold.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>How does my credential get displayed as an Open Badge</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>(ISC)&sup2; has partnered with Credly, a badging platform backed by Pearson VUE, to translate the certification status you&rsquo;ve earned into a digital badge. The technology Credly uses is based on the Open Badge standards defined by Mozilla and enable you to manage, share and verify your credential digitally.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Who is Credly?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Credly is a product of Pearson VUE. Credly works with credible organizations to provide digital credentials to individuals. Credly is an enterprise-class badging platform that enables organizations to issue professional credentials digitally. Credly allows its users to:
+</p>
+<ul>
+    <li>Document skills, experiences and learning in a way that's verifiable for employers, schools, or clients.
+    </li>
+    <li>Promote credentials and accomplishments via relevant social channels and email to help you start a career, obtain a new job, or grow in your current industry.</li>
+</ul>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What is the relationship between ISC2 and Credly?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>(ISC)&sup2;  has entered into a vendor relationship with Credly to implement a program for web-enabled credentials and certificates displayed as open badges. Credly is the website where you claim (accept), store and transmit open badges related to your credentials, and where anyone that needs to verify your achievement can go to do so, quickly and easily.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What if I do not want my credentials to be public?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>You&rsquo;re in complete control of the information about yourself that&rsquo;s made public. All information regarding you and your credentials can be easily configured in your Credly account.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What is to keep someone from copying my badge and using it?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>While badges are simply digital image files, they are uniquely linked to data hosted on the Credly platform. This link to verified data makes them more reliable and secure than a traditional paper-based credential. It also eliminates the possibility of anyone claiming your credential and your associated identity.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Can I include open badges on my resume or LinkedIn profile?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Absolutely. Every certification and profile on the Credly platform has a unique URL that can be embedded on a resume or website. The platform also offers seamless integration with several popular social and professional networking platforms for the display of certifications as open badges. Sharing to LinkedIn enables the earner to permanently display the achievement within their profile with single click verification. In order to display your badge on your LinkedIn profile, log in to Credly, select the badge you would like displayed on LinkedIn and then select share. The site will then walk you through connecting to LinkedIn and a series of confirmation steps. Please note that when a certification is referenced in a LinkedIn profile, an image of the (ISC)&sup2; logo is displayed online, not the actual badge image.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why does my badge not display perfectly on my screen?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Older browsers are not compatible with the Credly site; they do not support Credly's features and modern site design. You are strongly encouraged to use newer browsers for the best user experience and to avoid inherent security concerns known to exist in older browser versions. Internet Explorer users should use IE9 or higher, or one of the other high-performance browsers (Firefox 4+, Google Chrome, Safari 6+).</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong> Who should I contact if there are issues with my ISC2 badge?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>If your question relates to the status of your certification, please contact <a href="mailto:badges@isc2.org?subject=Badge Support">badges@isc2.org</a>. If your question relates to the Credly website, please contact Credly support.</p>
+    </div>
+</div>
+
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What is the policy for use of Credly badges?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The policy for ISC2 Associates, Candidates, and Members to claim and use their Credly badges can be found <a href="/Policies-Procedures/Member-Policies#accordion-49641f55d3aa43cfb26adbe28cc17207">here</a>. Please note, log-in is required.</p>
+    </div>
+</div>

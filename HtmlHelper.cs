@@ -19,10 +19,14 @@ namespace ISC2
         }
         public async Task<string> GetHtml(string url)
         {
-            var response = await _httpClient.GetAsync(url);
-            response.EnsureSuccessStatusCode();
-            var htmlContent = await response.Content.ReadAsStringAsync();
-            return htmlContent;
+            try
+            {
+                var response = await _httpClient.GetAsync(url);
+                response.EnsureSuccessStatusCode();
+                var htmlContent = await response.Content.ReadAsStringAsync();
+                return htmlContent;
+            }
+            catch { return ""; }
         }
 
         public async Task<List<string>> GetHtmls(List<string> urls)
@@ -51,11 +55,16 @@ namespace ISC2
 
         public async Task<string> ParseHtml(string htmlContent)
         {
+            if (htmlContent == null || htmlContent.Equals(""))
+            {
+                return "";
+            }
             var document = new HtmlDocument();
             document.LoadHtml(htmlContent);
 
             var html = document.DocumentNode.Descendants("div")
-                .Where(x => x.ParentNode.GetAttributeValue("class", "") == "col-sm-12")
+                .Where(y => y.ParentNode.ParentNode.GetAttributeValue("class", "") == "container")
+                .Where(x => x.GetAttributeValue("class", "") == "col-sm-12")
                 .FirstOrDefault()?.InnerHtml.Trim();
 
             return html;

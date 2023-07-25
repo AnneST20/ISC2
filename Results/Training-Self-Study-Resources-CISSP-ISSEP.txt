@@ -1,13 +1,6 @@
-<div class="ospTraining__flexContainer">
-<div class="ospTraining__image">
-<img alt="Online Self-Paced Training" title="Online Self-Paced Training" class="" src="/-/media/ISC2/ISC2-Icons/circle-icon-self-paced.ashx?la=en&amp;hash=2A4F5F4FBFF04C1DAF6C635B476D40A58C33549A">
-</div>
-<div>
-<h2>CISSP-ISSEP Online Self-Paced Training</h2>
-<p>Do you want or need to prepare for your (ISC)² certification exam in your own time? Get ready anytime, anywhere without sacrificing quality for convenience with Official (ISC)² Online Self-Paced Training. Give yourself the freedom and confidence to move ahead on your schedule. </p><p></p>
-<div>
+<h1><img alt="" class="selfStudyResources__certIcon" src="/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/ISSEP---Square.ashx?la=en&amp;hash=89E467A002A45836AD3BACB5B521B8D808F6DDEB">
+CISSP-ISSEP Study Tools and Resources</h1>
+<h2>Set Yourself Up for CISSP-ISSEP Exam Success</h2>
 
-<a href="https://enroll.isc2.org/product?catalog=ISSEP-SPT-GLOBAL&utm_source=isc2&utm_medium=button&utm_campaign=GBL-ISSEPosp&utm_term=selfstudyresources&utm_content=training" target="_blank" class="utm-tag button button--primary">Start Learning</a>
-</div>
-</div>
-</div>
+<p>After earning your CISSP, you may be looking for the next challenge in your career. If cybersecurity engineering is your focus, you’ll want to set yourself up for success when preparing for the CISSP-ISSEP exam. Official Training is the route to accomplish your goal. In addition to offering training directly, we partner with leading training providers around the world. Offering you convenient access to Official Training developed by ISC2.</p>
+<a href="/Training/TrainingSearchResult?certification=CISSP-ISSEP" class="utm-tag button button--alternativePrimary">Find ISSEP Training</a>

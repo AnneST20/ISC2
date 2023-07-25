@@ -1,6 +1,2 @@
-<div class="row">
-                        <div class="col-sm-12">
-                            <div class="hero-text-wrapper content">
+<div class="hero-text-wrapper content">
                                                             </div>
-                        </div>
-                    </div>

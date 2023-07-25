@@ -1,0 +1,23 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">SSCP Experience Requirements</h1>
+<p><span>Candidates must have a <strong>minimum of</strong> <strong>one year </strong>cumulative paid work experience in <strong>one or more of the seven domains </strong>of the SSCP CBK. A one year prerequisite pathway will be granted for candidates who received a degree (bachelors or masters) in a cybersecurity program.</span></p>
+<p>A candidate who doesn&rsquo;t have the required experience to become an SSCP may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a> by successfully passing the SSCP examination. The Associate of (ISC)&sup2; will then have two years to earn the one year required experience.</p>
+<p>Part-time work and internships may also count towards your experience.</p>
+<h2>Work Experience</h2>
+<p>Valid experience includes information systems security-related work performed, or work that requires information security knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the (ISC)&sup2; SSCP CBK:</p>
+<ul>
+    <li>Domain 1. Security Operations and Administration</li>
+    <li>Domain 2. Access Controls</li>
+    <li>Domain 3. Risk identification, Monitoring, and Analysis</li>
+    <li>Domain 4. Incident Response and Recovery</li>
+    <li>Domain 5. Cryptography</li>
+    <li>Domain 6. Network and Communications Security</li>
+    <li>Domain 7. Systems and Application Security</li>
+</ul>
+<p><strong>Full-time Experience:</strong> Your work experience is accrued monthly. Thus, you must have worked a minimum of 35 hours/week for four weeks in order to accrue one month of work experience</p>
+<p><strong>Part-Time Experience:</strong> Your part-time experience cannot be less than 20 hours a week and no more than 34 hours a week.</p>
+<ul>
+    <li>1040 hours of part-time = 6 months of full time experience</li>
+    <li>2080 hours of part-time = 12 months of full time experience</li>
+</ul>
+<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery.</p>

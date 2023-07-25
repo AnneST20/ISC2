@@ -1,0 +1,23 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Compensation and CEO Succession Committee</h1>
+<h2>Committee Charter</h2>
+ <p>The Compensation and CEO Succession Committee is an ad-hoc committee of the Board of Directors. The committee is chaired by the Board Chair, and the committee is composed of the Officers of the Board and other director members who serve at the pleasure of the Chair.</p>
+<p>The committee is established to: </p>
+<ol>
+  <li>At such times as determined by the Board, review and, if deemed appropriate by the Committee, recommend to the Board for approval any significant changes to the Corporation&rsquo;s compensation philosophy, guidelines and general plans or programs for the CEO.</li>
+  <li>On an annual basis, review and provide as necessary feedback to the Board pertaining to the implications of the risks associated with the Corporation&rsquo;s compensation policies and practices for the CEO. </li>
+  <li>As tasked by the Board, recommend any contract changes for the CEO and, where necessary, conduct performance and bonus reviews and provide recommendations to the Board.  </li>
+  <li>At such times as determined by the Committee, review and, if deemed appropriate by the Board, be responsible for and oversee CEO succession planning. </li>
+  <li>Define and maintain the CEO&rsquo;s succession plan for the organization; and execute an annual review of the plan, with the output provided to the Board. </li>
+</ol>
+
+	
+<h2>Committee Members</h2>
+<p>Jill Slay, CISSP, Chair Board of Directors – Committee Chair (Australia)<br>
+James Packer, CISSP, CCSP, Vice Chair Board of Directors (United Kingdom)<br>
+Dan Houser, CISSP-ISSAP, ISSMP, CCSP, CSSLP, Treasurer Board of Directors (United States)<br>
+Eiji Kuwana, CISSP, Board of Directors (Japan)<br>
+Lori Ross O’Neil, CISSP, Board of Directors (United States) </p>
+	
+<h2>Contact The Committee </h2>
+<p>Members, associates, candidates and others can contact the ISC2 Compensation and CEO Succession Committee by completing the form below.</p>

@@ -1,0 +1,346 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">SSCP Domain Change FAQ</h1>
+
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why are changes being made to the SSCP exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing information security practitioner.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>How is the SSCP exam changing?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The content of the SSCP has been refreshed to reflect the most pertinent issues that information security practitioners currently face, along with the best practices for mitigating those issues. Some topics have been updated while others have been realigned. The result is an exam that most accurately reflects the hands-on, technical IT skills and practical security knowledge required by practitioners to support an organization's mission and operations.</p>
+<p>You can <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Certifications/Exam-Outlines/2021/SSCP-Exam-Outline-English-Nov-2021.ashx?la=en&amp;hash=ABCB9E34548D2E8170ADA04EAAD3003F5577D3F5">view the new SSCP Exam Outline</a> effective November 1, 2021 online. As a result of the content refresh, we have updated the domain weights as follows:</p>
+
+<table border="1" cellspacing="0" cellpadding="10px">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-style: solid; border-width: 1pt;">
+            <p><strong>Current Domains</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-left: none; border-top-style: solid; border-right-style: solid; border-bottom-style: solid;">
+            <p><strong>%</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-left: none; border-top-style: solid; border-right-style: solid; border-bottom-style: solid;">
+            <p><strong>Domains as of August 1, 2021</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-left: none; border-top-style: solid; border-right-style: solid; border-bottom-style: solid;">
+            <p><strong>%</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 1:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Access Controls</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>16%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Security Operations and Administration</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>16%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 2:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Security Operations and Administration</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Access Controls</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 3:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Risk identification, Monitoring, and Analysis</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Risk Identification, Monitoring and Analysis</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 4:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Incident Response and Recovery</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>13%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Incident Response and Recovery</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>14%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 5:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Cryptography</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>10%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Cryptography</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>9%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 6:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Network and Communications Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>16%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Network and Communications Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>16%</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Domain 7:</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            <p>Systems and Application Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>Systems and Application Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p><strong>100%</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid;">
+            <p><strong>100%</strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!--
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-style: solid; border-width: 1pt; text-align: left;">
+            <p><strong>Domain</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-left: none; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p><strong>Weight</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 1: Access Controls</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>16%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 2: Security Operations and Administration</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 3: Risk Identification, Monitoring, and Analysis</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 4: Incident Response and Recovery</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>13%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 5: Cryptography</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>10%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Domain 6: Network and Communications Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>16%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Systems and Application Security</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; text-align: left;">
+            <p>Total</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt; border-top: none; border-left: none; border-right-style: solid; border-bottom-style: solid; text-align: left;">
+            <p>100%</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+-->
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why do domains for (ISC)&sup2; credential exams change?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>Domains change because it is a reflection of a change in the knowledge, skills and abilities, as indicated by experts through the Job Task Analysis process.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>When will these changes go into effect?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The changes will begin on November 1, 2021.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>In what language will the refreshed SSCP exam be available?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The refreshed SSCP exam will be available in English, Japanese and Brazilian Portuguese.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Will this change the number of questions or the time required to take the SSCP exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>No. The SSCP exam will have the same number of items (125), and the time required to take the exam will be the same (3 hours).</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>If I have been studying for the SSCP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in SSCP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Do these updates affect the experience requirement for the SSCP?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>No. For the SSCP, a candidate is required to have a minimum of one year of cumulative work experience in one or more of the seven domains of the SSCP CBK.</p>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>What impact do these changes have on (ISC)&sup2; training materials?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The Official (ISC)&sup2; SSCP Training Course will be updated in November 2021.</p>
+</div>
+</div>

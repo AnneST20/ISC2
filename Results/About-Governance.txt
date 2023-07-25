@@ -1,0 +1,4 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Governance</h1>
+
+<p>ISC2 is a United States 501(c)(6) nonprofit professional corporation. It was established to develop a program and common body of knowledge for the certification of cybersecurity professionals. ISC2 programs have since expanded to support its members&rsquo; professional development and advocating for the continued growth, ethical best practices, and health of the profession. Under the authority, direction and guidance of <a href="https://www.isc2.org/About/Board-of-Directors">ISC2 Board of Directors</a>, association operations are managed by the ISC2 CEO and senior <a href="https://www.isc2.org/About/Leadership">leadership team</a>. </p>

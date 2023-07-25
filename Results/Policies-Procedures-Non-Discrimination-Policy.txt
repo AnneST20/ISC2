@@ -1,0 +1,9 @@
+<h2 data-jump-link='off' id="085b9fff5f784fb196f58564ced0a86d" data-jump-text="">Impartiality Statement</h2>
+<p>(ISC)&sup2; is committed to impartiality by promoting a bias and discrimination free environment for all members, candidates, staff, volunteers, subcontractors, vendors, and clients.  (ISC)&sup2;'s board of directors, management and staff understand the importance of impartiality in carrying out its certification activities, manage conflict of interest and ensure the objectivity of its certification.  If you feel you have not received impartial treatment, please send an email to <a href="mailto:notice@isc2.org">notice@isc2.org</a> or call +1.727.785.0189, so that we can investigate your claim.</p>
+        <h2 data-jump-link='off' id="11e8434c1ea64cb094b00e80081bffef" data-jump-text="">Non-Discrimination Policy</h2>
+<p>(ISC)&sup2; is an equal opportunity employer and does not allow, condone or support discrimination of any type within its organization including, but not limited to, its activities, programs, practices, procedures, or vendor relationships. This policy applies to (ISC)&sup2; employees, members, candidates, and supporters.
+</p>
+<p>Whether participating in an (ISC)&sup2; official event or certification examination as an employee, candidate, member, staff, volunteer, subcontractor, vendor, or client if you feel you have been discriminated against based on nationality, religion, sexual orientation, race, gender, disability, age, marital status or military status, please send an email to <a href="mailto:notice@isc2.org">notice@isc2.org</a> or call +1.727.785.0189, so that we can investigate your claim. </p>
+<p>
+For any questions related to these polices, please contact the (ISC)&sup2; Legal Department at <a href="mailto:legal@isc2.org">legal@isc2.org</a>.
+</p>

@@ -1,0 +1,18 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Credit Card Payment Policy</h1>
+<p><strong>Safe Credit Card Payments Guarantee</strong><br>
+The ISC2 Safe Credit Card Payments Guarantee protects you when you use your credit card to pay ISC2 fees online. In fact, ISC2 will cover the liability you have for unauthorized use of your credit card for online payments up to USD $50 provided the following terms and conditions are met. This means you pay nothing if unauthorized charges are made to your card as a result of you using your credit card to pay for ISC2 fees online.
+</p>
+<p>
+<strong>Safe Credit Card Payments Terms and Conditions</strong></p>
+<ul>
+    <li>
+    In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its terms and conditions to ensure reporting rules and procedures for card misuse are met.
+    </li>
+    <li>If you have complied with step 1, under the Fair Credit Billing Act, your bank cannot hold you liable for more than USD $50 in fraudulent charges. If you are charged this amount for unauthorized charges made to your card, through no fault of your own and as a result of using ISC2's secure server for making an ISC2 credit card payment online, ISC2 will reimburse you up to the USD $50 maximum amount of your liability.
+    </li>
+</ul>
+<p>
+<strong>ISC2 Secure Servers</strong><br>
+ISC2 makes this guarantee as a result of having secure server software (SSL), among the best software available today for secure online commerce transactions. Your personal information is encrypted, including credit card number, name and address, to better prevent it from being read while traveling over the Internet. For more information regarding online credit card payments or to discuss alternative forms of payment, please <a href="/Contact-Us">Contact ISC2</a>.
+</p>

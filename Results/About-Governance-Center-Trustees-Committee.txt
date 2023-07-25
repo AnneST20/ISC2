@@ -1,0 +1,89 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Center for Cyber Safety and Education Board of Trustees</h1>
+<h2>Committee Charter</h2>
+<p>The Center for Cyber Safety and Education Board of Trustees is established to:</p>
+
+<ol>
+<li>Identify, study and offer options to the Board regarding governance, budget, fundraising, and other issues considered critical to the Center for Cyber Safety and Education.</li>
+<li>Provide oversight and strategic guidance to the Center for Cyber Safety and Education.</li>
+<li>Assist the Center for Cyber Safety and Education staff by setting priorities, leveraging contacts, fundraising, and providing input into crafting appeals and becoming advocates for the Center’s programs with potential funders and members.</li>
+<li>Liaise between the membership organization 501(c)(6) and the charitable separate fund 501(c)(3), to ensure alignment on topics and initiatives of joint interest.</li>
+<li>Issue scholarships and grants to individuals to fund their education, research and acquisition of research-related technology in the field of information security or any related field.</li>
+<li>Conduct educational programs for staying safe and secure online; conduct research and analysis of the information security systems sector for the benefit of, and broad distribution to, the general public; conduct such other activities and programs in furtherance of charitable, educational or scientific purposes.</li>
+</ol>
+
+<p>Learn more about the <a href="https://www.iamcybersafe.org/s/board-of-trustees" target="_blank">Center for Cyber Safety and Education Board of Trustees</a>.</p>
+
+<h2>Committee Members and Board of Trustees</h2>
+
+<p>Greg Thompson, CISSP, Board of Trustees Chair (Canada)<br>
+James McQuiggan, CISSP (United States)<br>
+Roela Santos<br>
+Karen Gispanski, CISSP, CCSP (United States)<br>
+Dr. Earl Crane, CISSP (United States)<br>
+David Melnick, CISSP (United States)<br>
+Zachary Tudor, CISSP (United States)</p>
+
+<h2>Contact The Committee</h2>
+<p>Members, associates, candidates and others can contact the ISC2 Center for Cyber Safety and Education Board of Trustees by completing the form below.</p>
+
+
+
+<section class="cta-header-bar color-alt" id="contact-form-header">
+    <div class="container">
+        <span>
+&nbsp;        </span>
+    </div>
+</section>
+
+<section class="f-1">
+    <div class="container">
+
+        <div class="page-header">
+
+            <p>
+<style>
+#contact-form-header{display:none;}
+.f-1 .page-header{padding-top: 1em; margin: 0;}
+.f-1 .col-md-5{width: 100%;}
+.f-1 .col-md-7{display: none;}
+.f-1 .form-submit-border{display: inline-block;}
+</style>            </p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-5">
+
+
+<link href="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/content/themes/base/all.css" rel="stylesheet">
+<link href="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/content/Fields.css" rel="stylesheet">
+
+<link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/Custom.css" rel="stylesheet">
+
+<form action="/form/Index?wffm.FormItemId=50f4f6c6-64ca-453b-9c5a-e57af3a63438&amp;wffm.Id=50f4f6c6-64ca-453b-9c5a-e57af3a63438" class="text-left" data-wffm="{50F4F6C6-64CA-453B-9C5A-E57AF3A63438}" data-wffm-ajax="True" enctype="multipart/form-data" id="wffm50f4f6c664ca453b9c5ae57af3a63438" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="LHRFSCx3cqrNpD_ZOcRtJrAsCFIa4qAI_KAikvdyQvbbpOC-jwb6kYOKjbdA-LrLKeNV3-MlnB5oJ5xit56qIaTqkm81"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Id" type="hidden" value="50f4f6c6-64ca-453b-9c5a-e57af3a63438"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_FormItemId" name="wffm50f4f6c664ca453b9c5ae57af3a63438.FormItemId" type="hidden" value="{50F4F6C6-64CA-453B-9C5A-E57AF3A63438}">        <div class="has-error has-feedback" style="display: none;">
+            <div class="validation-summary-valid" data-valmsg-summary="true"><ul class="list-group"><li style="display:none"></li>
+</ul></div>
+        </div>
+<div class=" form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_0__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[0].Id" type="hidden" value="{961B248B-5557-4C4A-BAC1-7F23D3A7A54F}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_0__Value">First Name</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The First Name field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_0__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[0].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[0].Value" data-valmsg-replace="true"></span></div><div class=" form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_1__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[1].Id" type="hidden" value="{95562E10-2081-44DA-B518-A358D411DBC8}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_1__Value">Last Name</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Last Name field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_1__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[1].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[1].Value" data-valmsg-replace="true"></span></div><div class="required-field scfSingleLineTextBorder form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_2__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[2].Id" type="hidden" value="{889B4D30-4CC1-4189-A1AA-6DF8FA0ACE03}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_2__Value">Member or Candidate Number</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Member or Candidate Number field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" data-val-required="The Member or Candidate Number field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_2__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[2].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[2].Value" data-valmsg-replace="true"></span></div><div class="required-field  form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_3__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[3].Id" type="hidden" value="{25E4D507-4223-42FE-9058-D2B7FCC76C0C}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_3__Value">Email</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Email field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" data-val-regex="The Email field contains an invalid email address." data-val-regex-pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,17}$" data-val-required="The Email field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_3__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[3].Value" placeholder="" style="" type="email" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[3].Value" data-valmsg-replace="true"></span><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_3__Confirmation">Confirm Email</label><input class=" form-control text-box single-line" data-val="true" data-val-equalto="The Email and Confirm Email fields must be the same." data-val-equalto-other="*.Value" data-val-required="The Confirmation field is required." id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_3__Confirmation" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[3].Confirmation" placeholder="" style="" type="email" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[3].Confirmation" data-valmsg-replace="true"></span></div><div class="required-field  form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_4__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[4].Id" type="hidden" value="{50886447-E3C0-421A-A5AE-6ABF0CBF6729}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_4__Value">How can we help?</label><textarea class="form-control" cols="1" data-val="true" data-val-length="The How can we help? field must be a string with a minimum length of 1 and a maximum length of 512." data-val-length-max="512" data-val-length-min="1" data-val-required="The How can we help? field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_4__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[4].Value" rows="4">
+</textarea><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[4].Value" data-valmsg-replace="true"></span></div><div class=" form-group"><input id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_5__Id" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[5].Id" type="hidden" value="{9A832BA8-BB88-459B-A3C3-0DC2867A8A2C}"><label class="control-label" for="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_5__Value">Captcha</label><input data-val="true" data-val-length="The Captcha field must be a string with a minimum length of 0 and a maximum length of 0." data-val-length-max="0" id="wffm50f4f6c664ca453b9c5ae57af3a63438_Sections_0__Fields_5__Value" name="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[5].Value" type="hidden" value=""><div class="g-recaptcha" data-sitekey="6LfEPxgUAAAAAKutL_PzaIEHadaKPvmVL7Wry8Iu" data-theme="light" data-type="image"></div><script src="https://www.google.com/recaptcha/api.js?hl=en"></script><span class="field-validation-valid help-block" data-valmsg-for="wffm50f4f6c664ca453b9c5ae57af3a63438.Sections[0].Fields[5].Value" data-valmsg-replace="true"></span></div>
+<div class="form-submit-border"><input class="btn  btn-default" type="submit" value="Submit"></div></form>
+
+
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery-3.2.1.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery-ui-1.12.0.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery.validate.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/bootstrap/bootstrap.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/wffm.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/main.min.js"></script>
+
+            </div>
+            <div class="col-md-7">
+                <div class="column-image hide-lt-md">
+                </div>
+                <p class="disclaimer">
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

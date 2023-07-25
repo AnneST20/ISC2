@@ -1,0 +1,97 @@
+<h2 data-jump-link='on' id="32430bf18e9e4e4684ec69b27f45df05" data-jump-text="The Exam Center Process">The Exam Center Process</h2>
+<p><strong>Check-In</strong><br>
+Plan to arrive at your test center <strong>at least 30 minutes</strong> before your exam start time. To check in, you&rsquo;ll need to:</p>
+<ul>
+    <li>Show two acceptable forms of ID (as defined below)</li>
+    <li>Provide your signature</li>
+        <li>Submit to a&nbsp;<a href="https://www.isc2.org/-/media/ISC2/Documents/palm-vein_candidate-isc2.ashx?la=en&hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545&hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545" target="_blank">palm vein scan</a> (unless it is prohibited by law). If you are not comfortable with this form of identification, please contact&nbsp;<a href="mailto:ExamAdministration@isc2.org">ExamAdministration@isc2.org</a> <em>prior</em> to booking your exam.</li>
+    <li>Have your photo taken. Hats, scarves and coats may <strong>not</strong> be worn for your photo. You also can&rsquo;t wear these items in the test room.</li>
+    <li>Leave your personal belongings outside the testing room. You&rsquo;ll have access to secure storage. Storage space is small, so plan ahead. Pearson VUE test centers do not assume responsibility for your personal belongings.</li>
+</ul>
+<p>The Test Administrator (TA) will give you a short orientation. Then, the TA will escort you to a computer terminal.</p>
+<p><strong>Before You Start Your Exam</strong><br>
+You will have five minutes to review and accept the <a href="/Exams/Non-Disclosure-Agreement">Non-Disclosure Agreement</a> (NDA). You cannot take the exam without accepting the terms of the NDA. If you do not sign the NDA, your Exam Application fee will NOT be refunded.</p>
+<p><strong>Exam Assistance and Breaks</strong><br>
+You must remain in your seat during the exam, unless the staff says it&rsquo;s okay for you to get up. You may not change your computer terminal unless a TA directs you to do so.</p>
+<p>Raise your hand to notify the TA if you:</p>
+<ul>
+    <li>Believe you have a problem with your computer</li>
+    <li>Need to change note boards</li>
+    <li>Need to take a break</li>
+    <li>Need the administrator for any reason</li>
+</ul>
+<p>Your total exam time includes any unscheduled breaks you may take. All breaks count against your testing time. You must leave the testing room during your break. However, you may not leave the building or access any personal belongings unless absolutely necessary (such as for retrieving medication).</p>
+<p>When you take a break, you&rsquo;ll be required to submit to a <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Documents/palm-vein_candidate-isc2.ashx?la=en&amp;hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545">palm vein scan</a> before and after your break.</p>
+<p><strong>Testing Environment</strong><br>
+Pearson VUE test centers administer many types of exams. Some exams have written responses (such as essays). The test centers have no control over the sounds of people typing on keyboards next to you. Typing noise is a normal part of a computerized testing environment. It&rsquo;s like the noise of turning pages in a paper-and-pencil testing environment.</p>
+<p>Earplugs are available upon request.</p>
+<p><strong>When You Finish Your Exam</strong><br>
+After you finish, raise your hand to summon the TA. The TA will let you go when you&rsquo;ve met all the requirements.</p>
+<p>Be sure to notify your TA <strong>before</strong> you leave the test center if:</p>
+<ul>
+    <li>You believe there was an irregularity in how your test was run or</li>
+    <li>Irregular testing conditions had a negative effect on the outcome of your exam</li>
+</ul>
+<p><strong>Technical Issues</strong><br>
+On rare occasions, the test center may have technical problems. You may need to reschedule your cybersecurity exam.</p>
+<p>If technical issues cause you to wait more than 30 minutes after your scheduled exam start time, or your exam starts and then stops with a delay of more than 30 minutes, you&rsquo;ll have the choice of continuing to wait or rescheduling <strong>with no additional fee</strong>:</p>
+<ul>
+    <li>If you choose not to reschedule and take the test after your delay, your test results will count. You&rsquo;ll have no further recourse.</li>
+    <li>If you choose to wait but change your mind before starting (or restarting) your exam, you can take the exam at a later date at no extra cost.</li>
+    <li>If you choose to reschedule or the technical problem can&rsquo;t be fixed, you&rsquo;ll be allowed to test at a later date at no extra charge.</li>
+</ul>
+<p>We know your time is valuable. If your test center identifies technical problems before your exam, they&rsquo;ll make every attempt to contact you.</p>
+        <h2 data-jump-link='on' id="95c5a30397504d44a6f53acea3992497" data-jump-text="What to Bring to the Test Center">What You Need to Bring to the Test Center</h2>
+<p><strong>Proper Identification</strong><br>
+(ISC)&sup2; requires two forms of identification (ID) to take your cybersecurity exam. You&rsquo;ll be asked to provide a primary and a secondary ID when you check in at your test center. (ISC)&sup2; also requires you to submit to a palm vein scan*. For more information on the (ISC)&sup2; palm vein scan please review our <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Documents/palm-vein_candidate-isc2.ashx?la=en&amp;hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545">Palm Vein Scan</a> data sheet.</p>
+<p>Here&rsquo;s what you need to know:</p>
+<ul>
+    <li>Your IDs must be <strong>valid</strong> (not expired).</li>
+    <li>They must be <strong>original documents</strong> (not photocopies or faxes).</li>
+    <li>Your <strong>primary ID</strong> must include your photo and signature. (The photo needs to be permanently affixed to the document.)</li>
+    <li>Your <strong>secondary ID</strong> must include your signature.</li>
+</ul>
+<p><strong>Accepted Primary ID</strong> (contains photograph and signature; not expired)</p>
+<ul>
+    <li>Government issued driver's license or identification card</li>
+    <li>U.S. Department of State driver&rsquo;s license</li>
+    <li>U.S. learner's permit (card only with photo and signature)</li>
+    <li>National/state/country Identification card</li>
+    <li>Passport</li>
+    <li>Military ID</li>
+    <li>Military ID for spouses and dependents</li>
+    <li>Alien registration card (green card; permanent resident visa)</li>
+    <li>Government issued local language ID (plastic card with photo and signature)</li>
+    <li>Employee ID</li>
+    <li>School ID</li>
+    <li>Credit card*</li>
+</ul>
+<p><strong>Accepted Secondary ID</strong> (contains signature; not expired)</p>
+<ul>
+    <li>U.S. Social Security card</li>
+    <li>Debit/ATM card</li>
+    <li>Credit card*</li>
+    <li>Any form of ID on the primary ID list</li>
+</ul>
+<p>* A credit card can be used as your primary ID <strong>only</strong> if it contains both your photo and a signature. It can&rsquo;t be expired. Any credit card can be used as your secondary ID if your signature is on it and it isn&rsquo;t expired. This includes major credit cards, as well as department store and gasoline credit cards.</p>
+        <h2 data-jump-link='on' id="ddb3ef9aab86469fa0122f69c5d0ee9b" data-jump-text="What NOT to Bring to the Test Center">What You Shouldn’t Bring Into the Test Center</h2>
+<p><strong>Weapons</strong><br>
+Weapons are not allowed at the test center. If you bring a weapon (or something your Test Administrator considers to be a weapon), you&rsquo;ll be asked to store it in your car. If you didn&rsquo;t drive to the test center, you can store it in the locker with your other personal belongings.</p>
+<p>There is one exception. If you are law enforcement or security personnel on site performing an official duty, you may carry a weapon. <strong>This exemption does not apply to law enforcement or security personnel who are scheduled to take exams.</strong></p>
+        <h2 data-jump-link='on' id="2dc8f11cea5e4fea933be36198630662" data-jump-text="Name Matching Policy">Name Matching Policy</h2>
+<p>The first and last name on your ID must <strong>exactly match</strong> the first and last name that you used to register with Pearson VUE. (For example, if your driver&rsquo;s license shows your name as Charles, be sure to register as Charles &mdash; not as Chuck or Charlie.)</p>
+<p>If your names don&rsquo;t match, you must bring proof of a legal name change to the test center on your test day. Your document must be an original (not a photocopy or fax). The only legal documents that Pearson VUE will accept are:</p>
+<ul>
+    <li>Marriage licenses</li>
+    <li>Divorce decrees</li>
+    <li>Court-sanctioned legal name change documents</li>
+</ul>
+<p>If you made a mistake with how you registered your name with Pearson VUE, you must contact (ISC)&sup2; to make a correction <strong>before</strong> your test date.</p>
+<p>Name changes cannot be made on your test day, including at the test center. If your names don&rsquo;t match, you&rsquo;ll be asked to leave. You&rsquo;ll also forfeit your testing fee.</p>
+        <h2 data-jump-link='on' id="223f66df4afc4463bf0a264c834cb1a9" data-jump-text="Late Arrivals or No Shows">Late Arrivals or No Shows</h2>
+<p>Be sure to arrive at least 30 minutes before your exam start time.</p>
+<p><strong>If you arrive within 15 minutes of your start time, you&rsquo;ll be considered late.</strong> This means you may forfeit your assigned seat. It&rsquo;s up to the test center to decide whether to allow you to take the exam without affecting others&rsquo; start times.</p>
+<p>Pearson VUE will make all attempts to accommodate you if you&rsquo;re late. But if they can&rsquo;t, you&rsquo;ll be turned away.</p>
+<p>If you&rsquo;re turned away because you&rsquo;re late or you didn&rsquo;t show up, your exam result will appear in the system as a no-show. You&rsquo;ll also forfeit your exam fee.</p>
+        <h2 data-jump-link='on' id="83f60c679a824eb5951dad4bc9117e83" data-jump-text="Reporting Fraud">Reporting Fraud or Cheating</h2>
+<p>If you suspect exam fraud or cheating, please report this information to us <a href="/Exams/Report-Exam-Fraud">here</a>.</p>

@@ -1,0 +1,99 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Official ISC2 Certified in Cybersecurity℠ Training Course Outline</h1>
+    <h2>Introducing your ultimate starting point for an exciting career — Certified in Cybersecurity℠</h2>
+<p>Take the first step to a rewarding career and get Certified in Cybersecurity from ISC2, the world’s leading cybersecurity professional organization known for the CISSP®. You don’t need experience — just the passion and drive to enter a field that opens limitless opportunities around the globe.</p>
+<p>Features of the course vary by delivery method and include:</p>
+<ul>
+    <li>Live instruction</li>
+    <li>Peer discussions</li>
+    <li>Knowledge checks and end-of-chapter quizzes</li>
+    <li>Course assessments</li>
+    <li>Chapter-by-chapter study sheets with key points, terms and definitions</li>
+</ul>
+
+<h3>Who Should Attend</h3>
+<p>If you’re looking to join a dynamic and rewarding workforce, get Certified in Cybersecurity and join the ranks. This certification is ideal for those who are:</p>
+
+<ul>
+<li>A current IT professional</li>
+<li>Looking to transition from another field into cybersecurity</li>
+<li>A college student or recent graduate</li>
+</ul>
+
+<p>Ideal candidates for Certified in Cybersecurity are:</p>
+<ul>
+<li>Problem solvers</li>
+<li>Creative</li>
+<li>Analytical and critical thinkers</li>
+<li>Excited by the opportunity to learn</li>
+<li>Enjoy both working in a team and independently</li>
+</ul>
+
+<h3>Course Agenda</h3>
+<ul>
+    <li>Chapter 1: Security Principles</li>
+    <li>Chapter 2: Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts</li>
+    <li>Chapter 3: Access Controls Concepts</li>
+    <li>Chapter 4: Network Security</li>
+    <li>Chapter 5: Security Operations</li>
+    <li>Chapter 6: Course Summary and Exam Details</li>
+</ul>
+<p><em>Note: Course materials are organized by chapter not domain, which may result in domains or individual domain topics being covered in a different order than what appears in the exam outline.  The chapter structure allows us to properly cover the exam domains while supporting a more cohesive learning experience.</em></p>
+
+<h3>Course Delivery Methods</h3>
+
+<p>ISC2 offers a choice of flexible exam prep options for Certified in Cybersecurity that will help you gain the solid foundation of knowledge employers are looking for, from an association they trust.</p>
+
+<p>As part of our commitment to help close the workforce gap, our new global initiative, <a href="/News-and-Events/Press-Room/Posts/2022/08/31/ISC2-Opens-Global-Enrollment-for-One-Million-Certified-in-Cybersecurity">One Million Certified in Cybersecurity</a>, is offering free Certified in Cybersecurity℠ (CC) Online Self-Paced Training and exams to the first million people entering the field for the first time.</p>
+
+<p><a href="/1mcc?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-1M-AW&utm_term=trainingcourselandingpage&utm_content=training">SELF-PACED + EXAM</a>: U.S. $0<br>
+Train at your own pace through an engaging online learning experience. Build a solid foundation of knowledge tested on the CC exam. Exam included.</p>
+
+<p><strong>To meet every learner’s needs</strong>, we’re also offering two Certified in Cybersecurity training bundles with special extras. Choose the option that’s right for you.</p>
+
+
+<p><a href="/cc-bundles?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-bundles&utm_term=trainingcourselandingpage&utm_content=training">SELF-PACED + EXAM + EXTRAS</a>: U.S. $199*<br>
+Train at your own pace through an engaging online learning experience. Build a solid foundation of knowledge tested on the CC exam.</p>
+<ul>
+<li>Two opportunities to pass the exam</li>
+<li>Access to course content for 180-days</li>
+<li>Pay no Annual Maintenance Fees for the first year</li>
+</ul>
+
+<p><a href="/cc-bundles?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-bundles&utm_term=trainingcourselandingpage&utm_content=training">LIVE ONLINE + EXAM + EXTRA</a>: U.S. $649*<br>
+Participate in live sessions led by an ISC2 Authorized Instructor and work on your own through an engaging self-paced experience.</p>
+
+<ul>
+<li>Two opportunities to pass the exam</li>
+<li>Access to course content for 180-days</li>
+<li>Pay no Annual Maintenance Fees for the first year</li>
+<li>Learn in a live virtual classroom led by an ISC2 Authorized Instructor</li>
+<li>Interactive peer discussions</li>
+</ul>
+
+<p><strong>Interested in Classroom-Based Training?</strong><br>
+Train for the CC exam in person with an ISC2 Authorized Instructor alongside your peers in a traditional classroom setting. <a href="/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=CC&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-classroom&utm_term=trainingcourselandingpage&utm_content=training">Learn more</a>.</p>
+
+<p><em>*Bundle offer promotion available for a limited time.</em></p>
+
+
+<!-- <div>
+<a href="https://enroll.isc2.org/catalog?pagename=Entry-Level#OIL" title="Entry-Level Online Instructor-Led" target="_blank">
+<div class="col-sm-4" style="text-align: center;margin: 1em 0;"><img alt="Online Instructor-Led Icon" src="/-/media/ISC2/ISC2-Icons/blue-circle-icon-instructor-led.ashx?h=150&amp;w=150&amp;la=en&amp;hash=5B3E0264DB87F9A2E6BF98CB4F45D16FDB60FFDB" style="height: 150px; width: 150px; margin: 1em 0;" />
+<p>Online Instructor-Led &gt;</p>
+</div>
+</a>
+<a href="https://enroll.isc2.org/product?catalog=ELCC-SPT-PILOT" title="Entry-Level Self-Paced" target="_blank">
+<div class="col-sm-4" style="text-align: center;margin: 1em 0;"><img alt="Online Self-Paced Icon" src="/-/media/ISC2/ISC2-Icons/blue-circle-icon-self-paced.ashx?h=150&amp;w=150&amp;la=en&amp;hash=CADD01B2E4A0CFFFEEA45F0B6949DDD0D7719E38" style="height: 150px; width: 150px; margin: 1em 0;" />
+<p>Online Self-Paced &gt;</p>
+</div>
+</a>
+<a href="/Training/Private-On-Site" title="Entry-Level Private On-Site">
+<div class="col-sm-4" style="text-align: center;margin: 1em 0;"><img alt="Private On-Site Icon" src="/-/media/ISC2/ISC2-Icons/blue-circle-icon-private-on-site.ashx?h=150&amp;w=150&amp;la=en&amp;hash=52A07A4507FC362846382E886EA1D224BBF4340D" style="height: 150px; width: 150px; margin: 1em 0;" />
+<p>Private On-Site &gt;</p>
+</div>
+</a></div> -->
+
+
+<h3 style="clear: both;">Course Objectives</h3>
+<p>After completing this course, the learner will have obtained awareness of topics covered in the Certified in Cybersecurity <a href="/Certifications/CC/Certification-Exam-Outline">exam outline</a>.</p>

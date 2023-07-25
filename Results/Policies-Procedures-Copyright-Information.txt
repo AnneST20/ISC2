@@ -1,0 +1,14 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Copyright Information</h1>
+<p>ISC2, Inc. will consider the authorization for use of the marks below or material from this website only upon receipt of a written request. Unauthorized use of the ISC2 marks is strictly prohibited.
+</p>
+
+<p>Use of the CISSP, SSCP, CGRC, HCISPP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP, and CC marks and logos is authorized for certified individuals ONLY and strictly governed by the official <a href="/policies-procedures/member-policies#accordion-b2b5d405be4540f88bb1f3e97841b316">ISC2 Logo Usage Guidelines</a>.</p>
+
+<p>Any other trademarks are the property of their respective owners.
+</p>
+
+<p>For more information or clarification on the use of these marks or our copyright, please <a href="/Contact-Us">contact ISC2</a>.</p>
+<p></p>
+
+<p>All contents of this site constitute the property of ISC2, Inc. and may not be copied, reproduced or distributed without prior written permission. ISC2, CISSP, SSCP, CCSP, CGRC, CSSLP, HCISPP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP and CBK are registered certification marks of ISC2, Inc.</p>

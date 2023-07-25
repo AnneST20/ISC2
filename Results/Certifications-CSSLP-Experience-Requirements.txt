@@ -1,0 +1,45 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CSSLP Experience Requirements</h1>
+
+
+<p>A candidate is required to have a&nbsp;<strong>minimum of four years</strong>&nbsp;of cumulative paid Software Development Lifecycle (SDLC) professional work experience in&nbsp;<strong>one or more of the eight domains</strong>&nbsp;of the (ISC)&sup2; CSSLP CBK, or three years of cumulative paid SDLC professional work experience in one or more of the eight domains of the CSSLP CBK with a four-year degree leading to a Baccalaureate, or regional equivalent in Computer Science, Information Technology (IT) or related fields.</p>
+<p>If you don&rsquo;t have the required experience to become a CSSLP, you may become an&nbsp;<a href="https://www.isc2.org/Certifications/Associate">Associate of (ISC)&sup2;</a> by successfully passing the CSSLP examination. You will then have five years to earn the four years required experience.</p>
+<p>Part-time work and internships may also count towards your experience.</p>
+<h2>Work Experience</h2>
+<p>Valid experience includes information systems security-related work performed in the Software Development Lifecycle (SDLC), or work that requires application security knowledge and involves direct application of that knowledge.&nbsp;Experience must fall within one or more of the eight domains of the (ISC)&sup2; CSSLP CBK:</p>
+<ul>
+<li>Domain 1.Secure Software Concepts</li>
+<li>Domain 2. Secure Software Requirements</li>
+<li>Domain 3. Secure Software Architecture and Design</li>
+<li>Domain 4. Secure Software Implementation</li>
+<li>Domain 5. Secure Software Testing</li>
+<li>Domain 6. Secure Software Lifecycle Management</li>
+<li>Domain 7. Secure Software Deployment, Operations, Maintenance</li>
+<li>Domain 8. Secure Software Supply Chain</li>
+</ul>
+
+<p><em>Please Note: Effective September 15, 2023, the CSSLP exam will be based on a new exam outline. Please refer to the <a href="/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2023.ashx?la=en&amp;hash=EFD73A78DB36169B27263897409D007EA04F655D" target="_blank">CSSLP Exam Outline</a> and <a href="/Certifications/CSSLP/Domain-Refresh-FAQ">FAQs</a> for&nbsp;details.</em></p>
+
+
+<p><strong>Full-Time Experience:</strong>&nbsp;Your work experience is accrued monthly. Thus, you must have worked a minimum of 35 hours/week for four weeks in order to accrue one month of work experience.</p>
+<p><strong>Part-Time Experience:</strong>&nbsp;Your part-time experience cannot be less than 20 hours a week and no more than 34 hours a week.</p>
+<ul>
+    <li>1040 hours of part-time&nbsp;= 6 months of full time experience</li>
+    <li>2080 hours of part-time = 12 months of full time experience</li>
+</ul>
+<p><strong>Internship:&nbsp;</strong>Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery.</p>
+        <div class="video-half col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+            <div class="video-container col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <iframe src="https://www.youtube.com/embed/3Sc_dRrDS9g" frameborder="0" allowfullscreen="" modestbranding="1"></iframe>
+            </div>
+
+            <div class="video-description col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h2 data-jump-link='off' id="69d133e916234582a33d7c2fb1e450d8" data-jump-text="">Not Enough Experience?</h2>
+                <p>Start on a pathway to certification with the Associate of (ISC)&sup2;!&nbsp; You can take a certification exam without the work experience. If you pass, you simply work to get the experience needed for certification.</p>
+<p><a href="https://www.isc2.org/Certifications/Associate" title="Associate of ISC2">&nbsp;Learn more</a></p>
+
+
+            </div>
+
+        </div>

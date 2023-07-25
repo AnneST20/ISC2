@@ -1,0 +1,41 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">SSCP Work Experience Requirements</h1>
+<p>When you apply for certification, you will be asked to verify your work experience and education to meet the following qualification:</p>
+<p style="justify-content: center; text-align: left;"><em>One year of cumulative work experience in one or more of the seven domains of the SSCP Common Body of Knowledge (CBK). A one year prerequisite pathway is available for candidates who receive a degree (bachelors or masters) in a cybersecurity program.</em></p>
+<em><em>
+</em></em>
+<h2>One Year Work Experience</h2>
+<p>Valid experience includes information systems security-related work performed, or work that requires information security knowledge and involves direct application of that knowledge.&nbsp;Experience must fall within one or more of the seven domains of the (ISC)&sup2; SSCP CBK:</p>
+<ul>
+    <li>Access Controls</li>
+    <li>Security Operations and Administration</li>
+    <li>Risk identification, Monitoring, and Analysis</li>
+    <li>Incident Response and Recovery</li>
+    <li>Cryptography</li>
+    <li>Network and Communications Security</li>
+    <li>Systems and Application Security</li>
+</ul>
+<p>Your work experience is accrued monthly. Thus, you must have worked a minimum of 34 hours/week for four (4) weeks in order to accrue one (1) month of work experience</p>
+<p>Part-Time Experience: Part-time experience cannot be less than 20 hours a week and no more than 34 hours a week.</p>
+<ul>
+    <li>1040 hours of part-time&nbsp;= 6 months of full time experience</li>
+    <li>2080 hours of part-time = 12 months of full time experience</li>
+</ul>
+<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery. Interns may be gaining valuable experience without monetary compensation.</p>
+<h2>One Year Prerequisite Pathway</h2>
+Candidates may satisfy the one year work experience requirement if they earn a degree from an accredited college or university or regionally equivalent education program. For purposes of certification, (ISC)&sup2; looks for the following characteristics of an approved cybersecurity degree:<br>
+<br>
+<p>1) &nbsp;The degree originates from a cybersecurity program which addresses cyber, information, software and infrastructure security topics within its requirements;</p>
+<p>or</p>
+<p>2) &nbsp; Is one of the following preapproved degree programs:</p>
+<ul>
+    <li>Computer Science</li>
+    <li>Computer Engineering</li>
+    <li>Computer Systems Engineering</li>
+    <li>Management Information Systems (MIS)</li>
+    <li>Information Technology [IT]</li>
+</ul>
+<p>The list of preapproved degree programs will be updated periodically.</p>
+<p><strong><em>Verification of Work and Education Experience</em></strong></p>
+<p>Activities that do not relate to the domains of the (ISC)&sup2; SSCP CBK cannot be included in the reported number of years of experience. If non-qualifying activities are included, that experience will be deducted. Examples of proof of employment include employment contracts, letters, and other documents on company letterhead showing the dates you worked at the company/organization.</p>
+<p>Experience and education is subject to random audit. Erroneous information will be referred to the ethics committee and could jeopardize your endorsement and certification.</p>

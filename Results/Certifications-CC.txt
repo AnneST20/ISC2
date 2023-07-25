@@ -1,3 +1,10 @@
+<h2 data-jump-link='off' id="d85d62e754214f49aa71d55e66ae3cfd" data-jump-text="">Questions about Certified in Cybersecurity? We’re Here to Help</h2>
+<p style="text-align: center;"><a title="Link opens in a new tab" target="_blank" href="https://cloud.connect.isc2.org/cc#contact-form-header" class="utm-tag button button--block button--xlg button--primary" style="max-width: 500px;">Let’s Connect</a></p>
+
+<h2>Plan your cybersecurity career path</h2>
+<p>In cybersecurity, you have the opportunity to specialize in areas that align with your interests and strengths. Explore these high-demand specialties:</p>
+
+<div class="flx aof" style="-ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; text-align: center;">
 <a href="/Cloud-Security?utm_source=isc2&utm_medium=button&utm_campaign=GBL-cloudsecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
 <div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Cloud-Security-AoF-Icon.ashx?la=en&amp;hash=4B3C851B58B0CE023C25CFA493DFBEBB1DE85BE7">
 <p>Cloud Security</p></div></a>
@@ -25,3 +32,8 @@
 <a href="/Software-Security?utm_source=isc2&utm_medium=button&utm_campaign=GBL-softwaresecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
 <div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Software-Security-AoF-Icon.ashx?la=en&amp;hash=4EB11A07EE5E92CBA23D2533273259F043835C33">
 <p>Software Security</p></div></a>
+</div>
+
+<style>
+.flx.aof a, .flx.aof:after { width: 13%; } .flx.aof:after { content: ''; }
+</style>

@@ -1,0 +1,231 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CSSLP Domain Refresh FAQ</h1>
+
+
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why are changes being made to the CSSLP exam? </strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        (ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2;: follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing software development professional.
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>How is the CSSLP exam changing?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>This certification is geared towards software development and security professionals responsible for applying best practices to each phase of the SDLC &ndash; from software design and implementation to testing and deployment.</p>
+<p>As a result of the content refresh, we have updated some of the domain names to describe the topics accurately.</p>
+<table class="table zebra">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p><strong>Previous CSSLP Domain Name</strong></p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p><strong>New CSSLP Domain Name</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 1: Secure Software Concepts </p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 1: Secure Software Concepts </p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 2: Secure Software Requirements </p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 2: Secure Software Lifecycle Management</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 3: Secure Software Architecture and Design</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 3: Secure Software Requirements</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 4: Secure Software Implementation</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 4: Secure Software Architecture and Design</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 5: Secure Software Testing</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 5: Secure Software Implementation</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 6: Secure Software Lifecycle Management</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 6: Secure Software Testing</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 7: Secure Software Deployment, Operations and Maintenance</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 7: Secure Software Deployment, Operations, Maintenance</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 8: Secure Software Supply Chain</p>
+            </td>
+            <td valign="top" style="width: 304px;">
+            <p>Domain 8: Secure Software Supply Chain</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>The weights for the domains are also changing. </p>
+<table class="table zebra">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 362px;"><br>
+            <strong>Major Domains</strong></td>
+            <td valign="top" style="width: 168px;">
+            <p><strong>Weightings (Percentage)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 1: Secure Software Concepts</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>12%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 2: Secure Software Lifecycle Management</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>11%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 3: Secure Software Requirements</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>13%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 4: Secure Software Architecture and Design</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 5: Secure Software Implementation</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>14%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 6: Secure Software Testing</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>14%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 7: Secure Software Deployment, Operations,   Management</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>11%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p>Domain 8: Secure Software Supply Chain</p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p>10%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 362px;">
+            <p><strong>Total</strong></p>
+            </td>
+            <td valign="top" style="width: 168px;">
+            <p><strong>100%</strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why do domains for ISC2 credential exams change?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p> <span>Domains change because it is a reflection of a change in the knowledge, skills and abilities, as indicated by experts through the Job Task Analysis process.</span></p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>When will these changes go into effect?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p style="background: white;"><span>The changes will begin on September 15, 2023.</span></p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>In what language will the refreshed CSSLP exam be available?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The refreshed CSSLP exam will be available in English only.  </p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Will this change the number of questions or the time required to take the CSSLP exam?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The CSSLP exam will still have 125 items, and the exam time is still three hours. A passing grade remains 700 out of 1,000.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I have been studying for the CSSLP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study? </strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CSSLP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</p>
+
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Do these updates affect the experience requirement for the CSSLP?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>No. For the CSSLP, a candidate is required to have a minimum of four years cumulative work experience in one or more of the eight domains of the CSSLP CBK.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>When will the training course for CSSLP be updated to reflect these changes?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        The Official (ISC)&sup2; CSSLP training course will be updated on September 15, 2023 to reflect the changes to the exam outline.
+    </div>
+</div>

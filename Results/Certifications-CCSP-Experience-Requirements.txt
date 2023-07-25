@@ -1,0 +1,25 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CCSP Experience Requirements</h1>
+<p>Candidates must have a <strong>minimum of five years</strong> cumulative paid work experience in information technology, of which <strong>three years must be in information security</strong> and <strong>one year</strong> <strong>in one or more of the six domains</strong> of the CCSP CBK. Earning CSA&rsquo;s CCSK certificate can be substituted for one year of experience in one or more of the six domains of the CCSP CBK. Earning (ISC)&sup2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>
+<p>A candidate who doesn&rsquo;t have the required experience to become a CCSP may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a><a> </a>by successfully passing the CCSP examination. The Associate of (ISC)&sup2; will then have six years to earn the five years required experience.</p>
+<p>Part-time work and internships may also count towards your experience.</p>
+<h2>Domain List&nbsp;</h2>
+<ul>
+    <li>Domain 1. Cloud Concepts, Architecture and Design</li>
+    <li>Domain 2.&nbsp;Cloud Data Security</li>
+    <li>Domain 3.&nbsp;Cloud Platform &amp; Infrastructure Security</li>
+    <li>Domain 4.&nbsp;Cloud Application Security</li>
+    <li>Domain 5.&nbsp;Cloud Security Operations</li>
+    <li>Domain 6.&nbsp;Legal, Risk and Compliance</li>
+</ul>
+<p><strong>Full-Time Experience:</strong> Your work experience is accrued monthly. Thus, you must have worked a minimum of 35 hours/week for four weeks in order to accrue one month of work experience</p>
+<p><strong>Part-Time Experience:</strong> Your part-time experience cannot be less than 20 hours a week and no more than 34 hours a week.</p>
+<ul>
+    <li><span>1040 hours of part-time&nbsp;= 6 months of full-time experience</span></li>
+    <li><span>2080 hours of part-time = 12 months of full-time experience</span></li>
+</ul>
+<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery.</p>
+<h2>One Year Prerequisite Pathway</h2>
+<p>CSA&rsquo;s&nbsp;<strong>CCSK certificate</strong>&nbsp;can be substituted for one year of experience in one or more of the six domains of the CCSP CBK.</p>
+<h2>Full Prerequisite Pathway</h2>
+<p>(ISC)&sup2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>

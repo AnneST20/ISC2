@@ -1,0 +1,42 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Nomination Committee</h1>
+<h2>Committee Charter</h2>
+<p>This committee is established to seek out qualified candidates for the Board, Board Officers and Center Trustees. Responsibilities of the committee include:</p>
+<ol>
+  <li>Evaluate candidates as to their experience, intent, availability and desire to serve.</li>
+  <li>Present a board slate for review and approval by the board.</li>
+  <li>Assist the Center for Cyber Safety and Education by recommending a slate of Trustees. </li>
+  <li>Oversee the Board director and Board officer election processes.</li>
+  <li>Once elections  are completed and results are known, notify all candidates and the board of prevailing candidates.</li>
+  <li>Regularly review and ensure Board director and officer job descriptions are up-to-date and accurate.</li>
+  <li>Perform other duties as assigned by the Board Chair associated with ensuring a full slate.</li>
+</ol>
+
+<p><a href="/-/media/ISC2/About/Governance/ISC2-Director-Job-Description.ashx?la=en&amp;hash=0BD0A575279BAB7DABACDA955AA1E0B50FAB1A02" target="_blank">Read the ISC2 Board of Directors Job Description</a></p>
+
+<h2>Committee Members</h2>
+<p>James Packer, CISSP, CCSP, Vice Chair Board of Directors – Committee Chair (United Kingdom)<br>
+Laurie-Anne Bourdain, CISSP, Secretary Board of Directors (Belgium)<br>
+Nalneesh Gauer, CISSP-ISSAP, Board of Directors (United States)<br>
+Rachel Guinto, CISSP, Board of Directors (Canada)<br>
+Lori Ross O&rsquo;Neil, CISSP, Board of Directors (United States)<br>
+Freddy Tan, CISSP (Singapore)<br>
+Trevor Louis, CISSP (United Kingdom)<br>
+Lee Kim, CISSP (United States)<br>
+Neha Malhotra, CISSP, CCSP (Singapore)<br>
+Stephen Cudjoe-Seshie, CISSP (Ghana)</p>
+
+<h2>Committee Updates</h2>
+
+<ul>
+<li>Open Call for Nominations - <i>now closed</i>
+<ul><li>ISC2 has posted official notice of open call for nominations for Board of Directors. Nominations will be accepted May 15-June 14, 2023. Any qualified member interested in serving on the Board may nominate themselves by submitting an application at <a href="/nominate">www.isc2.org/Nominate</a>.</li></ul></li>
+
+<li>Webinar (May 25, 2023) The 2023 Election and Open Call Process
+<ul><li>The ISC2 Nominations Committee will walk members through this year’s election process, starting with our Open Call for Nominations, review timelines and what the Board is looking for in candidates. Any qualified member interested in serving on the Board can nominate themselves. <a href="/en/News-and-Events/Webinars/ThinkTank?commid=583450">Watch now.</a></li></ul></li>
+	
+</ul>
+
+
+<h2>Contact The Committee </h2>
+<p>Members, associates, candidates and others can contact the ISC2 Nomination Committee by completing the form below.</p>

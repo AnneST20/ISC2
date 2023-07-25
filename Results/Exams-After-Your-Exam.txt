@@ -1,0 +1,32 @@
+<h2 data-jump-link='on' id="32430bf18e9e4e4684ec69b27f45df05" data-jump-text="Results Reporting">Results Reporting</h2>
+<p><strong>Receiving Your Results</strong><br>
+(ISC)&sup2; conducts a thorough statistical and psychometric analysis of the score data to establish the pass/fail score before releasing scores. We need a minimum number of test takers before this analysis can be completed.</p>
+<p>Depending on the volume of test takers for a given test, there may be times when scores are delayed for approximately six to eight weeks to complete this critical process.</p>
+<p>Your exam proctor will give you an unofficial exam result when you check out at the test center. (ISC)&sup2; will email you the official result.</p>
+<p>In some instances, real-time results may not be available.</p>
+<p>All test results are subject to the (ISC)&sup2; psychometric and forensic evaluation. This evaluation could take place after you get your official results. (The timing is based on the number of tests taken.) If the psychometric and forensic evaluation affects your score, (ISC)&sup2; will notify you.</p>
+<p><strong>Results will not be released over the phone.</strong> If you have any questions about this policy, contact (ISC)&sup2; before your exam.</p>
+<p><strong>Exam Irregularities and Results Invalidation</strong></p>
+<p>If (ISC)&sup2; suspects that any irregularity, fraud or policy violation has taken place before, during or after an exam, (ISC)&sup2; will examine the situation and determine whether action is needed. (ISC)&sup2; may choose not to score the exam of the affected test taker(s). Or, (ISC)&sup2; may choose to cancel the results of the affected test taker(s).</p>
+<p>At (ISC)&sup2;&rsquo;s sole discretion, we may:</p>
+<ul>
+    <li>Revoke any and all certifications you may have earned</li>
+    <li>Ban you from earning future (ISC)&sup2; certifications</li>
+    <li>Decline to score or cancel any exam under any of the circumstances listed in the <a href="/Exams/Exam-Agreement">(ISC)&sup2; Examination Agreement</a></li>
+</ul>
+<p>If you expect any fraud or irregularities, you can report them <a href="/Exams/Report-Exam-Fraud">here</a>.</p>
+        <h2 data-jump-link='on' id="95c5a30397504d44a6f53acea3992497" data-jump-text="Retake Policy">Retake Policy</h2>
+<p>For each of the CC, SSCP, CISSP, CCSP, CGRC, CSSLP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP and HCISPP certification programs, there are two independent rules that govern exam retake attempts:</p>
+<p><strong>Test-free days between retake attempts:</strong></p>
+<ul>
+<li>If you don’t pass the exam on your first attempt, you may retest after 30 test-free days.</li>
+<li>If you don’t pass the exam on your second attempt, you may retest after 60 test-free days from your most recent exam attempt.</li>
+<li>If you don’t pass the exam on your third attempt and for all subsequent retakes, you may retest after 90 test-free days from your most recent exam attempt.</li>
+</ul>
+<p><strong>Per certification program, at a maximum you may attempt an ISC2 exam up to 4 times within a 12-month period.</strong></p>
+<p>Candidates may pursue multiple certifications simultaneously.</p>
+        <h2 data-jump-link='on' id="ddb3ef9aab86469fa0122f69c5d0ee9b" data-jump-text="Earning Your Certification">Earning Your Certification</h2>
+<p>After passing the exam, you&rsquo;ll receive an email with your official results and can begin the <a href="/Endorsement">endorsement process</a> to confirm you have the necessary work experience to become fully certified. The application must be endorsed and digitally signed by an (ISC)&sup2; certified professional. If you do not know an (ISC)&sup2; certified professional in good standing, (ISC)&sup2; can act as endorser for you.</p>
+<p>After your endorsement application is approved, you will be notified via email and can pay your first <a href="/Policies-Procedures/AMFs-Overview">Annual Maintenance Fee</a> (AMF) to begin your membership cycle.</p>
+        <h2 data-jump-link='on' id="2dc8f11cea5e4fea933be36198630662" data-jump-text="Recertification">Recertification by Examination</h2>
+<p>In order to be reinstated once a certification or designation is suspended, certified members and associates of ISC2 are required to submit all outstanding CPE credits and pay all past due AMFs. Certified members and associates of ISC2 are given a 90-day grace period from the end of their certification cycle to fulfill outstanding CPE credits and past due AMFs. Suspension status may be maintained for up to two consecutive years. After two years, certified members and associates of ISC2 will be terminated, and all membership rights will be revoked. Terminated certified members and associates wishing to be reinstated will be required to retake and pass the examination.</p>

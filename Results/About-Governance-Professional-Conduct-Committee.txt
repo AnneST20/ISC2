@@ -1,0 +1,89 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Professional Conduct (Ethics) Committee</h1>
+<h2>Committee Charter</h2>
+<p>This committee is a standing committee to assist ISC2 in the review of allegations of ethical misconduct of ISC2 members. It is established to work with management and:</p>
+
+<ol>
+<li>Assist ISC2 in overseeing the application of the ISC2 Code of Ethics as it relates to Candidate eligibility.</li>
+<li>Provide recommendations relating to candidates whose background requires approval prior to sitting for an examination.</li>
+<li>Maintain the Candidate Background Eligibility Requirements, and periodically review and recommend revisions, as appropriate, to the Board of Directors.</li>
+<li>Deliver recommendations concerning the application and enforcement of the ISC2 Code of Ethics as it relates to the ISC2 members.</li>
+<li>Maintain the ISC2 Code of Ethics, and periodically review and recommend revisions, as appropriate, to the Board of Directors.</li>
+<li>Offer recommendations relating to ISC2 members who have ethics complaints filed against them.</li>
+<li>Exercise such other powers, authority and responsibilities related to ethical misconduct of candidates or members as may be determined.</li>
+</ol>
+
+<p>Learn more about the <a href="/Ethics">ISC2 Code of Ethics</a> and our Ethical Complaint Procedure.</p>
+
+<h2>Committee Members</h2>
+
+<p>Samara Moore, CISSP, Board of Directors – Committee Chair (United States)<br>
+Laurie-Anne Bourdain, CISSP, Secretary Board of Directors (Belgium)<br>
+Dan Houser, CISSP-ISSAP, ISSMP, CCSP, CSSLP, Treasurer Board of Directors (United States)<br>
+Edward Farrell, CISSP, SSCP, Board of Directors (Australia)<br>
+Edo Babic, CISSP (Croatia)<br>
+Dr. Earl Crane, CISSP (United States)</p>
+
+<h2>Contact The Committee</h2>
+<p>Members, associates, candidates and others can contact the ISC2 Professional Conduct Committee by completing the form below.</p>
+
+
+
+<section class="cta-header-bar color-alt" id="contact-form-header">
+    <div class="container">
+        <span>
+&nbsp;        </span>
+    </div>
+</section>
+
+<section class="f-1">
+    <div class="container">
+
+        <div class="page-header">
+
+            <p>
+<style>
+#contact-form-header{display:none;}
+.f-1 .page-header{padding-top: 1em; margin: 0;}
+.f-1 .col-md-5{width: 100%;}
+.f-1 .col-md-7{display: none;}
+.f-1 .form-submit-border{display: inline-block;}
+</style>            </p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-5">
+
+
+<link href="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/content/themes/base/all.css" rel="stylesheet">
+<link href="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/content/Fields.css" rel="stylesheet">
+
+<link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/Custom.css" rel="stylesheet">
+
+<form action="/form/Index?wffm.FormItemId=5038d9c2-a7aa-49d3-ae7f-76a516bf0aac&amp;wffm.Id=5038d9c2-a7aa-49d3-ae7f-76a516bf0aac" class="text-left" data-wffm="{5038D9C2-A7AA-49D3-AE7F-76A516BF0AAC}" data-wffm-ajax="True" enctype="multipart/form-data" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac" method="post" role="form"><input name="__RequestVerificationToken" type="hidden" value="bmp-jQ0Pzay0uwR8JPuaYIf99kR_-70nuiDNRyrWgdb9S4Nrb-QPY71d4Dix9sbAdIz8H7dfKuct-iFV1k9Bt-nPFw81"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Id" type="hidden" value="5038d9c2-a7aa-49d3-ae7f-76a516bf0aac"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_FormItemId" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.FormItemId" type="hidden" value="{5038D9C2-A7AA-49D3-AE7F-76A516BF0AAC}">        <div class="has-error has-feedback" style="display: none;">
+            <div class="validation-summary-valid" data-valmsg-summary="true"><ul class="list-group"><li style="display:none"></li>
+</ul></div>
+        </div>
+<div class=" form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_0__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[0].Id" type="hidden" value="{09D01A16-B86B-4542-8E77-D94B6E8620C8}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_0__Value">First Name</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The First Name field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_0__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[0].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[0].Value" data-valmsg-replace="true"></span></div><div class=" form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_1__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[1].Id" type="hidden" value="{DEE81506-DBBD-4DC1-B41A-F405A5E35690}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_1__Value">Last Name</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Last Name field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_1__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[1].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[1].Value" data-valmsg-replace="true"></span></div><div class="required-field scfSingleLineTextBorder form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_2__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[2].Id" type="hidden" value="{07D2C119-834C-4EBF-9480-F27FE875C488}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_2__Value">Member or Candidate Number</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Member or Candidate Number field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" data-val-required="The Member or Candidate Number field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_2__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[2].Value" placeholder="" style="" type="text" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[2].Value" data-valmsg-replace="true"></span></div><div class="required-field  form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_3__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[3].Id" type="hidden" value="{29EC7146-7E28-4EFA-A03C-EC424BD05B11}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_3__Value">Email</label><input class=" form-control text-box single-line" data-val="true" data-val-length="The Email field must be a string with a minimum length of 0 and a maximum length of 256." data-val-length-max="256" data-val-regex="The Email field contains an invalid email address." data-val-regex-pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,17}$" data-val-required="The Email field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_3__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[3].Value" placeholder="" style="" type="email" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[3].Value" data-valmsg-replace="true"></span><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_3__Confirmation">Confirm Email</label><input class=" form-control text-box single-line" data-val="true" data-val-equalto="The Email and Confirm Email fields must be the same." data-val-equalto-other="*.Value" data-val-required="The Confirmation field is required." id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_3__Confirmation" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[3].Confirmation" placeholder="" style="" type="email" value=""><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[3].Confirmation" data-valmsg-replace="true"></span></div><div class="required-field  form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_4__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[4].Id" type="hidden" value="{81E3718F-0F7A-416F-9033-306665AA60F0}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_4__Value">How can we help?</label><textarea class="form-control" cols="1" data-val="true" data-val-length="The How can we help? field must be a string with a minimum length of 1 and a maximum length of 512." data-val-length-max="512" data-val-length-min="1" data-val-required="The How can we help? field is required." data-val-required-tracking="{7E86B2F5-ACEC-4C60-8922-4EB5AE5D9874}" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_4__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[4].Value" rows="4">
+</textarea><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[4].Value" data-valmsg-replace="true"></span></div><div class=" form-group"><input id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_5__Id" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[5].Id" type="hidden" value="{BDE5F7F7-5D46-459D-9D0B-DB5F2779F08E}"><label class="control-label" for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_5__Value">Captcha</label><input data-val="true" data-val-length="The Captcha field must be a string with a minimum length of 0 and a maximum length of 0." data-val-length-max="0" id="wffm5038d9c2a7aa49d3ae7f76a516bf0aac_Sections_0__Fields_5__Value" name="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[5].Value" type="hidden" value=""><div class="g-recaptcha" data-sitekey="6LfEPxgUAAAAAKutL_PzaIEHadaKPvmVL7Wry8Iu" data-theme="light" data-type="image"></div><script src="https://www.google.com/recaptcha/api.js?hl=en"></script><span class="field-validation-valid help-block" data-valmsg-for="wffm5038d9c2a7aa49d3ae7f76a516bf0aac.Sections[0].Fields[5].Value" data-valmsg-replace="true"></span></div>
+<div class="form-submit-border"><input class="btn  btn-default" type="submit" value="Submit"></div></form>
+
+
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery-3.2.1.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery-ui-1.12.0.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery.validate.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/jquery/jquery.validate.unobtrusive.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/libs/bootstrap/bootstrap.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/wffm.min.js"></script>
+<script src="/sitecore%20modules/Web/Web%20Forms%20for%20Marketers/mvc/main.min.js"></script>
+
+            </div>
+            <div class="col-md-7">
+                <div class="column-image hide-lt-md">
+                </div>
+                <p class="disclaimer">
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

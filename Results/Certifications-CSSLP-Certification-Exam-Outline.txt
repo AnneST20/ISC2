@@ -1,1 +1,112 @@
-Effective Date: September 15, 2021
+<div class="h1-sub">Effective Date: September 15, 2021</div>
+<h1 class="h1 bar">CSSLP Certification Exam Outline</h1>
+<div class="certificationExamOutline__downloadSection">
+<p>View and download the latest PDF version of the CSSLP Certification Exam Outline (Effective September 15, 2021):</p>
+
+<div class="col-sm-4">
+<ul>
+<li><a class="link" title="PDF link opens in a new tab" href="/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx?la=en&amp;hash=C5AD530F3363C64143F4ADE559352EC22CA9F5EC" target="_blank">CSSLP – English</a></li>
+</ul>
+</div>
+
+</div>
+<br>
+
+<div class="certificationExamOutline__downloadSectionButton">
+<a href="https://www.isc2.org/Training/Online-Instructor-Led/new-pricing?utm_source=isc2&utm_medium=button&utm_campaign=GBL-OIL-NewPricing&utm_term=csslpexamoutlinepage&utm_content=training" class="button button--primary">Get New Pricing for Training</a>
+</div>
+<br>
+<hr>
+
+<style>
+.certificationExamOutline__downloadSection {
+background-color: #F3FAFF;
+border: 1px solid #2272A5;
+border-radius: 5px;
+display: flex;
+flex-wrap: wrap;
+padding: 20px;
+}
+
+.certificationExamOutline__downloadSectionButton {
+margin: 0 auto;
+text-align: center;
+}
+
+.table.simpleTable th {color: #1a384c;}
+.table.simpleTable th, .table.simpleTable td {border-left: 0; border-right: 0;}
+.table.greenZebra {margin-top: 1rem;}
+.table.greenZebra th, .table.greenZebra td {border: 0;}
+.table.greenZebra thead tr {color: #fff; background-color: #007055;}
+.table.greenZebra tbody tr:nth-child(2n) {background-color: #fff5e5;}
+.table.greenZebra tbody tr:last-child {background-color: #ffba37; color: #000;}
+.domainHead {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+align-items: center;
+margin-bottom: 2em;
+}
+.domainHead img { width: 85px; }
+.domainHead h2 {
+line-height: 1.5;
+margin: 0 0.5em;
+}
+.domainListItem {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+}
+.domainListItem h2 {
+color: #006f53; 
+font-weight: bold;
+width: 2.75em;
+}
+.domainListItem .itemContent { width: 100%; }
+.domainListItem h3 { margin-top: 0; }
+
+.cta-promo [class*=col-]:first-child .cta-icon {
+background-size: auto 100% !important;
+border-radius: 0 !important;
+}
+</style>
+
+        <h2 data-jump-link='off' id="1d8bb50f2dd04e39aa1562500e18354b" data-jump-text="">About CSSLP</h2>
+<p>The Certified Secure Software Lifecycle Professional (CSSLP) validates that software professionals have the expertise to incorporate security practices – authentication, authorization and auditing – into each phase of the software development lifecycle (SDLC), from software design and implementation to testing and deployment.</p>
+
+<p>The broad spectrum of topics included in the CSSLP Common Body of Knowledge (CBK<sup>®</sup>) ensure its relevancy across all disciplines in the field of information security. Successful candidates are competent in the following eight domains:</p>
+
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Secure Software Concepts</li>
+<li>Secure Software Requirements</li>
+<li>Secure Software Architecture and Design</li>
+<li>Secure Software Implementation</li>
+</ul>
+</div>
+
+<div class="col-sm-6">
+<ul>
+<li>Secure Software Testing</li>
+<li>Secure Software Lifecycle Management</li>
+<li>Secure Software Deployment, Operations, Maintenance</li>
+<li>Secure Software Supply Chain</li>
+</ul>
+</div>
+</div>
+
+<h3>Experience Requirements</h3>
+<p>A candidate is required to have a minimum of four years of cumulative paid Software Development Lifecycle (SDLC) professional work experience in one or more of the eight domains of the (ISC)&sup2; CSSLP CBK, or three years of cumulative paid SDLC professional work experience in one or more of the eight domains of the CSSLP CBK with a four-year degree leading to a Baccalaureate, or regional equivalent in Computer Science, Information Technology (IT) or related fields.</p>
+
+<p>If you don’t have the required experience to become a CSSLP, you may become an Associate of (ISC)&sup2; by successfully passing the CSSLP examination. You will then have five years to earn the four years required experience. You can learn more about CSSLP experience requirements and how to account for part-time work and internships at <a class="link" href="/Certifications/CSSLP/experience-requirements">www.isc2.org/Certifications/CSSLP/experience-requirements</a>.</p>
+
+<h3>Accreditation</h3>
+<p>CSSLP meets the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
+
+<h3>Job Task Analysis (JTA)</h3>
+<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the CSSLP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by CSSLP credential holders. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
+
+<hr>

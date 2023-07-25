@@ -1,0 +1,1067 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CBK Suggested References</h1>
+<p>This reference list is not intended to be an all-inclusive collection representing the respective certifications Common Body of Knowledge (CBK). Its purpose is to provide candidates a starting point for their studies in domains which need supplementary learning in order to complement their associated level of work and academic experience. Candidates may also consider other references, which are not on this list but adequately cover domain content.</p>
+<p><em><strong>Note:</strong> (ISC)&sup2; does not endorse any particular text or author and does not imply that any or all references be acquired or consulted. (ISC)&sup2; does not imply nor guarantee that the study of these references will result in an examination pass.</em></p>
+<p>&nbsp;</p>
+
+<ul class="ac hide-siblings" id="accordion-749aae339a6647148c6215acbcc1939c">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-307370409e844f7598dd97fa87cd553a">
+            <span class="hide-sm">Certified in Cybersecurity (CC)</span>
+        <span class="hide-lt-sm">Certified in Cybersecurity (CC)</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-307370409e844f7598dd97fa87cd553a" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Access Control, Authentication, and Public Key Infrastructure by Erin Banks, Bill Ballad, Tricia Ballad. Publisher: Jones & Bartlett Learning. (Jul, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Building an Information Security Awareness Program, 1st Ed. by Bill Gardner and Valerie Thomas. Publisher: Syngress. (Aug, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Computer Network Security by Ali Sadiqui. Publisher: Wiley-ITSE. (Jun, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Cybersecurity - Attack and Defense Strategies by Yuri Diogenes, Erdal Ozkaya. Publisher: Packt Publishing. (Sep, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Digital Forensics and Incident Response by Gerald Johansen. Publisher: Packt Publishing. (Jan, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Disaster Recovery, Crisis Response, and Business Continuity: A Management Desk Reference by Jamie Watters, Janet Watters. Publisher: Apress. (Dec, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Distributed Denial of Service (DDoS) by Eric Chou, Rich Groves. Publisher: O'Reilly Media, Inc. (Apr, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Foundations of Information Security by Jason Andress. Publisher: No Starch Press. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Fundamentals of Information Systems Security by David Kim and Michael G. Solomon. Publisher: Jones & Bartlett Learning. (Oct, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Information Assurance Handbook: Effective Computer Security and Risk Management Strategies, 1st Ed. by Corey Schou and Steven Hernandez. Publisher: McGraw-Hill Education. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Management Handbook by Richard O'Hanley, James S. Tiller. Publisher: Taylor & Francis Group, LLC. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Policies, Procedures, and Standards by Douglas J. Landoll. Publisher: Auerbach Publications. (Mar, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Mastering Windows Security and Hardening, Second Edition by Mark Dunkerley and Matt Tumbarello. Publisher: Packt Publishing. (Aug, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Network Security Strategies by Aditya Mukherjee. Publisher: Packt Publishing. (Nov, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Networking Fundamentals by Gordon Davies. Publisher: Packt Publishing. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative. (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone. (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>Snowflake Security: Securing Your Snowflake Data Cloud by Ben Herzberg, Yoav Cohen. Publisher: Apress. (Oct, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>The Basics of Information Security by Jason Andress. Publisher: Syngress. (May, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>The Complete Guide to Physical Security by Paul R. Baker and Daniel J. Benny. Publisher: Auerbach Publications. (April 2016).</li>
+</ul><hr>
+
+<ul>
+<li>The Disaster Recovery Handbook by Michael Wallace, Lawrence Weber. Publisher: AMACOM. (Dec, 2017).</li>
+</ul><hr>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-72d6493a2a804a43af6d85f225d8a794">
+            <span class="hide-sm">SSCP</span>
+        <span class="hide-lt-sm">SSCP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-72d6493a2a804a43af6d85f225d8a794" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Access Control and Identity Management, 3rd Ed. by Mike Chapple. Publisher: Jones and Bartlett Learning. (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Ed. by Bruce Schneier. Publisher: Wiley. (Mar, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael Kavis. Publisher: Wiley. (Jan, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Building an Information Security Awareness Program, 1st Ed. by Bill Gardner and Valerie Thomas. Publisher: Syngress. (Aug, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Computer and Information Security Handbook, 3rd Ed. by John Vacca. Publisher: Morgan Kaufmann. (May, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Computer Security Fundamentals, 4th Ed. by Chuck Easttom. Publisher: Pearson IT Certification. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Cryptography and Network Security Principles and Practice, 6th Ed. by William Stallings. Publisher: Pearson. (Mar, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Cybersecurity Incident Response: How to Contain, Eradicate, and Recover from Incidents by Eric C. Thompson. Publisher: Apress. (Sep, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Digital Forensics and Incident Response, 2nd Ed. by Gerard Johansen. Publisher: Packt Publishing. (Jan, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Encryption for Organizations and Individuals, 1st Ed by R. Ciesla. Publisher: Apress. (Aug, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Foundations of Information Security by J. Andress. Publisher: No Starch Press. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+  <li>Fundamentals of Information Systems Security, 4th Ed. by David Kim, Michael G. Solomon. Publisher: Jones &amp; Bartlett Publishers. (Nov, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Identity and Access Management: Business Performance Through Connected Intelligence, 1st Ed. by Ertem Osmanoglu. Publisher: Syngress. (Nov, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Identity Attack Vectors: Implementing an Effective Identity and Access Management Solution by Darran Rolls, Morey J. Haber. Publisher: Apress. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Identity Management with Biometrics by L. Bock. Publisher: Packet Publishing. (Oct, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Logging and Log Management by A. Chuvakin, K. Schmidt. Publisher: Syngress. (Dec, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>Network Defense and Countermeasures: Principles and Practices, 3rd Ed. by Chuck Easttom. Publisher: Pearson IT Certification (Apr, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Networking Fundamentals by Gordon Davies. Publisher: Packt Publishing. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone.  (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 SSCP CBK Reference, 5th Ed. by Mike Wills. Publisher: Sybex. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Wireless and Mobile Device Security by Jim Doherty. Publisher: Jones & Bartlett Learning. (Mar, 2021).</li>
+</ul><hr>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-b9bcc83d08c24c44befa6dba88531d6e">
+            <span class="hide-sm">CISSP</span>
+        <span class="hide-lt-sm">CISSP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-b9bcc83d08c24c44befa6dba88531d6e" class="collapse ">
+        <div class="content">
+            
+<style>
+    li {
+    margin: 10px 0px 15px 0px;
+    }
+</style>
+
+<ul>
+<li><a href="https://www.isc2.org/Ethics"> (ISC)&sup2; Code of Ethics</a> by  (ISC)&sup2;. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>A Practical Guide to TPM 2.0: Using the New Trusted Platform Module in the New Age of Security by Will Arthur, David Challener. Publisher: Apress. (Jan, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>API Security in Action by Neil Madden. Publisher: Manning Publications. (Jan, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Applied Network Security by Arthur Salmon, Warun Levesque, Michael McLafferty. Publisher: Packt Publishing. (Apr, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael Kavis. Publisher: Wiley. (Jan, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Asset Attack Vectors: Building Effective Vulnerability Management Strategies to Protect Organizations by Morey J. Haber, Brad Hibbert. Publisher: Apress. (Jun, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Authentication and Access Control: Practical Cryptography Methods and Tools, 1st Edition by Sirapat Boonkrong. Publisher: Apress. (Dec, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Building an Information Security Awareness Program, 1st Ed. by Bill Gardner and Valerie Thomas. Publisher: Syngress. (Aug, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Computer and Information Security Handbook, 3rd Ed. by John Vacca. Publisher: Morgan Kaufmann. (May, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Computer Security: Art and Science, 2nd Edition by Matt Bishop. Publisher: Addison-Wesley Professional. (Nov, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Container Security: Fundamental Technology Concepts that Protect Containerized Applications, 1st Edition by Liz Rice. Publisher: O'Reilly Media, Inc. (Apr, 2020)</li>
+</ul><hr>
+
+<ul>
+<li>Computer Security Handbook, 6th Ed. by Seymour Bosworth, Eric Whyne, M.E. Kabay. Publisher: Wiley. (Mar, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Core Software Security: Security at the Source by Anmol Misra, James F. Ransome. Publisher: CRC Press. (Oct, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Data Goveranance: The Definitive Guide by Evren Eryurek, et al. Publisher: O'Reilly Media, Inc. (Mar, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Designing Secure Software: A Guide for Developers by Loren Kohnfelder. Publisher: No Starch Press. (Dec, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Developing Cybersecurity Programs and Policies, 3rd Ed. by Omar Santos, Sari Greene. Publisher: Pearson IT Certification. (Aug, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Disaster Recovery, Crisis Response, and Business Continuity: A Management Desk Reference by Jamie Watters, Janet Watters. Publisher: Apress. (Dec, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Distributed Denial of Service (DDoS) by Eric Chou, Rich Groves. Publisher: O'Reilly Media, Inc. (Apr, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Ethical Hacking and Penetration Testing Guide by Rafay Baloch. Publisher: Auerbach Publications. (Sep, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Federated Identity Primer, 1st Ed. by Derrick Rountree. Publisher: Syngress. (Dec, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>Foundations of Information Security: A Straightforward Introduction by Jason Andress. Publisher: William Pollock. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Fundamental Practices for Secure Software Development: Essential Elements of a Secure Development Lifecycle Program, 3rd Edition by Toni Rice, et al. Publisher: SAFECode. (Mar, 2018)</li>
+</ul><hr>
+
+<ul>
+<li>Fundamentals of Information Systems Security, 4th Ed. by David Kim, Michael G. Solomon. Publisher: Jones & Bartlett Publishers. (Nov, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>General Data Protection Regulation (GDPR) Publisher: European Parliament. (Apr, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Identity and Access Management: Business Performance Through Connected Intelligence, 1st Ed. by Ertem Osmanoglu. Publisher: Syngress. (Nov, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Identity Attack Vectors: Implementing an Effective Identity and Access Management Solution by Darran Rolls, Morey J. Haber. Publisher: Apress. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Information Assurance Handbook: Effective Computer Security and Risk Management Strategies, 1st Ed. by Corey Schou and Steven Hernandez. Publisher: McGraw-Hill Education. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Information Governance: Concepts, Strategies, and Best Practices, 1st Edition (Apr, 2014) by Robert F. Smallwood/Publisher: John Wiley & Sons</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Handbook by Darren Death. Publisher: Packt Publishing. (Dec, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Policies, Procedures, and Standards: A Practitioner's Reference, 1st Edition by Douglas J. Landoll. Publisher: Auerbach Publications. (Mar, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Introduction to Computer Networks and Cybersecurity, 1st Edition  by J. Chwan-Hwa Wu, David Irwin. Publisher: CRC Press. (Apr, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>IT Auditing Using Controls to Protect Information Assets, 3rd Edition by Mike Kegerreis, Mike Schiller, Chris Davis. Publisher: McGraw-Hill Education. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>IT Security Risk Control Management: An Audit Preparation Plan, 1st Edition by Raymond Pompon. Publisher: Apress. (Sep, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Linux Hardening in Hostile Networks: Server Security from TLS to Tor by Kyle Rankin. Publisher: Addison-Wesley Professional. (Jul, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Network Security Assessment, 3rd Edition by Chris McNab. Publisher: O'Reilly Media, Inc. (Dec, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Network Vulnerability Assessment: Identify Security Loopholes in Your Network's Infrastructure by Sagar Rahalkar. Publisher: Packt Publishing. (Aug, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-30, Rev. 1, Guide for Conducting Risk Assessments by Joint Task Force Transformation Initiative.  (Sep, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-115, Technical Guide to Information Security Testing and Assessment by Karen Scarfone, Murugiah Souppaya, Amanda Cody, Angela Orebaugh.  (Sep, 2008).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-122, Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) by Erika McCallister, Tim Grance, Karen Scarfone.  (Apr, 2010).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems by L. Johnson, et al.  (Aug, 2011)</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-137, Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations by Kelley Dempsey, Nirali Shah Chawla, Arnold Johnson, Ronald Johnston, Alicia Clay Jones, Angela Orebaugh, Matthew Scholl, Kevin Stine.  (Sep, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-162, Guide to Attribute Based Access Control (ABAC) Definition and Considerations by Vincent Hu, David Ferraiolo, Rick Kuhn, Adam Schnitzer, Kenneth Sandlin, Robert Miller, Karen Scarfone.  (Jan, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-41, Revision 1, Guidelines on Firewalls and Firewall Policy by Karen Scarfone, Paul Hoffman.  (Sep, 2009).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone. (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-88, Guidelines for Media Sanitization by Richard Kissel, Andrew Regenscheid, Matthew Scholl, Kevin Stine.  (Dec, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-95, Guide to Secure Web Services by Anoop Singhal, Theodore Winograd, Karen Scarfone.  (Aug, 2007).</li>
+</ul><hr>
+
+<ul>
+<li>OWASP Testing Guide Release 4.0 by Matteo Meucci, Andrew Muller. Publisher: OWASP. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson. Publisher: O'Reilly Media. (Mar, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Ransomware Revealed: A Beginner's Guide to Protecting and Recovering from Ransomware Attacks, 1st Edition by Nihad A. Hassan. Publisher: Apress. (Nov, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Securing Open Source Libraries by Guy Podjarny. Publisher: O'Reilly Media, Inc. (Nov, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 by Rich Mogull, James Arlen, Adrian Lane, Gunnar Peterson, Mike Rothman, David Mortman. Publisher: Cloud Security Alliance. (Jul, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Security, Privacy, and Digital Forensics in the Cloud by Lei Chen, Hassan Takabi, Nhien-An Le-Khac. Publisher: Wiley. (Apr, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Security Risk Assessment: Managing Physical and Operational Security by John M. White. Publisher: Butterworth-Heinemann. (Jul, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Solving Identity Management in Modern Applications: Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0 by Abhishek Hingnikar, Yvonne Wilson. Publisher: Apress. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>The Architecture of Privacy: On Engineering Technologies that Can Deliver Trustworth Safeguards, 1st Edition by Coutney Bowman, et al. Publisher: O'Reilly Media, Inc. (Sep, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics, 2nd Ed. by John Sammons. Publisher: Syngress. (Dec, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>The Complete Guide to Physical Security by Paul R. Baker and Daniel J. Benny. Publisher: Auerbach Publications. (Apr, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>The Disaster Recovery Handbook, 3rd Ed. by Michael Wallace, Lawrence Webber. Publisher: AMACOM. (Dec, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 Guide to the CISSP CBK, 5th Ed. by John Warsinske, Mark Graff, Kevin Henry, Christopher Hoover, Ben Malisow, Sean Murphy, C. Paul Oakes, George Pajari, Jeff T. Parker, David Seidl and Mike Vasquez. Publisher: Wiley. (May, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Web Application Security: Exploitation and Countermeasures for Modern Web Applications, 1st Edition by Andrew Hoffman. Publisher: O'Reilly Media, Inc. (Mar, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Wireless and Mobile Device Security by Doherty. Publisher: Jones & Bartlett Learning. (Jan, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Zero Trust Networks: Building Secure Systems in Untrusted Networks by Evan Gilman, Doug Barth. Publisher: O'Reilly. (Jul, 2017).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-204b5a1dc3534ba2b24f703df5e067ea">
+            <span class="hide-sm">CISSP-ISSAP</span>
+        <span class="hide-lt-sm">CISSP-ISSAP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-204b5a1dc3534ba2b24f703df5e067ea" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li>Agile Application Security by Laura Bell, Rich Smith, Michael Brunton-Spall, Jim Bird. Publisher: O'Reilly Media, Inc. (Jun, 2017).
+</li>
+</ul><hr>
+
+<ul>
+<li>Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Ed. by Bruce Schneier. Publisher: Wiley. (Mar, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Cloud Storage Security: A Practical Guide by Aaron Wheeler, Michael Winburn. Publisher: Elsevier. (Jul, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Common Criteria for Information Technology Security Evaluation. Publisher: Common Criteria. (Nov, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>CSA Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 by Rich Mogull, James Arlen, Adrian Lane, Gunnar Peterson, Mike Rothman, David Mortman. Publisher: Cloud Security Alliance. (Jul, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Data Center Handbook by Hwaiyu Geng. Publisher: John Wiley & Sons. (Dec, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Disaster Recovery and Business Continuity, 3rd Ed. by B.S. Thejandra. Publisher: IT Governance Publishing. (Jan, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Enterprise Security Architecture by N.Sherwood. Publisher: CRC Press. (Sep, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Federated Identity Primer by Derrick Rountree. Publisher: Syngress. (Dec, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>Identity and Access Management: Business Performance Through Connected Intelligence, 1st Ed. by Ertem Osmanoglu. Publisher: Syngress. (Nov, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Handbook by Darren Death. Publisher: Packt Publishing. (Dec, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security Management Handbook, Vol. 7, 6th Ed. by Richard O'Hanley and James Tiller. Publisher: Auerbach Publications. (Jul, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-125, Guide to Security for Full Virtualization Technologies by Karen Scarfone, Murugiah Souppaya, Paul Hoffman.  (Jan, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone.  (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>PCI Compliance: Understand and Implement Effective PCI Data Security Standard Compliance, 4th Ed. by Branden R. Williams, Anton Chuvakin. Publisher: Syngress. (Nov, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Payment Card Industry (PCI) Data Security Standard - Requirements and Security Assessment Procedures (Version 3.2.1).  Publisher: PCI Security Standards Council. (May, 2018)</li>
+</ul><hr>
+
+<ul>
+<li>SABSA Executive Summary Published by: SABSA. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Security Patterns in Practice: Designing Secure Architectures Using Software Patterns by Eduardo Fernandez-Buglioni. Publisher: Wiley. (May, 2013).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-6c04df8f234b48d69257133bf0b36308">
+            <span class="hide-sm">CISSP-ISSEP</span>
+        <span class="hide-lt-sm">CISSP-ISSEP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-6c04df8f234b48d69257133bf0b36308" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li>A Guide to the Project Management Body of Knowledge (PMBOK Guide), 7th Ed. by Project Management Institute. Publisher: Project Management Institute. (Aug, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>ISO/IEC 15408-1:2022 Information security, cybersecurity and privacy protection — Evaluation criteria for IT security by ISO/IEC. Publisher: ISO. (Aug, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-115, Technical Guide to Information Security Testing and Assessment by Karen Scarfone, Murugiah Souppaya, Amanda Cody, Angela Orebaugh.  (Sep, 2008).
+</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-160, Vol. 1, Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems by Ron Ross, Michael McEvilley, Janet Carrier Oren.  (Mar, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-161, Supply Chain Risk Management Practices for Federal Information System and Organizations by Jon Boyens, Celia Paulsen, Rama Moorthy, Nadya Bartol.  (Apr, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-30, Rev. 1, Guide for Conducting Risk Assessments by Joint Task Force Transformation Initiative.  (Sep, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-37, Rev. 2, Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy by Joint Task Force Transformation Initiative.  (Dec, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-39, Managing Information Security Risk: Organization, Mission, and Information System View by Joint Task Force Transformation Initiative.  (Mar, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-40, Rev. 3, Guide to Enterprise Patch Management Technologies Murugiah Souppaya, Karen Scarfone.  (Jul, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-88, Guidelines for Media Sanitization by Richard Kissel, Andrew Regenscheid, Matthew Scholl, Kevin Stine.  (Dec, 2014).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-ec3eeebacf414a7ba7d890f8f71e8883">
+            <span class="hide-sm">CISSP-ISSMP</span>
+        <span class="hide-lt-sm">CISSP-ISSMP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-ec3eeebacf414a7ba7d890f8f71e8883" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics by (ISC)&sup2;</a>. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>A Guide to the Project Management Body of Knowledge (PMBOK Guide), 7th Ed. by Project Management Institute. Publisher: Project Management Institute. (Aug, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Auditing IT Infrastructures for Compliance, 2nd Ed. by Martin Weiss. Publisher: Jones & Bartlett Publishers. (Jul, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Cybersecurity Law by Jeff Kosseff. Publisher: Wiley & Sons. (Feb, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Disaster Recovery, Crisis Response, and Business Continuity: A Management Desk Reference by Jamie Watters, Janet Watters. Publisher: Apress. (Dec, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Incident Response & Computer Forensics, Third Edition, 3rd Edition by Kevin Mandia, Matthew Pepe, Jason Luttgens. Publisher: McGraw-Hill Osborne Media.  (Aug, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-160, Vol. 1, Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems by Ron Ross, Michael McEvilley, Janet Carrier Oren.  (Mar, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-30, Rev. 1, Guide for Conducting Risk Assessments by Joint Task Force Transformation Initiative.  (Sep, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-34 Rev. 1, Contingency Planning Guide for Federal Information Systems by Marianne Swanson, Pauline Bowen, Amy Wohl Phillips, Dean Gallup, David Lynes.  (May, 2010).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-39, Managing Information Security Risk: Organization, Mission, and Information System View by Joint Task Force Transformation Initiative.   (Mar, 2011).
+</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone.  (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems by L. Johnson, et al.  (Aug, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>Security Operations Center: Building, Operating, and Maintaining your SOC by Gary McIntyre, Joseph Muniz, Nadhem AlFardan. Publisher: Cisco Press. (Nov, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 Guide to the ISSMP CBK by Joseph Steinberg and Harold F. Tipton. Publisher: Auerbach Publications. (Apr, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Threat Modeling: Designing for Security, 1st Ed. by Adam Shostack. Publisher: Wiley. (Feb, 2014).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-5885d75c57c140d282f289e8dfd1f586">
+            <span class="hide-sm">CCSP</span>
+        <span class="hide-lt-sm">CCSP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-5885d75c57c140d282f289e8dfd1f586" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li>API Security in Action by Neil Madden. Publisher: Manning Publications. (Jan, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Architecting Cloud Computing Solutions by Kevin L. Jackson and Scott Goessling. Publisher: Packt Publishing. (May, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael Kavis. Publisher: Wiley. (Jan, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Best Practices for Mitigating Risks in Virtualized Environments by Abhik Chaudhuri, Heberto Ferrer, Hemma Prafullchandra, J.D. Sherry, Kelvin Ng, Xiaoyu, Ge, Yao Sing, Tao, Yiak Por, Heng. Publisher: Cloud Security Alliance. (Apr, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Cloud Computing: Concepts, Technology & Architecture by Zaigham Mahmood, Ricardo Puttini, Thomas Erl. Publisher: Pearson. (May, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>CSA Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 by Rich Mogull, James Arlen, Adrian Lane, Gunnar Peterson, Mike Rothman, David Mortman. Publisher: Cloud Security Alliance. (Jul, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Data Governance: The Definitive Guide by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown. Publisher: O'Reilly Media, Inc. (Mar, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>EU General Data Protection Regulation (GDPR) by European Parliament and Council of the European Union. Publisher: EU. (May, 2018)</li>
+</ul><hr>
+
+<ul>
+<li>Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Ozkaya, E. Publisher: Packt Publishing. (Feb, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson. Publisher: O'Reilly Media. (Mar, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Practical Cyber Forensics: An Incident-Based Approach to Forensic Investigations, 1st Edition by Niranjan Reddy. Publisher: Apress. (Jul, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Practical Guide to Cloud Service Agreements Version 3.0. Publisher: Cloud Standards Customer Council. (Feb, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>Security, Privacy, and Digital Forensics in the Cloud by Lei Chen, Hassan Takabi, Nhien-An Le-Khac. Publisher: Wiley. (Apr, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 Guide to the CCSP CBK, 3rd Ed. by Leslie Fife, Aaron Kraus, Bryan Lewis. Publisher: Sybex. (Jul, 2021).</li>
+</ul><hr>
+
+<ul>
+<li>Threat Modeling by Izar Tarandach, Matthew J. Coles. Publisher: O'Reilly Media, Inc. (Nov, 2020).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-98214e3e692e455698e0c725124a6573">
+            <span class="hide-sm">CGRC (previously known as CAP)</span>
+        <span class="hide-lt-sm">CGRC (previously known as CAP)</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-98214e3e692e455698e0c725124a6573" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li>Information Security Risk Management for ISCO 27001/ISO 27002, 3rd Edition by Alan Calder, Steve Watkings. Publisher: IT Governance Publishing. (Aug, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>ISO 27001/ISO 27002 A Pocket Guide, 2nd Edition by Chris Davis, Mike Kegerreis, Mike Schille. Publisher: McGraw-Hill. (Oct, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>IT Auditing Using Controls to Protect Information Assets, 3rd Edition by Mike Kegerreis, Mike Schiller, Chris Davis. Publisher: McGraw-Hill Education. (Oct, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>NIST FIPS-199, Standards for Security Categorization of Federal Information and Information Systems by U.S. Dept. of Commerce. (Feb, 2004).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-115, Technical Guide to Information Security Testing and Assessment by Karen Scarfone, Murugiah Souppaya, Amanda Cody, Angela Orebaugh. (Sep, 2008).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-137, Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations by Kelley Dempsey, Nirali Shah Chawla, Arnold Johnson, Ronald Johnston, Alicia Clay Jones, Angela Orebaugh, Matthew Scholl, Kevin Stine. (Sep, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-160, Vol. 1, Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems by Ron Ross, Michael McEvilley, Janet Carrier Oren.  (Mar, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-30, Rev. 1, Guide for Conducting Risk Assessments by Joint Task Force Transformation Initiative.  (Sep, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-37, Rev. 2, Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy by Joint Task Force Transformation Initiative.  (Dec, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-39, Managing Information Security Risk: Organization, Mission, and Information System View by Joint Task Force Transformation Initiative.   (Mar, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53B, Control Baselines for Information Systems and Organizations by Joint Task Force Transformation Initiative.   (Oct, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-60, Vol. 1, Rev. 1, Guide for Mapping Types of Information and Information Systems to Security Categories by Kevin Stine, Rich Kissel, William C. Barker, Jim Fahlsing, Jessica Gulick.  (Aug, 2008).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-70, Rev. 4, National Checklist Program for IT Products: Guidelines for Checklist Users and Developers by Stephen D. Quinn, Murugiah Souppaya, Melanie Cook, Karen Scarfone.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-88, Guidelines for Media Sanitization by Richard Kissel, Andrew Regenscheid, Matthew Scholl, Kevin Stine.  (Dec, 2014).</li>
+</ul>
+
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-adfed2f17f1d4762920fc2210a966b14">
+            <span class="hide-sm">CSSLP</span>
+        <span class="hide-lt-sm">CSSLP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-adfed2f17f1d4762920fc2210a966b14" class="collapse ">
+        <div class="content">
+            
+<ul>
+<li>7 Myths about Software Escrow Debunked by J. Chisholm. Publisher: Iron Mountain. (Mar, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Access Control, Authentication, and Public Key Infrastructure, 2nd Ed by M.Chapple. Publisher: Jones & Bartlett Learning. (Aug, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Ed. by Bruce Schneier. Publisher: Wiley. (Mar, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>A Practical Guide to TPM 2.0: Using the New Trusted Platform Module in the New Age of Security by Will Arthur, David Challener. Publisher: Apress. (Jan, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Agile Application Security by Laura Bell, Rich Smith, Michael Brunton-Spall, Jim Bird. Publisher: O’Reilly Media, Inc. (Jun, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>CMMI for Development: Implementation Guide by M. Chaudhary. Publisher: Apress. (Dec, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Computer Security: Art and Science, 2nd Ed by M. Bishop. Publisher: Addison-Wesley Professional. (Nov, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Core Software Security: Security at the Source by Anmol Misra, James F. Ransome. Publisher: CRC Press. (Oct, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Enterprise Software Security: A Confluence of Disciplines by Kenneth R. van Wyk, Mark G. Graff, Dan S. Peters, Diana L. Burley. Publisher: Addison-Wesley Professional. (Dec, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Hacker Techniques, Tools, and Incident Handling, 2nd Ed by S. Oriyano. Publisher: Jones & Bartlett Learning (Aug, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps, 1st Ed by T Hsu. Publisher: Packt Publishing. (Jul, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Improper Error Handling by J. Ferragamo. Publisher: OWASP. (Dec, 2022).</li>
+</ul><hr>
+
+<ul>
+<li>Information Security: Principles and Practice, 2nd Ed by M. Merkow. Publisher: Pearson IT. (Jun, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Iron-Clad Java: Building Secure Web Applications, 1st Ed by J. Manico. Publisher: McGraw-Hill. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>IT Release Management by D. Howard. Publisher: CRC Press.  (Apr, 2016).</li>
+</ul><hr>
+
+<ul>
+<li>Logging and Log Management by A. Chuvakin, K. Schmidt. Publisher: Syngress. (Dec, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>Mastering the Requirements Process: Getting Requirements Right v3.0 by S. Robertson, J. Robertson. Publisher: Addison-Wesley Professional. (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-37 Rev 2. Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy by Joint Task Force.  (Dec, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53 Rev 5. Security and Privacy Controls for Information Systems and Organizations by Joint Task Force.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-60, Vol. 1, Rev. 1, Guide for Mapping Types of Information and Information Systems to Security Categories by Kevin Stine, Rich Kissel, William C. Barker, Jim Fahlsing, Jessica Gulick.  (Aug, 2008).</li>
+</ul><hr>
+
+<ul>
+<li>NIST IR 7622, Notional Supply Chain Risk Management Practices for Federal Information Systems by Jon Boyens, Celia Paulsen, Nadya Bartol, Stephany A. Shankles, Rama Moorthy.  (Oct, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>OWASP Testing Guide Release 4.0 by Matteo Meucci, Andrew Muller. Publisher: OWASP. (Sep, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>Penetration Testing: A Survival Guide by W. Halton, B. Weaver, J. Ansari, S. Kotipalli, M. Imran. Publisher: Packt Publishing. (Jan, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Software Testing Foundations, 5th Ed by A. Spillner. Publisher: Rocky Nook. (Jul, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 Guide to the CSSLP, 2nd Ed. by Mano Paul. Publisher: Auerbach Publications. (Aug, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Web Application Firewalls by C. Russell. Publisher O'Reilly Media, Inc. (Apr, 2018).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-45173eb3b5454dd98dd9e0f83da8a5b9">
+            <span class="hide-sm">HCISPP</span>
+        <span class="hide-lt-sm">HCISPP</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-45173eb3b5454dd98dd9e0f83da8a5b9" class="collapse ">
+        <div class="content">
+            
+ 
+<ul>
+  <li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+</ul>
+<hr>
+
+<ul>
+<li>CSA Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 by Rich Mogull, James Arlen, Adrian Lane, Gunnar Peterson, Mike Rothman, David Mortman. Publisher: Cloud Security Alliance. (Jul, 2017).</li>
+</ul><hr>
+
+<ul>
+<li>Developing Cybersecurity Programs and Policies, 3rd Ed. by Omar Santos, Sari Greene. Publisher: Pearson IT Certification. (Aug, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Disclosures for Public Health Activities 45 CFR 164.512(b). by OCR HIPAA Privacy. Publisher: OCR HIPAA Privacy.  (Apr, 2003).</li>
+</ul><hr>
+
+<ul>
+<li>EU General Data Protection Regulation (GDPR): An Implementation and Compliance Guide, 4th Ed. by IT Governance Privacy Team. Publisher: IT Governance Ltd. (Oct, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>Federal Register / Vol. 78, No. 17 by Office of the Federal Register. Publisher: USGOV (Jan, 2013).</li>
+</ul><hr>
+
+<ul>
+<li>Healthcare Information Security and Privacy by Sean Murphy. Publisher: McGraw-Hill. (Jan, 2015).</li>
+</ul><hr>
+
+<ul>
+<li>Information Governance for Healthcare Professionals by Robert F. Smallwood. Publisher: Productivity Press. (Sep, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>Information Governance; Concepts, Strategies, and Best Practices, 2nd Ed. by Robert F. Smallwood. Publisher: Wiley. (Dec, 2019).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-30, Rev. 1, Guide for Conducting Risk Assessments by Joint Task Force Transformation Initiative.  (Sep, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-37, Rev. 2, Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy by Joint Task Force Transformation Initiative.  (Dec, 2018).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-39, Managing Information Security Risk: Organization, Mission, and Information System View by Joint Task Force Transformation Initiative.   (Mar, 2011).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-53, Rev. 5, Security and Privacy Controls for Information Systems and Organizations by Joint Task Force Transformation Initiative.  (Sep, 2020).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-61, Rev. 2, Computer Security Incident Handling Guide by Paul Cichonski, Tom Millar, Tim Grance, Karen Scarfone.  (Aug, 2012).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-66, Rev. 1: An Introductory Resource Guide for Implementing the Health Insurance Portability and Accountability Act (HIPAA). Security Rule by Matthew Scholl, Kevin Stine, Joan Hash, Pauline Bowen, Arnold Johnson, Carla Dancy Smith, Daniel I. Seinberg.  (Oct, 2008).</li>
+</ul><hr>
+
+<ul>
+<li>NIST SP 800-88, Guidelines for Media Sanitization by Richard Kissel, Andrew Regenscheid, Matthew Scholl, Kevin Stine. (Dec, 2014).</li>
+</ul><hr>
+
+<ul>
+<li>The Official ISC2 Guide to the HCISPP CBK by Steven Hernandez. Publisher: Sybex. (Nov, 2018).</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+</ul>

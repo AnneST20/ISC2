@@ -1,1 +1,110 @@
-Effective Date: August 29, 2022
+<div class="h1-sub">Effective Date: August 29, 2022</div>
+<h1 class="h1 bar">Certified in Cybersecurity Certification Exam Outline</h1>
+<div class="certificationExamOutline__downloadSection">
+<h4><em>View and download the latest PDF version of the Certified in Cybersecurity Exam Outline in the following languages:</em></h4>
+<br><br>
+<div class="col-sm-4">
+<ul>
+<li><a title="PDF link opens in a new tab" href="/-/media/ISC2/Certifications/Exam-Outlines/2022/Certified-in-Cybersecurity-Exam-Outline-Aug22.ashx?la=en&amp;hash=EC77685B101A820177792A353C62C8FD322A6DCE" target="_blank">Certified in Cybersecurity - English</a>  </li>
+<li><a title="PDF link opens in a new tab" href="/-/media/ISC2/exam-outlines-2022/EXAMS-CC-Exam_Outline-Chinese.ashx?la=en&amp;hash=2DCEC935F14FC82B99772C7F676EDD514A23E8A3" target="_blank">Certified in Cybersecurity - Chinese</a></li>
+
+</ul>
+</div>
+<div class="col-sm-4">
+<ul><li><a title="PDF link opens in a new tab" href="/-/media/ISC2/exam-outlines-2022/EXAMS-CC_Exam_Outline-112022_German.ashx?la=en&amp;hash=A0451DC1836B7881BD177E80074D09290130AF9F" target="_blank">Certified in Cybersecurity - German</a></li>
+<li><a title="PDF link opens in a new tab" href="/-/media/ISC2/exam-outlines-2022/EXAMS-CC_Exam_Outline-112022_Japanese.ashx?la=en&amp;hash=2DB1D3DA29F8F79582021A5C3CA39A4F94D32A6E" target="_blank">Certified in Cybersecurity - Japanese</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul><li><a title="PDF link opens in a new tab" href="/-/media/ISC2/exam-outlines-2022/EXAMS-CC_Exam_Outline-112022_Korean.ashx?la=en&amp;hash=6A174056D376405EB5EE0866DCC8379643047EAC" target="_blank">Certified in Cybersecurity - Korean</a></li>
+<li><a title="PDF link opens in a new tab" href="/-/media/ISC2/exam-outlines-2022/EXAMS-CC-Exam_Outline-Spanish.ashx?la=en&amp;hash=B030C90D7AC8ADF0E619542C8AB55024B5964034" target="_blank">Certified in Cybersecurity - Spanish</a></li>
+</ul>
+</div>
+
+</div>
+
+<br>
+<div class="certificationExamOutline__downloadSectionButton">
+<a href="/landing/CC-bundles?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CC-bundles&utm_term=ccexamoutlinepage&utm_content=training" class="button button--primary">Training Bundles Starting at $0</a>
+</div>
+<br>
+<p> Supplement your training with the new <a href="https://enroll.isc2.org/product?catalog=CC-EPUB-DESC&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCetextbook&utm_term=cc-webpage-training-pathway" target="_blank">CC eTextbook</a> for only $19.95.</p>
+
+
+<hr>
+
+<style>
+.certificationExamOutline__downloadSection {
+background-color: #F3FAFF;
+border: 1px solid #2272A5;
+border-radius: 5px;
+display: flex;
+flex-wrap: wrap;
+padding: 20px;
+}
+
+.certificationExamOutline__downloadSectionButton {
+margin: 0 auto;
+text-align: center;
+}
+
+.table.simpleTable th {color: #006f53;}
+.table.simpleTable th, .table.simpleTable td {border-left: 0; border-right: 0;}
+.table.greenZebra {margin-top: 1rem;}
+.table.greenZebra th, .table.greenZebra td {border: 0;}
+.table.greenZebra thead tr {color: #fff; background-color: #006f53;}
+.table.greenZebra tbody tr:nth-child(2n) {background-color: #f4faed;}
+.table.greenZebra tbody tr:last-child {background-color: #86c44c;}
+.domainHead {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+align-items: center;
+margin-bottom: 2em;
+}
+.domainHead img { width: 85px; }
+.domainHead h2 {
+line-height: 1.5;
+margin: 0 0.5em;
+}
+.domainListItem {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+}
+.domainListItem h2 {
+color: #006f53; 
+font-weight: bold;
+width: 2.75em;
+}
+.domainListItem .itemContent { width: 100%; }
+.domainListItem h3 { margin-top: 0; }
+
+.cta-promo [class*=col-]:first-child .cta-icon {
+background-size: auto 100% !important;
+border-radius: 0 !important;
+}
+</style>
+
+        <h2 data-jump-link='off' id="6597b6af25bd4697b69a39141286f0a5" data-jump-text="">About Certified in Cybersecurity</h2>
+<p>ISC2 developed the Certified in Cybersecurity (CC) credential for newcomers to the field, to recognize the growing trend of people entering the cybersecurity workforce without direct IT experience. Getting Certified in Cybersecurity provides employers with the confidence that you have a solid grasp of the right technical concepts, and a demonstrated aptitude to learn on the job. As an ISC2 certification, those who hold the CC are backed by the world’s largest network of certified cybersecurity professionals helping them continue their professional development and earn new achievements and qualifications throughout their career.</p>
+<p>The topics on the CC exam include:</p>
+
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Security Principles</li>
+<li>Incident Response, Business Continuity (BC) and Disaster Recovery (DR) Concepts</li>
+</ul>
+</div>
+
+<div class="col-sm-6">
+<ul>
+<li>Access Controls Concepts</li>
+<li>Network Security</li>
+<li>Security Operations</li>
+</ul>
+</div>
+</div>

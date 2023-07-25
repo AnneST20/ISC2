@@ -1,1 +1,23 @@
-<iframe src="https://www.youtube.com/embed/jSHwhbZkQwA?rel=0&showinfo=0" frameborder="0" modestbranding="1" allowfullscreen=""></iframe>
+<h1 class="sr-only">Learning Reimagined with NEW Online Self-Paced Training</h1>
+<img src="/-/media/ISC2/Training/2023/MAR-CCSP-OSP-Learning-Reimagined-Training-Banner-1120x300.ashx?la=en&amp;hash=5EEC8A1FD934E508C9666E9DA7302489D83ABAA1" alt="" style="width: 100%; height: auto;">
+<h2 style="padding-top:20px;">Introducing AI-driven adaptive learning for CCSP</h2>
+
+<div class="video pull-right hide-lt-sm" style="width: 33%; padding: 0; margin: 0 0 3rem 3rem; max-height: 260px; min-height: 200px; height: 20vw;"><iframe src="https://www.youtube.com/embed/jSHwhbZkQwA?rel=0&showinfo=0" frameborder="0" modestbranding="1" allowfullscreen=""></iframe></div>
+
+<p>Elevate your learning with a tailored approach that adapts to your unique needs. The exciting new AI-driven <strong>Official ISC2 Online Self-Paced CCSP Training</strong> identifies specific areas requiring further study so you’re better prepared on exam day. With adaptive learning technology, you’ll know exactly where to focus with a CCSP study plan tailored to you – allowing you to study smarter, not harder.</p>	
+
+<p>Get access to the latest CCSP courseware, including an eTextbook, key takeaways, online interactive flash cards and more.</p>
+
+<style>
+section.section-component .row { margin: 0; }
+section.section-component div.container { padding: 1em 0 2em; }
+.journeyBox {
+background-color: #fff;
+padding: 2em;
+border-radius: 15px;
+-webkit-box-shadow: 2px 8px 15px 0 rgb(0 0 0 / 25%);
+box-shadow: 2px 8px 15px 0 rgb(0 0 0 / 25%); }
+
+.journeyBox h3 {
+margin: 0 0 2rem; }
+</style>

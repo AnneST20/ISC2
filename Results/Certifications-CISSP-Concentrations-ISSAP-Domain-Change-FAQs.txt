@@ -1,0 +1,211 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Domain Change FAQs for CISSP-ISSAP</h1>
+
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why are changes being made to the CISSP-<strong><span style="color: #424a54;">ISSAP</span></strong> exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cybersecurity architecture professional.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>How is the CISSP-ISSAP exam changing?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The content of the CISSP-ISSAP has been refreshed to reflect the most pertinent issues that cybersecurity architecture professionals currently face. The result is an exam that most accurately reflects best practices for developing, designing and analyzing security solutions.</p>
+<p>As a result of the content refresh, we have updated some of the domain names to describe the topics accurately. For details on the exam domain and subdomain changes, review our <a href="/-/media/ISC2/Certifications/Domain-Refresh/CISSP-ISSAP-DomainRefresh.ashx?la=en&amp;hash=B432E78C1914CDE0C2AD5A3B5DABD1C1E427269E" target="_blank">CISSP-ISSAP Domain Refresh guide</a>.</p>
+<table class="zebra" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top">
+            <p><strong>Previous CISSP-ISSAP Domain Names</strong></p>
+            </td>
+            <td valign="top">
+            <p><strong>New CISSP-ISSAP  Domain Names</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 1: Identity and Access Management Architecture</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 1: Architect for Governance, Compliance
+            and Risk Management</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 2: Security Operations Architecture</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 2: Security Architecture Modeling</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 3: Infrastructure Security</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 3: Infrastructure Security Architecture</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 4: Architect for Governance, Compliance, and Risk Management</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 4: Identity and Access Management (IAM) Architecture</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 5: Security Architecture Modeling</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 5: Architect for Application Security</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 142.5pt; padding: 0in 5.4pt;">
+            <p>Domain 6: Architect for Application Security</p>
+            </td>
+            <td valign="top" style="width: 148.25pt; padding: 0in 5.4pt;">
+            <p>Domain 6: Security Operations Architecture </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>The domain weights are as follows:</p>
+<table class="zebra" border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p><strong>Domains</strong></p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p style="text-align: left;"><strong>Weight</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 1: Architect for Governance, Compliance and Risk Management</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>17%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 2: Security Architecture Modeling</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>15%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 3: Infrastructure Security Architecture</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>21%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 4: Identity and Access Management (IAM) Architecture</p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>16%</p>
+            </td>
+        </tr>
+        <tr style="height: 3.5pt;">
+            <td valign="top" style="height: 3.5pt; width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 5: Architect for Application Security</p>
+            </td>
+            <td valign="top" style="height: 3.5pt; width: 228.1pt; padding: 0in 5.4pt;">
+            <p>13%</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Domain 6: Security Operations Architecture </p>
+            </td>
+            <td valign="top" style="width: 228.1pt; padding: 0in 5.4pt;">
+            <p>18%</p>
+            </td>
+        </tr>
+        <tr style="height: 3.5pt;">
+            <td valign="top" style="height: 3.5pt; width: 228.1pt; padding: 0in 5.4pt;">
+            <p>Total</p>
+            </td>
+            <td valign="top" style="height: 3.5pt; width: 228.1pt; padding: 0in 5.4pt;">
+            <p>100%</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p class="faq-text">&nbsp;</p>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why do domains for (ISC)&sup2; credential exams change?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">Domains change because it is a reflection of a change in the knowledge, skills and abilities, as indicated by experts through the Job Task Analysis process.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>When will these changes go into effect?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">The exam changes will go into effect on October 14, 2020.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>In what language will the refreshed CISSP-ISSAP exam be available?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">The refreshed CISSP-ISSAP exam will be available in English only.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Will this change the number of questions or the time required to take the CISSP-ISSAP exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">No. The CISSP-ISSAP exam will have the same number of items (125), and the time required to take the exam (3 hours) will be the same.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>If I have been studying for the CISSP-ISSAP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CISSP-ISSAP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Do these updates affect the experience requirement for the CISSP-ISSAP?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">No. For the CISSP-ISSAP, a candidate is required to have a minimum of two years of cumulative work experience in one or more of the six domains of the CISSP-ISSAP CBK.</div>
+</div>

@@ -1,0 +1,124 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CCSP Domain Refresh FAQ</h1>
+
+
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why are changes being made to the CCSP exam?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cloud security professional.</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>How is the CCSP exam changing?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The content of the <a href="https://www.isc2.org/-/media/ISC2/Certifications/Domain-Refresh/CCSP-Domain-Refresh.ashx" target="_blank">CCSP has been refreshed</a> to reflect the most pertinent issues that cloud security professionals currently face, along with the best practices for mitigating those issues. Some topics have been updated while others have been realigned. The result is an exam that most accurately reflects the deep knowledge and hands-on experience with cloud security architecture, design, operations and service orchestration.</p>
+<p>As a result of the content refresh, we have updated two of the domain weights:</p>
+<table class="table zebra">
+    <thead>
+        <tr>
+            <th>Major Domains
+            </th>
+            <th>August 2019&nbsp;
+            </th>
+			 <th>August 2022
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Domain 1: Cloud Concepts, Architecture, and Design </td>
+            <td>17%</td>
+			<td>17%</td>
+        </tr>
+        <tr>
+            <td>Domain 2: Cloud Data Security </td>
+            <td>19%</td>
+			<td>20%</td>
+        </tr>
+        <tr>
+            <td>Domain 3: Cloud Platform and Infrastructure Security </td>
+            <td>17%</td>
+			 <td>17%</td>
+        </tr>
+        <tr>
+            <td>Domain 4: Cloud Application Security </td>
+            <td>17%</td>
+			 <td>17%</td>
+        </tr>
+        <tr>
+            <td>Domain 5: Cloud Security Operations </td>
+            <td>17%</td>
+			<td>16%</td>
+        </tr>
+        <tr>
+            <td>Domain 6: Legal, Risk, and Compliance </td>
+            <td>13%</td>
+			 <td>13%</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>100%</td>
+			<td>100%</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why do domains for ISC2 credential exams change?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Domains change because it is a reflection of a change in the knowledge, skills and abilities, as indicated by experts through the Job Task Analysis process.</p>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>When will these changes go into effect?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The changes will begin on August 1, 2022.</p>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong> Is the time allowed to take the exam changing? </strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>Yes. Beginning August 1, the CCSP exam will increase in length from 100 operational items with 25 pretest (unscored) items to 100 operational items with 50 pretest items. To allow for all items to be answered, the exam time will be increased from three to four hours.</p>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>In what language will the refreshed CCSP exam be available?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The refreshed CCSP exam will be available in English, Chinese, German, Japanese, Korean and Spanish.</p>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I have been studying for the CCSP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>  <span>(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CCSP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</span></p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Do these updates affect the <a href="/Certifications/CCSP/experience-requirements">experience requirement for the CCSP</a>?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>No. For the CCSP, a candidate is required to have a minimum of five years cumulative work experience in one or more of the six domains of the CCSP CBK.</p>
+<p>&nbsp;</p>
+    </div>
+</div>
+<div class="faq">
+    <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What impact do these changes have on ISC2 training materials?</strong></p></div>
+    <div style="clear:both;"></div>
+    <div class="faq-marker">A:</div><div class="faq-text">
+        <p>The updated Official (ISC)&sup2; CCSP Training Course will be available on August 1, 2022.</p>
+<p>&nbsp;</p>
+    </div>
+</div>

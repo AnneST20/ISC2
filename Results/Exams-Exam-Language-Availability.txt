@@ -1,0 +1,204 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Exam Languages Availability</h1>
+<div class="table-wrapper">
+<table border="1" cellspacing="0" cellpadding="0" class="table table-responsive">
+  
+  <tr style="background: #006f53; color: white">
+    <td width="234">Exam</td>
+    <td width="246">Language</td>
+    <td width="438">Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CGRC</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td width="153">Chinese Simplified<br>
+      Effective December 31, 2022</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td width="153">German<br>
+      Effective December 31, 2022</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td width="153">Japanese<br>
+      Effective December 31, 2022</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td width="153">Korean<br>
+      Effective December 31, 2022</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CC</td>
+    <td width="153">Spanish<br>
+      Effective December 31, 2022</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>Chinese Simplified<br>
+      </td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>German</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>Japanese</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>Korean</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CCSP</td>
+    <td>Spanish<br>
+      </td>
+    <td>Mainland China and Korea</td>
+  </tr>
+    <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>Chinese Simplified</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>German</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>Japanese</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>Korean</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>CISSP</td>
+    <td>Spanish-Modern</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+    <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CISSP-ISSAP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CISSP-ISSEP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>CISSP-ISSMP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>CSSLP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>HCISPP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr style="background: #006f53; color: white">
+    <td>Exam</td>
+    <td>Language</td>
+    <td>Country Restriction</td>
+  </tr>
+  <tr>
+    <td>SSCP</td>
+    <td>English</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>SSCP</td>
+    <td>Japanese</td>
+    <td>Mainland China and Korea</td>
+  </tr><tr>
+    <td>SSCP</td>
+    <td>Chinese Simplified</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>SSCP</td>
+    <td>German</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  <tr>
+    <td>SSCP</td>
+    <td>Korean</td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>SSCP</td>
+    <td>Spanish</td>
+    <td>Mainland China and Korea</td>
+  </tr>
+  
+</table>
+</div>

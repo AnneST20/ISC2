@@ -1,0 +1,30 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Annual Maintenance Fees</h1>
+<p>Annual Maintenance Fees (AMFs) are used by (ISC)&sup2; to support the costs of maintaining the (ISC)&sup2; certifications and related support systems. Certified members and Associates of (ISC)&sup2; also gain access to a wide array of valuable, rewarding <a href="https://www.isc2.org/Development">professional development</a> opportunities and <a href="https://www.isc2.org/Member-Resources/Member-Benefits">member benefits</a> that deliver a robust return on this annual investment.</p>
+
+<p><strong>Certified Members AMFs</strong></p>
+
+<p>ISC2 certified members pay a single Annual Maintenance Fee (AMF) which is due each year upon the anniversary of their certification date. Members only pay a single AMF regardless of how many certifications they earn. AMFs for members with multiple certifications are due on their earliest certification anniversary.
+</p>
+
+<p>For members who hold the following certifications, CGRC, CCSP, CISSP, CSSLP, and SSCP, there is an AMF of U.S. $125. For members who only hold our CC certification, the AMF is U.S $50.</p>
+
+
+<p><strong>Associates of (ISC)&sup2; AMFs</strong></p>
+
+<p>Associates of (ISC)&sup2; pay an AMF of U.S. $50 which is due each year upon the anniversary of achieving their associate status. </p>
+
+<p><a href="https://www.isc2.org/policies-procedures/member-policies">Learn more about our Membership Policies and Procedures here</a>.</p>
+
+<p><strong>How to Pay Your AMFs</strong></p>
+
+<p>Your AMFs can be paid using the following methods:</p>
+<ul>
+<li>Online via credit card or voucher through the Member Dashboard</li>
+<li>By check via mail or by wire transfer.&nbsp; <em>Please inquire with <a href="mailto:membersupport@isc2.org?subject=AMF%20Payment%20Question">Member Services</a> for instructions.</em> </li>
+</ul>
+
+
+
+<p><strong>Question about Payment Status?</strong></p>
+<p>Call 1-866-331-ISC2(4722) and press 1 for member/candidate services or email&nbsp;<a href="mailto:membersupport@isc2.org?subject=AMF Payment Question">membersupport@isc2.org</a>.</p>

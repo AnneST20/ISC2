@@ -1,0 +1,47 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Bylaws Committee</h1>
+<h2>Committee Charter</h2>
+<p>The Bylaws Committee was established by the Board of Directors to:</p>
+<ol>
+<li>Review the bylaws, including proposals received from the CEO, board, committees or other stakeholders, and make appropriate recommendations to the board and membership, as necessary.</li>
+<li>Draft the language of proposed bylaw revisions for consideration by the board and, ultimately, the membership.</li>
+<li>Assist in the interpretation of the bylaws as needed.</li>
+</ol>
+<p><a href="https://www.isc2.org/-/media/Files/Amended-and-Restated-Bylaws.ashx" target="_blank">Read the ISC2 Bylaws</a>.</p>
+<h2>Committee Members</h2>
+<p>Lisa Young, CISSP, Board of Directors – Committee Chair (United States)<br>
+James Packer, CISSP, CCSP, Vice Chair Board of Directors (United Kingdom)<br>
+Laurie-Anne Bourdain, CISSP, Secretary Board of Directors (Belgium)<br>
+Rachel Guinto, CISSP, Board of Directors (Canada)<br>
+Guy Ngambeket, CISSP, Board of Directors (Qatar)<br>
+Dimitrios Patsos, CISSP (Greece) <br>
+Aung Win Tin, CISSP (Singapore)  <br>
+Gidi Farkash, CISSP, CCSP (Israel)<br>
+Nagesh Gummadivalli, CISSP (United States)</p>
+
+<h2>Committee Updates</h2>
+
+<ul>
+<li><p>Voting is open for the ISC2 Bylaws amendments. Eligible members may vote until July 26, 2023 by visiting <a href="https://my.isc2.org/s/Dashboard" target="_blank">my.isc2.org/s/Dashboard</a>. Review this year’s proxy <a href="/-/media/ISC2/About/Governance/ISC2-2023-Bylaws-Proxy-Materials.ashx?la=en&amp;hash=353306A7775FA6566F2C501D3E497D422EEBF0E5" target="_blank">voting information</a> to learn more.</p></li>
+
+<li><p><a href="/Notice/Special-Meeting-2023">Notice of Special Meeting to Vote Upon Bylaws Changes</a><br>ISC2 has posted official notice of a special meeting of members for voting upon a member petition to amend the current bylaws and voting upon a separate proposal by ISC2 to amend the bylaws. You can read the full notice <a href="/Notice/Special-Meeting-2023">here</a>. </p></li>
+	
+<li><p><a href="https://www.isc2.org//-/media/ISC2/About/Governance/Member-Petition-and-ISC2-Bylaws-Committee-Bylaws-Draft-Amendments.ashx" target="_blank">Read the Member Bylaws Petition</a> – Familiarize yourself with the member bylaws petition <a href="/-/media/ISC2/About/Governance/Member-Petition-and-ISC2-Bylaws-Committee-Bylaws-Draft-Amendments.ashx?la=en&amp;hash=571BEDA63A724ECF2185066B72605D67D06701C8" target="_blank">here</a>. </p></li>
+	
+
+<li><p>Webinar (June 6, 2023):  <a href="/en/News-and-Events/Webinars/ThinkTank?commid=584470">Board Recommended Bylaws Amendments</a><br> 
+<em>The ISC2 Bylaws Committee shares the recommended Bylaws amendments for 2023. The ISC2 Board of Directors is recommending changes to the Bylaws, which will be voted on by members starting June 20. Watch this webinar to learn about the proposed changes, ask any questions you may have and familiarize yourself with what comes next. <a href="/en/News-and-Events/Webinars/ThinkTank?commid=584470">Watch&nbsp;now.</a>
+</em></p></li>
+
+
+<li><p>Webinar (May 2, 2023):  <a href="/en/News-and-Events/Webinars/ThinkTank?commid=580644">ISC2 Bylaws Committee Recommendations</a><br> 
+<em>Learn about the bylaws changes the committee is suggesting during a <a href="/en/News-and-Events/Webinars/ThinkTank?commid=580644">recorded webinar</a>. Board of Directors and Bylaws Committee Chair Lisa Young, CISSP and Board Member Laurie-Anne Bourdain, CISSP discussed how the committee evaluated the proposed changes, including the member petition, and the next steps for member input. <a href="/en/News-and-Events/Webinars/ThinkTank?commid=580644">Watch&nbsp;now.</a>
+</em></p></li>
+
+<li><p>Webinar (April 19, 2023): <a href="https://www.brighttalk.com/webcast/19929/578672" target="_blank">Get Involved. Stay Informed. What&rsquo;s Next for the ISC2 Bylaws Committee</a><br>
+<em>The ISC2 Bylaws Committee continues to make exciting progress thanks to all the member support and feedback we received during our initial input survey. In this webinar, the ISC2 Bylaws Committee provides an update on the bylaws review process and shares what we are hearing from our members. We share a timeline of what you can expect in the coming weeks and months, as well as a preview of the next opportunity for member input to help guide the future direction of our association. </em><a href="https://www.brighttalk.com/webcast/19929/578672" target="_blank"><em>Watch&nbsp;now.</em></a></p></li>
+
+<li><p>Webinar (March 21, 2023): <a href="/en/News-and-Events/Webinars/ThinkTank?commid=576902" target="_blank">Get Involved – Meet the 2023 ISC2 Bylaws Committee</a><br> 
+<em>You spoke. We listened. During this recorded webinar, meet the 2023 ISC2 Bylaws Committee and learn how you can contribute to this year’s bylaws review and amendment process. Board of Directors member and Bylaws Committee Chair Lisa Young, CISSP, explained this year’s process. <a href="/en/News-and-Events/Webinars/ThinkTank?commid=576902" target="_blank">Watch&nbsp;now.</a></em></p></li>
+
+</ul>

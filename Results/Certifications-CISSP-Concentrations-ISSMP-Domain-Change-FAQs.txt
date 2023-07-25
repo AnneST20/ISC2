@@ -1,0 +1,144 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Domain Change FAQs for CISSP-ISSMP</h1>
+
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why are changes being made to the CISSP-ISSMP exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cybersecurity management professional.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>How is the CISSP-ISSMP exam changing?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+<p>The content of the CISSP-ISSMP has been refreshed to reflect the most pertinent issues that cybersecurity management professionals currently face, along with the best practices for mitigating those issues. The result is an exam that most accurately reflects establishing, presenting and governing information security programs, and demonstrates management and leadership skills.</p>
+<p>For a guide to the changes, view the <a href="https://www.isc2.org/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/Study-Aids/EDU-CISSP-Domain-Refresh-2023.ashx" target="_blank">CISSP-ISSMP Domain Refresh Guide</a>. </p>
+<table class="zebra" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33" valign="top"><p>&nbsp; </p></td>
+    <td width="344" valign="top"><p>&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">May 2018&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">Nov. 15, 2022&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p>&nbsp; </p></td>
+    <td width="344" valign="top"><p><strong>CISSP-ISSMP Domains</strong>&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center"><strong>Weight</strong>&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center"><strong>Weight</strong>&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">1&nbsp; </p></td>
+    <td width="344" valign="top"><p>Leadership   and Business Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">22%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">20%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">2&nbsp; </p></td>
+    <td width="344" valign="top"><p>Systems Lifecycle Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">19%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">18%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">3&nbsp; </p></td>
+    <td width="344" valign="top"><p>Risk Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">18%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">19%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">4&nbsp; </p></td>
+    <td width="344" valign="top"><p>Threat Intelligence and Incident Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">17%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">17%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">5&nbsp; </p></td>
+    <td width="344" valign="top"><p>Contingency Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">10%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">15%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p align="center">6&nbsp; </p></td>
+    <td width="344" valign="top"><p>Law, Ethics and Security Compliance Management&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">14%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">11%&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="33" valign="top"><p>&nbsp; </p></td>
+    <td width="344" valign="top"><p align="right">Total:&nbsp; </p></td>
+    <td width="108" valign="top"><p align="center">100%&nbsp; </p></td>
+    <td width="111" valign="top"><p align="center">100%&nbsp; </p></td>
+  </tr>
+</table>
+</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Why do domains for (ISC)&sup2; credential exams change?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">Domains change because it is a reflection of a change in the knowledge, skills and abilities, as indicated by experts through the Job Task Analysis process.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>When will these changes go into effect?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">New training courses will be made available in November 2022. The Second Edition ISSMP CBK Textbook will not be updated at this time but is still a comprehensive resource that is relevant in preparing for the ISSMP.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>In what language will the refreshed CISSP-ISSMP exam be available?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">The refreshed CISSP-ISSMP exam will be available in English only.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Will this change the number of questions or the time required to take the CISSP-ISSMP exam?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">No. The CISSP-ISSMP exam will have the same number of items, and the time required to take the exam will be the same.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>If I have been studying for the CISSP-ISSMP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CISSP-ISSMP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>Do these updates affect the experience requirement for the CISSP-ISSMP?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">No. For the CISSP-ISSMP, a candidate is required to have a minimum of two years of cumulative work experience in one or more of the six domains of the CISSP-ISSMP CBK.</div>
+</div>
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<p><strong>What impact do these changes have on (ISC)&sup2; training materials?</strong></p>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">The Official (ISC)&sup2; CISSP-ISSMP Training Course (online self-paced) will be available in November 2022. The ISSMP CBK Textbook will not be updated at this time but is still a comprehensive resource that is relevant in preparing for the ISSMP.</div>
+</div>

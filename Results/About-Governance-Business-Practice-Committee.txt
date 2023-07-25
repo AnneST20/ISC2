@@ -1,0 +1,14 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">ISC2 Business Practices Committee</h1>
+<h2>Committee Charter</h2>
+  <p>The Business Practices Committee is one of the three standing Board committees. The Board Vice Chair is the standing Chair of this committee, as per the bylaws, with at least two other members who are not Officers of the Board. This committee investigates allegations and makes recommendations for action, where appropriate, on ethical misconduct by the business or by business partners of ISC2, and it also recommends to the Board policies on ethical business practice.</p>
+
+<h2>Committee Members</h2>
+<p>James Packer, CISSP, CCSP, Vice Chair Board of Directors – Committee Chair (United Kingdom)<br>
+Edward Farrell, CISSP, SSCP, Board of Directors (Australia)<br>
+Rachel Guinto, CISSP, Board of Directors (Canada)<br>
+Eiji Kuwana, CISSP, Board of Directors (Japan)<br>
+Lori Ross O&rsquo;Neil, CISSP, Board of Directors (United States)</p>
+
+<h2>Contact The Committee </h2>
+<p>Members, associates, candidates and others can contact the ISC2 Business Practices Committee by completing the form below.</p>

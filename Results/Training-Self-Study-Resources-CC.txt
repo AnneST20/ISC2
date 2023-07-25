@@ -1,12 +1,6 @@
-<div class="ospTraining__flexContainer">
-<div class="ospTraining__image">
-<img alt="" src="/-/media/ISC2/ISC2-Icons/circle-icon-self-paced.ashx?la=en&amp;hash=2A4F5F4FBFF04C1DAF6C635B476D40A58C33549A">
-</div>
-<div>
-<h2>Certified in Cybersecurity Online Self-Paced Training</h2>
-<p>Do you want your Certified in Cybersecurity training on the go? Prepare wherever you are without sacrificing quality for convenience with Official (ISC)² Online Self-Paced Training. Get the freedom and confidence to make progress on your schedule.</p>
-<div>
-<a href="/Training/Online-Self-Paced" class="utm-tag button button--primary">Get Pricing</a>
-</div>
-</div>
-</div>
+<h1><img alt="" class="selfStudyResources__certIcon selfStudyResources__certIcon--square" src="/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/CC-Square.ashx?la=en&amp;hash=CCCD45D283D84F819038667A8708E48735653EC3">
+Certified in Cybersecurity Study Tools and Resources</h1>
+<h2>Set Yourself Up for Certified in Cybersecurity Exam Success</h2>
+
+<p>Take the first step to a rewarding career and get Certified in Cybersecurity from ISC2, the world’s leading cybersecurity professional organization known for the CISSP®. You don’t need experience — just the passion and drive to enter a field that opens limitless opportunities around the globe.</p>
+<a href="/Training/TrainingSearchResult?certification=CC" class="utm-tag button button--alternativePrimary">Find Certified in Cybersecurity Training</a>

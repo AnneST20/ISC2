@@ -1,13 +1,6 @@
-<div class="ospTraining__flexContainer">
-<div class="ospTraining__image">
-<img alt="" src="/-/media/ISC2/ISC2-Icons/CORP-CISSP-Training_Icon-Light_Green-Instructor_Led.ashx?la=en&amp;hash=ED12B4E866882A5919FDEC2971F1C6BF093FCC2B">
-</div>
-<div>
-<h2>CGRC Online Instructor-Led  Training</h2>
-<p>Build knowledge and confidence with Official (ISC)² Online Instructor-Led Training. You’ll get industry-leading courseware and live interactive instruction from a CGRC-certified (ISC)² Authorized Instructor.</p>
-<div>
+<h1><img alt="" class="selfStudyResources__certIcon selfStudyResources__certIcon--square" src="/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/CGRC-Square.ashx?la=en&amp;hash=46D24BC3495008F4948D447868B2356907D39C3D">
+CGRC Study Tools and Resources</h1>
+<h2>Set Yourself Up for CGRC Exam Success</h2>
 
-<a href="/Training/Online-Instructor-Led " class="utm-tag button button--primary">Get Pricing</a>
-</div>
-</div>
-</div>
+<p>Passing the Certified in Governance, Risk and Compliance (CGRC) certification exam demonstrates your expertise in various risk management frameworks. On exam day, you want to feel confident and that comes from being prepared. The CGRC Official Training route is a proven way to set yourself up for success. We partner with leading training providers around the world to educate you with convenient access to Official Training developed by ISC2.</p>
+<a href="/Training/TrainingSearchResult?certification=CGRC" class="utm-tag button button--alternativePrimary">Find CGRC Training</a>

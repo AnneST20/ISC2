@@ -19,6 +19,7 @@ namespace ISC2
 
                 var htmlContent = html.GetHtml(urls[u]).Result;
                 var htmlParsedContent = html.ParseHtml(htmlContent).Result;
+                htmlParsedContent = htmlParsedContent.Replace("(ISC)²", "ISC2");
 
                 File.WriteAllText(fileName, htmlParsedContent);
             }

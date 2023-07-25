@@ -1,0 +1,24 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">CGRC Experience Requirements</h1>
+<p>To qualify for the CGRC you must have a <strong>minimum of two years</strong> of cumulative paid work experience in <strong>one or more of the seven domains</strong> of the CGRC Common Body of Knowledge (CBK).</p>
+<p>If you do not have the required experience to earn the CGRC, you may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a> by successfully passing the CGRC examination. As an Associate of (ISC)&sup2;, you will then have three years to earn the two years of required, relevant experience.</p>
+<p>Part-time work and internships may also count towards your experience.</p>
+<h2>Work Experience</h2>
+<p>Valid experience includes information systems security-related work performed in pursuit of information system authorization, or work that requires security risk management knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the (ISC)&sup2; CGRC CBK:</p>
+<ul>
+    <li>Domain 1: Information Security Risk Management Program</li>
+    <li>Domain 2: Scope of the Information System</li>
+    <li>Domain 3: Selection and Approval of Security and Privacy Controls</li>
+    <li>Domain 4: Implementation of Security and Privacy Controls </li>
+    <li>Domain 5: Assessment/Audit of Security and Privacy Controls</li>
+    <li>Domain 6: Authorization/Approval of Information System</li>
+    <li>Domain 7: Continuous Monitoring</li>
+</ul>
+
+<p><strong>Full-Time Experience:<span> </span></strong><span>Your work experience is accrued monthly. Thus, you must have worked a minimum of 35 hours/week for four weeks to accrue one month of work experience</span></p>
+<p><strong>Part-Time Experience</strong>: Your part-time experience cannot be less than 20 hours a week and no more than 34 hours a week.</p>
+<ul>
+    <li>1040 hours of part-time = 6 months of full-time experience</li>
+    <li>2080 hours of part-time = 12 months of full-time experience</li>
+</ul>
+<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar's stationery.</p>
