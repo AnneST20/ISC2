@@ -33,7 +33,7 @@ Why Do You Need a Digital Badge?
 <span>Digital badges keep your credentials up-to-date in a web-based world</span>. With digital badges, you never have to make an employer wait while you find your member number, call a phone number, or fill out mandatory fields in an online form; you simply provide them a one-click verification of your certification and skills.
 </p>
 <p>
-When someone clicks the link corresponding to your (ISC)&sup2; digital badge, an overview page is presented on the Credly site, and will look like this:
+When someone clicks the link corresponding to your ISC2; digital badge, an overview page is presented on the Credly site, and will look like this:
 </p>
 </div>
 <div style="float: right; width: 33%;"><img style="height: 298px; width: 300px;" src="/-/media/ISC2/Logos/81-Sponsors-2/acclaim-graphic.ashx?h=298&amp;w=300&amp;hash=31BC4E5B02AC7182E01340536CF155FB792431EE&amp;la=en" alt="Credly Graphic"></div>
@@ -62,14 +62,14 @@ When someone clicks the link corresponding to your (ISC)&sup2; digital badge, an
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I hold multiple ISC2 credentials, can I claim a badge for each one?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>Yes, all (ISC)&sup2; certification badges are available. You will be able to claim an electronic badge for each active credential you hold.</p>
+        <p>Yes, all ISC2; certification badges are available. You will be able to claim an electronic badge for each active credential you hold.</p>
     </div>
 </div>
 <div class="faq">
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>How does my credential get displayed as an Open Badge</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>(ISC)&sup2; has partnered with Credly, a badging platform backed by Pearson VUE, to translate the certification status you&rsquo;ve earned into a digital badge. The technology Credly uses is based on the Open Badge standards defined by Mozilla and enable you to manage, share and verify your credential digitally.</p>
+        <p>ISC2; has partnered with Credly, a badging platform backed by Pearson VUE, to translate the certification status you&rsquo;ve earned into a digital badge. The technology Credly uses is based on the Open Badge standards defined by Mozilla and enable you to manage, share and verify your credential digitally.</p>
     </div>
 </div>
 <div class="faq">
@@ -89,7 +89,7 @@ When someone clicks the link corresponding to your (ISC)&sup2; digital badge, an
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What is the relationship between ISC2 and Credly?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>(ISC)&sup2;  has entered into a vendor relationship with Credly to implement a program for web-enabled credentials and certificates displayed as open badges. Credly is the website where you claim (accept), store and transmit open badges related to your credentials, and where anyone that needs to verify your achievement can go to do so, quickly and easily.</p>
+        <p>ISC2;  has entered into a vendor relationship with Credly to implement a program for web-enabled credentials and certificates displayed as open badges. Credly is the website where you claim (accept), store and transmit open badges related to your credentials, and where anyone that needs to verify your achievement can go to do so, quickly and easily.</p>
     </div>
 </div>
 <div class="faq">
@@ -110,7 +110,7 @@ When someone clicks the link corresponding to your (ISC)&sup2; digital badge, an
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Can I include open badges on my resume or LinkedIn profile?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>Absolutely. Every certification and profile on the Credly platform has a unique URL that can be embedded on a resume or website. The platform also offers seamless integration with several popular social and professional networking platforms for the display of certifications as open badges. Sharing to LinkedIn enables the earner to permanently display the achievement within their profile with single click verification. In order to display your badge on your LinkedIn profile, log in to Credly, select the badge you would like displayed on LinkedIn and then select share. The site will then walk you through connecting to LinkedIn and a series of confirmation steps. Please note that when a certification is referenced in a LinkedIn profile, an image of the (ISC)&sup2; logo is displayed online, not the actual badge image.</p>
+        <p>Absolutely. Every certification and profile on the Credly platform has a unique URL that can be embedded on a resume or website. The platform also offers seamless integration with several popular social and professional networking platforms for the display of certifications as open badges. Sharing to LinkedIn enables the earner to permanently display the achievement within their profile with single click verification. In order to display your badge on your LinkedIn profile, log in to Credly, select the badge you would like displayed on LinkedIn and then select share. The site will then walk you through connecting to LinkedIn and a series of confirmation steps. Please note that when a certification is referenced in a LinkedIn profile, an image of the ISC2; logo is displayed online, not the actual badge image.</p>
     </div>
 </div>
 <div class="faq">

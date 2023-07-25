@@ -1,0 +1,27 @@
+<h1>Thank you for requesting The Ultimate Guide to the CGRC!</h1>
+<img alt="cap ug " src="/-/media/ISC2/Certifications/Ultimate-Guides/MAR-CGRC-UG-Cover-3D-Banner-230x240.ashx?la=en&amp;hash=6766380508522F77B7F3BD2F8F2464B71E542E68" style="width: 200px; float: right; margin-bottom: 1em;">
+<p>Thank you for requesting <a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCGRC-Web.ashx?la=en&amp;hash=21D5FD0FB686C833D20F47BF2A44916CD78CAF79" target="blank">The Ultimate Guide to the CGRC</a> from ISC2, the global leader in governance, risk and compliance cybersecurity certification. Your complimentary copy is ready to download. We’ll also email the link so you can access this important resource anytime.</p>
+
+<p><a title="PDF link opens in a new tab" target="_blank" class="utm-tag button button--primary" href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCGRC-Web.ashx?la=en&amp;hash=21D5FD0FB686C833D20F47BF2A44916CD78CAF79">Download Your Copy</a></p>
+<hr>
+
+<h2>Next Step: Become a Candidate</h2>
+<p>Start strong on your path to CGRC certification as an <a href="/candidate?utm_source=isc2list&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=cgrcugtyp&utm_content=candidate">ISC2 Candidate</a>. You’ll gain access to exclusive benefits, including 20% off Official ISC2 Training so you can start preparing for the exam. More benefits include:</p>
+<ul>
+<li>Professional development</li>
+<li>Events</li>
+<li>Peer-to-peer networking</li>
+<li>Volunteer opportunities and more!</li>
+</ul>
+
+<p><a href="/candidate?utm_source=isc2list&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=cgrcugtyp&utm_content=candidate">Sign up now.</a> Your first year is free — no cost to you.*<br>
+*If you choose to renew after the first year, U.S. $50 due annually.</p>
+
+<p><a class="utm-tag button button--primary" href="/candidate?utm_source=isc2list&utm_medium=button&utm_campaign=GBL-Candidate&utm_term=cgrcugtyp&utm_content=candidate">Get Started</a></p>
+
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

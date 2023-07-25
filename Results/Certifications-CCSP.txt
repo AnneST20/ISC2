@@ -1,7 +1,7 @@
-<p><strong>Interested in CCSP certification for your team?</strong>&nbsp;<a href="https://www.isc2.org/Training/Enterprise-Solutions" title="Team Training">Learn more about (ISC)&sup2; Enterprise Solutions</a>.</p>
+<p><strong>Interested in CCSP certification for your team?</strong>&nbsp;<a href="https://www.isc2.org/Training/Enterprise-Solutions" title="Team Training">Learn more about ISC2; Enterprise Solutions</a>.</p>
 
 <p>Certification Magazine lists the top 75 certifications in its 2023 Annual Salary Survey. According to their survey, the CCSP is the number two ranked certification that IT professionals plan to achieve next in their career. See what CCSPs are earning in the <a href="https://www.certmag.com/articles/salary-survey-2023-an-all-new-salary-survey-75" target="_blank" title="Opens in new window">Salary Survey</a>.</p>
 
 <p>Did you know? Our certifications are <a href="/about/Accreditation-Recognition-and-Endorsement">accredited, recognized and endorsed</a> by leading organizations around the world.</p>
 
-<p>Connect with other professionals on the (ISC)&sup2; Community. Join the virtual <a href="https://community.isc2.org/t5/CCSP-Study-Group/gh-p/CSSP_Study_Group" target="_blank">CCSP Study Group</a>.</p>
+<p>Connect with other professionals on the ISC2; Community. Join the virtual <a href="https://community.isc2.org/t5/CCSP-Study-Group/gh-p/CSSP_Study_Group" target="_blank">CCSP Study Group</a>.</p>

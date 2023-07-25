@@ -1,10 +1,10 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">SSCP Experience Requirements</h1>
 <p><span>Candidates must have a <strong>minimum of</strong> <strong>one year </strong>cumulative paid work experience in <strong>one or more of the seven domains </strong>of the SSCP CBK. A one year prerequisite pathway will be granted for candidates who received a degree (bachelors or masters) in a cybersecurity program.</span></p>
-<p>A candidate who doesn&rsquo;t have the required experience to become an SSCP may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a> by successfully passing the SSCP examination. The Associate of (ISC)&sup2; will then have two years to earn the one year required experience.</p>
+<p>A candidate who doesn&rsquo;t have the required experience to become an SSCP may become an <a href="/Certifications/Associate">Associate of ISC2;</a> by successfully passing the SSCP examination. The Associate of ISC2; will then have two years to earn the one year required experience.</p>
 <p>Part-time work and internships may also count towards your experience.</p>
 <h2>Work Experience</h2>
-<p>Valid experience includes information systems security-related work performed, or work that requires information security knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the (ISC)&sup2; SSCP CBK:</p>
+<p>Valid experience includes information systems security-related work performed, or work that requires information security knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the ISC2; SSCP CBK:</p>
 <ul>
     <li>Domain 1. Security Operations and Administration</li>
     <li>Domain 2. Access Controls</li>

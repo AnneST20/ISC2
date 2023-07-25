@@ -1,0 +1,28 @@
+<img class="hide-lt-md" alt="#" width="230" src="https://www.isc2.org//-/media/ISC2/Landing-Pages/2021/qualified-cybersecurity-team-JP/MAR-APAC-CISSP-Whitepaper-Definitive-Guide-Japanese-Banner-230x240-v1-20210722.ashx" style="float:right; padding:20px;">
+
+<h1>最新のホワイトペーパーをお読みいただきありがとうございます。</h1>
+
+ 
+    <p>サイバーセキュリティの専門家をチームに加えることが重要である理由サイバーセキュリティとビジネスの成功を両立させるためのガイド <a href="https://www.isc2.org//-/media/ISC2/Landing-Pages/2021/qualified-cybersecurity-team-JP/MAR-B2B-CISSP-Whitepaper-Definitive_Guide_to_Cybersecurity_-and-Business_Prosperity_JP_2021_0517-(1).ashx" target="_blank" title="N/A">こちら</a>からダウンロードいただけます。また、メールでもリンクをお送りしますので、いつでもこのリソースにアクセスしていただけます。 </p>
+    
+  <p>世界最大のサイバーセキュリティ専門家資格の非営利団体であるISC2は、企業がサイバーセキュリティを確保し、ビジネスを成功させるための支援を行っています。CISSP（または当社のポートフォリオにある世界的に認められたその他の資格）および企業向けトレーニングソリューションについて我々に<a href="https://www.isc2.org/training/team-consult?utm_source=isc2&utm_medium=asset&utm_campaign=GBL-B2B-Consult&utm_term=cisspqualifiedteamwhitepaper&utm_content=training">ご相談</a>ください。 </p>
+
+<hr>
+<h2>あなたの成功をお祈りしています！</h2>
+  <p>ISC2</p>
+    
+ <p>アメリカ<br>
+  +1 866 331 4722 ext.2 <br>
+<a href="mailto:training@isc2.org">training@isc2.org</a></p>
+    
+ <p>EMEA<br>(欧州・中東・アフリカ)<br>
+  +44 203 960 7800 <br>
+  <a href="mailto:info-emea@isc2.org">info-emea@isc2.org</a> </p>
+    <p>
+APAC地域 <br>
++852-5803-5662<br>
+日本 +81 3 5322 2837<br>
+中国 +86 10 5873 2896<br>
+<a href="mailto:isc2asia@isc2.org">isc2asia@isc2.org</a><br>
+日本 <a href="mailto:infoisc2-j@isc2.org">infoisc2-j@isc2.org</a> / 中国 <a href="mailto:isc2china@isc2.org">isc2china@isc2.org</a>
+</p>

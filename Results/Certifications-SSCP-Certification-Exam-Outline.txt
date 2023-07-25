@@ -110,6 +110,6 @@ part-time work and internships at <a class="link" href="/Certifications/SSCP/exp
 <p>SSCP is in compliance with the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
 
 <h3>Job Task Analysis (JTA)</h3>
-<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the SSCP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the SSCP. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
+<p>ISC2; has an obligation to its membership to maintain the relevancy of the SSCP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the SSCP. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
 
 <hr>

@@ -1,0 +1,10 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">최신 백서를 선택해 주셔서 감사합니다!</h1>
+<img alt="9가지 특성" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2020/qualified-cybersecurity/MAR-CISSP-APAC-Korean-9-Traits-Landing-Page-Banners-230x240.ashx?la=en&amp;hash=34B4C2F89E37D44A55D23502F72731EA8A2160A5">
+ <p>&nbsp;</p>
+
+<p>사이버 보안 리더가 되는 것의 중요성에 대해 관심을 가져주셔서 감사합니다. <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/White-Papers/2020/CISSP-9-Traits-Cyber-Leader-B2C-Whitepaper-KR.ashx?la=en&amp;hash=C546F1F73FBF0431C5C1CBF33E6FB7510522EA9D" target="_blank">이곳</a>에서 백서를 다운로드하세요. 또한, 언제든지 본 리소스에 접근할 수 있도록 링크를 이메일로 보내 드리겠습니다.</p>
+
+<p>세계 최대 규모의 비영리 공인 사이버 보안 전문가들의 협회인 ISC2;는 여러분의 커리어를 통해 전문성을 구축하고 유지할 수 있도록 도와드리겠습니다. 언제든지 연락 주셔서 CISSP 또는 저희 포트폴리오 내 국제적으로 인정받는 기타 자격증에 대해 상담하실 수 있습니다.</p>
+<p>&nbsp;</p>
+<hr>

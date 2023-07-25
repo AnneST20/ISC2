@@ -1,0 +1,18 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Requesting the <em>Cloud Security: The Skills You Need to Rise to the Top</em> eBook! </h1>
+<img alt="Cloud Security: The Skills You Need to Rise to the Top" class="hide-lt-md" style="float: right; width: 230px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/MAR-CCSP-eBook-Rise-to-the-Top-230x240.ashx?la=en&amp;hash=3C33F2FD345156D28C1B921DDC689AABEC1EAD7C">
+
+<p>Thank you for requesting the eBook <em>Cloud Security: The Skills You Need to Rise to the Top</em> from ISC2;, the global leader in information security certification. <a href="/-/media/ISC2/Certifications/CCSP/CCSP-Skills-You-Need-to-Rise-to-the-Top-eBook.ashx?la=en&amp;hash=877ECD14C4991654CB4185D281460C75E826927E" target="_blank" title="Opens in new window">Your complimentary copy is ready to download.</a> We’ll also email the link so you can access this important resource anytime.</p>
+
+<a style="margin-bottom:1em;" class="button button--primary" title="Cloud Security: The Skills You Need to Rise to the Top link opens in a new tab" href="/-/media/ISC2/Certifications/CCSP/CCSP-Skills-You-Need-to-Rise-to-the-Top-eBook.ashx?la=en&amp;hash=877ECD14C4991654CB4185D281460C75E826927E" target="_blank" title="Opens in new window">Download Your Copy</a>
+
+<hr>
+
+<h2>Get The Ultimate Guide</h2>
+<p>Take your next step toward a career in cloud security with <a href="/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPultimateguide&utm_term=skillstoriseebookthankyoupage&utm_content=ultimateguide"><em>The Ultimate Guide to the CCSP</em></a>.</p>
+
+<a style="margin-bottom:1em;" class="button button--primary" title="Ultimate Guide link opens in a new tab" href="/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=skillstoriseebookthankyoupage&utm_content=ultimateguide" target="_blank" title="Opens in new window">Get Your Guide</a>
+
+<hr>
+
+<p><strong>Thinking about training?</strong> Official ISC2; Training is a great way to build the knowledge and confidence needed for CCSP success. Explore our flexible options: <a href="https://enroll.isc2.org/product?catalog=CCSP-SPT-GLOBAL&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSP-OSP&utm_content=training&utm_term=skillstoriseebookthankyoupage" target="_blank" title="Opens in new window">Online Self-Paced</a>, <a href="https://enroll.isc2.org/catalog?pagename=ccsp-training&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPoilschedule&utm_content=training&utm_term=skillstoriseebookthankyoupage" target="_blank" title="Opens in new window">Online Instructor-Led</a> and <a href="https://www.isc2.org/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=CCSP&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPclassroombased&utm_content=training&utm_term=skillstoriseebookthankyoupage" target="_blank" title="Opens in new window">Classroom-Based</a>.</p>

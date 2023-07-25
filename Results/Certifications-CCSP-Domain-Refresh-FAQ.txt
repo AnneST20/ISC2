@@ -6,7 +6,7 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why are changes being made to the CCSP exam?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cloud security professional.</p>
+        <p>ISC2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that ISC2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cloud security professional.</p>
     </div>
 </div>
 <div class="faq">
@@ -103,7 +103,7 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I have been studying for the CCSP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>  <span>(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CCSP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</span></p>
+        <p>  <span>ISC2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CCSP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. ISC2; cannot guarantee you will pass the exam.</span></p>
     </div>
 </div>
 <div class="faq">
@@ -118,7 +118,7 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>What impact do these changes have on ISC2 training materials?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>The updated Official (ISC)&sup2; CCSP Training Course will be available on August 1, 2022.</p>
+        <p>The updated Official ISC2; CCSP Training Course will be available on August 1, 2022.</p>
 <p>&nbsp;</p>
     </div>
 </div>

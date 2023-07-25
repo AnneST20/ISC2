@@ -43,7 +43,7 @@ On rare occasions, the test center may have technical problems. You may need to 
 <p>We know your time is valuable. If your test center identifies technical problems before your exam, they&rsquo;ll make every attempt to contact you.</p>
         <h2 data-jump-link='on' id="95c5a30397504d44a6f53acea3992497" data-jump-text="What to Bring to the Test Center">What You Need to Bring to the Test Center</h2>
 <p><strong>Proper Identification</strong><br>
-(ISC)&sup2; requires two forms of identification (ID) to take your cybersecurity exam. You&rsquo;ll be asked to provide a primary and a secondary ID when you check in at your test center. (ISC)&sup2; also requires you to submit to a palm vein scan*. For more information on the (ISC)&sup2; palm vein scan please review our <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Documents/palm-vein_candidate-isc2.ashx?la=en&amp;hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545">Palm Vein Scan</a> data sheet.</p>
+ISC2; requires two forms of identification (ID) to take your cybersecurity exam. You&rsquo;ll be asked to provide a primary and a secondary ID when you check in at your test center. ISC2; also requires you to submit to a palm vein scan*. For more information on the ISC2; palm vein scan please review our <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Documents/palm-vein_candidate-isc2.ashx?la=en&amp;hash=81AA2EBBB2CC5A15AAA722BAE844CD5384034545">Palm Vein Scan</a> data sheet.</p>
 <p>Here&rsquo;s what you need to know:</p>
 <ul>
     <li>Your IDs must be <strong>valid</strong> (not expired).</li>
@@ -86,7 +86,7 @@ Weapons are not allowed at the test center. If you bring a weapon (or something 
     <li>Divorce decrees</li>
     <li>Court-sanctioned legal name change documents</li>
 </ul>
-<p>If you made a mistake with how you registered your name with Pearson VUE, you must contact (ISC)&sup2; to make a correction <strong>before</strong> your test date.</p>
+<p>If you made a mistake with how you registered your name with Pearson VUE, you must contact ISC2; to make a correction <strong>before</strong> your test date.</p>
 <p>Name changes cannot be made on your test day, including at the test center. If your names don&rsquo;t match, you&rsquo;ll be asked to leave. You&rsquo;ll also forfeit your testing fee.</p>
         <h2 data-jump-link='on' id="223f66df4afc4463bf0a264c834cb1a9" data-jump-text="Late Arrivals or No Shows">Late Arrivals or No Shows</h2>
 <p>Be sure to arrive at least 30 minutes before your exam start time.</p>

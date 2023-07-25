@@ -1,0 +1,29 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Requesting The Ultimate Guide to the ISSAP!</h1>
+<p><img class="hide-lt-md" alt="" src="/-/media/ISC2/thank-you/MAR-ISSAP-UG-Cover-230x240.ashx?la=en&amp;hash=509A205DDFD88F524773862D72D90340AF0E172A" style="float:right; padding:0 20px; margin-top: -20px;"></p>
+<p>Thank you for requesting <a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideISSAP.ashx?la=en&amp;hash=6BF5E97FDF2E9B3952D32075B3AB9B61B76BF3FD" target="_blank"><strong>The Ultimate Guide to the ISSAP</strong></a> from ISC2. Your complimentary copy is ready to download. We’ll also email the link so you can access this important resource anytime.</p>
+
+<a class="button button--primary" href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideISSAP.ashx?la=en&amp;hash=6BF5E97FDF2E9B3952D32075B3AB9B61B76BF3FD" target="_blank">Download Your Copy</a>
+
+<h2 style="clear: both;">Two FREE resources to get you started</h2>
+<p>Congratulations on your decision to enhance your CISSP skills with the ISSAP concentration! We understand it’s a big commitment, that’s why we stand ready to help you get on track for success.</p>
+
+<p>To help you dive in with confidence, we have two FREE resources at your disposal:</p>
+<ol>
+<li><a href="/Training/Self-Study-Resources/Flashcards/CISSP-ISSAP?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-ISSAPflashcards&utm_term=issapugthankyoupage&utm_content=flashcards" target="_blank">ISSAP Interactive Flash Cards</a></li>
+<li><a href="/-/media/ISC2/Certifications/Exam-Outlines/CISSP-ISSAP-Exam-Outline-v0120.ashx?la=en&amp;hash=61566B244E7B9638118BE9BBC6900F95C2C02F79" target="_blank">ISSAP Exam Outline</a></li>
+</ol>
+
+<hr>
+
+<h2 style="clear: both;">Take the next step</h2>
+
+<p>Explore our official <a href="https://enroll.isc2.org/product?catalog=ISSAP-SPT-GLOBAL" target="_blank">online self-paced</a> training course.</p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

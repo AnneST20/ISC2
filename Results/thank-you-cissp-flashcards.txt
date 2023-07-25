@@ -1,0 +1,22 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Downloading CISSP Flash Cards!</h1>
+<p>You will receive an email with links to access flash cards for each domain. In the meantime, test your knowledge of <a href="/Training/Self-Study-Resources/CISSP/Domain-1" title="CISSP Domain 1"><strong>Domain 1</strong></a>.</p>
+<hr>
+
+<h2>Study smarter, not harder</h2>
+<p>Everyone has their own style of learning. That’s why we offer three options to help guide you in CISSP certification. Experience new learning with recently enhanced Official ISC2 CISSP Training options.</p>
+<p>AI-driven adaptive Official ISC2 Online Self-Paced CISSP Training identifies specific areas requiring further study so you know exactly where to focus as you prepare for exam day.</p>
+
+<p><a href="https://enroll.isc2.org/product?catalog=CISSP-SPT-GLOBAL&utm_source=isc2&utm_medium=asset&utm_campaign=GBL-CISSPosp&utm_term=cisspflashcardstyp&utm_content=training" class="utm-tag button button--primary" target="_blank">Get Started</a></p>
+
+<p>Progress through the Official ISC2 Online Instructor-Led CISSP training course domain-by-domain with content that’s organized to align specifically to the CISSP CBK® domains to be easier-to-follow. Receive live virtual instruction from an ISC2 Authorized Instructor and collaborate with classmates in a virtual classroom.</p>
+
+<p><a href="https://enroll.isc2.org/catalog?pagename=cissp-training&utm_source=isc2&utm_medium=asset&utm_campaign=GBL-CISSPoilschedule&utm_term=cisspflashcardstyp&utm_content=training" class="utm-tag button button--primary" target="_blank">Register Now</a></p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

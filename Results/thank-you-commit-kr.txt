@@ -1,0 +1,7 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">성공으로 향하는 길!</h1>
+<p>
+<a href="/-/media/ISC2/Landing-Pages/2022/KR/MAR-Exam-Action-Plan-Brochure-KR.ashx?la=en&amp;hash=3CE5A4EA577C498FCA1FA600FD559CB01FF23998" target="_blank">ISC2; Exam Action Plan</a>을 다운로드해 주셔서 감사합니다! 다음 단계는 무엇일까요?</p>
+<p><a rel="noopener noreferrer" href="https://korea.pearsonvue.com/Clients/ISC2.aspx" target="_blank">시험을 등록하십시오.</a> </p>
+
+<p>성공하기 위해서 시험 날짜로부터 역순으로 스터디 계획을 세워보세요. 중대한 결정이지만, 해낼 수 있습니다! 궁금한 사항이 있으시면,&nbsp;<a href="https://www.isc2.org/training/consult?utm_campaign=APAC-B2C-Consult&utm_source=isc2web&utm_medium=textlink&utm_content=thankyoupage&utm_term=commit">언제든지 문의하십시오.</a>&nbsp;여정의 모든 단계에서 동기 부여가 되고 궤도에서 벗어나지 않도록 저희가 지속적으로 연락드리고 함께 할 예정입니다.</p>

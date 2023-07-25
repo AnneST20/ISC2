@@ -1,0 +1,48 @@
+<style>
+    @media only screen and (max-width: 768px) {
+    .ug-questions {
+    text-align: center;
+    }
+    }
+    main .container {
+    border-radius: 20px;
+    padding-bottom: 20px;
+    }
+</style>
+<p><img alt="" src="/-/media/ISC2/Certifications/SSCP/SSCP-Webcast-Series-230x240-Banner-20210408.ashx?la=en&amp;hash=DDEE0E239EEC597D1582D47CC9B8C7A24152A161" width="100%" style="width: 230px; height: 230px; float: right; padding: 10px;"></p>
+<p>Thank you for your interest our SSCP Webcast Series. You will receive an email with links to each of the chapters within the series. </p>
+<p>In the meantime, here they are to get you started. Please note you will need to create an account in the BrightTalk webinar platform one time in order to access the webcasts below:
+</p>
+<ol start="1" style="list-style-type: decimal;">
+    <li><a href="https://www.brighttalk.com/webcast/260/357186?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357186" title="https://www.brighttalk.com/webcast/260/357186?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357186">Introducing Security and Aligning Asset Management to Risk&nbsp;Management</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357188?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357188" title="https://www.brighttalk.com/webcast/260/357188?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357188">Understanding Risk Management Options and the Use of Access Controls to Protect Assets<strong></strong></a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357189?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357189" title="https://www.brighttalk.com/webcast/260/357189?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357189">Cryptography&nbsp;</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357191?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357191" title="https://www.brighttalk.com/webcast/260/357191?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357191">Securing Software, Using Security Protocols and Securing Remote Users</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357196?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357196">Networking&nbsp;</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357192?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357192">Security Testing and Incident Handling</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/357194?utm_source=(isc)2&amp;utm_medium=brighttalk&amp;utm_campaign=357194">Physical Security, Managing Change and Personnel Training</a></li>
+</ol>
+<p>
+<em>ISC2; Members: These webcasts do not meet the 1-hour requirement for earning CPE credit.</em>
+</p>
+<hr>
+<p><img alt="" src="/-/media/ISC2/Certifications/CISSP/2021/MAR-CISSP-Banners-Snap_App_Quiz-230x240-20210303.ashx?la=en&amp;hash=CB14D174CA18559B80A4CCD84DB2B1F25C28A151" style="width: 230px; height: 240px; float: left; padding: 10px;"></p>
+<p><strong>Test Your SSCP Knowledge!</strong><br>
+Are you studying for the SSCP exam? The <a href="/certifications/quiz?campaign=H-HQ-SSCPquiz&amp;utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-SSCPquiz&amp;utm_term=sscpwebcastseries&amp;utm_content=snapapp">SSCP practice quiz</a> is a helpful (FREE) study tool that allows you to identify knowledge gaps you might have in each domain. Your quiz results will allow you to refine your study strategy, so you can show up on test day ready to take the SSCP exam with confidence.</p>
+<a href="/certifications/quiz?campaign=H-HQ-SSCPquiz&utm_source=isc2&utm_medium=button&utm_campaign=GBL-SSCPquiz&utm_term=sscpwebcastseries&utm_content=snapapp" class="utm-tag button button--block button--xlg button--primary" style="max-width: 200px;">TAKE THE QUIZ</a>
+<br>
+<br>
+<br>
+<hr>
+<p><img alt="" src="/-/media/ISC2/Certifications/SSCP/MARKETING-CERT-SSCP-Free-FlashCard-Banner-230X190-20200330.ashx?la=en&amp;hash=00FCADD0C14A5BCB156F7992D5800D19495D2D4A" style="width: 230px; height: 190px; float: right; padding: 10px;"></p>
+<p><strong>Are You Ready for the Exam?</strong><br>
+Now you can study for the SSCP exam anytime, anywhere using Official ISC2; <a href="/Training/Self-Study-Resources/Flashcards/SSCP?utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-SSCPflashcards&amp;utm_term=sscpwebcastseries&amp;utm_content=flashcards">SSCP Flash Cards</a>. This FREE interactive self-study tool tests knowledge across all six SSCP domains and gives you immediate feedback to reinforce learning.</p>
+<p><a href="/Training/Self-Study-Resources/Flashcards/SSCP?utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-SSCPflashcards&amp;utm_term=sscpwebcastseries&amp;utm_content=flashcards" class="utm-tag button button--block button--xlg button--primary" style="max-width: 200px;">ACCESS TODAY</a></p>
+<br>
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

@@ -1,0 +1,14 @@
+<div style="margin-top: 10px; min-height: 300px; width: 100%; text-align: left;">
+<a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/2020/CSSLP-eBook/CSSLP-eBook-Art-Science-Secure-Software-Development.ashx?la=en&amp;hash=313B9FC4C94BD524F28A5B04160DD8D5E8D67F17"><img alt="CSSLP Certification - Art and Science of Secure Software Development" src="/-/media/ISC2/Landing-Pages/2020/CSSLP-eBook/CSSLP-Banners-Internal-Art-Science-Secure-Software-Development-230x150.ashx?w=226&amp;la=en&amp;hash=C9CE66B873257E5F2F69FC8818795CA8133F1A9B" style="width: 226px; float: right; margin-left: 25px;"></a>
+<h1 style="color: #fdba12;"><strong>Thanks for Downloading the CSSLP eBook!</strong></h1>
+<p>Thank you for your interest in CSSLP certification and how it can help you succeed in your professional endeavors. Its value is surging as organizations strive to understand the art and science of secure software development.</p>
+<a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" class="button button--primary" href="/-/media/ISC2/Landing-Pages/2020/CSSLP-eBook/CSSLP-eBook-Art-Science-Secure-Software-Development.ashx?la=en&amp;hash=313B9FC4C94BD524F28A5B04160DD8D5E8D67F17">GET MY EBOOK</a></div>
+<br>
+<hr size="1">
+<p>To learn more about CSSLP training and certification, please contact our team in your region.</p>
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

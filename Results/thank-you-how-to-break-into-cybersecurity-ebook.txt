@@ -1,0 +1,22 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank you for requesting the eBook!</h1>
+<p><a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/Candidate-Breaking-into-Cybersecurity-eBook.ashx?la=en&amp;hash=E398409DEA9CC35E024D5DAD1E4EA0D7046D96F5" target="_blank"><img class="hide-lt-md" alt="2022 Cyberthreat Defense Report image" width="230" src="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/MAR-Candidate-Break-into-Cybersecurity-eBook-230x240-cover.ashx?la=en&amp;hash=A0F755A7548F1EEE423B4C37C551BF32EE77D559" style="float:right; padding:20px; position: relative;"></a></p>
+<p>Thank you for requesting the eBook, Breaking into Cybersecurity, from ISC2, the global leader in cybersecurity certification. Your complimentary copy is ready to <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/Candidate-Breaking-into-Cybersecurity-eBook.ashx?la=en&amp;hash=E398409DEA9CC35E024D5DAD1E4EA0D7046D96F5" target="_blank">download</a>. We’ll also email the link so you can access this important resource anytime.</p>
+<p><a class="button button--primary" href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/Candidate-Breaking-into-Cybersecurity-eBook.ashx?la=en&amp;hash=E398409DEA9CC35E024D5DAD1E4EA0D7046D96F5" target="_blank">Download Your Copy</a></p>
+
+<hr>
+
+<p style="clear: both;"><strong>Did you know?</strong> As part of our <a href="/1mcc?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-1M-AW&utm_term=breakingintocyberebooktyp&utm_content=onemillion">One Million Certified in Cybersecurity</a> initiative to help close the workforce gap, ISC2 Candidates access free Official ISC2 Online Self-Paced Training for Certified in Cybersecurity (CC) and a free exam.</p>
+<p><a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=breakingintocyberebooktyp&utm_content=candidate">Sign up now.</a> Your first year is free — no cost to you.*</p>
+<p><a class="button button--primary" href="/candidate?utm_source=isc2&utm_medium=button&utm_campaign=GBL-Candidate&utm_term=breakingintocyberebooktyp&utm_content=candidate">Get Started</a></p>
+
+<p><em>*If you choose to renew after the first year, U.S. $50 due annually.</em></p>
+
+<hr>
+
+<h2>Next Step: Get the Ultimate Guide</h2>
+<p>Take your next step toward a career in cybersecurity with <a href="https://cloud.connect.isc2.org/cc-ultimate-guide?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCultimateguide&utm_term=breakingintocyberebooktyp&utm_content=ultimateguide" target="_blank">The Ultimate Guide to Certified in Cybersecurity: The Entry-Level Credential for Tomorrow's Cybersecurity Leaders</a>. Find out how CC and ISC2 can help you discover your certification path, create your plan and acquire the knowledge and skills for a successful career.</p>
+
+<p><a class="button button--primary" href="https://cloud.connect.isc2.org/cc-ultimate-guide?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCultimateguide&utm_term=breakingintocyberebooktyp&utm_content=ultimateguide" target="_blank">Get Your Guide</a></p>
+
+<hr>

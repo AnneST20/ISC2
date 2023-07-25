@@ -9,7 +9,7 @@
 </div>
 <div style="clear: both;">&nbsp;</div>
 <div class="faq-marker">A:</div>
-<div class="faq-text">(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cybersecurity architecture professional.</div>
+<div class="faq-text">ISC2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that ISC2; follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing cybersecurity architecture professional.</div>
 </div>
 <div class="faq">
 <div class="faq-marker">Q:</div>
@@ -158,7 +158,7 @@
 <div class="faq">
 <div class="faq-marker">Q:</div>
 <div class="faq-text question">
-<p><strong>Why do domains for (ISC)&sup2; credential exams change?</strong></p>
+<p><strong>Why do domains for ISC2; credential exams change?</strong></p>
 </div>
 <div style="clear: both;">&nbsp;</div>
 <div class="faq-marker">A:</div>
@@ -198,7 +198,7 @@
 </div>
 <div style="clear: both;">&nbsp;</div>
 <div class="faq-marker">A:</div>
-<div class="faq-text">(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CISSP-ISSAP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</div>
+<div class="faq-text">ISC2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CISSP-ISSAP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. ISC2; cannot guarantee you will pass the exam.</div>
 </div>
 <div class="faq">
 <div class="faq-marker">Q:</div>

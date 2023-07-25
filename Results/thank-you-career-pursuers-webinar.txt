@@ -1,0 +1,24 @@
+<h1>Thank You for Requesting the Cybersecurity Career Pursuers Study</h1>
+<img alt="" src="/-/media/ISC2/Landing-Pages/2021/enterprisewebinar/Comms-Cybersecurity-Pursuers-Report-COVER-b.ashx?la=en&amp;hash=E144EA0752C7D7D1A212971564E99B494F9AC883" style="width: 226px; float: left; margin-right: 25px; margin-bottom: 25px; position: relative;">
+<p>Thank you for requesting the <em>ISC2 Cybersecurity Career Pursuers Study</em>. Your complimentary copy is ready to <a href="/-/media/ISC2/Research/2021/CybersecurityCareerPursuers-Study.ashx?la=en&amp;hash=BD6E6CD06F87441E8740CE7B4A3C603E7F202435" target="_blank">download</a>. We’ll also email the link so you can access this important resource anytime.</p>
+<p><a class="button button--primary" title="Link opens in a new tab" href="/-/media/ISC2/Research/2021/CybersecurityCareerPursuers-Study.ashx?la=en&amp;hash=BD6E6CD06F87441E8740CE7B4A3C603E7F202435" target="_blank">Download Your Copy</a></p>
+
+<hr>
+
+<h2>Cybersecurity Hiring Managers: Get Research-Based Best Practices</h2>
+<img alt="Arm Your Team to Secure the Enterprise" src="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/Research/2022/COMMS-Hiring-Managers-Report-Feature-Image-230x240.ashx?la=en&amp;hash=D7F0AEA2F0CE66A816D691A735F9E03A9A35FA4A" style="width: 226px; float: right; margin-left: 25px; margin-bottom: 25px; position: relative;">
+<p>Recruiting experienced candidates for cybersecurity positions remains a top challenge for most organizations. ISC2 research reveals how cybersecurity hiring managers recruit and support the career development of entry- and junior-level practitioners.</p>
+<p><a class="button button--primary" target="_blank" href="https://cloud.connect.isc2.org/Cybersecurity-Hiring-Managers-Guide?utm_source=isc2&utm_medium=button&utm_campaign=GBL-b2bcyberhiringguide&utm_term=careerpursuersreporttyp&utm_content=ebook">Download the Guide</a></p>
+
+<hr>
+
+<h2>Prepare, Certify and Develop Your Greatest Assets – Your Team</h2>
+<p>Our comprehensive portfolio of cybersecurity certifications aligns with a wide range of experience and skill levels to help build a united front you can count on. Learn more about official ISC2 cybersecurity team training and certification.</p>
+<p><a rel="noopener" title="Link opens in a new tab" target="_blank" class="button button--primary" href="/Training/Enterprise-Solutions?utm_source=isc2&utm_medium=button&utm_campaign=GBL-B2Btraining&utm_term=careerpursuersreporttyp&utm_content=training">Explore Team Training</a></p>
+
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 3 | <a href="mailto:teamtraining@isc2.org"><span style="color: #253e51;">teamtraining@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

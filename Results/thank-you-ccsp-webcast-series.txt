@@ -1,0 +1,44 @@
+<style>
+    @media only screen and (max-width: 768px) {
+    .ug-questions {
+    text-align: center;
+    }
+    }
+    main .container {
+    border-radius: 20px;
+    padding-bottom: 20px;
+    }
+</style>
+<p><img alt="CCSP Webcast Series" src="/-/media/ISC2/Certifications/CCSP/CCSP-Webcast-Series/MAR-CCSP-Webcast-Banners-230x240.ashx?la=en&amp;hash=45D405083366EE24076E5991511C221B6731D3E3" style="float: right; padding: 15px;  height:240px;width:auto;"></p>
+<p>Thank you for your interest our CCSP Webcast Series.&nbsp;You will receive an email with links to each of the chapters within the series.</p>
+<p>In the meantime, here they are to get you started. Please note, you will need to create an account in the BrightTalk webinar platform one time in order to access the webcasts below:</p>
+<ol>
+    <li><a href="https://www.brighttalk.com/webcast/260/381133?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381133" target="_blank">Cloud Concepts, Architecture and Design</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/381129?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381129" target="_blank">Legal, Risk and Compliance</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/381219?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381219" target="_blank">Cloud Data Security</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/381220?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381220" target="_blank">Cloud Platform &amp; Infrastructure Security</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/381223?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381223" target="_blank">Cloud Application Security</a></li>
+    <li><a href="https://www.brighttalk.com/webcast/260/381109?utm_source=isc2&amp;utm_medium=brighttalk&amp;utm_campaign=381109" target="_blank">Cloud Security Operations</a></li>
+</ol>
+<p><em>ISC2; Members: These webcasts do not meet the 1-hour requirement for earning CPE credit.</em></p>
+<hr>
+
+<p><img alt="" src="/-/media/ISC2/Certifications/CISSP/2021/MAR-CISSP-Banners-Snap_App_Quiz-230x240-20210303.ashx?la=en&amp;hash=CB14D174CA18559B80A4CCD84DB2B1F25C28A151" style="width: 230px; height: 240px; float: left; padding: 10px;"></p>
+<p><strong>Test Your CCSP Knowledge!</strong><br>
+Are you studying for the CCSP exam? The <a href="/certifications/quiz?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPquiz&utm_term=CCSPwebcastseries&utm_content=snapapp">CCSP practice quiz</a> is a helpful (FREE) study tool that allows you to identify knowledge gaps you might have in each domain. Your quiz results will allow you to refine your study strategy, so you can show up on test day ready to take the CCSP exam with confidence.</p>
+<a href="/certifications/quiz?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPquiz&utm_term=CCSPwebcastseries&utm_content=snapapp" class="utm-tag button button--block button--xlg button--primary" style="max-width: 200px;">TAKE THE QUIZ</a>
+<br><br><br>
+<hr>
+
+<p><img alt="" src="/-/media/ISC2/Certifications/CCSP/CCSP-Webcast-Series/CCSP-Free-FlashCards-230x190.ashx?la=en&amp;hash=A8C885D452916E5A2F345CC5CBD4AF4CE3483E98" style="width: 230px; height: 190px; float: right; padding: 10px;"></p>
+<p><strong>Are You Ready for the Exam?</strong><br>
+Now you can study for the CCSP exam anytime, anywhere using Official ISC2; <a href="/Training/Self-Study-Resources/Flashcards/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPflashcards&utm_term=CCSPwebcastseries&utm_content=flashcards">CCSP Flash Cards</a>. This FREE interactive self-study tool tests knowledge across all six CCSP domains and gives you immediate feedback to reinforce learning.</p>
+<p><a href="/Training/Self-Study-Resources/Flashcards/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPflashcards&utm_term=CCSPwebcastseries&utm_content=flashcards" class="utm-tag button button--block button--xlg button--primary" style="max-width: 200px;">ACCESS TODAY</a></p>
+<br>
+
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

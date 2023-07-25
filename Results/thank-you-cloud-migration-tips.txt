@@ -1,0 +1,24 @@
+<h1 style="color:#549eba;">Thanks for Requesting Our Latest Cloud Security&nbsp;eBook!</h1>
+<br>
+<a href="/-/media/ISC2/Landing-Pages/2021/CCSP-eBook/CCSP-eBook-20-Tips-for-Secure-Cloud-Migration.ashx?la=en&amp;hash=B22F1617B19EAD0DA940AD23C06245A6F392880B" target="_blank" title="Opens in new window"><img alt="CCSP White Paper eBook Feature" class="hide-lt-md" style="float: left; width: 230px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-eBook/CCSP-eBook-Feature-Banner-eBook-230x240.ashx?la=en&amp;hash=37EEF155D1266E826FE376C05FEE7165EB41446B"></a>
+<p>Thank you for your interest in <em>20 Tips for Secure Cloud Migration</em>. Here is your <a href="/-/media/ISC2/Landing-Pages/2021/CCSP-eBook/CCSP-eBook-20-Tips-for-Secure-Cloud-Migration.ashx?la=en&amp;hash=B22F1617B19EAD0DA940AD23C06245A6F392880B" target="_blank" title="Opens in new window">complimentary copy</a>. We’ll also email you the link, so you can access this resource anytime.</p>
+<p><a href="/-/media/ISC2/Landing-Pages/2021/CCSP-eBook/CCSP-eBook-20-Tips-for-Secure-Cloud-Migration.ashx?la=en&amp;hash=B22F1617B19EAD0DA940AD23C06245A6F392880B" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">DOWNLOAD YOUR COPY</a></p>
+<p>As the world’s largest nonprofit association of certified cybersecurity professionals, ISC2; is here to help you build critical skills that ensure cybersecurity and business prosperity. Our CCSP credential recognizes mastery in the field, proving you’re at the forefront of cloud security.</p>
+<p>&nbsp;</p>
+<img alt="CCSP Ultimate Guide 3D Preview" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/CCSP-UltimateGuideV2-3D-right-web.ashx?la=en&amp;hash=9A2CB3D1F29DCA2076F9F86267C0DC383C4CFE93">
+<h2>Elevate Your Cloud Security</h2>
+<p>The <a rel="noopener noreferrer" target="_blank" title="Opens in new window" href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=cloudmigrationebook&utm_content=ultimateguide ">Ultimate Guide to the CCSP</a> covers everything to know about the industry’s premier cloud security certification. Download a copy to explore more.</p>
+<p><a rel="noopener noreferrer" href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=cloudmigrationebook&utm_content=ultimateguide " target="_blank" title="Opens in new window" class="button button--legacy-light-blue">GET THE ULTIMATE GUIDE</a></p>
+<hr>
+<p>&nbsp;</p>
+<img alt="Enterprise Cybersecurity Guide 3D Preview" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Email/WEBINAR-ASSETS/MAR-Enterprise-Cybersecurity-Banner-230x240.ashx?la=en&amp;hash=4DEAFA4DEB898590C1E63A245BB3E15D48C20A4F">
+<h2>Prepare for Tomorrow’s Threats Today</h2>
+<p>Cybersecurity professionals must keep learning to effectively perform in today’s constantly changing business and technical landscapes. The <a rel="noopener noreferrer" target="_blank" title="Opens in new window" href="https://www.isc2.org/enterpriseebook?utm_source=isc2&utm_medium=button&utm_campaign=GBL-enterpriseebook&utm_term=cloudmigrationebook&utm_content=ebook">Enterprise Guide to Establishing a Cybersecurity Training Program eBook will</a> covers everything to know about the industry’s premier cloud security certification. Download a copy to explore more.</p>
+<p><a rel="noopener noreferrer" href="https://www.isc2.org/enterpriseebook?utm_source=isc2&utm_medium=button&utm_campaign=GBL-enterpriseebook&utm_term=cloudmigrationebook&utm_content=ebook " target="_blank" title="Opens in new window" class="button button--legacy-light-blue">Get The Enterprise Guide</a></p>
+<hr>
+<p>&nbsp;</p>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

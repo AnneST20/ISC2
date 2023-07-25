@@ -96,7 +96,7 @@ border-radius: 0 !important;
 </style>
 
         <h2 data-jump-link='off' id="1d8bb50f2dd04e39aa1562500e18354b" data-jump-text="">About CCSP</h2>
-<p>(ISC)&sup2; developed the Certified Cloud Security Professional (CCSP) credential to ensure that cloud security professionals have the required knowledge, skills, and abilities in cloud security design, implementation, architecture, operations, controls, and compliance with regulatory frameworks. A CCSP applies information security expertise to a cloud computing environment and demonstrates competence in cloud security architecture, design, operations, and service orchestration. This professional competence is measured against a globally recognized body of knowledge.</p>
+<p>ISC2; developed the Certified Cloud Security Professional (CCSP) credential to ensure that cloud security professionals have the required knowledge, skills, and abilities in cloud security design, implementation, architecture, operations, controls, and compliance with regulatory frameworks. A CCSP applies information security expertise to a cloud computing environment and demonstrates competence in cloud security architecture, design, operations, and service orchestration. This professional competence is measured against a globally recognized body of knowledge.</p>
 <p>The topics included in the CCSP Common Body of Knowledge (CBK) ensure its relevancy across all disciplines in the field of cloud security. Successful candidates are competent in the following six domains:</p>
 
 <div class="row ul-cols">
@@ -118,13 +118,13 @@ border-radius: 0 !important;
 </div>
 <h3>Experience Requirements</h3>
 <p>Candidates must have a minimum of five years cumulative paid work experience in information technology, of which three years must be in information security and one year in one or more of the six domains of the CCSP CBK. Earning CSA’s CCSK certificate can be substituted for one year of experience in one or more of the six domains of the CCSP CBK. Earning the CISSP credential can be substituted for the entire CCSP experience requirement.</p>
-<p>A candidate that doesn’t have the required experience to become a CCSP may become an Associate of (ISC)&sup2; by successfully passing the CCSP examination. The Associate of (ISC)&sup2; will then have six years to earn the five years required experience. You can learn more about CCSP experience requirements and how to account for part-time work and internships at <a href="/Certifications/CCSP/experience-requirements">www.isc2.org/Certifications/CCSP/experience-requirements</a>.</p>
+<p>A candidate that doesn’t have the required experience to become a CCSP may become an Associate of ISC2; by successfully passing the CCSP examination. The Associate of ISC2; will then have six years to earn the five years required experience. You can learn more about CCSP experience requirements and how to account for part-time work and internships at <a href="/Certifications/CCSP/experience-requirements">www.isc2.org/Certifications/CCSP/experience-requirements</a>.</p>
 
 <h3>Accreditation</h3>
 <p>CCSP is in compliance with the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
 
 <h3>Job Task Analysis (JTA)</h3>
-<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the CCSP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the CCSP. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals focusing on cloud technologies.</p>
+<p>ISC2; has an obligation to its membership to maintain the relevancy of the CCSP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the CCSP. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals focusing on cloud technologies.</p>
 
 <hr>
 <a href="/landing/ccsp-path?utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-CCSPpath&amp;utm_term=ccspoverviewpage&amp;utm_content=training"><img id="cta1" alt="3 Ways to Train" src="/-/media/ISC2/Certifications/Marketing-CTAs/CCSP-3-Ways-to-Train-Campaign-Banner-1120x300.ashx?la=en&amp;hash=34FDB1CF2427141063F803D5D1278A3DF667C242"><img id="ctaMobile1" style="width:100%;" alt="3 Ways to Train" src="/-/media/ISC2/Certifications/Marketing-CTAs/CCSP-3-Ways-to-Train-Campaign-Banner-490x300.ashx?la=en&amp;hash=2F60EE6AC890688DE8B4CD35B6B6921DC6C67F18"></a>

@@ -1,0 +1,4 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Downloading the ISC2 Enterprise Training Guide!</h1>
+<p>Thanks for your interest in our <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/eBook-Enterprise-Cybersecurity-Training.ashx?la=en&amp;hash=E1DD5A1B45C31D56EB655358413FBAE77868F67D">Enterprise Guide to Establishing a Cybersecurity Training Program</a> eBook.</p>
+<p>As the world&rsquo;s largest nonprofit association of certified cybersecurity professionals, ISC2; is here to help you develop and implement a training and certification program that maps to your unique needs and strategy. Have questions? <a href="/training/team-consult?utm_source=isc2list&amp;utm_medium=email&amp;utm_campaign=GBL-B2B-Consult&amp;utm_term=enterpriseebook&amp;utm_content=ebook">Reach out anytime</a>.</p>

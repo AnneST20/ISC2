@@ -1,0 +1,28 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Requesting The Ultimate Guide to the CSSLP!</h1>
+<p><img class="hide-lt-md" alt="" src="/-/media/ISC2/Landing-Pages/2023/MAR-UG-to-CSSLP-Banner-Cover-230x240.ashx?la=en&amp;hash=018D31279832722F7B3C65C69E3DDF65662C0395" style="float:right; padding:0 20px; margin-top: -20px;"></p>
+<p>Thank you for requesting <a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCSSLP-Web.ashx?la=en&amp;hash=8C84A417BC02C87DC34EC5D361AB75503924B7BF" target="_blank"><strong>The Ultimate Guide to the CSSLP</strong></a> from ISC2, the global leader in information security certification. Your complimentary copy is ready to download. We’ll also email the link so you can access this important resource anytime.</p>
+
+<a class="button button--primary" href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCSSLP-Web.ashx?la=en&amp;hash=8C84A417BC02C87DC34EC5D361AB75503924B7BF" target="_blank">Download Your Copy</a>
+
+<h2 style="clear: both;">Next Step: Become a Candidate</h2>
+<p>Start strong on your path to CSSLP certification as an <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=csslpugtyp&utm_content=candidate" class="utm-tag">ISC2 Candidate</a>. You’ll gain access to exclusive benefits, including 20% off Official (ISC)2 Training so you can start preparing for the exam. More benefits include:</p>
+<ul>
+<li>Professional development</li>
+<li>Events</li>
+<li>Peer-to-peer networking</li>
+<li>Volunteer opportunities and more!</li>
+</ul>
+
+<p><a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=csslpugtyp&utm_content=candidate" class="utm-tag">Sign up now.</a> Your first year is free — no cost to you.*<br>
+<em>*If you choose to renew after the first year, U.S. $50 due annually.</em></p>
+
+<p><a class="button button--primary utm-tag" href="/candidate?utm_source=isc2&utm_medium=button&utm_campaign=GBL-Candidate&utm_term=csslpugtyp&utm_content=candidate">Get Started</a></p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

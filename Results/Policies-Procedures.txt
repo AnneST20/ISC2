@@ -1,22 +1,22 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">Policies and Procedures</h1>
-<p>As the premier maintenance and certification body for the information security industry, (ISC)&sup2; takes rigorous precautions and has strict policies governing access to this website, the handling and privacy of data, and non-discrimination.</p>
+<p>As the premier maintenance and certification body for the information security industry, ISC2; takes rigorous precautions and has strict policies governing access to this website, the handling and privacy of data, and non-discrimination.</p>
 <ul>
-<li><a href="/Policies-Procedures/Member-Policies">(ISC)&sup2; Member Policies</a></li>
-<li><a href="/Exams">(ISC)&sup2; Exam Policies and Procedures</a></li>
+<li><a href="/Policies-Procedures/Member-Policies">ISC2; Member Policies</a></li>
+<li><a href="/Exams">ISC2; Exam Policies and Procedures</a></li>
 <li><a href="/Policies-Procedures/Candidate-Policies">ISC2 Candidate Maintenance Policy</a></li>
-<li><a href="/Policies-Procedures/Privacy-Center">(ISC)&sup2; Privacy Center</a></li>
-<li><a href="/Policies-Procedures/Privacy-Policy">(ISC)&sup2; Privacy Policy</a></li>
-<li><a href="/Policies-Procedures/Non-Discrimination-Policy">(ISC)&sup2; Impartiality and Non-Discrimination Policies</a></li>
-<li><a href="/Policies-Procedures/Website-Access-Policy">(ISC)&sup2; Website Access Policy</a></li>
-<li><a href="/Policies-Procedures/Copyright-Information">(ISC)&sup2; Intellectual Property/Copyright</a></li>
-<li><a href="/Policies-Procedures/Member-Communications-Policy">(ISC)&sup2; Member Communications Policy</a></li>
-<li><a href="/Policies-Procedures/Cookies-Policy">(ISC)&sup2; Use of "Cookies"</a></li>
-<li><a href="/Policies-Procedures/Credit-Card-Policy">(ISC)&sup2; Credit Card Policy</a></li>
-<li><a href="/About/Governance">(ISC)&sup2; Governance and Board of Directors Policies</a></li>
-<li><a href="/Policies-Procedures/Board-Communications-Policy">(ISC)&sup2; Board of Directors Communications Policy</a></li>
-<li><a href="/Policies-Procedures/Social-Media-Policy">(ISC)&sup2; Social Media Policy</a></li>
+<li><a href="/Policies-Procedures/Privacy-Center">ISC2; Privacy Center</a></li>
+<li><a href="/Policies-Procedures/Privacy-Policy">ISC2; Privacy Policy</a></li>
+<li><a href="/Policies-Procedures/Non-Discrimination-Policy">ISC2; Impartiality and Non-Discrimination Policies</a></li>
+<li><a href="/Policies-Procedures/Website-Access-Policy">ISC2; Website Access Policy</a></li>
+<li><a href="/Policies-Procedures/Copyright-Information">ISC2; Intellectual Property/Copyright</a></li>
+<li><a href="/Policies-Procedures/Member-Communications-Policy">ISC2; Member Communications Policy</a></li>
+<li><a href="/Policies-Procedures/Cookies-Policy">ISC2; Use of "Cookies"</a></li>
+<li><a href="/Policies-Procedures/Credit-Card-Policy">ISC2; Credit Card Policy</a></li>
+<li><a href="/About/Governance">ISC2; Governance and Board of Directors Policies</a></li>
+<li><a href="/Policies-Procedures/Board-Communications-Policy">ISC2; Board of Directors Communications Policy</a></li>
+<li><a href="/Policies-Procedures/Social-Media-Policy">ISC2; Social Media Policy</a></li>
 <li><a href="/Training/Seminar-Cancellation-Refund-Policy">Seminars Cancellation/Refund Policy</a></li>
 </ul>
 
-<p>Should you have any questions about any (ISC)&sup2; policy, please contact <a href="mailto:notice@isc2.org">notice@isc2.org</a>.</p>
+<p>Should you have any questions about any ISC2; policy, please contact <a href="mailto:notice@isc2.org">notice@isc2.org</a>.</p>

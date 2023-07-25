@@ -1,0 +1,18 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Requesting the 2023 Cyberthreat Defense Report</h1>
+<p><a href="/-/media/ISC2/Research/Cyberthreat-Defense-Report/2021/CyberEdge-2023-CDR-Report-ISC2.ashx?la=en&amp;hash=8F32E90CCE96120674ACE7663018C15B9EC565F7" target="_blank"><img class="hide-lt-md" alt="" width="230" src="/-/media/ISC2/Research/Cyberthreat-Defense-Report/MAR-CDR-2023-Cover-230x240.ashx?la=en&amp;hash=5DF669DC11E16CE8EE47B6E2F215DE068DCAE23E" style="float:right; padding:20px; position: relative;"></a></p>
+<p>This annual CyberEdge report provides the most geographically comprehensive view of IT security perceptions in our industry. Use the <a href="/-/media/ISC2/Research/Cyberthreat-Defense-Report/2021/CyberEdge-2023-CDR-Report-ISC2.ashx?la=en&amp;hash=8F32E90CCE96120674ACE7663018C15B9EC565F7" target="_blank">2023 findings</a> to benchmark security posture, operating budget, product investments and best practices against peers in your region.</p>
+<p>For key takeaways on overall IT security posture, check out our <a href="/-/media/ISC2/Research/Cyberthreat-Defense-Report/2021/2023-CDR-Executive-Brief.ashx?la=en&amp;hash=52631AF23A37F7F3C2D148D9997EBF0683FC1E66" target="_blank">Executive Brief</a> and <a href="/-/media/ISC2/Research/Cyberthreat-Defense-Report/2021/2023-CDR-Infographic.ashx?la=en&amp;hash=F288997F8BBFBBE87F29E4DD5258D76AF1EDBCE5" target="_blank">infographic</a>.</p>
+<p><a class="button button--primary" title="Cyberthreat Defense Report opens in a new tab" href="/-/media/ISC2/Research/Cyberthreat-Defense-Report/2021/CyberEdge-2023-CDR-Report-ISC2.ashx?la=en&amp;hash=8F32E90CCE96120674ACE7663018C15B9EC565F7" target="_blank">Download Report</a></p>
+
+<hr>
+
+<a href="https://cloud.connect.isc2.org/cissp-ultimate-guide?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CISSPultimateguide&utm_term=cdrthankyoupage&utm_content=ultimateguide" target="blank"><img alt="" src="/-/media/ISC2/Certifications/Ultimate-Guides/MAR-CISSP-UG-Cover-Flat-230x240.ashx?la=en&amp;hash=82978DC82BB383207EEC15A50ABC5DE31C67EF75" style="width: 200px; float: left; position: relative;"></a>
+<h2>How ISC2; Can Help</h2>
+<p>ISC2; CISSP<sup>®</sup> certification is globally recognized as the gold standard in cybersecurity. It provides the assurance that cybersecurity teams are prepared with the advanced technical skills and knowledge to expertly secure critical assets and stay in front of emerging cyberthreats. Learn how to earn it in <a href="https://cloud.connect.isc2.org/cissp-ultimate-guide?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CISSPultimateguide&utm_term=cdrthankyoupage&utm_content=ultimateguide" target="blank">The Ultimate Guide to the CISSP</a>.</p>
+<p><a class="button button--primary" title="Cyberthreat Defense Report opens in a new tab" href="https://cloud.connect.isc2.org/cissp-ultimate-guide?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CISSPultimateguide&utm_term=cdrthankyoupage&utm_content=ultimateguide" target="_blank">Get Your Guide</a></p>
+
+<p style="clear: both;"><strong>Ready to start your journey toward CISSP?</strong> Start strong as an <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CDRTYP&utm_content=candidate">ISC2 Candidate</a>. You’ll gain access to exclusive benefits, including 20% off Official ISC2 Training so you can start preparing for the exam. <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CDRTYP&utm_content=candidate">Sign up now.</a> Your first year is free — no cost to you.*</p>
+<p><em>*If you choose to renew after the first year, an annual fee of U.S. $50 will be due.</em></p>
+
+<hr>

@@ -99,14 +99,14 @@ border-radius: 0 !important;
 </div>
 
 <h3>Experience Requirements</h3>
-<p>A candidate is required to have a minimum of four years of cumulative paid Software Development Lifecycle (SDLC) professional work experience in one or more of the eight domains of the (ISC)&sup2; CSSLP CBK, or three years of cumulative paid SDLC professional work experience in one or more of the eight domains of the CSSLP CBK with a four-year degree leading to a Baccalaureate, or regional equivalent in Computer Science, Information Technology (IT) or related fields.</p>
+<p>A candidate is required to have a minimum of four years of cumulative paid Software Development Lifecycle (SDLC) professional work experience in one or more of the eight domains of the ISC2; CSSLP CBK, or three years of cumulative paid SDLC professional work experience in one or more of the eight domains of the CSSLP CBK with a four-year degree leading to a Baccalaureate, or regional equivalent in Computer Science, Information Technology (IT) or related fields.</p>
 
-<p>If you don’t have the required experience to become a CSSLP, you may become an Associate of (ISC)&sup2; by successfully passing the CSSLP examination. You will then have five years to earn the four years required experience. You can learn more about CSSLP experience requirements and how to account for part-time work and internships at <a class="link" href="/Certifications/CSSLP/experience-requirements">www.isc2.org/Certifications/CSSLP/experience-requirements</a>.</p>
+<p>If you don’t have the required experience to become a CSSLP, you may become an Associate of ISC2; by successfully passing the CSSLP examination. You will then have five years to earn the four years required experience. You can learn more about CSSLP experience requirements and how to account for part-time work and internships at <a class="link" href="/Certifications/CSSLP/experience-requirements">www.isc2.org/Certifications/CSSLP/experience-requirements</a>.</p>
 
 <h3>Accreditation</h3>
 <p>CSSLP meets the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
 
 <h3>Job Task Analysis (JTA)</h3>
-<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the CSSLP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by CSSLP credential holders. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
+<p>ISC2; has an obligation to its membership to maintain the relevancy of the CSSLP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by CSSLP credential holders. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
 
 <hr>

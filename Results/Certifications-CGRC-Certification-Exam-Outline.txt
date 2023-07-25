@@ -95,12 +95,12 @@ border-radius: 0 !important;
 </div>
 <h3>Experience Requirements</h3>
 <p>Candidates must have a minimum of two years cumulative work experience in one or more of the seven domains of the CGRC CBK.</p>
-<p>A candidate that doesn’t have the required experience to become a CGRC may become an Associate of (ISC)&sup2; by successfully passing the CGRC examination. The Associate of (ISC)&sup2; will then have three years to earn the two years of required, relevant experience. Learn more about CGRC experience requirements and how to account for part-time work and internships at <a href="/Certifications/CGRC/experience-requirements">www.isc2.org/Certifications/CGRC/experience-requirements</a>.</p>
+<p>A candidate that doesn’t have the required experience to become a CGRC may become an Associate of ISC2; by successfully passing the CGRC examination. The Associate of ISC2; will then have three years to earn the two years of required, relevant experience. Learn more about CGRC experience requirements and how to account for part-time work and internships at <a href="/Certifications/CGRC/experience-requirements">www.isc2.org/Certifications/CGRC/experience-requirements</a>.</p>
 
 <h3>Accreditation</h3>
 <p>CGRC is in compliance with the stringent requirements of ANSI/ISO/IEC Standard 17024.</p>
 
 <h3>Job Task Analysis (JTA)</h3>
-<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of the CGRC. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the CGRC. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
+<p>ISC2; has an obligation to its membership to maintain the relevancy of the CGRC. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the CGRC. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
 
 <hr>

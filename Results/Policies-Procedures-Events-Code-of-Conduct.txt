@@ -1,24 +1,24 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">ISC2 Events Code of Conduct</h1>
-<p>All information security professionals who are certified by (ISC)&sup2; recognize that such certification is a privilege that must be both earned and maintained. In support of this principle, all (ISC)&sup2; members are required to commit to fully support this <a href="/Ethics">Code of Ethics</a> (the "Code").</p>
-<p>The (ISC)&sup2; Events Code of Conduct is one of several ways we put (ISC)&sup2; values into practice. We recognize that all we do in connection with our work is and will be measured against the highest possible standards of ethical business conduct. Our dedication to the highest standards helps us hire the best people and provide best in class products and professional development to our members.</p>
-<p>(ISC)&sup2; is committed to providing a safe, productive, and welcoming environment for all participants, members and (ISC)&sup2; staff. All participants, including, but not limited to, attendees, speakers, volunteers, exhibitors, (ISC)&sup2; staff, service providers, and others are expected to abide by this (ISC)&sup2; Events Code of Conduct. This Code of Conduct applies to all (ISC)&sup2; events, and events held in conjunction with (ISC)&sup2; events, virtually or in public or private facilities. This Code of Conduct may be revised by (ISC)&sup2; at any time and the terms are non-negotiable. Your registration for or attendance at any (ISC)&sup2; event indicates your agreement to abide by this policy and its terms.</p>
+<p>All information security professionals who are certified by ISC2; recognize that such certification is a privilege that must be both earned and maintained. In support of this principle, all ISC2; members are required to commit to fully support this <a href="/Ethics">Code of Ethics</a> (the "Code").</p>
+<p>The ISC2; Events Code of Conduct is one of several ways we put ISC2; values into practice. We recognize that all we do in connection with our work is and will be measured against the highest possible standards of ethical business conduct. Our dedication to the highest standards helps us hire the best people and provide best in class products and professional development to our members.</p>
+<p>ISC2; is committed to providing a safe, productive, and welcoming environment for all participants, members and ISC2; staff. All participants, including, but not limited to, attendees, speakers, volunteers, exhibitors, ISC2; staff, service providers, and others are expected to abide by this ISC2; Events Code of Conduct. This Code of Conduct applies to all ISC2; events, and events held in conjunction with ISC2; events, virtually or in public or private facilities. This Code of Conduct may be revised by ISC2; at any time and the terms are non-negotiable. Your registration for or attendance at any ISC2; event indicates your agreement to abide by this policy and its terms.</p>
 <p><strong>Expected Behavior</strong></p>
 <ul>
-    <li>All participants, attendees, (ISC)&sup2; staff, and vendors are treated with respect and consideration, valuing a diversity of views and opinions.</li>
+    <li>All participants, attendees, ISC2; staff, and vendors are treated with respect and consideration, valuing a diversity of views and opinions.</li>
     <li>Be considerate, respectful, and collaborative.</li>
     <li>Communicate openly with respect for others, critiquing ideas rather than individuals.</li>
     <li>Refrain from demeaning, discriminatory or harassing behavior and speech.</li>
-    <li>Be mindful of your surroundings and of your fellow participants. Alert (ISC)&sup2; staff if you notice a dangerous situation or someone in distress.</li>
-    <li>Respect the rules and policies of all virtual environments, meeting venue, hotels, (ISC)&sup2; contracted facility, or any other venue.</li>
+    <li>Be mindful of your surroundings and of your fellow participants. Alert ISC2; staff if you notice a dangerous situation or someone in distress.</li>
+    <li>Respect the rules and policies of all virtual environments, meeting venue, hotels, ISC2; contracted facility, or any other venue.</li>
     <li>Wear your badge at all times while at the event or event venues.</li>
-    <li>Agree not to sell, trade, transfer, or share your event access code/link, unless such transfer is granted by (ISC)&sup2;.</li>
-    <li>Agree not to share, sell or trade your event access code/link. If (ISC)&sup2; determines that you have violated this policy, (ISC)&sup2; may cancel your access, retain any payments made by you, report you to law enforcement authorities, and ban you from future Virtual Events.</li>
+    <li>Agree not to sell, trade, transfer, or share your event access code/link, unless such transfer is granted by ISC2;.</li>
+    <li>Agree not to share, sell or trade your event access code/link. If ISC2; determines that you have violated this policy, ISC2; may cancel your access, retain any payments made by you, report you to law enforcement authorities, and ban you from future Virtual Events.</li>
 </ul>
 <p><strong>Inappropriate Behavior</strong></p>
 <ul>
     <li>Harassment, intimidation, or discrimination in any form will not be tolerated.</li>
-    <li>Physical or verbal abuse of any attendee, speaker, volunteer, exhibitor, (ISC)&sup2; staff member, service provider, or other meeting guest.</li>
+    <li>Physical or verbal abuse of any attendee, speaker, volunteer, exhibitor, ISC2; staff member, service provider, or other meeting guest.</li>
     <li>Inappropriate use of nudity and/or sexual images in public spaces (including presentation slides)</li>
     <li>Any boisterous, lewd or offensive behavior or language, including but not limited to sexually explicit or offensive language or conduct, profanity, obscene gestures, or racial, religious or ethnic slurs.</li>
     <li>Wearing clothing that is not suitable for a professional work environment, that is provocative, inappropriate or otherwise potentially offensive.</li>
@@ -27,28 +27,28 @@
     <li>Possessing any illegal substance.</li>
     <li>Assembling for the purpose of, or resulting in, disturbing the peace, or committing any unlawful act or engaging in any offensive behavior.</li>
     <li>Any other illegal activity not already covered above.</li>
-    <li>Failing to obey any of the rules or regulations of all virtual environments, event venues or instructions of (ISC)&sup2; staff.</li>
+    <li>Failing to obey any of the rules or regulations of all virtual environments, event venues or instructions of ISC2; staff.</li>
     <li>Sharing your event badge with other individuals.</li>
-    <li>Examples of inappropriate behavior include, but are not limited to, typed, written, verbal virtual, etc. comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, national origin, inappropriate use of nudity and/or sexual images in public spaces or in presentations, harassing photography or recordings, offensive email, voicemail messages or social media postings, or deliberate threatening or stalking any attendee, speaker, volunteer, exhibitor, (ISC)&sup2; staff member, service provider, or other meeting guest.</li>
-    <li>Recording, live streaming, and videotaping is prohibited. Participants may not record or broadcast audio or video of sessions at (ISC)&sup2; Virtual Events.</li>
-    <li>Unethical/Non-Compliant Business Practices. (ISC)&sup2; reserves the right to deny participation to anyone who engages in or is reputed to engage in unethical or non-compliant business practices.</li>
+    <li>Examples of inappropriate behavior include, but are not limited to, typed, written, verbal virtual, etc. comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, national origin, inappropriate use of nudity and/or sexual images in public spaces or in presentations, harassing photography or recordings, offensive email, voicemail messages or social media postings, or deliberate threatening or stalking any attendee, speaker, volunteer, exhibitor, ISC2; staff member, service provider, or other meeting guest.</li>
+    <li>Recording, live streaming, and videotaping is prohibited. Participants may not record or broadcast audio or video of sessions at ISC2; Virtual Events.</li>
+    <li>Unethical/Non-Compliant Business Practices. ISC2; reserves the right to deny participation to anyone who engages in or is reputed to engage in unethical or non-compliant business practices.</li>
 </ul>
 <p><strong>Consequences</strong></p>
 <ul>
     <li>Anyone requested to stop inappropriate behavior is expected to comply immediately.</li>
-    <li>(ISC)&sup2; staff (or their designee) or security may take any action deemed necessary and appropriate, including immediate removal from the event access without warning or refund.</li>
-    <li>(ISC)&sup2; reserves the right to prohibit attendance at any future event or meeting.</li>
+    <li>ISC2; staff (or their designee) or security may take any action deemed necessary and appropriate, including immediate removal from the event access without warning or refund.</li>
+    <li>ISC2; reserves the right to prohibit attendance at any future event or meeting.</li>
     <li>Other consequences as set forth in the Code of Ethics (the "Code"), as applicable.</li>
 </ul>
 <p><strong>Reporting Inappropriate Behavior. Remember if you See Something, Say Something</strong></p>
 <ul>
     <li>If you experience or witness a threat to public safety or life safety emergency, please contact your local authorities immediately.</li>
-    <li>If you have a complaint or concern about harassment, discrimination, bullying or any other conduct that violates this policy, we encourage you to immediately notify an (ISC)&sup2; staff member or (ISC)&sup2; volunteer in a leadership position.</li>
-    <li>After hours, if you see something suspicious or would like to report a security issue, remember if you See Something, Say Something by calling local authorities, or contacting (ISC)&sup2; at +1.866.331.ISC2(4722) or by email at <a href="mailto:events@isc2.org?subject=events code of conduct">events@isc2.org</a>.</li>
+    <li>If you have a complaint or concern about harassment, discrimination, bullying or any other conduct that violates this policy, we encourage you to immediately notify an ISC2; staff member or ISC2; volunteer in a leadership position.</li>
+    <li>After hours, if you see something suspicious or would like to report a security issue, remember if you See Something, Say Something by calling local authorities, or contacting ISC2; at +1.866.331.ISC2(4722) or by email at <a href="mailto:events@isc2.org?subject=events code of conduct">events@isc2.org</a>.</li>
 </ul>
 <p><strong>Reporting Inappropriate Behavior during Virtual Events or Meetings</strong></p>
 <ul>
     <li>Any participant whose safety is threatened or violated is urged to contact local law enforcement immediately.</li>
-    <li>In addition, any participant who feels unsafe or experiences unwelcome conduct, who observes or experiences unacceptable behavior, or who believes there has been a violation of this Policy, is encouraged to call local authorities, or contact (ISC)&sup2; at +1.866.331.ISC2(4722) or by email at <a href="mailto:events@isc2.org?subject=events code of conduct">events@isc2.org</a>.  Reports may be anonymous or attributed. (ISC)&sup2; will use its best efforts to respond to a Participant as quickly as possible during event days and when content is available on demand, recognizing that it will not be possible to follow up directly with a Participant whose report is anonymous, and that (ISC)&sup2; may have less ability to investigate fully an anonymous report.</li>
-    <li>Any (ISC)&sup2; employee who experiences unacceptable behavior or observes unacceptable behavior toward another employee is encouraged to report the incident to Human Resources, his/her/their immediate supervisor, or any manager. Employees may also choose the reporting methods described above, or the internal (ISC)&sup2; hotline number/e-mail, or any procedure described in (ISC)&sup2; employee policies.</li>
+    <li>In addition, any participant who feels unsafe or experiences unwelcome conduct, who observes or experiences unacceptable behavior, or who believes there has been a violation of this Policy, is encouraged to call local authorities, or contact ISC2; at +1.866.331.ISC2(4722) or by email at <a href="mailto:events@isc2.org?subject=events code of conduct">events@isc2.org</a>.  Reports may be anonymous or attributed. ISC2; will use its best efforts to respond to a Participant as quickly as possible during event days and when content is available on demand, recognizing that it will not be possible to follow up directly with a Participant whose report is anonymous, and that ISC2; may have less ability to investigate fully an anonymous report.</li>
+    <li>Any ISC2; employee who experiences unacceptable behavior or observes unacceptable behavior toward another employee is encouraged to report the incident to Human Resources, his/her/their immediate supervisor, or any manager. Employees may also choose the reporting methods described above, or the internal ISC2; hotline number/e-mail, or any procedure described in ISC2; employee policies.</li>
 </ul>

@@ -1,0 +1,11 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Requesting Our Latest White Paper!</h1>
+<img alt="Become a Cybersecurity Leader" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2020/qualified-cybersecurity/MAR-CISSP-Whitepapper-B2C-Web-Banners_230x240_20200903.ashx?la=en&amp;hash=8773D23CB75733B6FCBDDE0D2262E3DEF24B2E66">
+ <p>&nbsp;</p>
+
+<p>
+Thank you for your interest in the importance of becoming a cybersecurity leader. Here is <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/White-Papers/2020/MAR-CISSP_Qualified_Cyber_Pro-B2C_Whitepaper.ashx?la=en&amp;hash=DC3F9AA6169C967CC9BEA36BE50C8A6FEE345BCF" target="_blank" title="Opens in new window">your copy of the white paper</a>. We’ll also email you the link so you can access this resource anytime.</p>
+
+<p>As the world’s largest nonprofit association of certified cybersecurity professionals, ISC2; is here to help you build and maintain expertise throughout your career. Please <a href="/Training/?utm_source=isc2&utm_medium=asset&utm_campaign=GBL-B2Ctraining&utm_term=cisspqualifiedprowhitepaper&utm_content=training">reach out anytime</a> to discuss the CISSP or any other globally recognized credential in our portfolio.</p>
+ <p>&nbsp;</p>
+<hr>

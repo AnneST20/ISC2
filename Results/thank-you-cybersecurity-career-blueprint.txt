@@ -1,0 +1,25 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Requesting the eBook!</h1>
+<img alt="" src="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/MAR-Network-Security-Area-of-Focus-Cover-230x240.ashx?la=en&amp;hash=6B29E79ABA0B73E2ED4D1543272E6691A2513A0D" style="float:right; padding:0 0 1em 1em; margin-top: -3em;">
+
+<p>Thank you for requesting the eBook, <em>Your Cybersecurity Career Blueprint: High-Demand Roles — and How to Get There</em>, from ISC2, the global leader in information security certifications. Your complimentary copy is ready to <a title="PDF link opens in a new tab" target="_blank" class="utm-tag" href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/Cybersecurity-Career-Blueprint-eBook.ashx?la=en&amp;hash=613BD9185235774D9253896EDC4A0F4FF36806CE">download</a>. We’ll also email the link so you can access this important resource anytime.</p>
+
+<p><a title="PDF link opens in a new tab" target="_blank" href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/Cybersecurity-Career-Blueprint-eBook.ashx?la=en&amp;hash=613BD9185235774D9253896EDC4A0F4FF36806CE" class="utm-tag button button--primary">Download Your Copy</a></p>
+
+<hr>
+
+<h2 style="clear: both;">Next step: Become an ISC2 Candidate</h2>
+<p>Begin your journey by joining ISC2, the world’s leading cybersecurity professional organization, more than 365,000 members, associates and candidates strong. You’ll gain access to exclusive benefits, including free online self-paced training and a free exam for Certified in Cybersecurity, our premier entry-level certification.</p>
+
+<p><a href="/Candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=cyber-career-blueprint-ebook-typ&utm_content=candidate" class="utm-tag">Sign up now.</a> Your first year is free — no cost to you.*</p>
+<p><a href="/Candidate?utm_source=isc2&utm_medium=button&utm_campaign=GBL-Candidate&utm_term=cyber-career-blueprint-ebook-typ&utm_content=candidate" class="utm-tag button button--primary">Get Started </a></p>
+
+<p><em>*If you choose to renew after the first year, U.S. $50 due annually.</em></p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

@@ -1,0 +1,28 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You</h1>
+<h2 style="margin-top: 20px;">Talk Soon! More Resources in the Meantime</h2>
+<p>Thank you for your interest. An Enterprise Account Executive will be in touch soon to help develop a targeted training and certification plan for your team.</p>
+<p>Ready to talk now? <a href="https://outlook.office365.com/owa/calendar/ConnectWithJeffLeiken@isc2org.onmicrosoft.com/bookings/" rel="noopener noreferrer" title="Link opens in a new tab" target="_blank">Schedule a Call</a></p>
+
+<p>Or Contact our team directly:</p>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 3 | <a href="mailto:teamtraining@isc2.org"><span style="color: #253e51;">teamtraining@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>
+<hr>
+
+<p>You may find these <a href="/Training/Enterprise-Solutions?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-B2Btraining&utm_term=b2bconsulttyp&utm_content=training" title="Link opens in a new tab" target="_blank">ISC2; Enterprise Solutions</a> resources useful:</p>
+
+<p><strong>The Enterprise Guide to Establishing a Cybersecurity Training Program</strong></p>
+
+<p>Explore the <a href="https://cloud.connect.isc2.org/enterprise-ebook?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-enterpriseebook&utm_term=b2bconsulttyp&utm_content=ebook" title="Link opens in a new tab" target="_blank">fundamentals</a> of establishing a formal, standards-based cybersecurity training and education program for employees responsible for securing critical assets.</p> 
+
+<p><a class="button button--primary" href="https://cloud.connect.isc2.org/enterprise-ebook?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-enterpriseebook&utm_term=b2bconsulttyp&utm_content=ebook" title="Link opens in a new tab" target="_blank">Get the Guide</a></p>
+
+<p><strong>Cybersecurity Career Pursuers Study</strong></p>
+
+<p>Gain insights from <a href="https://cloud.connect.isc2.org/career-pursuers-report?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-careerpursuersreport&utm_term=b2bconsulttyp&utm_content=report" title="Link opens in a new tab" target="_blank">research</a> on how to successfully staff up a balanced and diverse cybersecurity team with a broad range of skills.</p>
+    
+<p><a class="button button--primary" href="https://cloud.connect.isc2.org/career-pursuers-report?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-careerpursuersreport&utm_term=b2bconsulttyp&utm_content=report" title="Link opens in a new tab" target="_blank">Get the Report</a></p>

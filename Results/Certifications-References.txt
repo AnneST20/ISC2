@@ -1,7 +1,7 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">CBK Suggested References</h1>
 <p>This reference list is not intended to be an all-inclusive collection representing the respective certifications Common Body of Knowledge (CBK). Its purpose is to provide candidates a starting point for their studies in domains which need supplementary learning in order to complement their associated level of work and academic experience. Candidates may also consider other references, which are not on this list but adequately cover domain content.</p>
-<p><em><strong>Note:</strong> (ISC)&sup2; does not endorse any particular text or author and does not imply that any or all references be acquired or consulted. (ISC)&sup2; does not imply nor guarantee that the study of these references will result in an examination pass.</em></p>
+<p><em><strong>Note:</strong> ISC2; does not endorse any particular text or author and does not imply that any or all references be acquired or consulted. ISC2; does not imply nor guarantee that the study of these references will result in an examination pass.</em></p>
 <p>&nbsp;</p>
 
 <ul class="ac hide-siblings" id="accordion-749aae339a6647148c6215acbcc1939c">
@@ -17,7 +17,7 @@
         <div class="content">
             
 <ul>
-<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+<li><a href="https://www.isc2.org/Ethics">ISC2; Code of Ethics</a> by ISC2;. (Dec, 2022).</li>
 </ul><hr>
 
 <ul>
@@ -121,7 +121,7 @@
         <div class="content">
             
 <ul>
-<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+<li><a href="https://www.isc2.org/Ethics">ISC2; Code of Ethics</a> by ISC2;. (Dec, 2022).</li>
 </ul><hr>
 
 <ul>
@@ -231,7 +231,7 @@
 </style>
 
 <ul>
-<li><a href="https://www.isc2.org/Ethics"> (ISC)&sup2; Code of Ethics</a> by  (ISC)&sup2;. (Dec, 2022).</li>
+<li><a href="https://www.isc2.org/Ethics"> ISC2; Code of Ethics</a> by  ISC2;. (Dec, 2022).</li>
 </ul><hr>
 
 <ul>
@@ -645,7 +645,7 @@
         <div class="content">
             
 <ul>
-<li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics by (ISC)&sup2;</a>. (Dec, 2022).</li>
+<li><a href="https://www.isc2.org/Ethics">ISC2; Code of Ethics by ISC2;</a>. (Dec, 2022).</li>
 </ul><hr>
 
 <ul>
@@ -992,7 +992,7 @@
             
  
 <ul>
-  <li><a href="https://www.isc2.org/Ethics">(ISC)&sup2; Code of Ethics</a> by (ISC)&sup2;. (Dec, 2022).</li>
+  <li><a href="https://www.isc2.org/Ethics">ISC2; Code of Ethics</a> by ISC2;. (Dec, 2022).</li>
 </ul>
 <hr>
 

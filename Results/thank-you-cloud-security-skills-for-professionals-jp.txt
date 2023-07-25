@@ -1,0 +1,30 @@
+<h1 style="color:#549eba;">クラウドセキュリティスキルに関するホワイトペーパーにご興味を持っていただき、ありがとうございます。</h1>
+<br>
+<img alt="CCSP B2C Feature Banner" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/CCSP-B2C-WP-Feature-Banner-230x240.ashx?la=en&amp;hash=330A409D91E60D9AB1CD94A06800D148CEAC73D7">
+<p class="hide-lt-md">&nbsp;</p>
+<p>「クラウドセキュリティのスキルは、あなたのキャリアを高みへと導きます」と題したホワイトペーパーを是非お読みになってください。こちらからダウンロードできます。また、メールでもリンクをお送りしますので、いつでもこのリソースにアクセスしていただけます。</p>
+<p><a href="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/MAR-CCSP-Cloud_Security_Skills-Whitepaper_JP_0409v2.ashx?la=en&amp;hash=CE981653723A43AF24A06809B7D1D1733396A3FB" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">ダウンロードする</a></p>
+<p>&nbsp;</p>
+<img alt="CCSP Ultimate Guide 3D Preview" class="hide-lt-md" style="float: left; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/image001_JP.ashx?la=en&amp;hash=E6BABA437E4666DB8546E57B7BFA0A5C40263219">
+<h2>クラウドセキュリティのスキルアップ</h2>
+<p>CCSP Ultimate Guide日本語版は、業界最高峰のクラウドセキュリティ資格に関する情報を網羅しています。ISC2とCCSPがどのようにあなたのスキルを向上させ、現場で活躍するあなたに役立つかをご覧ください。</p>
+<a rel="noopener noreferrer" href="https://www.isc2.org/certifications/ultimate-guides/ccsp/jp?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=ccspskillsforprofessionalswptyp&utm_content=ultimateguide" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">ダウンロードする</a>
+<hr>
+<h2>あなたの成功をお祈りしています！</h2>
+  <p>ISC2</p>
+    
+ <p>アメリカ<br>
+  +1 866 331 4722 ext.2 <br>
+<a href="mailto:training@isc2.org">training@isc2.org</a></p>
+    
+ <p>EMEA<br>(欧州・中東・アフリカ)<br>
+  +44 203 960 7800 <br>
+  <a href="mailto:info-emea@isc2.org">info-emea@isc2.org</a> </p>
+    <p>
+APAC地域 <br>
++852-5803-5662<br>
+日本 +81 3 5322 2837<br>
+中国 +86 10 5873 2896<br>
+<a href="mailto:isc2asia@isc2.org">isc2asia@isc2.org</a><br>
+日本 <a href="mailto:infoisc2-j@isc2.org">infoisc2-j@isc2.org</a> / 中国 <a href="mailto:isc2china@isc2.org">isc2china@isc2.org</a>
+</p>

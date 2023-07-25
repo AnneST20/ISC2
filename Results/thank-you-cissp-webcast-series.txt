@@ -1,0 +1,23 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Requesting the ISC2  Video about CISSP!</h1>
+<p>Thank you for requesting the video, <em>CISSP: An Inside Look</em>, from ISC2, the creator of the CISSP Common Body of Knowledge (CBK<sup>®</sup>). Your Inside Look video is available for viewing below.</p>
+
+<div class="video" style="width: 90%; margin: 0 auto 3em;"><iframe src="https://www.youtube.com/embed/zBS22R3TbvU?rel=0&showinfo=0" frameborder="0" modestbranding="1" allowfullscreen=""></iframe></div>
+
+<div style="padding: 2em 0;">
+<img alt="Exam Action Plan Cover" src="/-/media/ISC2/Landing-Pages/commit/3D-Cover-Commit-White-Banner-230x240.ashx?la=en&amp;hash=49F602404A8C6026984E89B57A87D617E185E5C2" style="width: 230px; float: left; margin: 0 1em 2em;">
+<h2>Next Step: Get Your Exam Action Plan</h2>
+<p>Prepping for the CISSP exam is a big commitment. That’s why we created the <a title="Link opens in a new tab" target="_blank" href="https://cloud.connect.isc2.org/commit?utm_source=isc2list&utm_medium=textlink&utm_campaign=GBL-Committocert&utm_term=cisspinsidelookvideothankyoupage&utm_content=commit">ISC2 Exam Action Plan</a> to help keep you on track for success.</p>
+
+<p><a title="Link opens in a new tab" target="_blank" class="utm-tag button button--primary" href="https://cloud.connect.isc2.org/commit?utm_source=isc2list&utm_medium=button&utm_campaign=GBL-Committocert&utm_term=whycissptyp&utm_content=commit">Get the Action Plan</a></p>
+</div>
+<p style="clear: both;">&nbsp;</p>
+<p><strong>Thinking about training?</strong> Official ISC2 Training is a great way to build the knowledge and confidence needed for CISSP success. Explore our flexible options: <a href="https://enroll.isc2.org/product?catalog=CISSP-SPT-GLOBAL&utm_source=isc2list&utm_medium=textlink&utm_campaign=gbl-cissposptraining&utm_term=cisspinsidelookvideothankyoupage&utm_content=training" title="Link opens in a new tab" target="_blank">Online Self-Paced</a>, <a href="https://enroll.isc2.org/catalog?pagename=cissp-training&utm_source=isc2list&utm_medium=textlink&utm_campaign=GBL-CISSPoilbundle&utm_term=cisspinsidelookvideothankyoupage&utm_content=training" title="Link opens in a new tab" target="_blank">Online Instructor-Led</a> and <a href="/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=CISSP&utm_source=isc2list&utm_medium=textlink&utm_campaign=GBL-CISSPclassroombased&utm_term=cisspinsidelookvideothankyoupage&utm_content=training">Classroom-Based</a>.</p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

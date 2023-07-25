@@ -1,0 +1,4 @@
+<div class="hero-text-wrapper content">
+                                    <h2 class="section-tagline">Grow Your Cybersecurity Skills</h2>
+                                                                    <h1 class="h1 section-title bar">Professional Development Institute</h1>
+                            </div>

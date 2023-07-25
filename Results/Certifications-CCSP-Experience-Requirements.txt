@@ -1,7 +1,7 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">CCSP Experience Requirements</h1>
-<p>Candidates must have a <strong>minimum of five years</strong> cumulative paid work experience in information technology, of which <strong>three years must be in information security</strong> and <strong>one year</strong> <strong>in one or more of the six domains</strong> of the CCSP CBK. Earning CSA&rsquo;s CCSK certificate can be substituted for one year of experience in one or more of the six domains of the CCSP CBK. Earning (ISC)&sup2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>
-<p>A candidate who doesn&rsquo;t have the required experience to become a CCSP may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a><a> </a>by successfully passing the CCSP examination. The Associate of (ISC)&sup2; will then have six years to earn the five years required experience.</p>
+<p>Candidates must have a <strong>minimum of five years</strong> cumulative paid work experience in information technology, of which <strong>three years must be in information security</strong> and <strong>one year</strong> <strong>in one or more of the six domains</strong> of the CCSP CBK. Earning CSA&rsquo;s CCSK certificate can be substituted for one year of experience in one or more of the six domains of the CCSP CBK. Earning ISC2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>
+<p>A candidate who doesn&rsquo;t have the required experience to become a CCSP may become an <a href="/Certifications/Associate">Associate of ISC2;</a><a> </a>by successfully passing the CCSP examination. The Associate of ISC2; will then have six years to earn the five years required experience.</p>
 <p>Part-time work and internships may also count towards your experience.</p>
 <h2>Domain List&nbsp;</h2>
 <ul>
@@ -22,4 +22,4 @@
 <h2>One Year Prerequisite Pathway</h2>
 <p>CSA&rsquo;s&nbsp;<strong>CCSK certificate</strong>&nbsp;can be substituted for one year of experience in one or more of the six domains of the CCSP CBK.</p>
 <h2>Full Prerequisite Pathway</h2>
-<p>(ISC)&sup2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>
+<p>ISC2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>

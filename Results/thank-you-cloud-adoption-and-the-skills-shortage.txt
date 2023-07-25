@@ -1,0 +1,24 @@
+<h1 style="color:#549eba;">Thanks for Requesting Our Latest Cloud Security&nbsp;eBook!</h1>
+<br>
+<a href="/-/media/ISC2/Landing-Pages/2021/Cloud-Adoption-and-the-Skills-Shortage/CSR-eBook.ashx?la=en&amp;hash=DA685DF9BD8890053D1FD30B43648CFF49E6A9E1" target="_blank" title="Opens in new window"><img alt="CSR eBook Feature" class="hide-lt-md" style="float: left; position: relative; width: 230px; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/Cloud-Adoption-and-the-Skills-Shortage/CSR-Cloud-Skills-Shortage-230x177-3D-Left.ashx?la=en&amp;hash=F458710A011C138988CE42760D018D861A1FEE76"></a>
+<p>Thank you for your interest in <em>Cloud Adoption and the Skills Shortage: A View from the Field</em>. Here is your <a href="/-/media/ISC2/Landing-Pages/2021/Cloud-Adoption-and-the-Skills-Shortage/CSR-eBook.ashx?la=en&amp;hash=DA685DF9BD8890053D1FD30B43648CFF49E6A9E1" target="_blank" title="Opens in new window">complimentary copy</a>. We’ll also email you the link, so you can access this resource anytime.</p>
+<p><a href="/-/media/ISC2/Landing-Pages/2021/Cloud-Adoption-and-the-Skills-Shortage/CSR-eBook.ashx?la=en&amp;hash=DA685DF9BD8890053D1FD30B43648CFF49E6A9E1" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">DOWNLOAD YOUR COPY</a></p>
+<p style="clear: both;">&nbsp;</p>
+
+<a href="https://www.isc2.org/landing/cloud-security-report?utm_source=isc2&utm_medium=button&utm_campaign=GBL-cloudsecurityreport&utm_term=csrebook&utm_content=report"><img alt="Cloud Security Report 3D Preview" class="hide-lt-md" style="float: right; position: relative; width: 231px; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/cloud-security-report/MAR-2021-Cloud-Security-Report-230x240-Banner-20210309.ashx?la=en&amp;hash=5670E5CA42FC7A12A41C60DEE27BA5EED0C7D2D0"></a>
+<h2>Have you read the full report?</h2>
+<p>Discover even more cloud security trends and challenges in the 2021 Cloud Security Report. Find out what professional’s report and how organizations are responding to security threats in the cloud and continuous shortfall of qualified staff.</p>
+<p><a class="button button--legacy-light-blue" href="https://www.isc2.org/landing/cloud-security-report?utm_source=isc2&utm_medium=button&utm_campaign=GBL-cloudsecurityreport&utm_term=csrebook&utm_content=report">Get the Report</a></p>
+<p style="clear: both;">&nbsp;</p>
+
+<img alt="CCSP Ultimate Guide 3D Preview" class="hide-lt-md" style="float: left; width: 231px; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/CCSP-UltimateGuideV2-3D-right-web.ashx?la=en&amp;hash=9A2CB3D1F29DCA2076F9F86267C0DC383C4CFE93">
+<h2>Elevate Your Cloud Security Skillset</h2>
+<p>The  <a href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=csrebook&utm_content=ultimateguide">Ultimate Guide to the CCSP</a> covers everything to know about the industry’s premier cloud security certification. Download a copy to explore more.</p>
+<p><a href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=csrebook&utm_content=ultimateguide" class="button button--legacy-light-blue">Get Your Guide</a></p>
+<hr>
+<p>&nbsp;</p>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

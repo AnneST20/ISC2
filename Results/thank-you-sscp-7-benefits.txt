@@ -1,0 +1,15 @@
+<div style="margin-top: 10px; min-height: 300px; width: 100%; text-align: left;">
+<a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/SSCP/SSCP-eBook-05-2020-2.ashx?la=en&amp;hash=9C5955A5F5F3C014433C07140884691BF2EC9D75"><img alt="" src="/-/media/ISC2/Landing-Pages/SSCP/SSCP-7-Benefits-Banner-Thank-You.ashx?w=226&amp;la=en&amp;hash=7904F73B1F65A6A93C05F40E276C5A24FFBDDA11" style="width: 226px; float: left; margin-right: 20px;"></a>
+<h1 style="color: #e17b27;"><strong>Thanks for Downloading the SSCP eBook!</strong></h1>
+<p>Many IT/ICT professionals transitioning to cybersecurity choose to pursue SSCP certification to protect their organizations and fast-track their careers. <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/SSCP/SSCP-eBook-05-2020-2.ashx?la=en&amp;hash=9C5955A5F5F3C014433C07140884691BF2EC9D75">SSCPs from around the globe</a> say they benefit from a strong and versatile skill set, demonstrated leadership, and self-confidence to fulfill evolving roles and responsibilities.</p>
+</div>
+<br>
+<hr size="1">
+<h2 style="color: #e17b27;">Take the next step.</h2>
+<p>Please reach out to our team in your region if you have questions about next steps or to schedule a consultation.</p>
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

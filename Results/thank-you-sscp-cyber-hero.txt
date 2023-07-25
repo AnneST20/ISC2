@@ -1,0 +1,14 @@
+<div style="margin-top: 10px; width: 100%; min-height: 300px; text-align: left;">
+<a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/SSCP/MAR-SSCP-Security_Hero-WhitePaper-20200519.ashx?la=en&amp;hash=710DD1F5038E8FFDC461A25F232BD3D986E3D54D"><img alt="cissp ug " src="/-/media/ISC2/Landing-Pages/SSCP/SSCP-B2C-Security-Hero-Banner-Thank-You.ashx?la=en&amp;hash=30D61B484033602C54BCD8D1011803F460BD7B03" style="width: 230px; float: left; margin-right: 20px;"></a>
+<h1 style="color: #007157;"><strong>Thanks for Downloading Our Latest White Paper!</strong></h1>
+<p>As the world’s largest nonprofit association of certified cybersecurity professionals, ISC2; is here to help you become a <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/ISC2/Landing-Pages/SSCP/MAR-SSCP-Security_Hero-WhitePaper-20200519.ashx?la=en&amp;hash=710DD1F5038E8FFDC461A25F232BD3D986E3D54D">cybersecurity hero</a> in your next role.</p>
+</div>
+<hr size="1">
+<h2 style="color: #007157;">Take the next step.</h2>
+<p>Please reach out to our team in your region if you have questions about next steps or to schedule a consultation.</p>
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

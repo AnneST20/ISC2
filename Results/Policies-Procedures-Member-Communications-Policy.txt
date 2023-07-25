@@ -2,30 +2,30 @@
 <h1 class="h1 bar">Member Communications Policy</h1>
 <h2>Official Communications</h2>
 <p>
-Periodically, (ISC)&sup2;&reg; sends electronic messages to its members. These messages, deemed and labeled 'Official Communications', convey important information regarding:
+Periodically, ISC2;&reg; sends electronic messages to its members. These messages, deemed and labeled 'Official Communications', convey important information regarding:
 </p>
 <ul>
     <li>Member credential status such as CPE advice and resources</li>
-    <li>Opportunities to influence (ISC)&sup2; 's direction such as board elections and bylaws</li>
+    <li>Opportunities to influence ISC2; 's direction such as board elections and bylaws</li>
     <li>Updates on initiatives we've implemented to advance the information security profession and support our members throughout their careers</li>
-    <li>Salary and other surveys, such as the annual (ISC)&sup2; Cybersecurity Workforce Study</li>
+    <li>Salary and other surveys, such as the annual ISC2; Cybersecurity Workforce Study</li>
     <li>New member benefits</li>
     <li>Important relationships</li>
     <li>Helpful resources</li>
 </ul>
-<p>(ISC)&sup2; distinguishes these messages as Official communications as opposed to marketing or promotional messages. Because this information is directly related to a member's (ISC)&sup2; credential and membership, we do not allow members to opt out of 'Official Communication' messages.
+<p>ISC2; distinguishes these messages as Official communications as opposed to marketing or promotional messages. Because this information is directly related to a member's ISC2; credential and membership, we do not allow members to opt out of 'Official Communication' messages.
 </p>
 <h2>Other Communications</h2>
 <p>
 We occasionally send marketing messages or messages of a promotional nature, on behalf of third parties, to members who have not opted-out of receiving such communications. To change your subscription preferences, please update your Contact Preferences under your profile on the Member Website.
 </p>
-<p>Members who provide a United States mailing address will automatically receive member communications on the basis of an existing customer relationship as an (ISC)&sup2; member.
+<p>Members who provide a United States mailing address will automatically receive member communications on the basis of an existing customer relationship as an ISC2; member.
 </p>
 <h2>DKIM</h2>
 <p>
-In order to allow members to verify (ISC)&sup2; as the source of 'Official Communication Messages', DKIM is used as the means of verifying the (ISC)&sup2; domain. </p>
+In order to allow members to verify ISC2; as the source of 'Official Communication Messages', DKIM is used as the means of verifying the ISC2; domain. </p>
 <p>
-DKIM adds a digital signature to messages and associates it with the (ISC)&sup2; domain name. For additional information on DKIM, please refer to their <a href="http://www.dkim.org/info/dkim-faq.html" target="_blank" title="DKIM FAQ">FAQ</a>.
+DKIM adds a digital signature to messages and associates it with the ISC2; domain name. For additional information on DKIM, please refer to their <a href="http://www.dkim.org/info/dkim-faq.html" target="_blank" title="DKIM FAQ">FAQ</a>.
 </p>
-<p>If you have any questions or concerns about signed emails, please contact us at <a href="/Contact-Us">Contact (ISC)&sup2;</a> .
+<p>If you have any questions or concerns about signed emails, please contact us at <a href="/Contact-Us">Contact ISC2;</a> .
 </p>

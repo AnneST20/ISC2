@@ -1,0 +1,34 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Requesting the Ultimate Guide to Certified in Cybersecurity Certification!</h1>
+<a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCC-Web.ashx?la=en&amp;hash=56AE2ABA6ED2D7448BB6A65BCC3E484643A0C3A3" target="blank"><img alt="cc ug " src="/-/media/ISC2/Certifications/CC/MAR-CC-UG-Banner-Cover-230x240.ashx?la=en&amp;hash=929459F29C28250FC79AD2CAF0E1ED1F03531E5F" style="width: 200px; float: right; position: relative; margin-bottom: 2em;"></a>
+<p>Thank you for requesting <a title="PDF link opens in a new tab" target="_blank" href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCC-Web.ashx?la=en&amp;hash=56AE2ABA6ED2D7448BB6A65BCC3E484643A0C3A3"><em>The Ultimate Guide to Certified in Cybersecurity certification</em></a> from ISC2, the global leader in information security certification. Your complimentary copy is ready to download. We’ll also email the link so you can access this important resource anytime.</p>
+
+<p><a title="PDF link opens in a new tab" target="_blank" class="utm-tag button button--primary" href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCC-Web.ashx?la=en&amp;hash=56AE2ABA6ED2D7448BB6A65BCC3E484643A0C3A3">Download Your Copy</a></p>
+
+<hr>
+
+<h2>Get a strong start as an ISC2 Candidate</h2>
+
+<p>As part of our commitment to help close the workforce gap, ISC2 is offering FREE CC Online Self-Paced Training and exams through our, <a href="/1mcc?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-1M-DG&utm_term=ccugtyp&utm_content=onemillion">One Million Certified in Cybersecurity</a> program. As a candidate, you’ll gain access to exclusive benefits, including:</p>
+<ul>
+<li>Discount pricing for ISC2 events and industry events, including ISC2 Security Congress</li>
+<li>Continuing Professional Development opportunities</li>
+<li>Local Chapter – join or start one</li>
+<li>Volunteer opportunities</li>
+<li>Peer-to-peer networking and exchange of best practices</li>
+<li>Professional recognition and award programs</li>
+<li>And more!</li>
+</ul>
+
+<p><a href="/1mcc?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CC-1M-DG&utm_term=ccugtyp&utm_content=onemillion" class="utm-tag">Sign up now.</a> Your first year is free — no cost to you.*<br>
+<em>*If you choose to renew after the first year, U.S. $50 due annually.</em></p>
+
+<p><a class="button button--primary utm-tag" href="/1mcc?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CC-1M-DG&utm_term=ccugtyp&utm_content=onemillion">Register Now</a></p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

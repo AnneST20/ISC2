@@ -1,0 +1,19 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thank You for Downloading CCSP Flash Cards!</h1>
+<p>You will receive an email with links to access flash cards for each domain.</p>
+<p>In the meantime, test your knowledge of <strong><a href="/Training/Self-Study-Resources/CCSP/Domain-1">Domain 1</a></strong>.</p>
+<hr>
+
+<h2>Study smarter, not harder</h2>
+<p>Experience new learning with recently enhanced Official ISC2 CCSP Training options.</p>
+<p>AI-driven adaptive Official ISC2 Online Self-Paced CCSP Training identifies specific areas requiring further study so you know exactly where to focus as you prepare for exam day.</p>
+
+<p><a href="https://enroll.isc2.org/product?catalog=CCSP-SPT-GLOBAL&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPosp&utm_term=ccspflashcardstyp&utm_content=training" class="utm-tag button button--primary" target="_blank">Get Started</a></p>
+
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

@@ -1,0 +1,8 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Requesting Our Latest White Paper!</h1>
+<img alt="Become a Cybersecurity Leader" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px; border: solid black 1px;" src="/-/media/ISC2/Landing-Pages/2020/qualified-cybersecurity/CISSP-Whitepaper-Banner-230x240.ashx?la=en&amp;hash=BCD1B09C7A50095F93B439ED7AD2513BFE4092D7">
+<p>&nbsp;</p>
+<p>Thank you for your interest in <em>Why It Is Important to have Qualified Cybersecurity Professionals on Your Team. The Definitive Guide for Cybersecurity and Business Prosperity</em>! Here is <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/White-Papers/2020/MAR-B2B-CISSP-Whitepaper-Cybersecurity_Professionals_On_Your_Team-Digital-20200831.ashx?la=en&amp;hash=BB0D4390931FDACD982C60B905AE3EA7CE345CB1" target="_blank" title="Opens in new window">your copy of the white paper</a>. We&rsquo;ll also email you the link so you can access this resource anytime.</p>
+<p>As the world&rsquo;s largest nonprofit association of certified cybersecurity professionals, (ISC)2 is here to help organizations ensure cybersecurity and business prosperity. Please <a href="/training/team-consult?utm_source=isc2&amp;utm_medium=asset&amp;utm_campaign=GBL-B2B-Consult&amp;utm_term=cisspqualifiedteamwhitepaper&amp;utm_content=training">reach out anytime</a> to discuss the CISSP (or another globally recognized credential in our portfolio) and enterprise training solutions for your staff.</p>
+<p>&nbsp;</p>
+<hr>

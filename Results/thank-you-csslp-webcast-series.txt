@@ -1,0 +1,51 @@
+<style>
+    @media only screen and (max-width: 768px) {
+    .ug-questions {
+    text-align: center;
+    }
+    }
+    main .container {
+    border-radius: 20px;
+    padding-bottom: 20px;
+    }
+</style>
+<p><img alt="CSSLP Webcast Series" src="/-/media/ISC2/Certifications/CSSLP/CSSLP-Webcast-Series/MAR-CSSLP_Webcast_Series_Banner-230x150-20201021.ashx?la=en&amp;hash=3E35F694114927179E00773CE6AD4B9E8197D563" style="float: right; padding: 15px; width:auto;"></p>
+<p>Thank you for your interest our CSSLP Webcast Series. You will receive an email with links to each of the chapters within the series.</p>
+<p>In the meantime, here they are to get you started. Please note, you will need to create an account in the BrightTalk webinar platform one time in order to access the webcasts below:</p>
+<ol>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453526?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453526&utm_content=webcast&utm_term=landingpage">Introducing Secure Software Concepts</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453529?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453529&utm_content=webcast&utm_term=landingpage">Secure Software Lifecycle &amp; Risk Management</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453530?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453530&utm_content=webcast&utm_term=landingpage">Intro to Secure Software Requirements</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453535?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453535&utm_content=webcast&utm_term=landingpage">Secure Software Architecture & Design</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453545?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453545&utm_content=webcast&utm_term=landingpage">Introducing Secure Software Implementation</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453550?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453550&utm_content=webcast&utm_term=landingpage">Intro to Secure Software Testing</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453557?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453557&utm_content=webcast&utm_term=landingpage">Secure Software Deployment, Operations &amp; Maintenance</a></li>
+    <li><a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="https://www.brighttalk.com/webcast/260/453559?utm_source=isc2&utm_medium=brighttalk&utm_campaign=453559&utm_content=webcast&utm_term=landingpage">Introducing Secure Software Supply</a></li>
+</ol>
+<p>
+<em>ISC2; Members: These webcasts do not meet the 1-hour requirement for earning CPE credit.</em>
+</p>
+
+
+<hr>
+<p><img alt="" src="/-/media/ISC2/Certifications/CISSP/2021/MAR-CISSP-Banners-Snap_App_Quiz-230x240-20210303.ashx?la=en&amp;hash=CB14D174CA18559B80A4CCD84DB2B1F25C28A151" style="width: 230px; float: left; padding: 10px;"></p>
+
+<p><strong>Test Your CSSLP Knowledge!</strong> <br>
+Are you studying for the CSSLP exam? The <a href="/certifications/quiz?campaign=H-HQ-CSSLPquiz&utm_source=isc2&utm_medium=button&utm_campaign=GBL-CSSLPquiz&utm_term=csslpwebcastseries&utm_content=snapapp">CSSLP practice quiz</a> is a helpful (FREE) study tool that allows you to identify knowledge gaps you might have in each domain. Your quiz results will allow you to refine your study strategy, so you can show up on test day ready to take the CSSLP exam with confidence.</p>
+<a href="/certifications/quiz?campaign=H-HQ-CSSLPquiz&utm_source=isc2&utm_medium=button&utm_campaign=GBL-CSSLPquiz&utm_term=csslpwebcastseries&utm_content=snapapp" class="utm-tag button button--block button--primary" style="max-width: 200px;">Take the Quiz</a>
+<br><br><br>
+
+<hr>
+<p><img alt="" src="/-/media/ISC2/Certifications/CSSLP/CSSLP-Webcast-Series/MAR-CSSLP-Free_FlashCard_Banners-230x240-20210517.ashx?la=en&amp;hash=C358098D6717E86C167D356B41970F2348FB89CE" style="width: 230px; float: right; padding: 10px;"></p>
+
+<p><strong>Are You Ready for the Exam?</strong><br>
+Now you can study for the CSSLP exam anytime, anywhere using Official ISC2; <a href="/Training/Self-Study-Resources/Flashcards/csslp?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CSSLPflashcards&utm_term=csslpwebcastseries&utm_content=flashcards">CSSLP Flash Cards</a>. This FREE interactive self-study tool tests knowledge across all eight CSSLP domains and gives you immediate feedback to reinforce learning.</p>
+<p><a href="/Training/Self-Study-Resources/Flashcards/csslp?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CSSLPflashcards&utm_term=csslpwebcastseries&utm_content=flashcards" class="utm-tag button button--block button--primary" style="max-width: 200px;">Access Today</a></p>
+<br>
+
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

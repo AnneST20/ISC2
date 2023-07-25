@@ -1,0 +1,17 @@
+<h1 style="color:#549eba;">Thanks for Requesting Our Cloud Security Skills White&nbsp;Paper!</h1>
+<br>
+<img alt="CCSP B2C Feature Banner" class="hide-lt-md" style="float: right; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/CCSP-B2C-WP-Feature-Banner-230x240.ashx?la=en&amp;hash=330A409D91E60D9AB1CD94A06800D148CEAC73D7">
+<p class="hide-lt-md">&nbsp;</p>
+<p>Thank you for exploring how <em>Cloud Security Skills Can Take Your Career to Infinity (and Beyond)</em>. Here is <a href="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/MAR-CCSP-Cloud-Security-Skills-Whitepaper.ashx?la=en&amp;hash=A9DD16ACA15E0C9EE654FEF961F48756E91C2C30" target="_blank" title="Opens in new window">your complimentary copy</a>. We&rsquo;ll also email you the link, so you can access this resource anytime.</p>
+<p><a href="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/MAR-CCSP-Cloud-Security-Skills-Whitepaper.ashx?la=en&amp;hash=A9DD16ACA15E0C9EE654FEF961F48756E91C2C30" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">DOWNLOAD YOUR COPY</a></p>
+<p>&nbsp;</p>
+<img alt="CCSP Ultimate Guide 3D Preview" class="hide-lt-md" style="float: left; width: 231px; height: auto; margin:15px;" src="/-/media/ISC2/Landing-Pages/2021/CCSP-B2C-White-Paper/CCSP-UltimateGuideV2-3D-right-web.ashx?la=en&amp;hash=9A2CB3D1F29DCA2076F9F86267C0DC383C4CFE93">
+<h2>Elevate Your Cloud Security Skill Set</h2>
+<p>The <a rel="noopener noreferrer" target="_blank" title="Opens in new window" href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-CCSPultimateguide&amp;utm_term=ccspskillsforprofessionalswptyp&amp;utm_content=ultimateguide">Ultimate Guide to the CCSP</a> covers everything to know about the industry&rsquo;s premier cloud security certification. See how ISC2; and the CCSP can help you enhance your skill set and thrive in the field.</p>
+<p><a rel="noopener noreferrer" href="https://www.isc2.org/Certifications/Ultimate-Guides/CCSP?utm_source=isc2&amp;utm_medium=button&amp;utm_campaign=GBL-CCSPultimateguide&amp;utm_term=ccspskillsforprofessionalswptyp&amp;utm_content=ultimateguide" target="_blank" title="Opens in new window" class="button button--legacy-light-blue">GET THE GUIDE</a></p>
+<hr>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

@@ -1,5 +1,5 @@
-<p><strong>Interested in CGRC certification for your team?</strong>&nbsp;<a href="/Training/Enterprise-Solutions" title="Team Training">Learn more about (ISC)&sup2; Enterprise Solutions</a>.</p>
+<p><strong>Interested in CGRC certification for your team?</strong>&nbsp;<a href="/Training/Enterprise-Solutions" title="Team Training">Learn more about ISC2; Enterprise Solutions</a>.</p>
 
 <p>Did you know? Our certifications are <a href="/about/Accreditation-Recognition-and-Endorsement">accredited, recognized and endorsed</a> by leading organizations around the world.</p>
 
-<p>Connect with other professionals on the (ISC)&sup2; Community. Join the virtual <a href="https://community.isc2.org/t5/CGRC-Study-Group/gh-p/CGRC_Study_Group" target="_blank">CGRC Study Group</a>.</p>
+<p>Connect with other professionals on the ISC2; Community. Join the virtual <a href="https://community.isc2.org/t5/CGRC-Study-Group/gh-p/CGRC_Study_Group" target="_blank">CGRC Study Group</a>.</p>

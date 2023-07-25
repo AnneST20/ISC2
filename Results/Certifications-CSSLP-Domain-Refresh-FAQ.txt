@@ -6,7 +6,7 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>Why are changes being made to the CSSLP exam? </strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        (ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2;: follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing software development professional.
+        ISC2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that ISC2;: follows to routinely update its credential exams. This process ensures that the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing software development professional.
     </div>
 </div>
 <div class="faq">
@@ -211,7 +211,7 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>If I have been studying for the CSSLP exam with material that focuses on the current domains, will I be sufficiently prepared to take the new exam without additional study? </strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        <p>(ISC)&sup2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CSSLP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. (ISC)&sup2; cannot guarantee you will pass the exam.</p>
+        <p>ISC2; exams are experience-based that include experience-based questions that cannot be learned by studying alone. If you already have the experience in the domains covered in CSSLP and believe that you have sufficiently studied those domains, you should feel confident that you are qualified to take the new exam and pass it. ISC2; cannot guarantee you will pass the exam.</p>
 
     </div>
 </div>
@@ -226,6 +226,6 @@
     <div style="" class="faq-marker">Q:</div><div class="faq-text question"><p><strong>When will the training course for CSSLP be updated to reflect these changes?</strong></p></div>
     <div style="clear:both;"></div>
     <div class="faq-marker">A:</div><div class="faq-text">
-        The Official (ISC)&sup2; CSSLP training course will be updated on September 15, 2023 to reflect the changes to the exam outline.
+        The Official ISC2; CSSLP training course will be updated on September 15, 2023 to reflect the changes to the exam outline.
     </div>
 </div>

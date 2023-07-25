@@ -1,10 +1,10 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">CGRC Experience Requirements</h1>
 <p>To qualify for the CGRC you must have a <strong>minimum of two years</strong> of cumulative paid work experience in <strong>one or more of the seven domains</strong> of the CGRC Common Body of Knowledge (CBK).</p>
-<p>If you do not have the required experience to earn the CGRC, you may become an <a href="/Certifications/Associate">Associate of (ISC)&sup2;</a> by successfully passing the CGRC examination. As an Associate of (ISC)&sup2;, you will then have three years to earn the two years of required, relevant experience.</p>
+<p>If you do not have the required experience to earn the CGRC, you may become an <a href="/Certifications/Associate">Associate of ISC2;</a> by successfully passing the CGRC examination. As an Associate of ISC2;, you will then have three years to earn the two years of required, relevant experience.</p>
 <p>Part-time work and internships may also count towards your experience.</p>
 <h2>Work Experience</h2>
-<p>Valid experience includes information systems security-related work performed in pursuit of information system authorization, or work that requires security risk management knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the (ISC)&sup2; CGRC CBK:</p>
+<p>Valid experience includes information systems security-related work performed in pursuit of information system authorization, or work that requires security risk management knowledge and involves direct application of that knowledge. Experience must fall within one or more of the seven domains of the ISC2; CGRC CBK:</p>
 <ul>
     <li>Domain 1: Information Security Risk Management Program</li>
     <li>Domain 2: Scope of the Information System</li>

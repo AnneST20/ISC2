@@ -47,12 +47,12 @@ You must not:<br>
     <li>Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.</li>
     <li>Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.</li>
     <li>You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.</li>
-    <li>If you wish to make any use of material on the Website other than that set out in this section, please address your request to: (ISC)&sup2; Attn: Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at <a href="mailto:legal@isc2.org">legal@isc2.org</a></li>
+    <li>If you wish to make any use of material on the Website other than that set out in this section, please address your request to: ISC2; Attn: Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at <a href="mailto:legal@isc2.org">legal@isc2.org</a></li>
     <li>If you print, copy, modify, download, or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will stop immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title, or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.</li>
 </ul>
 <strong><span style="text-decoration: underline;">Trademarks</span></strong><br>
 <br>
-The Company name, the terms CISSP&reg;, CGRC&reg;, CCSP&reg;, CSSLP&reg;, SSCP&reg;, HCISPP&reg;, ISSAP&reg;, ISSMP&reg;, ISSEP&reg;, (ISC)&sup2;&reg;, Safe and Secure Online&reg;, the Company logo, and all related names, logos, product and service names, designs, and slogans are registered or unregistered marks of the Company or its affiliates. You must follow (ISC)&sup2;&rsquo;s Logo Usage Policy for the use of such marks. Any other use is prohibited without the prior written permission of the Company. All other names, logos, product and service names, designs, and slogans on this Website are the trademarks of their respective owners.<br>
+The Company name, the terms CISSP&reg;, CGRC&reg;, CCSP&reg;, CSSLP&reg;, SSCP&reg;, HCISPP&reg;, ISSAP&reg;, ISSMP&reg;, ISSEP&reg;, ISC2;&reg;, Safe and Secure Online&reg;, the Company logo, and all related names, logos, product and service names, designs, and slogans are registered or unregistered marks of the Company or its affiliates. You must follow ISC2;&rsquo;s Logo Usage Policy for the use of such marks. Any other use is prohibited without the prior written permission of the Company. All other names, logos, product and service names, designs, and slogans on this Website are the trademarks of their respective owners.<br>
 <br>
 <span style="text-decoration: underline;"><strong>Prohibited Uses</strong></span><br>
 <br>
@@ -124,7 +124,7 @@ These content standards apply to any and all User Contributions and use of Inter
     <li>Give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case.</li>
     <li>Copyright Infringement</li>
 </ul>
-If you believe that any User Contributions violate your copyright, please contact the (ISC)&sup2; Legal Department by mail at (ISC)&sup2; Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at legal@isc2.org<br>
+If you believe that any User Contributions violate your copyright, please contact the ISC2; Legal Department by mail at ISC2; Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at legal@isc2.org<br>
 <br>
 <span style="text-decoration: underline;"><strong>Reliance on Information Posted</strong></span> <br>
 <br>
@@ -222,7 +222,7 @@ The Terms of Use, Privacy Policy, and Terms of Sale constitute the sole and enti
 <br>
 This website is operated by International Information System Security Certification Consortium Inc.  625 N Washington Street, Suite 400 Alexandria, VA 22314 <br>
 <br>
-All notices of copyright infringement claims should be sent to (ISC)&sup2; Legal Department by mail at (ISC)&sup2; Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at <a href="mailto:legal@isc2.org">legal@isc2.org</a><br>
+All notices of copyright infringement claims should be sent to ISC2; Legal Department by mail at ISC2; Legal Department 625 N Washington Street, Suite 400 Alexandria, VA 22314 or via email at <a href="mailto:legal@isc2.org">legal@isc2.org</a><br>
 <br>
 All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to:
 <p>&nbsp;</p>

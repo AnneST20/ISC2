@@ -1,0 +1,19 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Requesting the <em>Why Should AWS Cloud-Certified Experts Earn CCSP</em> eBook!</h1>
+
+	
+	<img class="d-lg-none" alt="Why Should AWS Cloud-Certified Experts Earn CCSP eBook" src="https://www.isc2.org//-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/eBooks/MAR-CCSP-eBook-Why-AWS-Should-Earn-CCSP-230x240.ashx" style="float:right; padding:20px;height:auto; width:200;">
+	
+
+	
+<p>Thank you for requesting the eBook <em>Why Should AWS Cloud-Certified Experts Earn CCSP? </em>from ISC2;, the global leader in information security certification. <a href="https://www.isc2.org//-/media/ISC2/Certifications/CCSP/Why-Should-AWS-Experts-Earn-CCSP-eBook.ashx" target="_blank">Your complimentary copy is ready to download</a>. We&rsquo;ll also email the link so you can access this important resource anytime.</p>
+
+<p><a class="button button--primary" href="https://www.isc2.org//-/media/ISC2/Certifications/CCSP/Why-Should-AWS-Experts-Earn-CCSP-eBook.ashx" target="_blank">Download Your Copy</a></p>
+<hr>
+<p><strong>Next Step: Plan for the Exam</strong><br>
+  Get your free <a href="https://www.isc2.org/commit?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Committocert&utm_term=awsccspebookthankyoupage&utm_content=commit">ISC2; Exam Action</a> plan for tips on how to move forward with confidence. </p>
+	
+	<p><a class="button button--primary" href="https://www.isc2.org/commit?utm_source=isc2&utm_medium=button&utm_campaign=GBL-Committocert&utm_term=awsccspebookthankyoupage&utm_content=commit">Get Your Copy</a> </p>
+<hr>
+	
+<p><strong>Thinking about training?</strong> Official ISC2; Training is a great way to build the knowledge and confidence needed for CCSP success. Explore our flexible options: <a href="https://enroll.isc2.org/product?catalog=CCSP-SPT-GLOBAL&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSP-OSP&utm_content=training&utm_term=ccspawsthankyoupage" target="_blank">Online Self-Paced,</a> <a href="https://enroll.isc2.org/catalog?pagename=ccsp-training&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPoilschedule&utm_content=training&utm_term=ccspawsthankyoupage" target="_blank">Online Instructor-Led</a> and <a href="https://www.isc2.org/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=CCSP&utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPclassroombased&utm_content=training&utm_term=ccspawsthankyoupage">Classroom-Based</a>. </p>

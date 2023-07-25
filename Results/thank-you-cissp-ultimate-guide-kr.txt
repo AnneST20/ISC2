@@ -1,0 +1,30 @@
+<div style="margin-top: 10px; width: 100%; min-height: 320px; text-align: left;">
+<img alt="cissp ug " src="/-/media/ISC2/Banners/CISSP-Ultimate-Guide-Korean-3D-Cover.ashx?la=en&amp;hash=C6594709B7C9AD778CD82B2F26366B160190335B" style="float: left;">
+
+<h1 style="color: #007157;"><br><strong>감사합니다!</strong></h1>
+<p><a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCISSP-Korean.ashx?la=en&amp;hash=5DFA99B97438CBDF79270A5298E119EB11DCCCB9" target="blank">CISSP 최종 가이드</a>를 다운로드해주셔서 감사합니다.</p>
+</div>
+<h2 style="color: #007157;">시작을 위한 6가지 무료 리소스</h2>
+<p>세계적으로 인정받는 CISSP에 도전하기로 한 결정을 축하드립니다! 이는 큰 프로젝트이지만, 당신이 그 도전에 준비가 되었음을  알고 있습니다. 그리고 절대 후회하지 않을 것입니다.</p>
+<p>때로는 시작하기가 어려울 수 있습니다... 자신감을 가지고 뛰어들 수 있도록 6가지 유용한 리소스를 제공하고자 합니다. 그리고 전혀 비용이 들지 않습니다.</p>
+
+<ul>
+
+<li><a href="/landing/commit-kr?utm_source=isc2&utm_medium=textlink&utm_campaign=APAC-Committocert&utm_term=cisspugthankyoupagekr&utm_content=commit">시험 액션 플랜 (EXAM ACTION PLAN)</a></li>
+<li><a href="/cissp-interview-blogs">전 세계의 CISSP들로부터 인터뷰 시리즈</a></li>
+<li><a href="/Certifications/CISSP/Webcast-Series?utm_source=isc2&utm_medium=textlink&utm_campaign=APAC-CISSPwebcastseries&utm_term=cisspugthankyoupagekr&utm_content=webcast">CISSP 웹캐스트 시리즈</a></li>
+<li><a href="/certifications/quiz?utm_source=isc2&utm_medium=textlink&utm_campaign=apac-CISSPquiz&utm_term=cisspugthankyoupagekr&utm_content=snapapp">CISSP SnapApp 퀴즈</a></li>
+<li><a href="/Training/Self-Study-Resources/Flashcards/CISSP?utm_source=isc2&utm_medium=textlink&utm_campaign=APAC-cisspflashcards&utm_term=cisspugthankyoupagekr&utm_content=flashcards">CISSP 인터랙티브 플래시 카드</a></li>
+</ul>
+
+<hr>
+
+<h2 style="color: #007157;">다음 단계에 도전하세요.</h2>
+<p><a href="https://enroll.isc2.org/product?catalog=CISSP-SPT-GLOBAL" title="Link opens in a new tab" target="_blank">자기 주도 학습</a>, <a href="https://enroll.isc2.org/catalog?pagename=cissp-training" title="Link opens in a new tab" target="_blank">온라인</a> 또는 <a href="/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=CISSP">강사 주도형 직접 교육</a>의 공인 교육 옵션들을 살펴보세요.</p>
+
+<hr>
+<h2>저희에게 연락주세요.</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

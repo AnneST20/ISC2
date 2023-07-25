@@ -1,0 +1,44 @@
+<a href="/-/media/ISC2/Certifications/Ultimate-Guides/MAR-SSCP_Japan_UltimateGuide_APAC.ashx?la=en&amp;hash=FD8558D005F3D1A8BD97D87F87F93BEC28875A48" target="blank"><img alt="sscp ug " src="/-/media/ISC2/Banners/SSCP-UltimateGuideV2-3D-right-web.ashx?la=en&amp;hash=767C959FF2A8FB96AE9395325ADF251E11BC854E" style="width: 200px; height: 264px; float: left;"></a>
+<h2 style="color: #005eab;">ダウンロードいただき、ありがとうございます。</h2>
+<p>ガイドブックにはこちらからアクセスいただけます。</p>
+
+<a href="/-/media/ISC2/Certifications/Ultimate-Guides/MAR-SSCP_Japan_UltimateGuide_APAC.ashx?la=en&amp;hash=FD8558D005F3D1A8BD97D87F87F93BEC28875A48" target="blank">The Ultimate Guide to the SSCP&nbsp;&raquo;</a><p></p>
+
+<hr>
+
+<h2 style="color: #005eab;">他にも役立つ資料を無料でダウンロードいただけます。</h2>
+<p>この度は、グローバル情報セキュリティ資格SSCP取得をご検討いただき、ありがとうございます。資格取得に向けて努力することは容易ではありませんが、あなたなら挑戦できると信じています。そして、決して後悔はしないでしょう。</p>
+<p>自信を持って始められるように、5つの参考資料を用意しました。</p>
+
+<ul>
+
+<li><a href="/landing/commit-jp?utm_source=isc2&utm_medium=banner&utm_campaign=APAC-Committocert&utm_term=jpug&utm_content=commit">Exam Action Plan</a><u>(日本語)</u></li>
+<li><a href="/Certifications/SSCP/Webcast-Series?utm_source=isc2&utm_medium=asset&utm_campaign=APAC-sscpwebcastseries&utm_term=sscpug_jp&utm_content=webcast">SSCP Webcast Series</a><u>(英語)</u></li>
+<li><a href="/certifications/quiz?utm_source=isc2&utm_medium=asset&utm_campaign=APAC-sscpquiz&utm_term=sscpug_jp&utm_content=quiz">SSCP SnapApp Quiz</a><u>(英語)</u></li>
+<li><a href="/Training/Self-Study-Resources/Flashcards/SSCP/?utm_source=isc2&utm_medium=asset&utm_campaign=APAC-sscpflashcards&utm_term=sscpug_jp&utm_content=flashcards">SSCP Interactive Flash Cards</a><u>(英語)</u></li>
+</ul>
+
+<hr>
+
+<h2 style="color: #005eab;">次のステップに進みましょう</h2>
+<p></p>ISC2;では、<a href="https://enroll.isc2.org/catalog?pagename=sscp-training#product-list-add-multiple-form">Online Instructor-Led Training</a><u>(英語)</u>および<a href="https://enroll.isc2.org/product?catalog=SSCP-SPT-GLOBAL">Official Online Self-Paced Training</a><u>(英語)</u> など、トレーニングや自主学習用の<a href="https://www.isc2.org/Training/TrainingSearchResult?DeliveryMethod=Classroom&certification=SSCP">教材</a>を提供しています。<br>
+
+<hr>
+<h2>あなたの成功をお祈りしています！</h2>
+  <p>ISC2</p>
+    
+ <p>アメリカ<br>
+  +1 866 331 4722 ext.2 <br>
+<a href="mailto:training@isc2.org">training@isc2.org</a></p>
+    
+ <p>EMEA<br>(欧州・中東・アフリカ)<br>
+  +44 203 960 7800 <br>
+  <a href="mailto:info-emea@isc2.org">info-emea@isc2.org</a> </p>
+    <p>
+APAC地域 <br>
++852-5803-5662<br>
+日本 +81 3 5322 2837<br>
+中国 +86 10 5873 2896<br>
+<a href="mailto:isc2asia@isc2.org">isc2asia@isc2.org</a><br>
+日本 <a href="mailto:infoisc2-j@isc2.org">infoisc2-j@isc2.org</a> / 中国 <a href="mailto:isc2china@isc2.org">isc2china@isc2.org</a>
+</p>

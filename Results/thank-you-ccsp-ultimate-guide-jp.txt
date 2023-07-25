@@ -1,0 +1,14 @@
+<div style="margin-top: 10px; width: 100%; min-height: 320px; text-align: left;">
+<a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCCSP-Japanese-2020.ashx?la=en&amp;hash=0F34C8C274883BBD8A318AE34DF36337432C5B8E" target="blank">
+<img alt="cissp ug " src="/-/media/ISC2/Banners/CCSP-UG-Landing-Page-Spread-JP.ashx?h=264&amp;w=350&amp;hash=88D1DA1C9B59B7D5847FE465AC9DA8ECC098E6F4&amp;la=en" style="width: 350px; height: 264px; float: left;"></a>
+<h1 style="color: #3fb4d5;"><strong><br>
+Thanks!</strong></h1>
+<p>日本語版<a href="/-/media/ISC2/Certifications/Ultimate-Guides/UltimateGuideCCSP-Japanese-2020.ashx?la=en&amp;hash=0F34C8C274883BBD8A318AE34DF36337432C5B8E" target="blank">CCSP Ultimate Guide</a>をダウンロードいただき、ありがとうございます。</p>
+</div>
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a><br>
+Japan: 03-5322-2837 | <a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a> (日本語対応)<br>
+China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

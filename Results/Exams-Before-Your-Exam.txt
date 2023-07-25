@@ -1,5 +1,5 @@
 <h2 data-jump-link='on' id="32430bf18e9e4e4684ec69b27f45df05" data-jump-text="Review Your Exam Outline">ISC2 Exam Outlines</h2>
-<p>Exam outlines are available for all (ISC)&sup2; certifications, and they provide details on the domains covered by each exam. Visit our <a href="/Certifications">Certification Overview</a> page and select the certification you are preparing for to access the exam outline.</p>
+<p>Exam outlines are available for all ISC2; certifications, and they provide details on the domains covered by each exam. Visit our <a href="/Certifications">Certification Overview</a> page and select the certification you are preparing for to access the exam outline.</p>
         <h2 data-jump-link='on' id="95c5a30397504d44a6f53acea3992497" data-jump-text="Exam Format and Scoring">Exam Format and Scoring</h2>
 <p>For answers to frequently asked questions about exam scoring, click <a href="/Register-for-Exam/Exam-Scoring-FAQs">here</a>.</p>
 <div class="table-wrapper">
@@ -183,7 +183,7 @@
 <p>There may be scenario-based items with more than one multiple-choice item.</p>
 <p>You need a scale score of <strong>at least 700</strong> out of a possible 1,000 points to pass your cybersecurity exam.</p>
         <h2 data-jump-link='on' id="ddb3ef9aab86469fa0122f69c5d0ee9b" data-jump-text="CISSP Computerized Adaptive Test">Familiarize Yourself with CISSP Computerized Adaptive Test</h2>
-<p>(ISC)&sup2; uses Computerized Adaptive Testing (CAT) for all English CISSP exams worldwide. Based on the same exam content outline as the linear, fixed-form exam, CISSP CAT is a more precise and efficient evaluation of your competency. Learn what to expect when taking your CISSP CAT exam <a href="/Certifications/CISSP/CISSP-CAT">here</a>.</p>
+<p>ISC2; uses Computerized Adaptive Testing (CAT) for all English CISSP exams worldwide. Based on the same exam content outline as the linear, fixed-form exam, CISSP CAT is a more precise and efficient evaluation of your competency. Learn what to expect when taking your CISSP CAT exam <a href="/Certifications/CISSP/CISSP-CAT">here</a>.</p>
         <h2 data-jump-link='on' id="2dc8f11cea5e4fea933be36198630662" data-jump-text="Rescheduling or Cancelling an Exam">Rescheduling or Cancelling an Exam</h2>
 <p>Once you schedule your exam, you have up to 365 days to reschedule and sit for your exam.</p>
 <p>To <a rel="noopener noreferrer" title="Link opens in a new tab" href="https://home.pearsonvue.com/isc2/contact" target="_blank">reschedule or cancel your exam appointment</a>, you must contact Pearson VUE:</p>
@@ -193,17 +193,17 @@
 </ul>
 <p>Pearson VUE charges a reschedule fee of U.S. $50 and a cancellation fee of U.S. $100. If you do not sit for your exam within 365 days of your initial scheduled exam date, your exam fee will NOT be refunded.</p>
         <h2 data-jump-link='on' id="223f66df4afc4463bf0a264c834cb1a9" data-jump-text="Requesting Special Accommodations">Requesting Special Accommodations</h2>
-<p>(ISC)&sup2; provides reasonable and appropriate accommodations for its exams with people who have demonstrated a need for test accommodations. If you wish to request an accommodation, complete the <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/Files/Accommodations-Form.ashx?la=en&amp;hash=715BEBD49F7198069B410D62F75ADF24CAE858BD">Accommodation Form</a> and return it to (ISC)&sup2; <strong>prior to registering for your exam</strong> with the following information to <a href="mailto:examadministration@isc2.org">examadministration@isc2.org</a>:</p>
+<p>ISC2; provides reasonable and appropriate accommodations for its exams with people who have demonstrated a need for test accommodations. If you wish to request an accommodation, complete the <a rel="noopener noreferrer" title="Link opens in a new tab" target="_blank" href="/-/media/Files/Accommodations-Form.ashx?la=en&amp;hash=715BEBD49F7198069B410D62F75ADF24CAE858BD">Accommodation Form</a> and return it to ISC2; <strong>prior to registering for your exam</strong> with the following information to <a href="mailto:examadministration@isc2.org">examadministration@isc2.org</a>:</p>
 <ul>
     <li>An explanation of the accommodations you need</li>
     <li>Documentation supporting the accommodation</li>
     <li>The exam you want to take</li>
     <li>The exam location</li>
 </ul>
-<p>Test accommodations are individualized and considered on a case-by-case basis. Once an accommodation is approved by (ISC)&sup2;, we&rsquo;ll send it to Pearson VUE Accommodations. Please allow two to three business days for Pearson VUE to get this information. Then, call Pearson VUE at +1.800.466.0450 or +1.952.905.7025, so you can schedule your exam. Please contact ISC2 first. Do not start by scheduling through Pearson VUE&rsquo;s website or through their main registration phone line.</p>
+<p>Test accommodations are individualized and considered on a case-by-case basis. Once an accommodation is approved by ISC2;, we&rsquo;ll send it to Pearson VUE Accommodations. Please allow two to three business days for Pearson VUE to get this information. Then, call Pearson VUE at +1.800.466.0450 or +1.952.905.7025, so you can schedule your exam. Please contact ISC2 first. Do not start by scheduling through Pearson VUE&rsquo;s website or through their main registration phone line.</p>
 <p>Please note, that the purpose of test accommodations is to provide examinees with full access to the test. However, they are not a guarantee of improved performance or test completion.</p>
         <h2 data-jump-link='on' id="83f60c679a824eb5951dad4bc9117e83" data-jump-text="Upcoming Exam Updates">Exam Updates</h2>
-<p>(ISC)&sup2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that (ISC)&sup2; follows to routinely update its credential exams. This process ensures the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing professionals.</p>
+<p>ISC2; has an obligation to its membership to maintain the relevancy of its credentials. These enhancements are the result of a rigorous, methodical process that ISC2; follows to routinely update its credential exams. This process ensures the examinations and subsequent continuing professional education requirements encompass the topic areas relevant to the roles and responsibilities of today's practicing professionals.</p>
 <p>Updates have been announced for the following exams:</p>
 <ul>
 <li><a href="/Certifications/SSCP">SSCP</a> length and languages effective November 1, 2022 </li>

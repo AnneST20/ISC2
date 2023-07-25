@@ -1,0 +1,11 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks!</h1>
+<p>Thank you for your interest in the <strong>Official Certified in Governance, Risk and Compliance Flash Cards</strong>. You will receive an email with links to access flash cards for each chapter.</p>
+<p>In the meantime, test your knowledge of <strong><a href="/Training/Self-Study-Resources/CGRC/Chapter-1">Chapter 1</a></strong>.</p>
+<hr>
+
+<h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

@@ -1,0 +1,27 @@
+<div class="h1-sub"></div>
+<h1 class="h1 bar">Thanks for Downloading the Cloud Security Report</h1>
+<p><img class="hide-lt-md" alt="2023 Cloud Security Report image" width="230" src="/-/media/ISC2/Landing-Pages/2021/cloud-security-report/MAR-Cloud-Security-Report-2023-230x240.ashx?la=en&amp;hash=8115DFF048A5416F34D73CCA57FCDF4CA1A87A13" style="float:right; padding:0 20px; margin-top: -20px;"></p>
+<p>Thank you for your interest in the <strong>2023 Cloud Security Report</strong>. Use the <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/Research/2023-Cloud-Security-Report.ashx?la=en&amp;hash=48E1FB9633C1E0A69243D8B701631B3CE7451AA5" target="_blank" title="Opens in new window">2023 findings</a> to benchmark your cloud security posture, operating budget and best practices.</p>
+
+<a class="button button--primary" title="Opens in a new window" href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/Research/2023-Cloud-Security-Report.ashx?la=en&amp;hash=48E1FB9633C1E0A69243D8B701631B3CE7451AA5" target="_blank">Download Report</a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!--<hr />-->
+
+
+<p><img class="hide-lt-md" alt="The Ultimate Guide to the CCSP image" width="230" src="/-/media/ISC2/Landing-Pages/2023/MAR-CCSP-Ultimate_Guide-Internal-Web-Banners-230x240-cover-image.ashx?la=en&amp;hash=1EA9F4204E8CDD42FD286340B72157FFE0FC4E35" style="float:left; padding:20px;"></p>
+
+<h2>Elevate Your Cloud Security Skill Set</h2>
+<p><a href="https://cloud.connect.isc2.org/ccsp-ultimate-guide?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=cloudsecurityreportthankyoupage&utm_content=ultimateguide">The Ultimate Guide to the CCSP</a> covers everything to know about the industry&rsquo;s premier cloud security certification. See how ISC2 and the CCSP can help you enhance your cloud skill set and thrive in the field.</p>
+
+<a class="button button--primary" href="https://cloud.connect.isc2.org/ccsp-ultimate-guide?utm_source=isc2&utm_medium=button&utm_campaign=GBL-CCSPultimateguide&utm_term=cloudsecurityreportthankyoupage&utm_content=ultimateguide">Get Your Guide</a>
+
+<hr>
+
+<p><strong>Ready to start your journey toward CCSP?</strong> Start strong as an <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CSRTYP&utm_content=candidate">ISC2 Candidate</a>. You’ll gain access to exclusive benefits, including 20% off Official ISC2 Training so you can start preparing for the exam.<br>
+<a href=" /candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CSRTYP&utm_content=candidate">Sign up now.</a> Your first year is free – no cost to you.*</p>
+
+<p>*If you choose to renew after the first year, U.S. $50 due annually.</p>
+
+<hr>
