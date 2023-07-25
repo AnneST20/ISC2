@@ -1,0 +1,27 @@
+<a href="/Cloud-Security?utm_source=isc2&utm_medium=button&utm_campaign=GBL-cloudsecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Cloud-Security-AoF-Icon.ashx?la=en&amp;hash=4B3C851B58B0CE023C25CFA493DFBEBB1DE85BE7">
+<p>Cloud Security</p></div></a>
+
+<a href="/Cybersecurity-Leadership?utm_source=isc2&utm_medium=button&utm_campaign=GBL-cybersecurityleadership-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Cyber-Leadership-AoF-Icon.ashx?la=en&amp;hash=8CB4923FE565901ADF07B135BDB9DF6370F1054D">
+<p>Cybersecurity Leadership</p></div></a>
+
+<a href="/Entry-Level-Cybersecurity?utm_source=isc2&utm_medium=button&utm_campaign=GBL-entrylevelcybersecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Entry-Level-Cybersecurity-AoF-Icon.ashx?la=en&amp;hash=A20B237914F50737FACDAC00282F517C6D65E9C1">
+<p>Entry-Level Cybersecurity</p></div></a>
+
+<a href="/Governance-Risk-Compliance?utm_source=isc2&utm_medium=button&utm_campaign=GBL-governanceriskcompliance-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/GRC-AoF-Icon.ashx?la=en&amp;hash=0FDDAF6FE44185B89140865E1319CD49A149190F">
+<p>Governance, Risk and Compliance</p></div></a>
+
+<a href="/Network-Security?utm_source=isc2&utm_medium=button&utm_campaign=GBL-networksecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Network-Security-AoF-Icon.ashx?la=en&amp;hash=287634F4950BBB158417A70802DA8ED2D5C5DC19">
+<p>Network Security</p></div></a>
+
+<a href="/Security-Operations?utm_source=isc2&utm_medium=button&utm_campaign=GBL-securityoperations-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Security-Operations-AoF-Icon.ashx?la=en&amp;hash=C186A485BFD0AAEFECCE79962AD1DB878DF6523E">
+<p>Security Operations</p></div></a>
+
+<a href="/Software-Security?utm_source=isc2&utm_medium=button&utm_campaign=GBL-softwaresecurity-areas-of-focus&utm_term=ccproductlp&utm_content=awareness">
+<div><img src="/-/media/ISC2/ISC2-Icons/Focus-Area-Icons/Software-Security-AoF-Icon.ashx?la=en&amp;hash=4EB11A07EE5E92CBA23D2533273259F043835C33">
+<p>Software Security</p></div></a>

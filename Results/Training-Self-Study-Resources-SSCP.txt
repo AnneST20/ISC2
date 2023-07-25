@@ -1,0 +1,13 @@
+<div class="ospTraining__flexContainer">
+<div class="ospTraining__image">
+<img alt="" src="/-/media/ISC2/ISC2-Icons/circle-icon-self-paced.ashx?la=en&amp;hash=2A4F5F4FBFF04C1DAF6C635B476D40A58C33549A">
+</div>
+<div>
+<h2>SSCP Online Self-Paced Training</h2>
+<p>Want to prepare for the SSCP exam anytime? Learn the advanced technical skills and knowledge to implement, monitor and administer IT infrastructure anywhere without sacrificing quality for convenience. Official (ISC)² Online Self-Paced Training allows you to move ahead on your schedule with freedom and confidence.</p>
+<div>
+
+<a href="https://enroll.isc2.org/product?catalog=SSCP-SPT-GLOBAL&utm_source=isc2&utm_medium=button&utm_campaign=GBL-SSCPOSPtraining&utm_term=selfstudyresources&utm_content=training" target="_blank" class="utm-tag button button--primary">Start Learning</a>
+</div>
+</div>
+</div>

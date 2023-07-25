@@ -1,0 +1,175 @@
+<table border="1" cellspacing="0" cellpadding="0" class="table table-responsive">
+    <tbody>
+        <tr style="background: #006f53; color: white;">
+            <td style="text-align: center; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;"><strong>Exam</strong></p>
+            </td>
+            <td style="text-align: center; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;"><strong>Time Allotted</strong></p>
+            </td>
+            <td style="text-align: center; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;"><strong>Items</strong></p>
+            </td>
+            <td style="text-align: center; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;"><strong>Examination Availability</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">Certified in Cybersecurity</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">2 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">100 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English, Chinese, German, Spanish</p>
+            </td>
+        </tr>
+		
+		
+		<tr>
+            <td style="padding: 3.75pt; vertical-align: middle; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CISSP (CAT)</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">4 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 – 175 multiple choice and advanced innovative items</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+   
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CISSP (CBT)</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">6 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">250 multiple choice and&nbsp;advanced innovative items</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">Chinese, Korean, German, Japanese, Spanish</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">SSCP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">4 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">150 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English, Chinese, Korean, German, Japanese, Spanish</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CCSP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">4 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">150 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English, Chinese, Korean, German, Japanese, Spanish</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CGRC</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CSSLP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">HCISPP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CISSP-ISSAP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CISSP-ISSEP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">CISSP-ISSMP</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">3 hours</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">125 multiple choice, 4 choices</p>
+            </td>
+            <td style="padding: 3.75pt; vertical-align: middle;">
+            <p style="margin: .75em 0 .75em;">English</p>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+<div class="ospTraining__flexContainer">
+<div class="ospTraining__image">
+<img alt="" src="/-/media/ISC2/ISC2-Icons/circle-icon-self-paced.ashx?la=en&amp;hash=2A4F5F4FBFF04C1DAF6C635B476D40A58C33549A">
+</div>
+<div>
+<h2>New! AI-driven learning for CCSP</h2>
+<p>Experience next-level learning with Official (ISC)² Online Self-Paced CCSP Training – now adaptive so you know exactly where to focus your study plan.</p>
+<div>
+<a href="/Training/CCSP-Training?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-CCSPtraining&utm_term=websiteblurb&utm_content=training" target="_blank" class="utm-tag button button--primary">Learn More</a>
+</div>
+</div>
+</div>

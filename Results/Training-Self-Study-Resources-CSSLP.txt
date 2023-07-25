@@ -1,0 +1,13 @@
+<div class="ospTraining__flexContainer">
+<div class="ospTraining__image">
+<img alt="" src="/-/media/ISC2/ISC2-Icons/CORP-CISSP-Training_Icon-Light_Green-Instructor_Led.ashx?la=en&amp;hash=ED12B4E866882A5919FDEC2971F1C6BF093FCC2B">
+</div>
+<div>
+<h2>CSSLP Online Instructor-Led  Training</h2>
+<p>Build knowledge and confidence with Official (ISC)² Online Instructor-Led Training. You’ll get industry-leading courseware and live interactive instruction from a CSSLP-certified (ISC)² Authorized Instructor.</p>
+<div>
+
+<a href="/Training/Online-Instructor-Led " class="utm-tag button button--primary">Get Pricing</a>
+</div>
+</div>
+</div>
