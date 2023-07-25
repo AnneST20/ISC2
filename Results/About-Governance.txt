@@ -1,4 +1,327 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">ISC2 Governance</h1>
 
-<p>ISC2 is a United States 501(c)(6) nonprofit professional corporation. It was established to develop a program and common body of knowledge for the certification of cybersecurity professionals. ISC2 programs have since expanded to support its members&rsquo; professional development and advocating for the continued growth, ethical best practices, and health of the profession. Under the authority, direction and guidance of <a href="https://www.isc2.org/About/Board-of-Directors">ISC2 Board of Directors</a>, association operations are managed by the ISC2 CEO and senior <a href="https://www.isc2.org/About/Leadership">leadership team</a>. </p>
+<p>ISC2 is a United States 501(c)(6) nonprofit professional corporation. It was established to develop a program and common body of knowledge for the certification of cybersecurity professionals. ISC2 programs have since expanded to support its members&rsquo; professional development and advocating for the continued growth, ethical best practices, and health of the profession. Under the authority, direction and guidance of <a href="https://www.isc2.org/About/Board-of-Directors">ISC2 Board of Directors</a>, association operations are managed by the ISC2 CEO and senior <a href="https://www.isc2.org/About/Leadership">leadership team</a>. </p><ul class="ac hide-siblings" id="accordion-2e69240d42cc45268291a46d77976859">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-703a156e77b9447e90bfbfe3f40e3c0f">
+            <span class="hide-sm">Articles of Organization</span>
+        <span class="hide-lt-sm">Articles of Organization</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-703a156e77b9447e90bfbfe3f40e3c0f" class="collapse ">
+        <div class="content">
+            
+<p>ISC2 – the International Information System Security Certification Consortium, Inc. – exists to strengthen the influence, diversity, and vitality of the cybersecurity profession through advocacy, expertise, and workforce empowerment that accelerates cyber safety and security in an interconnected   world. </p>
+<p>ISC2 is a not-for-profit corporation operating under the provisions of Section 501(c)(6) of the United States Internal Revenue Code. Global in scope, ISC2 is incorporated in the Commonwealth of Massachusetts under the authority of Massachusetts General Laws c.180 and the Articles of Organization of the Corporation.</p>
+<p><a href="https://www.isc2.org//-/media/ISC2/About/Governance/Articles-of-Organization.ashx" target="_blank">Read the ISC2 Articles of Organization.</a></p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-916c832b3cf64a95a71187966ab56ceb">
+            <span class="hide-sm">Bylaws</span>
+        <span class="hide-lt-sm">Bylaws</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-916c832b3cf64a95a71187966ab56ceb" class="collapse ">
+        <div class="content">
+            
+<p>The ISC2 Bylaws set forth the rules concerning the operation of our association and actions of our members. It guides how our Board of Directors and staff manage our nonprofit corporation. The ISC2 Amended and Restated Bylaws establish fundamental principles about key governance policies, members’ rights and Board operations. </p>
+<p><a href="https://www.isc2.org/-/media/Files/Amended-and-Restated-Bylaws.ashx" target="_blank">Read the ISC2 Bylaws.</a></p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-3bf4272b3372464aa87fe74aac6bd748">
+            <span class="hide-sm">Board of Directors</span>
+        <span class="hide-lt-sm">Board of Directors</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-3bf4272b3372464aa87fe74aac6bd748" class="collapse ">
+        <div class="content">
+            
+<p>Elected by ISC2 members, the Board of Directors is comprised of ISC2-certified cybersecurity professionals and leaders from around the world with expertise securing and managing risk for academic institutions, government agencies and businesses of all sizes across all sectors. Our all-volunteer Board of ISC2 members provides governance and oversight for the organization, establishes requirements for and grants certifications to qualifying candidates, and enforces adherence to the ISC2 Code of Ethics. </p>
+
+<p>The ISC2 Board of Directors volunteers its time working on strategy, setting goals and objectives, overseeing programs and activities, and actively managing risks. The Board depends on the faithful and responsible participation of each of its members. </p>
+
+<p><a href="/About/Board-of-Directors">Learn more about the Board of Directors.</a></p>
+
+<p>It is the responsibility of the Board to ensure the following: </p>
+<ul>
+  <li>Association policy and strategy are set, documented and clearly understood by both the Board and management</li>
+  <li>Management is performing to a level that enables them to deliver on their objectives </li>
+  <li>Assets of the corporation are being used wisely and strategic initiatives are adequately resourced</li>
+  <li>Conduct risk oversight ensuring appropriate and thorough risk management practices are in place</li>
+</ul>
+
+<p>Specific to ISC2 Board of Directors they also:</p>
+<ul type="disc">
+  <li>Issue certifications to qualified      candidates who have met all the necessary credential requirements</li>
+  <li>Review and approve proposed new      credentials or changes to existing credentials</li>
+  <li>Act as      evangelists and advocates for the organization and the ISC2 mission</li>
+  <li>Adhere to the <a href="/Ethics">ISC2 Code of Ethics</a> and all other <a href="/Policies-Procedures">ISC2 policies</a></li>
+</ul>
+
+
+<p><strong>Terms of Service</strong><br>
+  Dedicating hundreds of hours to advance our association and the cybersecurity profession, ISC2 Board members are not compensated for their service. Each Board member is elected to a three-year term. </p>
+
+<p>Board Officers are elected annually by the Board to serve a one-year term as an officer. Board officers and their responsibilities include:</p>
+
+<p><strong>Board Chair</strong><br>
+The Chair of the Board ensures the effective action of the Board in governing and supporting
+  ISC2. The Chair is an officer of the corporation and is elected by Board members. Among other functions, the Chair:</p>
+<ul>
+  <li>Leads the board and is responsible for its effectiveness</li>
+  <li>Chairs Board meetings </li>
+  <li>Chairs Annual Meeting </li>
+  <li>Appoints members to Board-designated standing and ad hoc committees</li>
+  <li>Supervises the CEO on behalf of the board and members </li>
+  <li>Performs all lawful functions of a board chair</li>
+</ul>
+
+
+
+<p><strong>Board Vice Chair</strong><br>
+During short- or long-term absences of the Board Chair, the Vice Chair acts as the Chair in ensuring the effective action of the Board in governing and supporting ISC2. The Vice  Chair is elected by the Board members. The Vice Chair:</p>
+<ul>
+  <li>Assists the Chair as necessary to ensure board operations </li>
+  <li>Acts as Chair in the absence of the Chair</li>
+  <li>Chairs the Business Practices Committee </li>
+  <li>Executes other duties as assigned by the Chair</li>
+</ul>
+
+<p><strong>Board Secretary</strong><br>
+The Board Secretary works with the Corporate Secretary to ensure a proper record of board actions is maintained. This includes taking of minutes at all meetings, and the distribution of minutes and agendas to Board members. The Secretary is elected by the Board Members. The Secretary:</p>
+<ul>
+  <li>Assures creation of minutes of meetings</li>
+  <li>Executes other duties as assigned by the Chair</li>
+</ul>
+
+<p><strong>Board Treasurer&nbsp; </strong><br>
+The Board Treasurer manages the Board’s review of, and action related to, the Board’s
+  financial responsibilities and may work closely with the organization’s Chief Financial 
+  Officer. The Treasurer is elected by the Board Members. The Treasurer:</p>
+<ul>
+  <li>Chairs the Audit Committee of the Board</li>
+  <li>Executes other duties as assigned by the Chair</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-d64c6155e2a142998efefa54ee9c70c1">
+            <span class="hide-sm">Board of Directors Member Qualifications</span>
+        <span class="hide-lt-sm">Board of Directors Member Qualifications</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-d64c6155e2a142998efefa54ee9c70c1" class="collapse ">
+        <div class="content">
+            
+<p>To provide the required governance of and  support for the organization, the ISC2 Board of  
+  Directors must include individuals with the appropriate skills and expertise to deliver on our strategic priorities. The unique skills and expertise required on the board may change over time. Generally, the nominations committee seeks directors who maintain the following characteristics:</p>
+<ul>
+  <li>Be a member in good standing with ISC2</li>
+  <li>Have an established record of leadership in the field of information systems security </li>
+  <li>Possess the needed skills diversity based on expertise and professional background</li>
+  <li>Have experience in managing or directing strategic programs across an enterprise</li>
+  <li>Have earned the respect and trust of peers in the subject of information security</li>
+  <li>Have an established record of advancing the field of information security</li>
+  <li>Have not been a salaried employee of ISC2 or its affiliates</li>
+  <li>Possess the ability to listen, analyze, think clearly and creatively, and work well with people both individually and in a group</li>
+  <li>Have the willingness to prepare for and attend four or more in-person board meetings, weekly teleconferences and committee meetings, ask questions, take responsibility and follow through on a given assignment, and read and understand financial statements</li>
+  <li>Create opportunities for ISC2</li>
+  <li>Have a commitment from his or her employer to support the time off from work required to support this commitment</li>
+  <li>Have a willingness to cultivate and recruit future Board members and other volunteers</li>
+  <li>Possess honesty, sensitivity to and tolerance of differing views, and a desire to serve as a member of a team</li>
+  <li>Be friendly, responsive, and patient in dealings with fellow Board members</li>
+  <li>Adhere to the ISC2 Code of Ethics</li>
+  <li>Promote the agreed collective Board opinion above their own personal views</li>
+  <li>Advocate for the organization. Work for change or acceptance where organizational views do not mirror those of the Board member.</li>
+  <li>Refrain from bringing the organization into disrepute through personal actions or words.</li>
+  <li>Qualify for eligibility based on the current ISC2 Bylaws</li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-cb3b1af0343843f6a90ec9fde3bd08fc">
+            <span class="hide-sm">Board Committees</span>
+        <span class="hide-lt-sm">Board Committees</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-cb3b1af0343843f6a90ec9fde3bd08fc" class="collapse ">
+        <div class="content">
+            
+<p>The detailed work of the board is performed in committees. Board members and at-large members volunteer to serve on Board-designated committees and task forces to strengthen our association. Committee chairs are appointed by the ISC2 Board Chair and report to and serve at the pleasure of the Board. Three committees are required under our Bylaws, and the Board establishes other committees to ensure it meets its fiduciary obligations.  </p>
+
+<h2>Standing Board Committees</h2>
+<ul>
+<li><a href="/about/Governance/Audit-Committee">Audit Committee</a></li>
+<li><a href="/about/Governance/Business-Practice-Committee">Business Practices Committee</a></li>
+<li><a href="/about/Governance/Professional-Conduct-Committee">Professional Conduct (Ethics) Committee</a></li>
+</ul>
+
+
+<h2>Ad Hoc Board Committees</h2>
+<ul>
+<li><a href="/about/Governance/Bylaws-Committee">Bylaws Committee</a></li>
+<li><a href="/about/Governance/Nomination-Committee">Nominations Committee</a></li>
+<li><a href="/about/Governance/Risk-Committee">Risk Committee</a></li>
+<li><a href="/about/Governance/Compensation-Succession">Compensation and CEO Succession Committee</a></li>
+<li><a href="/about/Governance/Center-Trustees-Committee">Center for Cyber Safety and Education Trustee Board</a></li>
+</ul>
+<p><a href="/Volunteer">Volunteer</a> to share your expertise and give back to the association as a member-at-large committee member, task force contributor and more. </p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-f1d0892ebdb0492b8a179a5322bff6a4">
+            <span class="hide-sm">Board of Directors Policies</span>
+        <span class="hide-lt-sm">Board of Directors Policies</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-f1d0892ebdb0492b8a179a5322bff6a4" class="collapse ">
+        <div class="content">
+            
+<p>The ISC2 Board of Directors adheres to a set of policies to guide in the governance of the association.</p>
+<ul>
+  <li><a href="https://www.isc2.org//-/media/ISC2/About/Governance/Board-of-Directors-Communication-Policy.ashx" target="_blank">Board of Directors Communication Policy</a></li>
+  <li><a href="https://www.isc2.org//-/media/ISC2/About/Governance/Code-of-Ethics-Policy.ashx" target="_blank">Code of Ethics Policy</a></li>
+  <li><a href="https://www.isc2.org//-/media/ISC2/About/Governance/Conflict-of-Interest-Policy.ashx" target="_blank">Conflict of Interest Policy</a></li>
+</ul>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-8a287f4d49004765bbb52354fba247ce">
+            <span class="hide-sm">Member Corporate Records Request Policy</span>
+        <span class="hide-lt-sm">Member Corporate Records Request Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-8a287f4d49004765bbb52354fba247ce" class="collapse ">
+        <div class="content">
+            
+
+<p align="center"><strong>Member Corporate Records Request Policy</strong></p>
+
+<p><strong>Purpose</strong><br>
+  The purpose of this policy is to describe how ISC2 members may request access to certain corporate records.  </p>
+<p>Members have inspection rights to the following documents:</p>
+<ul>
+  <li>Articles of organization, </li>
+  <li>Bylaws, </li>
+  <li>Minutes of member meetings and </li>
+  <li>Stock and transfer records (not applicable to ISC2)</li>
+</ul>
+
+<p>There is also a right for the general public to view the last three years of IRS (Internal Revenue Service) Form 990s. No statutory right exists for members to view other records including director meeting minutes, corporate records and policies. </p>
+<p>However, members may have a limited right to certain records. This right is not absolute, and only applies to members who are acting in good faith and for the purposes of advancing the corporation&rsquo;s interest and protecting their rights. This right also applies to specific rights given to members within the company's organizational documents. </p>
+<p>Under the current ISC2 bylaws, members have a right to: </p>
+<ul>
+  <li>Vote for directors, </li>
+  <li>Add agenda items to the Annual Meeting or a Special Meeting, </li>
+  <li>Approve mergers, </li>
+  <li>Dispose of substantially all the assets, and</li>
+  <li>Amend the bylaws and articles of organization. </li>
+</ul>
+<p>Therefore, to the extent any records may relate to those duties, members may have a right to such records if such a request is for a proper purpose.</p>
+<p><strong>Policies </strong><br>
+  The following policies are already available to members: </p>
+<ul>
+  <li><a href="/Policies-Procedures/Member-Policies">Member Policies </a> </li>
+  <li><a href="/Policies-Procedures">General Corporate Policies </a> </li>
+  <li><a href="/About/Governance">Board of Directors Policies</a></li>
+</ul>
+<p>Other policies and corporate records must be requested.</p>
+
+	<p>&nbsp;</p>
+
+<p><strong>Process to Request Policies or Corporate Records</strong>:</p>
+<ol>
+  <li>All requests for ISC2 policies or corporate documents should be sent to <a href="mailto:legal@isc2.org">legal@isc2.org</a>.</li>
+  <ol type="a">
+    <li>All requests should be clear enough to enable ISC2 employees to conduct a meaningful search. </li>
+  </ol>
+  <li>ISC2 employees may ask questions about the substance and purpose of the request to respond fully and in a timely manner. </li>
+  <li>ISC2 will review the records requested and determine if they are among those mentioned in this policy, or records that ISC2 is legally required to make available. If the records are not among those mentioned in this policy, or records that ISC2 is legally required to make available, ISC2 will determine if the purpose is proper for the request to be granted. </li>
+ <ol type="a">
+    <li>A proper purpose is defined as someone acting for an honest purpose, not adverse to the interest of the corporation. </li>
+    <li>The right cannot be exercised for mere curiosity, or for merely speculative purposes, or vexatiously.</li>
+  </ol>
+  <li>If the purpose is proper, as defined herein, ISC2 will determine if any information needs to be redacted, or if the information should be viewed in person and not delivered electronically. ISC2 also may require any requestor to execute an NDA (Non-Disclosure Agreement) should it determine it is needed. ISC2 will then proceed to Step 6. </li>
+  <li>If the purpose is not proper, ISC2 will respond to the individual letting them know the request is denied. </li>
+  <li>Once the appropriate redactions are made, ISC2 may deliver the records in the format agreed.</li>
+</ol>
+	
+<p>At all times, ISC2 is under no obligation to reveal information that may be covered under attorney-client confidentiality or other work product, materials collected for purposes of litigation. </p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-ec3702ae7ab54237921a03027a90980e">
+            <span class="hide-sm">The Center for Cyber Safety and Education</span>
+        <span class="hide-lt-sm">The Center for Cyber Safety and Education</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-ec3702ae7ab54237921a03027a90980e" class="collapse ">
+        <div class="content">
+            
+<p>The Board of Directors also oversees The Center for Cyber Safety and Education (Center). The Center is a 501(c)(3) charitable foundation of ISC2 and is committed to making the cyber world a safer place for everyone. The Center breaks down barriers in access to the cyber profession and provides opportunities for individuals, groups and organizations with the most need. </p>
+<p>The Center is the charitable foundation of ISC2, and its Board of Trustees are appointed by the ISC2 Board of Directors. </p>
+<p>Learn more at <a href="http://www.iamcybersafe.org" target="_blank">www.iamcybersafe.org</a>.&nbsp;&nbsp; </p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-2c18a099d50347ce88599235d0181946">
+            <span class="hide-sm">Reporting and Transparency</span>
+        <span class="hide-lt-sm">Reporting and Transparency</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-2c18a099d50347ce88599235d0181946" class="collapse ">
+        <div class="content">
+            
+<p></p>To ensure membership is informed of developments, strategy and the financial health of ISC2, the Board and management provide:<p></p>
+
+<p><strong>Quarterly Chair</strong><strong>-CEO </strong><a href="/Membership/ISC2-Insights"><strong>Inside ISC2 Webinars</strong></a> – Open to all members, associates and candidates, this webinar series shares the latest association updates and an open FAQ with attendees. </p>
+
+<p><strong>Annual Members Meeting</strong> – Each year, the Board calls an Annual Members Meeting open to all members to report on the year&rsquo;s activities. Members are notified at least 60 days in advance.</p>
+
+<p><strong><a href="/About/Leadership#report">Annual Report</a> </strong>– Each spring, ISC2 publishes an Annual Report to share the association&rsquo;s results from the previous year, as well as provide audited financial statements outlining the organization&rsquo;s financial health. </p>
+
+<p><strong>Notice of Important Association Events</strong> – Members are notified by email ahead of important annual and special events, including Board elections, annual and special meetings, policy updates, new certifications and more. Update your <a href="/Dashboard/Preferences">communication preferences</a> to stay informed. </p>
+
+<p><a href="/Member-Notices"><strong>Member Notice Page</strong></a> – Members can access important news and developments on the Member Notice page. </p>
+
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-8d4fd0dc7b074256a9bc4a90b6a15456">
+            <span class="hide-sm">Policies</span>
+        <span class="hide-lt-sm">Policies</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-8d4fd0dc7b074256a9bc4a90b6a15456" class="collapse ">
+        <div class="content">
+            
+<p>All association policies and procedures encompassing membership, exams, privacy and communications, non-discrimination, intellectual property usage and more can be found <a href="/Policies-Procedures">here</a>.</p>
+        </div>
+    </div>
+</li>
+
+
+</ul><h2 data-jump-link='off' id="4f082ea394a54c8c99a59d256e51a6c3" data-jump-text="">Contact the Board</h2>
+<p>Please direct all official inquiries, requests and comments to ISC2 Board of Directors via the following form. Your message will be sent to the ISC2 Board of Directors and our Board support team. Thank you for your patience as your submission is reviewed. Our all-volunteer Board will address your inquiry and may request that ISC2 management or staff respond on its behalf.  </p>

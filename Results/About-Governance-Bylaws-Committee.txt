@@ -44,4 +44,80 @@ Nagesh Gummadivalli, CISSP (United States)</p>
 <li><p>Webinar (March 21, 2023): <a href="/en/News-and-Events/Webinars/ThinkTank?commid=576902" target="_blank">Get Involved – Meet the 2023 ISC2 Bylaws Committee</a><br> 
 <em>You spoke. We listened. During this recorded webinar, meet the 2023 ISC2 Bylaws Committee and learn how you can contribute to this year’s bylaws review and amendment process. Board of Directors member and Bylaws Committee Chair Lisa Young, CISSP, explained this year’s process. <a href="/en/News-and-Events/Webinars/ThinkTank?commid=576902" target="_blank">Watch&nbsp;now.</a></em></p></li>
 
+</ul><ul class="ac hide-siblings" id="accordion-2aa4e68c10d74fb1a9b79874726cb327">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-c4a3c4e930b044fe93be9cbfb41248a6">
+            <span class="hide-sm">Bylaws Review Process FAQs</span>
+        <span class="hide-lt-sm">Bylaws Review Process FAQs</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-c4a3c4e930b044fe93be9cbfb41248a6" class="collapse ">
+        <div class="content">
+            
+<ol style="padding-left: 1.75em;">
+<li><p><strong>How do I vote for the Bylaws?</strong><br> 
+Starting June 30, 2023, members who are eligible to vote will find a link to the Bylaws amendment ballot on the member dashboard at <a href="https://my.isc2.org/s/Dashboard" target="_blank">https://my.isc2.org/s/Dashboard</a>. Before you vote, learn more about the proposed Bylaws amendments by viewing on-demand webinars and other helpful resources on this page, and review the voting process information  <a href="/-/media/ISC2/About/Governance/ISC2-2023-Bylaws-Proxy-Materials.ashx?la=en&amp;hash=353306A7775FA6566F2C501D3E497D422EEBF0E5" target="_blank">here</a>. Voting is open until July 26, 2023.</p></li>
+
+<li><p><strong>Why was the Bylaws vote suspended?</strong><br> 
+An authentication vulnerability was identified in our voting platform. We hold the integrity of our member voting paramount and suspended voting until a secure environment was restored. Our security team thoroughly reviewed our protocols, processes and integrity of the voting platform to ensure it meets the level of security our members expect. Voting has now been restored. As originally proposed, members have more than 3 weeks to consider their vote and cast their ballot ahead of the August 1, 2023 Special Meeting. <strong>All previous votes will need to be recast.</strong> <a href="/notice/2023-Bylaws-Vote">Learn more.</a></p></li>
+
+<li><p><strong>What are bylaws? How do they differ from the organization&rsquo;s Articles of Incorporation?</strong><br> 
+<strong>ISC2 Bylaws</strong> define our organization's structure, outlining our leadership model and decision-making responsibilities, as well as overall operations. <strong>Articles of Organization</strong>, known as our &quot;Charter,&rdquo; are the primary law used to establish corporate existence. Members can find the bylaws and Articles of Organization at <a href="/about/governance">www.isc2.org/about/governance</a>.</p></li>
+
+<li><p><strong>Why do bylaws require amendments? Why is the Board of Directors engaged in this process now?</strong><br> 
+A periodic review of bylaws and governance is part of the Board of Directors&rsquo; legal duties and a common best practice for associations.</p>
+<p>Over the past several years, the ISC2 Board of Directors has dedicated significant attention to a review of the organization&rsquo;s practices related to committees, nominations and governance. The goal of this effort has been to ensure that we are creating an association that is well poised to serve the needs of the membership and profession now and into the future.</p></li>
+
+<li><p><strong>Why is the Board of Directors recommending bylaws amendments?</strong><br> 
+As ISC2 continues to grow as a global organization, we must ensure that our governance also evolves to better serve our members and profession. As ISC2 nears its 35-year anniversary, we have more than 365,000 members, associates and candidates worldwide. We are also becoming more global. Two-thirds of our members today are in North America, but roughly half of our 180,000 Candidates — future ISC2 members — are in Latin America, Europe, Africa and Asia-Pacific.</p> 
+<p>The rapid growth of the association, our membership and staff necessitate that we build upon legacy practices and evolve the organization when necessary. Refining our bylaws is one way we can ensure that the Board of Directors is equipped to provide the governance and strategic leadership we need as our association evolves.</p></li>
+
+<li><p><strong>What happened to the bylaws amendments proposed in 2022?</strong><br> 
+In 2022, the Board of Directors put forth a comprehensive proposal for bylaws amendments that were voted down by the membership. These proposed amendments were based on a review of our current practices compared to those of other similar global associations, as well as the work of two taskforces.</p> 
+<p>In response to feedback during the 2022 bylaws amendment process, the Board of Directors recognizes the need to further engage with members before proposing future bylaws amendments. The Board of Directors has committed to a new process that is more transparent and includes new and increased opportunities for members to provide input.</p></li>
+
+<li><p><strong>What is new about the bylaws review process in 2023?</strong><br> 
+For 2023, the Board of Directors established a Bylaws Committee comprised of board members and members-at-large. The Bylaws Committee is responsible for:</p> 
+
+<ul style="margin-left: 50px;">
+<li>Reviewing the current bylaws, as well as proposals received from the board, committees or other stakeholders, and make appropriate recommendations to the board andmembership, as necessary</li>
+<li>Drafting the language of proposed bylaw revisions for consideration by the board and, ultimately, the membership</li>
+<li>Assisting in the interpretation of the bylaws as needed</li>
 </ul>
+
+<p>The Bylaws Committee will ensure this year&rsquo;s process is more inclusive and gives all members increased input into governance. The committee also will provide ways for members to offer feedback on proposals as they move through the bylaws review and amendment process. The Board of Directors encourages everyone to take advantage of all opportunities to provide feedback.</p> 
+
+<p>The Bylaws Committee also has reviewed and considered all feedback provided by our members during last year&rsquo;s process. This feedback – provided in many forms – is a starting point for the committee&rsquo;s 2023 work. Member feedback from last year, as well as member input collected in 2023, will be a driving force behind any future bylaws proposals.</p></li>
+
+<li><p><strong>How were members-at-large selected for the Bylaws Committee?</strong><br> 
+The Board of Directors solicits help and interest from members in a variety of ways, including the thousands who raise their hand through our <a href="/Volunteer">Volunteer Program</a>, as well as other involved members from chapters, advisory councils, workshops, event volunteers and elsewhere. The members-at-large of the Bylaws Committee are members who have raised their hand to volunteer to help ISC2. All members are encouraged to get involved and take advantage of the opportunities to provide feedback on the bylaws.</p></li>
+
+<li><p><strong>I heard there was a member-driven petition last year. Will that be presented to members to vote?</strong><br> 
+Yes. ISC2 has called a <a href="/Notice/Special-Meeting-2023">special meeting</a> of members for voting upon proposed amendments to the Bylaws. Members will have the opportunity to consider the petition’s proposals, as well as bylaws recommended by the Board after extensive input and feedback open to all members. As the petition process unfolds, members will be kept informed of all developments.</p></li>
+
+<li><p><strong>Where can I learn more about the bylaws process?</strong><br> 
+The Bylaws Committee page at <a href="/about/Governance/Bylaws-Committee">www.isc2.org/about/Governance/Bylaws-Committee</a> provides insights on the bylaws review process and progress to date. Members can visit the page to find links to recorded webinars and other updates.</p></li>
+
+<li><p><strong>How can I give feedback on the bylaws proposal?</strong><br> 
+The Board of Directors has established new channels for member input. Starting with the new governance web pages <a href="/About/Governance">www.isc2.org/About/Governance</a>, members can contact the Bylaws Committee at any time to foster productive conversation around the bylaw process.</p> 
+<p>Additionally, a survey has been conducted for an initial wave of member input, while an exposure and comment period will enable members to review and comment on any bylaws proposals ahead of any member vote.</p> 
+<p>All members are encouraged to take advantage of all opportunities to provide their input.</p></li>
+
+<li><p><strong>Are members who were concerned about last year&rsquo;s process being engaged by the Bylaws Committee?</strong><br> 
+The Committee has invited the member who led the petition drive to present alternate positions for consideration. All members, including members who may have not supported last year&rsquo;s bylaws proposals, have opportunities to provide feedback to the committee.</p></li>
+
+<li><p><strong>Will there be an opportunity to review the amendments to the bylaws and for members to ask questions about the changes before the vote occurs?</strong><br> 
+Yes, there will be opportunities for members to review bylaws proposals and offer their input throughout the process. An email communication will be sent to all members May 3, 2023, and more information will be shared on the Bylaws Committee page at <a href="/about/Governance/Bylaws-Committee">www.isc2.org/about/Governance/Bylaws-Committee</a>.</p></li>
+
+<li><p><strong>How many votes are needed to approve any amended bylaws?</strong><br> 
+To amend or approve new bylaws requires the affirmative vote of two-thirds of all members in good standing who are present in person or by proxy at a meeting when the vote is called.</p></li>	
+</ol>
+        </div>
+    </div>
+</li>
+
+
+</ul><h2>Contact The Committee </h2>
+	<p>Members, associates, candidates and others can contact the ISC2 Bylaws Committee by completing the form below.</p>

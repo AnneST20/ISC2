@@ -1,2 +1,62 @@
 <div class="h1-sub"></div>
-<h1 class="h1 bar">How much does a CSSLP make?</h1>
+<h1 class="h1 bar">How much does a CSSLP make?</h1><p>A Certified Secure Software Lifecycle Professional (<a href="/-/media/ISC2/Certifications/Exam-Outlines/CSSLP-Exam-Outline-Sept2020.ashx?la=en&amp;hash=C5AD530F3363C64143F4ADE559352EC22CA9F5EC">CSSLP</a>) validates proficiency necessary for authentication, authorization and auditing throughout the software development lifecycle.</p>
+
+<p>The CSSLP certification is one of the top 10 IT certifications that increased in value during 2020 with CSSLP holders earning an increase in 13%, according to <a rel="noopener" title="Link opens in a new tab" target="_blank" href="https://footepartners.com/collections/pay-index">research</a> by Foote Partners.</p>
+
+<p>In addition, ISC2; conducts its own annual <a href="https://www.isc2.org/Research/Workforce-Study">Cybersecurity Workforce Study</a>. This study provides information security professionals insights crucial to their careers and strategies for recruiting them for employers.*</p>
+
+<h2>Average CSSLP Salaries</h2>
+<table class="zebra table" style="padding:50px;" border="1">
+    <tbody>
+        <tr>
+            <td style="width: 50%;">
+            <p style="text-align: center;"><strong>Region</strong></p>
+            </td>
+            <td>
+            <p style="text-align: center;"><strong>Average CSSLP Salary (U.S. $)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>Globally</td>
+            <td>$75,611</td>
+        </tr>
+        <tr>
+            <td>Asia-Pacific</td>
+            <td>$47,966</td>
+        </tr>
+        <tr>
+            <td>Europe, Middle East &amp; Africa</td>
+            <td>$66,847</td>
+        </tr>
+        <tr>
+            <td>Latin America</td>
+            <td>$51,299</td>
+        </tr>
+        <tr>
+            <td>North America</td>
+            <td>$111,198</td>
+        </tr>
+    </tbody>
+</table>
+<p style="padding-top:20px;"><em>Certification Magazine</em> lists the top 75 certifications in its 2021 <a rel="noopener" title="Link opens in a new tab" href="http://certmag.com/digital/January2021/index.html" target="_blank">Salary Survey</a>. The CSSLP is listed among the top 50 certifications that IT professionals aspire to achieve within the next 12 months.</p>
+<table class="zebra table" style="padding:50px;" border="1">
+    <tbody>
+        <tr>
+            <td style="width: 50%;">
+            <p style="text-align: center;"><strong>Region</strong></p>
+            </td>
+            <td>
+            <p style="text-align: center;"><strong>Average CSSLP Salary (U.S. $)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>Globally</td>
+            <td>$116,160</td>
+        </tr>
+        <tr>
+            <td>North America</td>
+            <td>$165,890</td>
+        </tr>
+    </tbody>
+</table>
+<p style="padding-top:20px;">Learn more about <a href="/Certifications/CSSLP">CSSLP</a> to see if you are ready to prove that you have the skills to earn this premium certification and command a higher paying salary.</p><p><em>*There are many variables that may contribute to an individual’s salary attainment, including country, region, industry, years of experience, level within an organization, individual performance, an employer’s hiring and compensation practices, and more. The information shared should not be considered a guaranteed or estimated salary for all candidates earning the CSSLP. Survey, response panels and research methodology vary across all the sources cited above.</em></p>

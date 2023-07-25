@@ -133,4 +133,708 @@ border-radius: 0 !important;
 #cta1{border:1px solid #F1F1F1;}
 #ctaMobile1{display:initial; margin-top: 1em;}#cta1{display:none;}
 @media (min-width: 768px){#ctaMobile1{display:none;}#cta1{display:block; margin: 0 auto;}}
+</style><h2 data-jump-link='off' id="f19cd32b9e804d078b6ea486d5333ee7" data-jump-text="">CCSP Examination Information</h2>
+<div class="table-wrapper">
+<table class="table simpleTable">
+    <tbody>
+        <tr>
+            <th>Length of exam</th>
+            <td>4 hours</td>
+        </tr>
+        <tr>
+            <th>Number of items</th>
+            <td><span>150</span></td>
+        </tr>
+        <tr>
+            <th>Item format</th>
+            <td>Multiple choice</td>
+        </tr>
+        <tr>
+            <th>Passing grade</th>
+            <td>700 out of 1000 points</td>
+        </tr>
+        <tr>
+            <th>Exam language availability</th>
+            <td>
+            <table border="0" cellpadding="0" width="679" style="width: 509.55pt;">
+                <tbody>
+                    <tr style="height: 10.5pt;">
+                        <td valign="top" style="height: 10.5pt; width: 322.8pt; padding: 0.75pt; border-top: none; border-right: none; border-bottom: 1pt solid #e4e3e8; border-left: none; text-align: left;">
+                        <p style="margin: 0in;">English, Chinese, German, Japanese, Korean and Spanish</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <th>Testing center</th>
+            <td>Pearson VUE Testing Center</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<h2>CCSP Examination Weights</h2>
+<div class="table-wrapper">
+<table class="table greenZebra">
+    <thead>
+        <tr>
+            <td>Domains</td>
+            <td>Average Weight</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Cloud Concepts, Architecture and Design</td>
+            <td>17%</td>
+        </tr>
+        <tr>
+            <td>2. Cloud Data Security</td>
+            <td>20%</td>
+        </tr>
+        <tr>
+            <td>3. Cloud Platform &amp; Infrastructure Security</td>
+            <td>17%</td>
+        </tr>
+        <tr>
+            <td>4. Cloud Application Security</td>
+            <td>17%</td>
+        </tr>
+        <tr>
+            <td>5. Cloud Security Operations</td>
+            <td>16%</td>
+        </tr>
+        <tr>
+            <td>6. Legal, Risk and Compliance</td>
+            <td>13%</td>
+        </tr>
+        <tr>
+            <td><strong>Total</strong></td>
+            <td><strong>100%</strong></td>
+        </tr>
+    </tbody>
+</table>
+</div><h2 class="accordionTitle__title" data-jump-link='' data-jump-text="" id="accordionTitle-c52e52d9c77448cc95b3bd67abbd8266">Domains</h2>
+<ul class="ac hide-siblings" id="accordion-c52e52d9c77448cc95b3bd67abbd8266">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-4732f40e2dad481a97adc902e2e51eaa">
+            <span class="hide-sm">Domain 1: Cloud Concepts, Architecture and Design</span>
+        <span class="hide-lt-sm">Domain 1: Cloud Concepts, Architecture and Design</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-4732f40e2dad481a97adc902e2e51eaa" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-1-Icon.ashx?la=en&amp;hash=AE731AA332C25A4D3B3AD20203C0524835734D26" alt="Cloud Concepts, Architecture and Design" title="Cloud Concepts, Architecture and Design">
+<h2>Domain 1:<br>Cloud Concepts, Architecture and Design</h2>
+</div>
+
+<div class="domainListItem">
+<h2>1.1</h2>
+<div class="itemContent">
+<h3>Understand cloud computing concepts</h3>
+<ul>
+  <li>Cloud computing definitions</li>
+  <li>Cloud computing roles and responsibilities (e.g., cloud service customer, cloud service provider, cloud service partner,</li>
+  <li>cloud service broker, regulator)</li>
+  <li>Key cloud computing characteristics (e.g., on-demand self-service, broad network access, multi-tenancy, rapid elasticity and scalability, resource pooling, measured service)</li>
+  <li>Building block technologies (e.g., virtualization, storage, networking, databases, orchestration)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.2</h2>
+<div class="itemContent">
+<h3>Describe cloud reference architecture</h3>
+<ul>
+  <li>Cloud computing activities</li>
+  <li>Cloud service capabilities (e.g., application capability types, platform capability types, infrastructure capability types)</li>
+  <li>Cloud service categories (e.g., Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS))</li>
+  <li>Cloud deployment models (e.g., public, private, hybrid, community, multi-cloud)</li>
+  <li>Cloud shared considerations (e.g., interoperability, portability, reversibility, availability, security, privacy, resiliency, performance, governance, maintenance and versioning, service levels and service-level agreements (SLA), auditability, regulatory, outsourcing)</li>
+  <li>Impact of related technologies (e.g., data science, machine learning, artificial intelligence (AI), blockchain, Internet of Things (IoT), containers, quantum computing, edge computing, confidential computing, DevSecOps)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.3</h2>
+<div class="itemContent">
+<h3>Understand security concepts relevant to cloud computing</h3>
+<ul>
+  <li>Cryptography and key management</li>
+  <li>Identity and access control (e.g., user access, privilege access, service access)</li>
+  <li>Data and media sanitization (e.g., overwriting, cryptographic erase)</li>
+  <li>Network security (e.g., network security groups, traffic inspection, geofencing, zero trust network)</li>
+  <li>Virtualization security (e.g., hypervisor security, container security, ephemeral computing, serverless technology)</li>
+  <li>Common threats</li>
+  <li>Security hygiene (e.g., patching, baselining)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.4</h2>
+<div class="itemContent">
+<h3>Understand design principles of secure cloud computing</h3>
+<ul>
+  <li>Cloud secure data lifecycle</li>
+  <li>Cloud-based business continuity (BC) and disaster recovery (DR) plan</li>
+  <li>Business impact analysis (BIA) (e.g., cost-benefit analysis, return on investment (ROI))</li>
+  <li>Functional security requirements (e.g., portability, interoperability, vendor lock-in)</li>
+  <li>Security considerations and responsibilities for different cloud categories (e.g., Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS))</li>
+  <li>Cloud design patterns (e.g., SANS security principles, Well-Architected Framework, Cloud Security Alliance (CSA) Enterprise Architecture)</li>
+  <li>DevOps security</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.5</h2>
+<div class="itemContent">
+<h3>Evaluate cloud service providers</h3>
+<ul>
+  <li>Verification against criteria (e.g., International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27017, Payment Card Industry Data Security Standard (PCI DSS))</li>
+  <li>System/subsystem product certifications (e.g., Common Criteria (CC), Federal Information Processing Standard (FIPS) 140-2)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-353461862f9c41bcb24c7ee411bd6f5c">
+            <span class="hide-sm">Domain 2: Cloud Data Security</span>
+        <span class="hide-lt-sm">Domain 2: Cloud Data Security</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-353461862f9c41bcb24c7ee411bd6f5c" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-2-Icon.ashx?la=en&amp;hash=3715903D14BD953AE1AA7F386EA65557860F0F42" alt="Cloud Data Security" title="Cloud Data Security">
+<h2>Domain 2:<br>Cloud Data Security</h2>
+</div>
+
+<div class="domainListItem">
+<h2>2.1</h2>
+<div class="itemContent">
+<h3>Describe cloud data concepts</h3>
+<ul>
+  <li>Cloud data life cycle phases</li>
+  <li>Data dispersion</li>
+  <li>Data flows</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.2</h2>
+<div class="itemContent">
+<h3>Design and implement cloud data storage architectures</h3>
+<ul>
+  <li>Storage types (e.g., long-term, ephemeral, raw storage)</li>
+<li>Threats to storage types</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.3</h2>
+<div class="itemContent">
+<h3>Design and apply data security technologies and strategies</h3>
+<ul>
+  <li>Encryption and key management</li>
+  <li>Hashing</li>
+  <li>Data obfuscation (e.g., masking, anonymization)</li>
+  <li>Tokenization</li>
+  <li>Data loss prevention (DLP)</li>
+  <li>Keys, secrets and certificates management</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.4</h2>
+<div class="itemContent">
+<h3>Implement data discovery</h3>
+<ul>
+  <li>Structured data</li>
+  <li>Unstructured data</li>
+  <li>Semi-structured data</li>
+  <li>Data location</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.5</h2>
+<div class="itemContent">
+<h3>Implement data classification</h3>
+<ul>
+  <li>Data classification policies</li>
+  <li>Data mapping</li>
+  <li>Data labeling</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.6</h2>
+<div class="itemContent">
+<h3>Design and implement Information Rights Management (IRM)</h3>
+<ul>
+  <li>Objectives (e.g., data rights, provisioning, access models)</li>
+  <li>Appropriate tools (e.g., issuing and revocation of certificates)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.7</h2>
+<div class="itemContent">
+<h3>Plan and implement data retention, deletion, and archiving policies</h3>
+<ul>
+  <li>Data retention policies</li>
+  <li>Data deletion procedures and mechanisms</li>
+  <li>Data archiving procedures and mechanisms</li>
+	<li>Legal hold</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.8</h2>
+<div class="itemContent">
+<h3>Design and implement auditability, traceability, and accountability of data events</h3>
+		<ul>
+		  <li>Definition of event sources and requirement of event attributes (e.g., identity, Internet Protocol (IP) address, geolocation)</li>
+		  <li>Logging, storage and analysis of data events</li>
+		  <li>Chain of custody and non-repudiation</li>
+		</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-dbc52a28275743ddb6885a43c7f96b20">
+            <span class="hide-sm">Domain 3: Cloud Platform and Infrastructure Security</span>
+        <span class="hide-lt-sm">Domain 3: Cloud Platform and Infrastructure Security</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-dbc52a28275743ddb6885a43c7f96b20" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-3-Icon.ashx?la=en&amp;hash=0D0029F0E69D754E9E59A0989D7A8AE3DB9B759B" alt="Cloud Platform and Infrastructure Security" title="Cloud Platform and Infrastructure Security">
+<h2>Domain 3:<br>Cloud Platform and Infrastructure Security</h2>
+</div>
+
+<div class="domainListItem">
+<h2>3.1</h2>
+<div class="itemContent">
+<h3>Comprehend cloud infrastructure components</h3>
+<ul>
+  <li>Physical environment</li>
+  <li>Network and communications</li>
+  <li>Compute</li>
+  <li>Virtualization</li>
+  <li>Storage</li>
+  <li>Management plane</li>
+</ul>	
+</div></div>
+
+<div class="domainListItem">
+<h2>3.2</h2>
+<div class="itemContent">
+<h3>Design a secure data center</h3>
+<ul>
+  <li>Logical design (e.g., tenant partitioning, access control)</li>
+  <li>Physical design (e.g., location, buy or build)</li>
+  <li>Environmental design (e.g., Heating, Ventilation, and Air Conditioning (HVAC), multi-vendor pathway connectivity)</li>
+  <li>Design resilient</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.3</h2>
+<div class="itemContent">
+<h3>Analyze risks associated with cloud infrastructure</h3>
+<ul>
+  <li>Risk assessment (e.g., identification, analysis)</li>
+  <li>Cloud vulnerabilities, threats and attacks</li>
+  <li>Risk mitigation strategies</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.4</h2>
+<div class="itemContent">
+<h3>Design and plan security controls</h3>
+<ul>
+  <li>Physical and environmental protection (e.g., on-premises)</li>
+  <li>System, storage and communication protection</li>
+  <li>Identification, authentication and authorization in cloud environments</li>
+  <li>Audit mechanisms (e.g., log collection, correlation, packet capture)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.5</h2>
+<div class="itemContent">
+<h3>Plan Disaster Recovery (DR) and Business Continuity (BC)</h3>
+<ul>
+  <li>Business continuity (BC) / disaster recovery (DR) strategy</li>
+  <li>Business requirements (e.g., Recovery Time Objective (RTO), Recovery Point Objective (RPO), recovery service level)</li>
+    <li>Creation, implementation and testing of plan</li>
+  </ul>
+
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-774e6e6fa86e4cca9e9fe0baf210ada4">
+            <span class="hide-sm">Domain 4: Cloud Application Security</span>
+        <span class="hide-lt-sm">Domain 4: Cloud Application Security</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-774e6e6fa86e4cca9e9fe0baf210ada4" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-4-Icon.ashx?la=en&amp;hash=88F43671A421C73B2FF88B73C6E21AA6876ED699" alt="Cloud Application Security" title="Cloud Application Security">
+<h2>Domain 4:<br>Cloud Application Security</h2>
+</div>
+
+<div class="domainListItem">
+<h2>4.1</h2>
+<div class="itemContent">
+<h3>Advocate training and awareness for application security</h3>
+<ul>
+  <li>Cloud development basics</li>
+  <li>Common pitfalls</li>
+  <li>Common cloud vulnerabilities (e.g., Open Web Application Security Project (OWASP) Top-10, SANS Top-25)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.2</h2>
+<div class="itemContent">
+<h3>Describe the Secure Software Development Life Cycle (SDLC) process</h3>
+ <ul><li>Business requirements</li>
+  <li>Phases and methodologies (e.g., design, code, test, maintain, waterfall vs. agile)</li>
+	</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.3</h2>
+<div class="itemContent">
+<h3>Apply the Secure Software Development Life Cycle (SDLC)</h3>
+<ul>
+  <li>Cloud-specific risks</li>
+  <li>Threat modeling (e.g., Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE), Damage, Reproducibility, Exploitability, Affected Users, and Discoverability (DREAD), Architecture, Threats, Attack Surfaces, and Mitigations (ATASM), Process for Attack Simulation and Threat Analysis (PASTA))</li>
+  <li>Avoid common vulnerabilities during development</li>
+  <li>Secure coding (e.g., Open Web Application Security Project (OWASP) Application Security</li>
+  <li>Verification Standard (ASVS), Software Assurance Forum for Excellence in Code (SAFECode))</li>
+  <li>Software configuration management and versioning</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.4</h2>
+<div class="itemContent">
+<h3>Apply cloud software assurance and validation</h3>
+<ul>
+  <li>Functional and non-functional testing</li>
+  <li>Security testing methodologies (e.g., blackbox, whitebox, static, dynamic, Software Composition Analysis (SCA), interactive application security testing (IAST))</li>
+  <li>Quality assurance (QA)</li>
+  <li>Abuse case testing</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.5</h2>
+<div class="itemContent">
+<h3>Use verified secure software</h3>
+<ul>
+  <li>Securing application programming interfaces (API)</li>
+  <li>Supply-chain management (e.g., vendor assessment)</li>
+  <li>Third-party software management (e.g., licensing)</li>
+  <li>Validated open-source software</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.6</h2>
+<div class="itemContent">
+<h3>Comprehend the specifics of cloud application architecture</h3>
+<ul>
+  <li>Supplemental security components (e.g., web application firewall (WAF), Database Activity Monitoring (DAM), Extensible Markup Language (XML) firewalls, application programming interface (API) gateway)</li>
+  <li>Cryptography</li>
+  <li>Sandboxing</li>
+  <li>Application virtualization and orchestration (e.g., microservices, containers)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.7</h2>
+<div class="itemContent">
+<h3>Design appropriate Identity and Access Management (IAM) solutions</h3>
+<ul>
+  <li>Federated identity</li>
+  <li>Identity providers (IdP)</li>
+  <li>Single sign-on (SSO)</li>
+  <li>Multi-factor authentication (MFA)</li>
+  <li>Cloud access security broker (CASB)</li>
+  <li>Secrets management</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-1c77182ddf9a4d449fc6339336ad2cc9">
+            <span class="hide-sm">Domain 5: Cloud Security Operations</span>
+        <span class="hide-lt-sm">Domain 5: Cloud Security Operations</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-1c77182ddf9a4d449fc6339336ad2cc9" class="collapse ">
+        <div class="content">
+            
+	<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-5-Icon.ashx?la=en&amp;hash=052D07BDCFB5B7A78B661B094EC5D347F1051CFB" alt="Cloud Security Operations" title="Cloud Security Operations">
+<h2>Domain 5:<br>Cloud Security Operations</h2>
+</div>
+
+<div class="domainListItem">
+<h2>5.1</h2>
+<div class="itemContent">
+<h3>Build and implement physical and logical infrastructure for cloud environment</h3>
+<ul>
+  <li>Hardware specific security configuration requirements (e.g., hardware security module (HSM) and Trusted Platform Module (TPM))</li>
+  <li>Installation and configuration of management tools</li>
+  <li>Virtual hardware specific security configuration requirements (e.g., network, storage, memory, central processing unit (CPU), Hypervisor type 1 and 2)</li>
+  <li>Installation of guest operating system (OS) virtualization toolsets</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.2</h2>
+<div class="itemContent">
+<h3>Operate and maintain physical and logical infrastructure for cloud environment</h3>
+<ul>
+  <li>Access controls for local and remote access (e.g., Remote Desktop Protocol (RDP), secure terminal access, Secure Shell (SSH), console-based access mechanisms, jumpboxes, virtual client)</li>
+  <li>Secure network configuration (e.g., virtual local area networks (VLAN), Transport Layer Security (TLS), Dynamic Host Configuration Protocol (DHCP), Domain Name System Security Extensions (DNSSEC), virtual private network (VPN))</li>
+  <li>Network security controls (e.g., firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), honeypots, vulnerability assessments, network security groups, bastion host)</li>
+  <li>Operating system (OS) hardening through the application of baselines, monitoring and remediation (e.g., Windows, Linux, VMware)</li>
+  <li>Patch management</li>
+  <li>Infrastructure as Code (IaC) strategy</li>
+  <li>Availability of clustered hosts (e.g., distributed resource scheduling, dynamic optimization, storage clusters, maintenance mode, high availability (HA))</li>
+  <li>Availability of guest operating system (OS)</li>
+  <li>Performance and capacity monitoring (e.g., network, compute, storage, response time)</li>
+  <li>Hardware monitoring (e.g., disk, central processing unit (CPU), fan speed, temperature)</li>
+  <li>Configuration of host and guest operating system (OS) backup and restore functions</li>
+  <li>Management plane (e.g., scheduling, orchestration, maintenance)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.3</h2>
+<div class="itemContent">
+<h3>Implement operational controls and standards (e.g., Information Technology Infrastructure Library (ITIL), International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 20000-1)</h3>
+<ul>
+ 
+  <li>Incident management</li>
+  <li>Problem management</li>
+  <li>Release management</li>
+  <li>Deployment management</li>
+  <li>Configuration management</li>
+  <li>Service level management</li>
+  <li>Availability management</li>
+  <li>Capacity management</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.4</h2>
+<div class="itemContent">
+<h3>Support digital forensics</h3>
+<ul>
+  <li>Forensic data collection methodologies</li>
+  <li>Evidence management</li>
+  <li>Collect, acquire, and preserve digital evidence</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.5</h2>
+<div class="itemContent">
+<h3>Manage communication with relevant parties</h3>
+<ul>
+  <li>Vendors</li>
+  <li>Customers</li>
+  <li>Partners</li>
+  <li>Regulators</li>
+  <li>Other stakeholders</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.6</h2>
+<div class="itemContent">
+<h3>Manage security operations</h3>
+<ul>
+  <li>Forensic data collection methodologies</li>
+  <li>Evidence management</li>
+  <li>Collect, acquire, and preserve digital evidence</li>
+  <li>Security operations center (SOC)</li>
+  <li>Intelligent monitoring of security controls (e.g., firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), honeypots, network security groups, artificial intelligence (AI))</li>
+  <li>Log capture and analysis (e.g., security information and event management (SIEM), log management)</li>
+  <li>Incident management</li>
+  <li>Vulnerability assessments</li>
+</ul>
+</div></div>
+
+<!-- <div class="domainListItem">
+<h2>5.7</h2>
+<div class="itemContent">
+<h3>Manage security operations</h3>
+<ul>
+<li>Security Operations Center (SOC)</li>
+<li>Monitoring of security controls (e.g., firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), honeypots, vulnerability assessments, network security groups)</li>
+<li>Log capture and analysis (e.g., Security Information and Event Management (SIEM), log management)</li>
+<li>Incident management</li>
+</ul>
+</div></div> -->
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-04cb878dc64e49ce8e552760945095bb">
+            <span class="hide-sm">Domain 6: Legal, Risk and Compliance</span>
+        <span class="hide-lt-sm">Domain 6: Legal, Risk and Compliance</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-04cb878dc64e49ce8e552760945095bb" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CCSP/Exam-Outline/CCSP-Domain-6-Icon.ashx?la=en&amp;hash=CD24F80A9F064D00377382F04BEB02568C162DF2" alt="Legal, Risk and Compliance" title="Legal, Risk and Compliance">
+<h2>Domain 6:<br>Legal, Risk and Compliance</h2>
+</div>
+
+<div class="domainListItem">
+<h2>6.1</h2>
+<div class="itemContent">
+<h3>Articulate legal requirements and unique risks within the cloud environment</h3>
+<ul>
+  <li>Conflicting international legislation</li>
+  <li>Evaluation of legal risks specific to cloud computing</li>
+  <li>Legal framework and guidelines</li>
+  <li>eDiscovery (e.g., International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27050, Cloud Security Alliance (CSA) Guidance)</li>
+  <li>Forensics requirements</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.2</h2>
+<div class="itemContent">
+<h3>Understand privacy issues</h3>
+<ul>
+  <li>Difference between contractual and regulated private data (e.g., protected health information (PHI), personally identifiable information (PII))</li>
+  <li>Country-specific legislation related to private data (e.g., protected health information (PHI), personally identifiable information (PII))</li>
+  <li>Jurisdictional differences in data privacy</li>
+  <li>Standard privacy requirements (e.g., International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27018, Generally Accepted Privacy Principles (GAPP), General Data Protection Regulation (GDPR))</li>
+  <li>Privacy Impact Assessments (PIA)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.3</h2>
+<div class="itemContent">
+<h3>Understand audit process, methodologies, and required adaptations for a cloud environment</h3>
+<ul>
+  <li>Internal and external audit controls</li>
+  <li>Impact of audit requirements</li>
+  <li>Identify assurance challenges of virtualization and cloud</li>
+  <li>Types of audit reports (e.g., Statement on Standards for Attestation Engagements (SSAE), Service Organization Control (SOC), International Standard on Assurance Engagements (ISAE))</li>
+  <li>Restrictions of audit scope statements (e.g., Statement on Standards for Attestation Engagements (SSAE), International Standard on Assurance Engagements (ISAE))</li>
+  <li>Gap analysis (e.g., control analysis, baselines)</li>
+  <li>Audit planning</li>
+  <li>Internal information security management system</li>
+  <li>Internal information security controls system</li>
+  <li>Policies (e.g., organizational, functional, cloud computing)</li>
+  <li>Identification and involvement of relevant stakeholders</li>
+  <li>Specialized compliance requirements for highly-regulated industries (e.g., North American Electric Reliability Corporation / Critical Infrastructure Protection (NERC / CIP), Health Insurance Portability and Accountability Act (HIPAA), Health Information Technology for Economic and Clinical Health (HITECH) Act, Payment Card Industry (PCI))</li>
+  <li>Impact of distributed information technology (IT) model (e.g., diverse geographical locations and crossing over legal jurisdictions)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.4</h2>
+<div class="itemContent">
+<h3>Understand implications of cloud to enterprise risk management</h3>
+
+<ul type="disc">
+  <li>Assess providers risk management      programs (e.g., controls, methodologies, policies, risk profile, risk      appetite)</li>
+  <li>Difference between data      owner/controller vs. data custodian/processor</li>
+  <li>Regulatory transparency      requirements (e.g., breach notification, Sarbanes-Oxley (SOX), General      Data Protection Regulation (GDPR))</li>
+  <li>Risk treatment (i.e., avoid,      mitigate, transfer, share, acceptance)</li>
+  <li>Different risk frameworks</li>
+  <li>Metrics for risk management</li>
+  <li>Assessment of risk environment      (e.g., service, vendor, infrastructure, business)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.5</h2>
+<div class="itemContent">
+<h3>Understand outsourcing and cloud contract design</h3>
+<ul type="disc">
+  <li>Business requirements (e.g., service-level      agreement (SLA), master service agreement (MSA), statement of work (SOW))</li>
+  <li>Vendor management (e.g., vendor assessments,      vendor lock-in risks, vendor viability, escrow)</li>
+  <li>Contract management (e.g., right to audit,      metrics, definitions, termination, litigation, assurance, compliance,      access to cloud/data, cyber risk insurance)</li>
+  <li>Supply-chain management (e.g., International      Organization for Standardization/International Electrotechnical Commission      (ISO/IEC) 27036)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+</ul><h2 data-jump-link='off' id="e74ccdff04cf41c7bb018edc854c9e97" data-jump-text="">Additional Examination Information</h2>
+<h3>Supplementary References</h3>
+<p>Candidates are encouraged to supplement their education and experience by reviewing relevant resources that pertain to the CBK and identifying areas of study that may need additional attention.</p>
+<p>View the full list of supplementary references at <a href="/certifications/References">www.isc2.org/certifications/References</a>.</p>
+
+<h3>Examination Policies and Procedures</h3>
+<p>ISC2; recommends that CCSP candidates review exam policies and procedures prior to registering for the examination. Read the comprehensive breakdown of this important information at <a href="/Register-for-Exam">www.isc2.org/Register-for-Exam</a>.</p><a href="/commit?utm_source=isc2&utm_medium=button&utm_campaign=GBL-Committocert&utm_term=ccspexamoutlinepage&utm_content=commit"><img id="cta2" alt="Commit, Plan, Succeed" src="/-/media/ISC2/Certifications/Marketing-CTAs/CCSP-Commit-Plan-Succeed-1120x300.ashx?la=en&amp;hash=5AA5B996CFBC974D4E80A26437477A29A7BDE9AC"><img id="ctaMobile2" style="width:100%;" alt="Commit, Plan, Succeed" src="/-/media/ISC2/Certifications/Marketing-CTAs/CCSP-Commit-Plan-Succeed-490x300.ashx?la=en&amp;hash=CF1384810CFF0C33A1F7228279127E2AE362964E"></a>
+
+<style>
+#cta2{border:1px solid #F1F1E1;}
+#ctaMobile2{display:initial;}#cta2{display:none;}
+@media (min-width: 768px){#ctaMobile2{display:none;}#cta2{display:initial;}}
 </style>

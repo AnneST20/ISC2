@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Reflection.Metadata;
 
@@ -19,17 +20,23 @@ namespace ISC2
 
                 var htmlContent = html.GetHtml(urls[u]).Result;
                 var htmlParsedContent = html.ParseHtml(htmlContent).Result;
+                string htmlParsedContentPage = "";
+
                 if (htmlParsedContent != null)
                 {
-                    htmlParsedContent = htmlParsedContent.Replace("(ISC)²", "ISC2");
-                    htmlParsedContent = htmlParsedContent.Replace("(ISC)&sup2", "ISC2");
+                    foreach (var content in htmlParsedContent)
+                    {
+                        var c = content.Replace("(ISC)²", "ISC2");
+                        c = c.Replace("(ISC)&sup2", "ISC2");
+                        htmlParsedContentPage += c;
+                    }
                 }
                 else
                 {
-                    htmlParsedContent = "";
+                    File.WriteAllText(fileName, "");
                 }
 
-                File.WriteAllText(fileName, htmlParsedContent);
+                File.WriteAllText(fileName, htmlParsedContentPage);
             }
         }
     }

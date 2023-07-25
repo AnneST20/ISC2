@@ -3,4 +3,188 @@ CGRC Study Tools and Resources</h1>
 <h2>Set Yourself Up for CGRC Exam Success</h2>
 
 <p>Passing the Certified in Governance, Risk and Compliance (CGRC) certification exam demonstrates your expertise in various risk management frameworks. On exam day, you want to feel confident and that comes from being prepared. The CGRC Official Training route is a proven way to set yourself up for success. We partner with leading training providers around the world to educate you with convenient access to Official Training developed by ISC2.</p>
-<a href="/Training/TrainingSearchResult?certification=CGRC" class="utm-tag button button--alternativePrimary">Find CGRC Training</a>
+<a href="/Training/TrainingSearchResult?certification=CGRC" class="utm-tag button button--alternativePrimary">Find CGRC Training</a><h2 data-jump-link='off' id="35aa6a424e284815b9a2d2eae3c00f40" data-jump-text="">CGRC Self-Study Tools</h2>
+<div class="selfStudyResourceCenter"></div>
+        <h2 data-jump-link='off' id="2bec5c60309a4812ac921afcd2366387" data-jump-text=""><script>(function(){  const trainingItems= document.querySelectorAll('.trainingResource');let jsonObj= {};trainingItems.forEach(function(item, index){item.dataset.display= "none";let nameText= item.querySelector('h2').innerHTML;let descText= item.querySelector('p').innerHTML;let trainingFocusClose= document.createElement("a");let trainingFocusCloseX= document.createElement("span");item.dataset.id= index;item.setAttribute('role','dialog');item.setAttribute('aria-modal','true');item.setAttribute('aria-labelledby','dialog'+index+'Title');item.setAttribute('tabindex',-1);item.querySelector('h2').id= 'dialog'+index+'Title';if(!item.querySelector('img')){let nullImg= document.createElement("img"); nullImg.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"; nullImg.alt=""; nullImg.dataset.display="none"; item.appendChild(nullImg);}trainingFocusClose.classList.add('focusClose');trainingFocusCloseX.classList.add('fa', 'fa-times');trainingFocusClose.setAttribute('title','Close');trainingFocusClose.setAttribute('role','button');trainingFocusClose.setAttribute('tabindex',0);trainingFocusClose.append(trainingFocusCloseX);item.append(trainingFocusClose);jsonObj[index]= {"source": item.querySelector('img').src, "alt": item.querySelector('img').alt, "name": nameText, "description": descText};if(item.dataset.chip){ jsonObj[index].chip= item.dataset.chip; }});const trainingWrap= document.querySelector('.selfStudyResourceCenter');for(i=0;i<Object.keys(jsonObj).length;i++){let trainingTile= document.createElement("div");let trainingDiv= document.createElement("div");let trainingImage= document.createElement("img");let trainingTitle= document.createElement("h3");let trainingDesc= document.createElement("p");let trainingLinkContainer= document.createElement("div");let trainingLink= document.createElement("a");trainingTile.classList.add('selfStudyResourceCenter__tile');trainingLinkContainer.classList.add('selfStudyResourceCenter__buttonContainer');trainingLink.classList.add('button', 'button--block', 'button--secondary', 'button--selfStudy');trainingLink.dataset.id= i;trainingLink.setAttribute('tabindex',0);trainingTitle.innerHTML= jsonObj[i].name;trainingDesc.innerHTML= jsonObj[i].description;trainingLink.title= "Read More about the "+jsonObj[i].name;trainingLink.setAttribute('aria-haspopup','dialog');trainingLink.innerHTML= "View More";trainingImage.src=jsonObj[i].source;trainingImage.alt=jsonObj[i].alt;if(jsonObj[i].chip){let trainingChip= document.createElement("div");let trainingChipText= document.createElement("span");trainingChip.classList.add('selfStudyResourceCenter__chip');trainingChipText.classList.add('chip', 'chip--good');trainingChipText.innerHTML= jsonObj[i].chip;trainingChip.appendChild(trainingChipText);trainingDiv.appendChild(trainingChip);}trainingDiv.appendChild(trainingImage);trainingDiv.appendChild(trainingTitle);trainingDiv.appendChild(trainingDesc);trainingTile.appendChild(trainingDiv);trainingLinkContainer.appendChild(trainingLink);trainingTile.appendChild(trainingLinkContainer);trainingWrap.appendChild(trainingTile);}let bgOverlay= document.createElement("div");bgOverlay.classList.add('bgOverlay');document.querySelector('body').appendChild(bgOverlay);document.addEventListener('click', trainingClickMR, false);document.addEventListener('click', trainingCloseMR, false);document.addEventListener('keydown', keyboardClickMR, false);function keyboardClickMR(e) {if(e.which==13 || e.which==32){document.activeElement.click();e.preventDefault();} else if(e.which==27){const currentDialog= document.querySelector('.trainingResource[data-display=show]'); if(currentDialog){document.querySelector('.focusClose').click();}const dropDownItems= document.querySelectorAll('.dropdown-menu');setTimeout(function(){dropDownItems.forEach(function(item, index){item.setAttribute('style', '');});}, 1000);e.preventDefault();}}function trainingClickMR(e){if (!e.target.closest('.button--selfStudy') || event.detail > 1) return;e.preventDefault();showMR(document.querySelector('.bgOverlay'));trainingItems[e.target.closest('.button--selfStudy').dataset.id].dataset.display= "show";trainingItems[e.target.closest('.button--selfStudy').dataset.id].focus();document.querySelector('#site-header').inert= true;document.querySelector('#site-footer').inert= true;document.querySelector('#pageTop').inert= true;const sectionsBlocks= document.querySelectorAll('section');sectionsBlocks.forEach(function(item, index){item.inert= true;});document.querySelector('body').style.overflow= "hidden";}function showMR(elementDiv){var id= null, op= 0;clearInterval(id);elementDiv.style.display= 'initial';id= setInterval(function () {if (op < .8) {op= op + 0.1; elementDiv.style.opacity= op;} else {clearInterval(id);}}, 15);}function trainingCloseMR(e){let closingClick= false;if(e.target.closest('.focusClose') || e.target.closest('.bgOverlay')) closingClick= true;if (!closingClick || event.detail > 1) return;e.preventDefault();const currentDialog= document.querySelector('.trainingResource[data-display=show]'); currentDialog.dataset.display= "none";document.querySelector('#site-header').inert= false;document.querySelector('#site-footer').inert= false;document.querySelector('#pageTop').inert= false;document.querySelector('section').inert= false;const sectionsBlocks= document.querySelectorAll('section');sectionsBlocks.forEach(function(item, index){item.inert= false;});document.querySelector('a.button[data-id="'+currentDialog.dataset.id+'"]').focus();document.querySelector('.bgOverlay').style.opacity= 0;document.querySelector('.bgOverlay').style.display= 'none';document.querySelector('body').style.overflow= "";} })();</script></h2>
+<style>
+.section-component .row { margin: 0; }
+.selfStudyResourceCenter__tile h3{
+margin: 0;
+padding-bottom: 0.5em;
+font-size: 15px;
+}
+.selfStudyResourceCenter__tile p{
+overflow: hidden;
+display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+}
+.trainingResource{clear:both;}
+.trainingResource:not([data-display]){width: auto; max-width: 1170px; padding-left: 25px; padding-right: 25px; margin: 0 auto;}
+.trainingResource[data-display=none], img[data-display=none]{ display: none; }
+.trainingResource[data-display=show]{
+background: #FFF;
+width: 100%;
+height: 100%;
+position: fixed;
+top: 0;
+left: 0;
+z-index: 101;
+padding: 52px 26px 26px;
+border-radius: 5px;
+display: block;
+overflow: scroll;
+box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);}
+
+.bodFocusText {
+padding: 1em 0;
+flex: 1;
+}
+.bodFocusText > div {
+overflow: scroll;
+height: 100%;
+}
+.bodFocusImageContainer {
+width: auto;
+text-align: center;
+}
+.trainingResource > img {
+width: 236px;
+}
+
+.focusClose{
+cursor: pointer;
+color: #706E6B;
+line-height: 0;
+position: absolute;
+font-size: 2em;
+top: 0;
+right: 0;
+padding: 10px;}
+
+.bgOverlay{background: #CDCCD1;
+opacity: 0;
+filter: Alpha(Opacity=0);
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 100;
+display: none;}
+
+@media only screen and (min-width: 480px){
+.selfStudyResourceCenter__tile h3{font-size: 16px;}
+}
+@media only screen and (min-width: 768px){
+#topBodContainer .bodHeadshot {width: calc(33% - 8px);}
+.selfStudyResourceCenter__tile h3{font-size: 17px;}
+#bottomBodContainer .bodHeadshot {width: calc(25% - 8px);}
+.bodFocusText {padding: 1em 32px;}
+}
+
+@media only screen and (min-width: 960px){
+.trainingResource[data-display=show]{
+width: 75%;
+height: 75%;
+top: calc(25%/2);
+left: 0;
+right: 0;
+padding: 52px 26px 0;
+max-width: 1120px;
+margin: 0 auto;
+}
+.bodFocusImageContainer{
+width: 236px;
+text-align: left;
+}
+.bodFocusText {padding: 0 0 0 32px;}
+.focusClose {font-size: 1.5em;}
+}
+
+@media only screen and (min-width: 760px) {
+.ospTraining__flexContainer {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+}
+}
+.ospTraining__image {
+margin: 0 auto;
+padding: 20px;
+width: 140px;
+}
+
+@media only screen and (min-width: 760px) {
+.ospTraining__image {
+margin-right: 30px;
+padding: 0;
+width: 350px;
+}
+}
+.selfStudyResources__certIcon {
+margin-right: 6px;
+width: 64px;
+}
+
+.selfStudyResourceCenter img {
+display: block;
+margin: 10px auto 20px;
+max-height: 120px;
+}
+
+.selfStudyResourceCenter__tile {
+background-color: white;
+border: 1px solid #cfcfcf;
+margin-bottom: 20px;
+padding: 20px;
+position: relative;
+}
+
+.selfStudyResourceCenter__tile > div {
+width: 100%; 
+}
+
+.selfStudyResourceCenter__chip {
+position: absolute;
+top: 15px;
+}
+
+.selfStudyResourceCenter__buttonContainer {
+margin-top: 20px;
+}
+
+@media only screen and (min-width: 1024px) {
+.selfStudyResourceCenter__tile {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+margin: 10px;
+width: calc(25% - 20px);
+}
+
+.selfStudyResourceCenter__chip {
+top: auto;
+}
+
+.selfStudyResourceCenter {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+}
+
+.selfStudyResourceCenter__buttonContainer {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+-webkit-box-align: end;
+-ms-flex-align: end;
+align-items: flex-end;}
+}
+</style>

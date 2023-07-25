@@ -29,58 +29,31 @@ namespace ISC2
             catch { return ""; }
         }
 
-        public async Task<List<string>> GetHtmls(List<string> urls)
-        {
-            var htmlContents = new List<string>();
-            var tasks = urls.Select(async url =>
-            {
-                using (var httpClient = new HttpClient())
-                {
-                    var response = await httpClient.GetAsync(url);
-                    if (response.IsSuccessStatusCode)
-                    {
-                        var html = await response.Content.ReadAsStringAsync();
-                        htmlContents.Add(html);
-                    }
-                    else
-                    {
-                        // handle the error response here
-                    }
-                }
-            });
-
-            await Task.WhenAll(tasks);
-            return htmlContents;
-        }
-
-        public async Task<string> ParseHtml(string htmlContent)
+        public async Task<List<string>> ParseHtml(string htmlContent)
         {
             if (htmlContent == null || htmlContent.Equals(""))
             {
-                return "";
+                return new List<string>();
             }
             var document = new HtmlDocument();
             document.LoadHtml(htmlContent);
 
-            var html = document.DocumentNode.Descendants("div")
+            var htmlNodes = document.DocumentNode.Descendants("div")
                 .Where(y => y.ParentNode.ParentNode.GetAttributeValue("class", "") == "container")
                 .Where(x => x.GetAttributeValue("class", "") == "col-sm-12")
-                .FirstOrDefault()?.InnerHtml.Trim();
+                .ToList();
+
+            var html = new List<string>();
+
+            foreach (var node in htmlNodes)
+            {
+                if (node != null && !node.Equals(""))
+                {
+                    html.Add(node.InnerHtml.Trim());
+                }
+            }
 
             return html;
-        }
-
-        public async Task<List<string>> PerseHtmls(List<string> htmlContents)
-        {
-            var htmls = new List<string>();
-
-            var tasks = htmlContents.Select(async htmlContent =>
-            {
-                htmls.Add(await ParseHtml(htmlContent));
-            });
-
-            await Task.WhenAll(tasks);
-            return htmls;
         }
     }
 }

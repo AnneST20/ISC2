@@ -20,4 +20,86 @@ box-shadow: 2px 8px 15px 0 rgb(0 0 0 / 25%); }
 
 .journeyBox h3 {
 margin: 0 0 2rem; }
-</style>
+</style><h2 id="save20"><strong>Save 20% on training now</strong></h2>
+<p>Become an ISC2 Candidate and get 20% off Online Instructor-Led and Online Self-Paced Training. <a href="/Candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=ccsp-training-lp&utm_content=candidate">Sign up now</a> – your first year is free. Already an ISC2 Member? <a href="/landing/MEM20off?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-MBR-Trainingpromo&utm_term=CCSP-training-lp&utm_content=training">Claim your 20% discount.</a></p><ul class="ac hide-siblings" id="accordion-bd6949a1417643ce80863b0058c9c0f7">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-8412d1d68adb48efb0b08af697594c54">
+            <span class="hide-sm">FAQ - Official ISC2 Online Self-Paced CCSP Training</span>
+        <span class="hide-lt-sm">FAQ - Official ISC2 Online Self-Paced CCSP Training</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-8412d1d68adb48efb0b08af697594c54" class="collapse ">
+        <div class="content">
+            
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<strong>
+What is the new Official ISC2 Online Self-Paced CCSP Training?
+</strong></div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+The learning experience is offered through <a href="https://obrizum.com/" rel="noopener noreferrer" target="_blank">OBRIZUM</a>’s AI-powered adaptive platform. It leverages artificial intelligence to tailor the learning journey to the individual learner’s needs and provides a comprehensive review of the CCSP Common Body of Knowledge (CBK®).
+</div>
+</div>
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<strong>
+How is it different from traditional linear learning experiences?
+</strong></div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+This course provides a non-linear, personalized learning experience tailored to each learner’s needs using AI-driven technology. Learners can create their own learning experience or rely on the AI to guide them through. Traditional linear learning experiences require learners to complete each module, even when further study is unnecessary.
+</div>
+</div>
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<strong>
+How does the AI-driven adaptive learning platform work?
+</strong></div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+The AI-led adaptive learning platform provides individualized paths based on prior knowledge, learning speed and confidence levels. Learners answer questions using sliders to rate their level of confidence, which helps to detect knowledge gaps while building self-awareness regarding competency. Analytics provide a complete overview of learning progress and performance
+</div>
+</div>
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<strong>
+Who would benefit from this course?
+</strong></div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+The course is designed for professionals of different experience levels, taking into consideration their time and expertise. For example, highly experienced professionals may not need to cover every domain with the same level of detail as someone less experienced.
+</div>
+</div>
+
+<div class="faq">
+<div class="faq-marker">Q:</div>
+<div class="faq-text question">
+<strong>
+What additional resources does the course offer?
+</strong></div>
+<div style="clear: both;">&nbsp;</div>
+<div class="faq-marker">A:</div>
+<div class="faq-text">
+The course offers a robust search capability that enables learners to find the content they need when they need it. It also includes an analytics dashboard to track progress and see concept-by-concept performance changes over time.
+</div>
+</div>
+        </div>
+    </div>
+</li>
+
+
+</ul>

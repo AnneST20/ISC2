@@ -20,4 +20,30 @@
     <li>1040 hours of part-time = 6 months of full time experience</li>
     <li>2080 hours of part-time = 12 months of full time experience</li>
 </ul>
-<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery.</p>
+<p><strong>Internship:</strong> Paid or unpaid internship is acceptable. You will need documentation on company/organization letterhead confirming your position as an intern. If you are interning at a school, the document can be on the registrar&rsquo;s stationery.</p><div class="video-half col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+            <div class="video-container col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <iframe src="https://www.youtube.com/embed/3Sc_dRrDS9g" frameborder="0" allowfullscreen="" modestbranding="1"></iframe>
+            </div>
+
+            <div class="video-description col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h2 data-jump-link='off' id="7cfa645cf5f144b1bc3be6f1a129f5fc" data-jump-text="">Not Enough Experience?</h2>
+                <p>Start on a pathway to certification with the Associate of ISC2;!&nbsp; You can take a certification exam without the work experience. If you pass, you simply work to get the experience needed for certification.</p>
+<p><a href="https://www.isc2.org/Certifications/Associate" title="Associate of ISC2">&nbsp;Learn more</a></p>
+
+            </div>
+
+        </div><h2>One Year Prerequisite Pathway</h2>
+<p>Candidates may satisfy the one year work experience requirement if they earn a degree from an accredited college or university or regionally equivalent education program. For purposes of certification, ISC2; looks for the following characteristics of an approved cybersecurity degree:</p>
+<p>1) The degree originates from a cybersecurity program which addresses cyber, information, software and infrastructure security topics within its requirements;
+</p>
+<p>OR</p>
+<p>2) Is one of the following preapproved degree programs:</p>
+<ul>
+    <li>Computer Science</li>
+    <li>Computer Engineering</li>
+    <li>Computer Systems Engineering</li>
+    <li>Management Information Systems (MIS)</li>
+    <li>Information Technology [IT]</li>
+</ul>
+<p>The list of preapproved degree programs will be updated periodically.</p>

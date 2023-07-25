@@ -27,4 +27,8 @@
 
 
 <p><strong>Question about Payment Status?</strong></p>
-<p>Call 1-866-331-ISC2(4722) and press 1 for member/candidate services or email&nbsp;<a href="mailto:membersupport@isc2.org?subject=AMF Payment Question">membersupport@isc2.org</a>.</p>
+<p>Call 1-866-331-ISC2(4722) and press 1 for member/candidate services or email&nbsp;<a href="mailto:membersupport@isc2.org?subject=AMF Payment Question">membersupport@isc2.org</a>.</p><ul class="ac hide-siblings" id="accordion-d823052465c74d6db8e317fe6898da54">
+
+    
+
+</ul>

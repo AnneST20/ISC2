@@ -1,2 +1,51 @@
 <div class="h1-sub"></div>
-<h1 class="h1 bar">ISC2 Candidate Maintenance Policy</h1>
+<h1 class="h1 bar">ISC2 Candidate Maintenance Policy</h1><ol>
+  <li><strong><u>Purpose</u></strong>
+
+<p>This policy establishes the requirements for ISC2 Candidates to maintain their status in good standing.</p></li>
+
+  <li><strong><u>Revision History</u></strong>
+
+	  <p>2.0 Version</p></li>
+
+  <li><strong><u>Scope</u></strong> 
+
+<p>This policy applies to all ISC2 Candidates.</p></li>
+
+  <li><strong><u>Policy</u></strong>
+
+
+<p>4.1 ISC2 Candidate Requirements</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.1 All ISC2 Candidates will be required to abide by the ISC2 Code of Ethics and the ISC2 Privacy Policy</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.2 ISC2 Candidates will not have voting rights in ISC2 board elections or for/against bylaw amendments.</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.3 ISC2 Candidates are required to pay annual dues in the amount of U.S. $50 which are due at the start of the candidate’s second year and continuously due on the same date each year as long as the status is held.</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.4 ISC2 Candidates will be given a 90-day grace period from their due date to pay their annual dues in full. After the 90-day grace period expires, should they fail to pay their annual dues, their candidate status will be terminated.</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.5 Once annual dues are paid, they are non-refundable.</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.6 ISC2 Candidates are not required to submit Continuing Professional Education (CPE) credits.</p>
+<p>
+&nbsp;&nbsp;&nbsp;4.1.7 There is no term limit for holding an ISC2 Candidate status. As long as dues are paid annually, the candidate remains in good standing.</p>
+
+<p>4.2 ISC2 Candidate Benefits</p>
+<p>&nbsp;&nbsp;&nbsp;4.2.1 Digital badge<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to Official ISC2 Online Self-Paced course for Certified in Cybersecurity<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exam registration for Certified in Cybersecurity<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20% off Official ISC2 Online Self-Paced certification courses<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20% off Official ISC2 Online Instructor-Led certification courses<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISC2 member pricing for ISC2 events<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30% off Common Body of Knowledge textbooks<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50% off practice test books and study guides </p>
+<p>
+  4.3 Upgrade to ISC2 Certified Member Status</p>
+<p>&nbsp;&nbsp;&nbsp;4.3.1 In order for ISC2 Candidates to achieve ISC2 certified membership status, they must successfully pass an exam and submit the corresponding endorsement application for their certification of choice. &nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;4.3.2  Upon approval of the endorsement application, the Candidate will receive an email confirmation outlining the next steps toward certification. This will include paying an upgrade fee of $75, assuming that the $50 candidate annual due was already paid for that year.</p>
+<p>&nbsp;&nbsp;&nbsp;4.3.2a  If a Candidate has successfully passed the Certified in Cybersecurity (CC): The AMF for CC certification is $50 annually. Assuming that the ISC2 Candidate has already paid their annual dues for that year, there will be no upgrade fee associated with upgrading from Candidate status to CC-certified because the annual dues paid for that year already covers the AMF associated with the CC certification.</p>
+
+	  <p>&nbsp;&nbsp;&nbsp;4.3.4  The ISC2 Candidate status will be terminated under the termination reason &lsquo;Upgrade Candidate.&rsquo; A three-year certification cycle will start once upgrade payment is received. The ISC2 Candidate badge will be terminated, and a new credential badge will be issued.
+	  </p>
+</li></ol>

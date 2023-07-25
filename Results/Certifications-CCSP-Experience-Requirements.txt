@@ -22,4 +22,17 @@
 <h2>One Year Prerequisite Pathway</h2>
 <p>CSA&rsquo;s&nbsp;<strong>CCSK certificate</strong>&nbsp;can be substituted for one year of experience in one or more of the six domains of the CCSP CBK.</p>
 <h2>Full Prerequisite Pathway</h2>
-<p>ISC2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p>
+<p>ISC2;&rsquo;s CISSP credential can be substituted for the entire CCSP experience requirement.</p><div class="video-half col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+            <div class="video-container col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <iframe src="https://www.youtube.com/embed/3Sc_dRrDS9g" frameborder="0" allowfullscreen="" modestbranding="1"></iframe>
+            </div>
+
+            <div class="video-description col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h2 data-jump-link='off' id="3653e8d1c1d241c99a69a693ba0c8951" data-jump-text="">Not Enough Experience?</h2>
+                <p>Start on a pathway to certification with the Associate of ISC2;!&nbsp; You can take a certification exam without the work experience. If you pass, you simply work to get the experience needed for certification.</p>
+<p><a href="https://www.isc2.org/Certifications/Associate" title="Associate of ISC2">&nbsp;Learn more</a></p>
+
+            </div>
+
+        </div>

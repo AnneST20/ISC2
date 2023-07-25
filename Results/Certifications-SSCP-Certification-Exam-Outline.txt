@@ -112,4 +112,628 @@ part-time work and internships at <a class="link" href="/Certifications/SSCP/exp
 <h3>Job Task Analysis (JTA)</h3>
 <p>ISC2; has an obligation to its membership to maintain the relevancy of the SSCP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by security professionals who are engaged in the profession defined by the SSCP. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
 
-<hr>
+<hr><h2 data-jump-link='off' id="f19cd32b9e804d078b6ea486d5333ee7" data-jump-text="">SSCP Examination Information</h2>
+<div class="table-wrapper">
+<table class="table simpleTable">
+<tbody>
+<tr><th>Length of exam</th><td>4 hours</td></tr>
+<tr><th>Number of items</th><td>150</td></tr>
+<tr><th>Item format</th><td>Multiple choice</td></tr>
+<tr><th>Passing grade</th><td>700 out of 1000 points</td></tr>
+<tr><th>Language availability</th><td>English, Chinese, German, Japanese, Korean and Spanish
+</td></tr>
+<tr><th>Testing center</th><td>Pearson VUE Testing Center</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>SSCP Examination Weights</h2>
+<div class="table-wrapper">
+<table class="table greenZebra">
+<thead>
+<tr><td>Domains</td><td>Average Weight</td></tr>
+</thead>
+<tbody>
+<tr><td>1. Security Operations and Administration</td><td>16%</td></tr>
+<tr><td>2. Access Controls</td><td>15%</td></tr>
+<tr><td>3. Risk Identification, Monitoring and Analysis</td><td>15%</td></tr>
+<tr><td>4. Incident Response and Recovery</td><td>14%</td></tr>
+<tr><td>5. Cryptography</td><td>9%</td></tr>
+<tr><td>6. Network and Communications Security</td><td>16%</td></tr>
+<tr><td>7. Systems and Application Security</td><td>15%</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>100%</strong></td></tr>
+</tbody>
+</table>
+</div><h2 class="accordionTitle__title" data-jump-link='' data-jump-text="" id="accordionTitle-c52e52d9c77448cc95b3bd67abbd8266">Domains</h2>
+<ul class="ac hide-siblings" id="accordion-c52e52d9c77448cc95b3bd67abbd8266">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-4732f40e2dad481a97adc902e2e51eaa">
+            <span class="hide-sm">Domain 1: Security Operations and Administration</span>
+        <span class="hide-lt-sm">Domain 1: Security Operations and Administration</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-4732f40e2dad481a97adc902e2e51eaa" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-1-Icon.ashx?la=en&amp;hash=420577193E5B44B2075F2D01FEE2548B1A1DF294" alt="Security Operations and Administration" title="Security Operations and Administration">
+<h2>Domain 1:<br>Security Operations and Administration</h2>
+</div>
+
+<div class="domainListItem">
+<h2>1.1</h2>
+<div class="itemContent">
+<h3>Comply with codes of ethics</h3>
+<ul>
+<li>ISC2; Code of Ethics</li>
+<li>Organizational code of ethics</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.2</h2>
+<div class="itemContent">
+<h3>Understand security concepts</h3>
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Confidentiality</li>
+<li>Integrity</li>
+<li>Availability</li>
+<li>Accountability</li>
+</ul>
+</div><div class="col-sm-6">
+<ul>
+<li>Privacy</li>
+<li>Non-repudiation</li>
+<li>Least privilege</li>
+<li>Segregation of duties (SoD)</li>
+</ul>
+</div></div>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.3</h2>
+<div class="itemContent">
+<h3>Identify and implement security controls</h3>
+<ul>
+<li>Technical controls (e.j., session timeout, password aging)</li>
+<li>Physical controls (e.g., mantraps, cameras, locks)</li>
+<li>Administrative controls (e.g., security policies, standards, procedures, baselines)</li>
+<li>Assessing compliance</li>
+<li>Periodic audit and review</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.4</h2>
+<div class="itemContent">
+<h3>Document and maintain functional security controls</h3>
+<ul>
+<li>Deterrent controls</li>
+<li>Preventative controls</li>
+<li>Detective controls</li>
+<li>Corrective controls</li>
+<li>Compensating controls</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.5</h2>
+<div class="itemContent">
+<h3>Participate in asset management lifecycle (hardware, software and data)</h3>
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Process, planning, design and initiation</li>
+<li>Development/Acquisition</li>
+<li>Inventory and licensing</li>
+<li>Implementation/Assessment</li>
+</ul>
+</div><div class="col-sm-6">
+<ul>
+<li>Operation/Maintenance</li>
+<li>Archiving and retention requirements</li>
+<li>Disposal and destruction</li>
+</ul>
+</div></div>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.6</h2>
+<div class="itemContent">
+<h3>Participate in change management lifecycle</h3>
+<ul>
+<li>Change management (e.g., roles, responsibilities, processes)</li>
+<li>Security impact analysis</li>
+<li>Configuration management (CM)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.7</h2>
+<div class="itemContent">
+<h3>Participate in implementing security awareness and training (e.g., social engineering/phishing)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.8</h2>
+<div class="itemContent">
+<h3>Collaborate with physical security operations (e.g., data center assessment, badging)</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-353461862f9c41bcb24c7ee411bd6f5c">
+            <span class="hide-sm">Domain 2: Access Controls</span>
+        <span class="hide-lt-sm">Domain 2: Access Controls</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-353461862f9c41bcb24c7ee411bd6f5c" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-2-Icon.ashx?la=en&amp;hash=18CA6F33212B035D00D58B173FF68E450A26C5D7" alt="Access Controls" title="Access Controls">
+<h2>Domain 2:<br>Access Controls</h2>
+</div>
+
+<div class="domainListItem">
+<h2>2.1</h2>
+<div class="itemContent">
+<h3>Implement and maintain authentication methods</h3>
+<ul>
+<li>Single/Multi-factor authentication (MFA)</li>
+<li>Single sign-on (SSO) (e.g., Active Directory Federation Services (ADFS), OpenID Connect)</li>
+<li>Device authentication</li>
+<li>Federated access (e.g., Open Authorization 2 (OAuth2), Security Assertion Markup Language (SAML))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.2</h2>
+<div class="itemContent">
+<h3>Support internetwork trust architectures</h3>
+<ul>
+<li>Trust relationships (e.g., 1-way, 2-way, transitive, zero)</li>
+<li>Internet, intranet and extranet</li>
+<li>Third-party connections</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.3</h2>
+<div class="itemContent">
+<h3>Participate in the identity management lifecycle</h3>
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Authorization</li>
+<li>Proofing</li>
+<li>Provisioning/De-provisioning</li>
+</ul>
+</div><div class="col-sm-6">
+<ul>
+<li>Maintenance</li>
+<li>Entitlement</li>
+<li>Identity and access management (IAM) systems</li>
+</ul>
+</div></div>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.4</h2>
+<div class="itemContent">
+<h3>Understand and apply access controls</h3>
+<ul>
+<li>Mandatory</li>
+<li>Discretionary</li>
+<li>Role-based (e.g., attribute-, subject-, object-based)</li>
+<li>Rule-based</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-dbc52a28275743ddb6885a43c7f96b20">
+            <span class="hide-sm">Domain 3: Risk Identification, Monitoring and Analysis</span>
+        <span class="hide-lt-sm">Domain 3: Risk Identification, Monitoring and Analysis</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-dbc52a28275743ddb6885a43c7f96b20" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-3-Icon.ashx?la=en&amp;hash=4892D7E5CE5612DB043C33F925205633F8ADBCD2" alt="Risk Identification, Monitoring and Analysis" title="Risk Identification, Monitoring and Analysis">
+<h2>Domain 3:<br>Risk Identification, Monitoring and Analysis</h2>
+</div>
+
+<div class="domainListItem">
+<h2>3.1</h2>
+<div class="itemContent">
+<h3>Understand the risk management process</h3>
+<ul>
+<li>Risk visibility and reporting (e.g., risk register, sharing threat intelligence/Indicators of Compromise (IOC), Common  Vulnerability Scoring (CVSS))</li>
+<li>Risk management concepts (e.g., impact assessments, threat modelling)</li>
+<li>Risk management frameworks</li>
+<li>Risk tolerance (e.g., appetite)</li>
+<li>Risk treatment (e.g., accept, transfer, mitigate, avoid)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.2</h2>
+<div class="itemContent">
+<h3>Understand legal and regulatory concerns (e.g., jurisdiction, limitations, privacy)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.3</h2>
+<div class="itemContent">
+<h3>Participate in security assessment and vulnerability management activities</h3>
+<ul>
+<li>Security testing</li>
+<li>Risk review (e.g., internal, supplier, architecture)</li>
+<li>Vulnerability management lifecycle</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.4</h2>
+<div class="itemContent">
+<h3>Operate and monitor security platforms (e.g., continuous monitoring)</h3>
+<ul>
+<li>Source systems (e.g., applications, security appliances, network devices, and hosts)</li>
+<li>Events of interest (e.g., anomalies, intrusions, unauthorized changes, compliance monitoring)</li>
+<li>Log management</li>
+<li>Event aggregation and correlation</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.5</h2>
+<div class="itemContent">
+<h3>Analyze monitoring results</h3>
+<ul>
+<li>Security baselines and anomalies</li>
+<li>Visualizations, metrics, and trends (e.g., notifications, dashboards, timelines)</li>
+<li>Event data analysis</li>
+<li>Document and communicate findings (e.g., escalation)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-774e6e6fa86e4cca9e9fe0baf210ada4">
+            <span class="hide-sm">Domain 4: Incident Response and Recovery</span>
+        <span class="hide-lt-sm">Domain 4: Incident Response and Recovery</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-774e6e6fa86e4cca9e9fe0baf210ada4" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-4-Icon.ashx?la=en&amp;hash=308566EAD055FA234A9C17B1FDDE57E074A164C2" alt="Incident Response and Recovery" title="Incident Response and Recovery">
+<h2>Domain 4:<br>Incident Response and Recovery</h2>
+</div>
+
+<div class="domainListItem">
+<h2>4.1</h2>
+<div class="itemContent">
+<h3>Support incident lifecycle e.g., National Institute of Standards and Technology (NIST), International Organization for Standardization (ISO)</h3>
+<div class="row ul-cols">
+<div class="col-sm-6">
+<ul>
+<li>Preparation</li>
+<li>Detection, analysis and escalation</li>
+<li>Containment</li>
+</ul>
+</div><div class="col-sm-6">
+<ul>
+<li>Eradication</li>
+<li>Recovery</li>
+<li>Lessons learned/implementation of new countermeasure</li>
+</ul>
+</div></div>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.2</h2>
+<div class="itemContent">
+<h3>Understand and support forensic investigations</h3>
+<ul>
+<li>Legal (e.g., civil, criminal, administrative) and ethical principles</li>
+<li>Evidence handling (e.g., first responder, triage, chain of custody, preservation of scene)</li>
+<li>Reporting of analysis</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.3</h2>
+<div class="itemContent">
+<h3>Understand and support business continuity plan (BCP) and disaster recovery plan (DRP)</h3>
+<ul>
+<li>Emergency response plans and procedures (e.g., information system contingency, pandemic, natural disaster, crisis management)</li>
+<li>Interim or alternate processing strategies</li>
+<li>Restoration planning</li>
+<li>Backup and redundancy implementation</li>
+<li>Testing and drills</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-1c77182ddf9a4d449fc6339336ad2cc9">
+            <span class="hide-sm">Domain 5: Cryptography</span>
+        <span class="hide-lt-sm">Domain 5: Cryptography</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-1c77182ddf9a4d449fc6339336ad2cc9" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-5-Icon.ashx?la=en&amp;hash=9DA45942CE45ED067AAD384CCE4C33C91324F06D" alt="Cryptography" title="Cryptography">
+<h2>Domain 5:<br>Cryptography</h2>
+</div>
+
+<div class="domainListItem">
+<h2>5.1</h2>
+<div class="itemContent">
+<h3>Understand cryptography</h3>
+<ul>
+<li>Confidentiality</li>
+<li>Integrity and authenticity</li>
+<li>Data sensitivity (e.g., personally identifiable information (PII), intellectual property (IP), protected health information (PHI))</li>
+<li>Regulatory and industry best practice (e.g., Payment Card Industry Data Security Standards (PCI-DSS), International Organization for Standardization (ISO))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.2</h2>
+<div class="itemContent">
+<h3>Apply cryptography concepts</h3>
+<ul>
+<li>Hashing</li>
+<li>Salting</li>
+<li>Symmetric/Asymmetric encryption/Elliptic curve cryptography (ECC)</li>
+<li>Non-repudiation (e.g., digital signatures/certificates, Hash-based Message Authentication Code (HMAC), audit trails)</li>
+<li>Strength of encryption algorithms and keys (e.g., Advanced Encryption Standards (AES), Rivest-Shamir-Adleman (RSA), 256-, 512-, 1024-, 2048-bit keys)</li>
+<li>Cryptographic attacks, cryptanalysis, and countermeasures (e.g., quantum computing)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.3</h2>
+<div class="itemContent">
+<h3>Understand and implement secure protocols</h3>
+<ul>
+<li>Services and protocols</li>
+<li>Common use cases</li>
+<li>Limitations and vulnerabilities</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.4</h2>
+<div class="itemContent">
+<h3>Understand public key infrastructure (PKI)</h3>
+<ul>
+<li>Fundamental key management concepts (e.g., storage, rotation, composition, generation, destruction, exchange, revocation, escrow)</li>
+<li>Web of Trust (WOT)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-04cb878dc64e49ce8e552760945095bb">
+            <span class="hide-sm">Domain 6: Network and Communication Security</span>
+        <span class="hide-lt-sm">Domain 6: Network and Communication Security</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-04cb878dc64e49ce8e552760945095bb" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-6-Icon.ashx?la=en&amp;hash=08BF8B19CF6FD845E0D099D6EF28D09121F962D4" alt="Network and Communication Security" title="Network and Communication Security">
+<h2>Domain 6:<br>Network and Communication Security</h2>
+</div>
+
+<div class="domainListItem">
+<h2>6.1</h2>
+<div class="itemContent">
+<h3>Understand and apply fundamental concepts of networking</h3>
+<ul>
+<li>Open Systems Interconnection (OSI) and Transmission Control Protocol/Internet Protocol (TCP/IP) models</li>
+<li>Network topologies </li>
+<li>Network relationships (e.g., peer-to-peer (P2P), client server)</li>
+<li>Transmission media types (e.g., wired, wireless)</li>
+<li>Software-defined networking (SDN) (e.g., Software-Defined Wide Area Network (SD-WAN), network virtualization, automation)</li>
+<li>Commonly used ports and protocols</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.2</h2>
+<div class="itemContent">
+<h3>Understand network attacks (e.g., distributed denial of service (DDoS), man-in-the-middle (MITM), Domain Name System (DNS) poisoning) and countermeasures (e.g., content delivery networks (CDN))</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.3</h2>
+<div class="itemContent">
+<h3>Manage network access controls</h3>
+<ul>
+<li>Network access controls, standards and protocols (e.g., Institute of Electrical and Electronics Engineers (IEEE) 802.1X, Remote Authentication Dial-In User Service (RADIUS), Terminal Access Controller Access-Control System Plus (TACACS+))</li>
+<li>Remote access operation and configuration (e.g., thin client, virtual private network (VPN))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.4</h2>
+<div class="itemContent">
+<h3>Manage network security</h3>
+<ul>
+<li>Logical and physical placement of network devices (e.g., inline, passive, virtual)</li>
+<li>Segmentation (e.g., physical/logical, data/control plane, virtual local area network (VLAN), access control list (ACL), firewall zones, micro-segmentation)</li>
+<li>Secure device management</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.5</h2>
+<div class="itemContent">
+<h3>Operate and configure network-based security devices</h3>
+<ul>
+<li>Firewalls and proxies (e.g., filtering methods, web application firewalls (WAF)) Intrusion detection systems (IDS) and intrusion prevention systems (IPS)</li>
+<li>Network intrusion detection/prevention systems</li>
+<li>Routers and switches</li>
+<li>Traffic-shaping devices (e.g., wide area network (WAN) optimization, load balancing)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.6</h2>
+<div class="itemContent">
+<h3>Secure wireless communications</h3>
+<ul>
+<li>Technologies (e.g., cellular network, Wi-Fi, Bluetooth, Near-Field Communication (NFC))</li>
+<li>Authentication and encryption protocols (e.g., Wired Equivalent Privacy (WEP), Wi-Fi Protected Access (WPA), Extensible Authentication Protocol (EAP))</li>
+<li>Internet of Things (IoT)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-6ec537f6fea74d54839e1e91482bb4fc">
+            <span class="hide-sm">Domain 7: Systems and Application Security</span>
+        <span class="hide-lt-sm">Domain 7: Systems and Application Security</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-6ec537f6fea74d54839e1e91482bb4fc" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/SSCP/Exam-Outline/SSCP-Domain-7-Icon.ashx?la=en&amp;hash=0F94DAFB7ACE5D25DBF74C39B9DEF4B0B1ADA4E4" alt="Systems and Application Security" title="Systems and Application Security">
+<h2>Domain 7:<br>Systems and Application Security</h2>
+</div>
+
+<div class="domainListItem">
+<h2>7.1</h2>
+<div class="itemContent">
+<h3>Identify and analyze malicious code and activity</h3>
+<ul>
+<li>Malware (e.g., rootkits, spyware, scareware, ransomware, trojans, virus, worms, trapdoors, backdoors, fileless)</li>
+<li>Malware countermeasures (e.g., scanners, anti-malware, code signing)</li>
+<li>Malicious activity (e.g., insider threat, data theft, distributed denial of service (DDoS), botnet, zero-day exploits, web-based attacks, advanced persistent threat (APT))</li>
+<li>Malicious activity countermeasures (e.g., user awareness, system hardening, patching, sandboxing, isolation, data loss prevention (DLP))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.2</h2>
+<div class="itemContent">
+<h3>Implement and operate endpoint device security</h3>
+<ul>
+<li>Host-based intrusion prevention system (HIPS)</li>
+<li>Host-based firewalls</li>
+<li>Application white listing</li>
+<li>Endpoint encryption (e.g., whole disk encryption)</li>
+<li>Trusted Platform Module (TPM)</li>
+<li>Secure browsing</li>
+<li>Endpoint Detection and Response (EDR)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.3</h2>
+<div class="itemContent">
+<h3>Administer Mobile Device Management (MDM)</h3>
+<ul>
+<li>Provisioning techniques (e.g., corporate owned, personally enabled (COPE), Bring Your Own Device (BYOD))</li>
+<li>Containerization</li>
+<li>Encryption</li>
+<li>Mobile application management (MAM)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.4</h2>
+<div class="itemContent">
+<h3>Understand and configure cloud security</h3>
+<ul>
+<li>Deployment models (e.g., public, private, hybrid, community)</li>
+<li>Service models (e.g., Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS))</li>
+<li>Virtualization (e.g., hypervisor)</li>
+<li>Legal and regulatory concerns (e.g., privacy, surveillance, data ownership, jurisdiction, eDiscovery)</li>
+<li>Data storage, processing, and transmission (e.g., archiving, recovery, resilience)</li>
+<li>Third-party/outsourcing requirements (e.g., service-level agreement (SLA), data portability, data destruction, auditing)</li>
+<li>Shared responsibility model</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.5</h2>
+<div class="itemContent">
+<h3>Operate and maintain secure virtual environments</h3>
+<ul>
+<li>Hypervisor</li>
+<li>Virtual appliances</li>
+<li>Containers</li>
+<li>Continuity and resilience</li>
+<li>Attacks and countermeasures</li>
+<li>Shared storage</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+</ul><h2 data-jump-link='off' id="e74ccdff04cf41c7bb018edc854c9e97" data-jump-text="">Additional Examination Information</h2>
+<h3>Supplementary References</h3>
+<p>Candidates are encouraged to supplement their education and experience by reviewing relevant resources that pertain to the CBK and identifying areas of study that may need additional attention.</p>
+<p>View the full list of supplementary references at <a class="link" href="/certifications/References">www.isc2.org/certifications/References</a>.</p>
+
+<h3>Examination Policies and Procedures</h3>
+<p>ISC2; recommends that SSCP candidates review exam policies and procedures prior to registering for the examination. Read the comprehensive breakdown of this important information at <a class="link" href="/Register-for-Exam">www.isc2.org/Register-for-Exam</a>.</p>

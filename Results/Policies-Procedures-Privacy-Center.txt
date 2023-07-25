@@ -1,3 +1,39 @@
 <div class="hero-text-wrapper content">
                                                                     <h1 class="h1 section-title bar">ISC2 Privacy Center</h1>
-                            </div>
+                            </div><h2 data-jump-link='on' id="af40f1fab4f54c2986121d350bb2f1cb" data-jump-text="">Your Data Journey</h2>
+<p><strong>Why We Collect Data</strong></p>
+<p>ISC2; is an international, nonprofit membership association for information security leaders like you. We're committed to helping our members and professionals learn, grow and thrive. More than 130,000 certified members strong, we empower professionals who touch every aspect of information security. We achieve this by connecting professionals together to share insights, experiences and make an impact. </p>
+<p><strong>What Information We Collect About You</strong></p>
+<p>Whether you are creating an account on ISC2; website, downloading a content piece, registering for an ISC2; event or webinar, or signing up to our online educational resources or ISC2; Community, we may collect a variety of information.</p>
+<p style="text-align: center;"><img height="455" alt="GDPR" width="575" src="/-/media/ISC2/Policies-and-Procedures/GDPR-webdiagram1.ashx?la=en&amp;hash=FBD851021C3CB1CF95CFE31C8908E82F36DEA5BA" style="text-align: center;"></p>
+<p><strong>Your Data Journey as an ISC2; Member</strong></p>
+<p>Your data journey evolves when you become certified and ISC2; member. You get your membership pack and certification, as well as access to additional resources and member benefits. We collect a variety of data including First Name, Last Name, Telephone Number, Email Address, Mailing Address, Job Title, Company name, and we create a member ID number for you.</p>
+<p style="text-align: center;"><img height="512" alt="GDPR member" width="477" src="/-/media/ISC2/Policies-and-Procedures/GDPR-webdiagram2.ashx?h=512&amp;w=477&amp;la=en&amp;hash=41F21AA3BC253314C28FCEF5C89C37C824C43BF5" style="text-align: center; height: 512px; width: 477px;"></p>
+<p><strong>How We Use the Information We Collect</strong></p>
+<ul>
+    <li>Your data is always protected and never shared without your permission.</li>
+    <li>Your personal information may be transferred to countries other than your own, especially to servers in the United States, to process and store data in accordance with our Privacy Policy and to provide you with products and services. </li>
+    <li>When we collect data, we will use it to benefit you and to make your experiences better. We provide additional resources and content you have subscribed to receive. You can change your subscription preferences at any time by clicking <a href="/preferences">here</a>.</li>
+    <li>ISC2; members receive their membership packs via mailing. From time to time, we may use ISC2; personal information to send important notices such as Official Member Communications &ndash; you cannot opt-out to these notices. </li>
+    <li>On very rare occasions (once, twice per year), we will send opted-in members and professionals an ISC2; resource by direct mail or give you a call to check how we can improve your experience at ISC2;</li>
+    <li>If you have opted-in for your information to be shared with sponsors, your data will be passed on to the relevant party on a one-time basis per event or webinar. </li>
+</ul>
+<p><span><strong>How Long We Keep Your Personal Information</strong></span></p>
+<p>It varies according to the information we collect and what it&rsquo;s used for. If you are an ISC2; member, there are legal requirements to keep data for as long as your membership is valid.</p>
+<p>If you are not an ISC2; member and expressed interest to receive content from us, we&rsquo;ll only have it for as long as is necessary for the purposes for which the data was collected or for which it is to be further processed. However, you may contact us at any time to ask for your information to be deleted.</p><h2 data-jump-link='on' id="709dff5766cf4ffb98087a0c737c882b" data-jump-text="">Your Rights. Your Choices.</h2>
+<p>We use your data to provide you with a more personalised experience. Here we explain the rights and choices you have with regards to the personal data that we hold about you, the information you choose to receive from us, and we give you the controls to adjust these settings.</p>
+<p><strong>Managing your marketing choices</strong></p>
+<p>Whether you&rsquo;re an ISC2; member or a professional, ISC2; provides a plethora of educational and personal development resources to grow your knowledge, sharpen your skills and get certified. We also connect you with fellow professionals from the CISO to the practitioner across the globe who are experiencing the same challenges as you are. We want to make this experience better for you by sending the relevant tools and resources you choose to receive. You also have the right to ask us not to process your personal data for marketing purposes.</p>
+<p>So please take a moment to update your subscription preferences <a href="http://www.isc2.org/preferences" title="communication preferences">here</a>.</p>
+<p><strong>Keeping your personal data up to date</strong></p>
+<p>We want to make sure that the personal data we hold about you is accurate. You have a right to find out what personal data we hold about you. </p>
+<p>If any of your details are incorrect you can update them <a href="/dashboard/profile" title="my profile">here</a> or please feel free to submit a Subject Access Request below.</p><h2 data-jump-link='on' id="70848fabecf54f1c9c1e443ad65d2460" data-jump-text="">Privacy and Security</h2>
+<p><span>We employ a number of measures to protect your personal information; here are some of the things that we do:</span></p>
+<ul style="list-style-type: disc;">
+    <li><span>Your personal information is stored in a secure database</span></li>
+    <li><span>We provide a secure account sign-in to members and professionals registered on our website</span></li>
+    <li><span>Credit card details are encrypted, stored securely, and deleted immediately when no longer needed</span></li>
+    <li><span>Remote accesses are secured for all employees across all regions</span></li>
+</ul>
+<p>Review the (<span>ISC)&sup2;&nbsp;</span>Privacy Policy <a href="https://www.isc2.org/Policies-Procedures/Privacy-Policy" title="Privacy Policy">here</a>.</p>
+<p>If you have any questions about your data that is not addressed here, please contact our Data Protection Officer, Graham Jackson at <a href="mailto:dpo@isc2.org?subject=DPO additional info">dpo@isc2.org</a>.</p>

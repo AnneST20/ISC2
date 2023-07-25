@@ -1,3 +1,796 @@
 <div class="h1-sub"></div>
 <h1 class="h1 bar">Membership Policies and Procedures</h1>
-<p>The following policies and procedures assist and guide members and Associates of ISC2; through their membership.</p>
+<p>The following policies and procedures assist and guide members and Associates of ISC2; through their membership.</p><ul class="ac hide-siblings" id="accordion-d73d1f75f93b47d9b335d1c9eb50b184">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-9e17c7bfdbfb4d179221ce33d0658fe6">
+            <span class="hide-sm">ISC2 Certification Maintenance Policy</span>
+        <span class="hide-lt-sm">ISC2 Certification Maintenance Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-9e17c7bfdbfb4d179221ce33d0658fe6" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy establishes the requirements for ISC2; certified members and Associates of ISC2; to maintain their certification(s) or associate status.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 6.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all ISC2; certified members and associates.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p>To maintain certification or associate status, ISC2; certified members and associates must earn a minimum amount of continuing professional education (CPE) credits for each of their three-year or one-year cycles, as well as pay an annual maintenance fee (AMF). Both maintenance requirements must be in compliance to ensure that certification or associate status remains in good standing.</p>
+    </li>
+</ol>
+<p style="margin-left: 0.25in;">4.1 <span style="text-decoration: underline;">Continuing Professional Education (CPE) Maintenance Requirement</span></p>
+<p style="margin-left: 1in;">4.1.1 Certified members are required to earn and submit CPE credits over their three-year certification cycle. All CPE must be earned and completed no later than 90 days after the member’s certification expiration date. For specific CPE requirements, refer to the <a href="/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx?la=en&amp;hash=A06D05BC991C0AA7497F428732D23F4E56AA83C6" title="Link opens in a new tab" target="_blank">ISC2; CPE Handbook</a>.</p>
+<p style="margin-left: 1in;">&nbsp;</p>
+<table border="1" style="width: 100%;">
+    <tbody>
+        <tr>
+            <td style="background:#e2efd9; padding: 1em; width: 25%;">Certification</td>
+            <td style="background:#e2efd9; padding: 1em; width: 25%;">Type</td>
+            <td style="background:#e2efd9; padding: 1em; width: 25%; text-align: center;">Suggested Annually</td>
+            <td style="background:#e2efd9; padding: 1em; width: 25%; text-align: center;">Required 3-Year Total</td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="padding: 1em;"><strong>CC</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">15</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">45</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;">Group A or B</td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">--</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">--</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Total Required</strong></td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">15</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;"><strong>45</strong></p>
+            </td>
+        </tr>
+        <tr><td colspan="4">&nbsp;</td></tr>
+        <tr>
+            <td rowspan="3" style="padding: 1em;"><strong>CISSP</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">30</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">90</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;">Group A or B</td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">10</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">30</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Total Required</strong></td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;">40</p>
+            </td>
+            <td style="padding: 1em;">
+            <p style="text-align: center; margin: 0;"><strong>120</strong></p>
+            </td>
+        </tr>
+        <tr><td colspan="4">&nbsp;</td></tr>
+        <tr>
+            <td rowspan="3" style="padding: 1em;"><strong>CSSLP, CCSP</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em; text-align: center;">20</td>
+            <td style="padding: 1em; text-align: center;">60</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;">Group A or B</td>
+            <td style="padding: 1em; text-align: center;">10</td>
+            <td style="padding: 1em; text-align: center;">30</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Total Required</strong></td>
+            <td style="padding: 1em; text-align: center;">30</td>
+            <td style="padding: 1em; text-align: center;"><strong>90</strong></td>
+        </tr>
+        <tr><td colspan="4">&nbsp;</td></tr>
+        <tr>
+            <td rowspan="3" style="padding: 1em;"><strong>SSCP, CGRC, HCISPP</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em; text-align: center;">15</td>
+            <td style="padding: 1em; text-align: center;">45</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;">Group A or B</td>
+            <td style="padding: 1em; text-align: center;">5</td>
+            <td style="padding: 1em; text-align: center;">15</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Total Required</strong></td>
+            <td style="padding: 1em; text-align: center;">20</td>
+            <td style="padding: 1em; text-align: center;"><strong>60</strong></td>
+        </tr>
+        <tr><td colspan="4">&nbsp;</td></tr>
+        <tr>
+            <td rowspan="3" style="padding: 1em;"><strong>CISSP Concentrations</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em; text-align: center;">--</td>
+            <td style="padding: 1em; text-align: center;">20*</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Total Required</strong></td>
+            <td style="padding: 1em; text-align: center;">&nbsp;</td>
+            <td style="padding: 1em; text-align: center;"><strong>20*</strong></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="padding: 1em;">*For CISSP concentration holders, 20 Group A CPE credits related to each concentration held are required during in the CISSP three-year cycle. CPE required for a concentration automatically counts toward the CISSP CPE requirement.</td>
+        </tr>
+        <tr><td colspan="4">&nbsp;</td></tr>
+        <tr>
+            <td style="background:#e2efd9; padding: 1em;">Associate Program</td>
+            <td style="background:#e2efd9; padding: 1em;">Type</td>
+            <td style="background:#e2efd9; padding: 1em; text-align: center;">Required Annual</td>
+            <td style="background:#e2efd9; padding: 1em; text-align: center;">3-year Total</td>
+        </tr>
+        <tr>
+            <td style="padding: 1em;"><strong>Associates of ISC2;</strong></td>
+            <td style="padding: 1em;">Group A</td>
+            <td style="padding: 1em; text-align: center;"><strong>15</strong></td>
+            <td style="padding: 1em; text-align: center;">--</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p style="margin-left: 1in;">4.1.2 Associates of ISC2 are required to earn and submit 15 CPE credits annually. All CPE activities must be completed or earned no later than 90 days after the expiration date of the annual associate cycle. For more information on CPE, please refer to the <a href="/-/media/ISC2/Certifications/CPE/CPE---Handbook-Digital-V2.ashx?la=en&amp;hash=A06D05BC991C0AA7497F428732D23F4E56AA83C6" title="Link opens in a new tab" target="_blank">ISC2 CPE Handbook</a> (also available in <a href="/-/media/ISC2/Certifications/CPE/MEM-Chinese-CPE-Handbook-APAC-20210318.ashx?la=en&amp;hash=AAF0F7AC27B1641070FFD3DFDBD35B350CCF4477" title="Link opens in a new tab" target="_blank">Chinese</a>, <a href="/-/media/ISC2/Certifications/CPE/APAC-Japanese-CPE-Handbook-Digital-20210317.ashx?la=en&amp;hash=F357994EBFFDAC6F807EC7803B36F68C5FAD8C17" title="Link opens in a new tab" target="_blank">Japanese</a> and <a href="/-/media/ISC2/Certifications/CPE/APAC-Korean-CPE-Handbook-20210318.ashx?la=en&amp;hash=B96F79F1085E11686BF8C26A2DD21088F4EBB6E3" title="Link opens in a new tab" target="_blank">Korean</a>).</p>
+<p style="margin-left: 1in;">4.1.3 ISC2; allows certified members and associates a 90-day grace period after the cycle expiration date to earn and submit required CPE activity.</p>
+<p style="margin-left: 1in;">4.1.4 If a certified member or associate fails to submit the required CPE before the 90-day grace period expires, the certified member or associate will be placed in suspended status.</p>
+
+<p style="margin-left: 0.5in;">4.2 <span style="text-decoration: underline;">Annual Maintenance Fee (AMF) Requirement</span></p>
+<p style="margin-left: 1in;">4.2.1 Certified members (single certified or multi-certified) are required to pay an AMF in the amount of U.S. $125 that is due on the member’s certification cycle start date and subsequent annual anniversaries</p>
+<p style="margin-left: 1in;">Candidates who pass their exams and whose endorsements have been approved for ISC2 certification must pay their first AMF of $125 before certification is granted.</p>
+<p style="margin-left: 1in;">Associates of ISC2 are required to pay an AMF in the amount of $50, which is due annually on the anniversary date of the associate’s cycle.</p>
+<p style="margin-left: 1in;">Candidates who pass their exams and are applying for associate designation must pay their first year’s AMF of $50 before their associate designation is granted.</p>
+
+<p style="margin-left: 1in;">4.2.2 For certified members with multiple certifications on multiple cycle dates, the initial ISC2 certification anniversary will be the start date for all certifications held and AMF due date. <em>For example, if a member obtained the CISSP certification Sept. 1, 2010, and a CGRC certification on Jan. 13, 2012, the member’s certification anniversary would be Sept.1 each year.</em></p>
+<p style="margin-left: 1in;">4.2.3 After the 90-day grace period expires and if they have failed to pay the past due AMF, the member’s certification or associate designation will be suspended. This applies for each year of the three-year certification cycle.</p>
+<p style="margin-left: 1in;">4.2.4 Once suspended, individuals may no longer be allowed to use the certificate or associate designation, display the certificate or imply in any way that they are currently certified or an associate.</p>
+<p style="margin-left: 1in;">4.2.5 AMF payments are non-refundable.</p>
+
+<p style="margin-left: 0.5in;">4.3 <span style="text-decoration: underline;">Reinstatement Requirements</span></p>
+<p style="margin-left: 1in;">4.3.1 To be reinstated once a certification or designation is suspended, ISC2 certified members and associates are required to submit all outstanding CPE credit and pay current year AMFs.</p>
+<p style="margin-left: 1in;">4.3.2 Suspension status may be maintained for up to two consecutive years. After two years, suspended members and associates will be terminated.</p>
+<p style="margin-left: 1in;">4.3.3 Terminated certified members who seek reinstatement will be required to submit at least 5 CPE credits for each domain of the certification being reinstated, along with 40 CPE credits in their primary domain of practice and a total of 120 CPE credits. CPE activities for terminated member reinstatement must be obtained with a 12-month period.</p>
+<p style="margin-left: 1in;">4.3.4 Terminated associates may only be reinstated through reexamination.</p>
+<p style="margin-left: 1in;">4.3.5 Terminated certified members may alternately seek reinstatement through reexamination.</p>
+
+<p style="margin-left: 0.5in;">4.4 <span style="text-decoration: underline;">Hardship</span></p>
+<p style="margin-left: 1in;">4.4.1 ISC2 understands that occasionally there are certain extenuating circumstances that occur preventing certified members and associates from completing all their maintenance requirements by their expiration date. Some examples for such extenuating circumstances are the following.</p>
+<ul style="margin-left: 1.5in;">
+    <li>Personal/Immediate family medical issues (For purposes of this policy, “immediate family” is defined as the member’s or the member’s spouse’s parents, siblings, children, grandparents, grandchildren, the member’s spouse, and/or any other relative who resides in the member’s household)</li>
+    <li>Death of immediate family member</li>
+    <li>Extended involuntary unemployment</li>
+    <li>Military deployment</li>
+    <li>Declared natural disaster (by government agency)</li>
+    <li>Declared pandemic (by government agency)</li>
+</ul>
+<p style="margin-left: 1in;">4.4.2 Extension of the 90-day grace period will be evaluated on a case-by-case basis as it relates to circumstances that prevent the certified member or associate from timely completing AMF or CPE requirements. Documentation requirements for grace-period extension will vary based on rational and length of requested extension.</p>
+<p style="margin-left: 1in;">4.4.3 Certified members and associates who seek extension of the 90-day grace period under this hardship policy must contact <a href="/Contact-Us#accordion-ec0be5accd8a4a36a5dbbcd3adb5307b">ISC2 Customer Experience</a> to apply for consideration and approval.</p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-865d738e675e4272b4de9de11b0a9d33">
+            <span class="hide-sm">ISC2 Associate Designation Upgrade Policy</span>
+        <span class="hide-lt-sm">ISC2 Associate Designation Upgrade Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-865d738e675e4272b4de9de11b0a9d33" class="collapse ">
+        <div class="content">
+            
+
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy provides the guidelines for upgrading associate designation to full certification.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+		<p>Version 2.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+		<p>This policy applies to all Associates of ISC2; upgrading to full certification.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p style="margin-left: 0.25in;">4.1 For an associate designation to be upgraded to a certified member, the individual must have passed an ISC2; examination and currently hold the Associate of ISC2; designation. The individual must submit the endorsement application before the last day of the last year that they can hold the associate designation.</p>
+	<p style="margin-left: 0.25in;">4.2 Associates will have a specific time frame to obtain cumulative work experience in the domains of their target certification and to complete the endorsement. The specific time frames for each certification are as follows:</p>
+	<ul style="margin-left: 0.25in;">
+    <li>CISSP and CCSP up to six years</li>
+    <li>SSCP up to two years</li>
+    <li>CSSLP up to five years</li>
+    <li>HCISPP and CGRC to three years</li>
+	</ul>
+	<p style="margin-left: 0.25in;">4.3 Associates will need to submit an endorsement application. Once the application is reviewed and approved, the associate will receive an email confirmation (Next Step email) outlining the next steps towards certification. They will be instructed to log in to their dashboard to pay the upgrade AMF of U.S. $75 before a three-year certification cycle can be started.</p>
+	<p style="margin-left: 0.25in;">4.4 The associate’s cycle will be terminated under the termination reason &lsquo;Upgrade Associate.&rsquo; A new three-year certification cycle will start once upgrade payment is received. The associate acclaim badge will be terminated, and a new credential badge will be issued.</p>
+    </li>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-3fb8141f1369499d87ee6f5688819afe">
+            <span class="hide-sm">ISC2 Endorsement Review Policy</span>
+        <span class="hide-lt-sm">ISC2 Endorsement Review Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-3fb8141f1369499d87ee6f5688819afe" class="collapse ">
+        <div class="content">
+            
+
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy provides guidelines and requirements of the endorsement and application review process for candidates to obtain their ISC2; credential after passing an ISC2; exam.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 3.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all candidates for ISC2; credentials.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p style="margin-left: 0.25in;">4.1 Individuals who pass an ISC2; examination must go through an endorsement process in order to obtain the credential for the examination they passed. Once these individuals receive notification that they have successfully passed the exam, they may start the online endorsement application.</p>
+    <p style="margin-left: 1.25in;">4.1.1 Endorsement applications are submitted through an online form available on the ISC2; website at <a href="/Endorsement">https://www.isc2.org/Endorsement</a>. CISSP concentrations do not require an endorser. If an individual is not able to submit their application via the online form, they will be provided with a PDF application via email.</p>
+    <p style="margin-left: 0.25in;">4.2 All candidates who pass an ISC2; credential examination must complete the endorsement process within a time period of no longer than nine (9) months.</p>
+    <p style="margin-left: 1.25in;">4.2.1 A percentage of the candidates who pass an ISC2; examination and submit endorsements will be randomly subjected for audit and required to submit additional information, as required, for verification. Those candidates will be notified via email if their application is selected for audit.</p>
+    <p style="margin-left: 0.25in;">4.3 All credential endorsement applications must be reviewed and endorsed by an ISC2; certified member in good standing. The ISC2; member does not have to hold the same credential.</p>
+    <p style="margin-left: 1.25in;">4.3.1 The ISC2; certified professional is anyone who:
+    </p>
+    <ul style="margin-left: 1.25in;">
+        <li>Is able to attest to the candidate&rsquo;s professional experience</li>
+        <li>Is an active ISC2; credential holder in good standing</li>
+    </ul>
+    <p style="margin-left: 0.25in;">4.4 If the candidate does not know an ISC2; certified professional in good standing, ISC2; can provide <strong>endorsement assistance</strong> to act as the endorser. Candidates may request assistance with the endorsement requirement by submitting additional documentation with their endorsement form so that ISC2; staff may review their qualifications and consider endorsing the candidate.</p>
+    <p style="margin-left: 0.25in;">4.5 The endorser will attest the individual&rsquo;s assertions that his/her professional experience are true to the best of the endorser&rsquo;s knowledge, and that the individual is in good standing within the cybersecurity industry. The endorser&rsquo;s certification number and surname is needed when filling out the online application.</p>
+    <p style="margin-left: 0.25in;">4.6 Once a candidate&rsquo;s endorsement application has been approved, the final step in the process is to pay their first <a href="/Policies-Procedures/AMFs-Overview">Annual Maintenance Fee (AMF)</a>. If the candidate already holds an ISC2; certification, they will not have to pay an additional AMF for the latest certification.</p>
+    </li>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-49641f55d3aa43cfb26adbe28cc17207">
+            <span class="hide-sm">ISC2 Badge Policy</span>
+        <span class="hide-lt-sm">ISC2 Badge Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-49641f55d3aa43cfb26adbe28cc17207" class="collapse ">
+        <div class="content">
+            
+
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>The purpose of this policy is to establish guidelines on the issuance of digital badges associated with new and existing members and associates.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+		<p>Version 4.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+		<p>This policy applies to all members and Associates of ISC2;.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p style="margin-left: 0.25in;">4.1	Newly certified members/associates are issued a digital badge for the certifications they’ve earned. Once a candidate passes their ISC2; examination and successfully completes the endorsement application process, they will be able to claim their Credly Badge. Candidates who fail the endorsement process can apply for the associate designation and once approved, they will be issued an associate badge.</p>
+	<p style="margin-left: 0.25in;">4.2 These digital badges based on open badge standards enable newly-certified members to manage, share and verify their certifications digitally.</p>
+		<p style="margin-left: 1.25in;">4.2.1 Certified members are in complete control of the information they wish to make public. All certification information can be configured in the Credly account.</p>
+		<p style="margin-left: 1.25in;">4.2.2 Digital badges are uniquely linked to data hosted on the Credly platform. This link to verified data makes Credly digital badges more reliable and secure than a traditional paper-based credential. It also eliminates the possibility of anyone claiming a member’s credential and associate identity.</p>
+		<p style="margin-left: 1.25in;">4.2.3 Every certification and profile on the Credly platform has a unique URL that can be embedded on a resume or website. The platform also offers seamless integration with several popular social and professional networking platforms for the display of certifications as open badges. Sharing to LinkedIn enables the earner to display the achievement within their profile with single click verification.</p>
+	<p style="margin-left: 0.25in;">4.3 New members are notified through email to claim their badge within two weeks of earning their certification.</p>
+	<p style="margin-left: 0.25in;">4.4 Certified members/associates can claim a digital badge for each active certification they hold or exam passed.</p>
+	<p style="margin-left: 0.25in;">4.5 For questions related to the status of your Credly badge, members can contact <a href="mailto:badges@isc2.org">badges@isc2.org</a>.  For questions related to the status of certification, members can contact <a href="mailto:membersupport@isc2.org">membersupport@isc2.org.</a></p>
+    </li>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-e9d54c2afbdf4c2094a022daf71d193a">
+            <span class="hide-sm">ISC2 Membership Reinstatement Policy</span>
+        <span class="hide-lt-sm">ISC2 Membership Reinstatement Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-e9d54c2afbdf4c2094a022daf71d193a" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy establishes the requirements for reinstatement and reactivation of membership and provides the procedure to reinstate a terminated renewal billing record and reactivate a membership.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 3.0 <em>(Updated March 2022)</em></p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all ISC2; certified members and associates of ISC2;.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p>ISC2; allows a suspended or a terminated member or associate to regain certification.</p>
+    <p style="margin-left: 0.25in;">4.1 <span style="text-decoration: underline;">Suspension Status</span></p>
+    <p style="margin-left: 1in;">4.1.1 Members and Associates are given a 90-day period from the due date (earliest date of certification) to pay their Annual Membership Fees. Failure to pay within the 90-day period will result in certification suspension. Once suspended, individuals may no longer be allowed to use the certificate designation, display the certificate itself, or imply at any way that they are presently certified.</p>
+    <p style="margin-left: 1in;">4.1.2 Once certification is suspended, individuals are required to submit all outstanding CPE credits and pay all past due AMFs through the member portal prior to certification being reinstated.</p>
+    <p style="margin-left: 1in;">4.1.3 Suspension status may be maintained for up to two consecutive years. After two years, members or associates of ISC2; will be terminated, and all membership rights will be revoked.</p>
+    <p style="margin-left: 0.25in;">4.2 <span style="text-decoration: underline;">Terminated Status</span></p>
+    <p style="margin-left: 1in;">4.2.1 Suspended members and associates who do not recertify after two years will be terminated.</p>
+    <p style="margin-left: 1in;">4.2.2 Terminated members and associates of ISC2; will be required to retake the examination applicable to their terminated certification and pass the examination to become certified once again. They must sit for the exam within 90 days of their certification expiration date. In addition, they must pay all outstanding AMFs prior to registering for the exam. They can register for the exam at <a rel="noopener noreferrer" href="https://home.pearsonvue.com/isc2" target="_blank">home.pearsonvue.com/isc2</a>.</p>
+    <p style="margin-left: 1in;">4.2.3 Records are terminated for not meeting renewal requirements (AMF and CPE) for an ISC2 certification/associate credential. Member/Associate may file an extension request or appeal the termination of certification. If extension or appeal is approved, the individual will need to fulfill extension/appeal approval information.</p>
+    <p style="margin-left: 0.25in;">4.3 <span style="text-decoration: underline;">Hardship</span></p>
+    <p style="margin-left: 1in;">4.3.1 ISC2; understands that occasionally there are certain extenuating circumstances that occur preventing members from completing all their recertification requirements by their expiration date. Some examples for such extenuating circumstances are the following:</p>
+    <ul style="margin-left: 1in;">
+        <li>Personal/Immediate family, or household person&rsquo;s medical issues</li>
+        <li>Extended involuntary unemployment</li>
+        <li>Military deployment</li>
+        <li>Natural Disaster</li>
+        <li>Unexpected personal calamity</li>
+        <li>Death of Immediate Family Member (For purposes of this policy, &ldquo;immediate family&rdquo; is defined as the member&rsquo;s or the member&rsquo;s spouse&rsquo;s parents, siblings, children, grandparents, grandchildren, the member&rsquo;s spouse, and/or any other relative who resides in the member&rsquo;s household)</li>
+    </ul>
+    <p style="margin-left: 1in;">4.3.2 Extension of the 90-day grace period will be evaluated on a case-by-case basis as it relates to a medical or military issue that prevents the certified member or associate from fulfilling the AMF and CPE requirements on time. If certified members and associates have experienced hardships throughout their three-year certification cycle, they need to contact Member Services at <a href="mailto:membersupport@isc2.org">membersupport@isc2.org</a>.</p>
+    </li>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-48294c9965d44a45904126f7f58c04d2">
+            <span class="hide-sm">ISC2 Appeal Policy</span>
+        <span class="hide-lt-sm">ISC2 Appeal Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-48294c9965d44a45904126f7f58c04d2" class="collapse ">
+        <div class="content">
+            
+
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy establishes the requirements to appeal a certification/designation that has been suspended or terminated.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+		<p>Version 3.0 <em>(Updated March 2022)</em></p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+		<p>This policy applies to all ISC2; certified members and Associates of ISC2;.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p style="margin-left: 0.25in;">4.1 ISC2; certified members and associates whose certification/designation status are suspended or terminated may file an extension request or appeal the suspension or termination of their certification/designation.  </p>
+	<p style="margin-left: 0.25in;">4.2 All appeals need to be submitted prior to the end of the 2-year suspension period.</p>
+	<p style="margin-left: 0.25in;">4.3 Once a member/associate has confirmed the intent to file an appeal, an appeal form must be completed. The appeal form along with the written statement and supporting documentation should then be provided to Member Services at <a href="mailto:membersupport@isc2.org">membersupport@isc2.org</a>, This written statement should explain in detail the circumstances that occurred which prevented recertification requirements from being met prior to suspension or termination.</p>
+		<p style="margin-left: 1.25in;">4.3.1 All information and documentation regarding the appeal will be collected and provided to Member Services Manager for review and consideration in a timely manner.</p>
+		<p style="margin-left: 1.25in;">4.3.2 Member Services Coordinators will follow appeal through to completion including monitoring account activity for renewal requirements submission if appeal is granted.  Review of appeals typically takes 7-10 business days.</p>
+	<p style="margin-left: 0.25in;">4.4 If extension or appeal is approved, the individual must fulfill extension/appeal approval information. If extension or appeal is disapproved, the individual must retest to regain certification/designation.</p>
+	<p style="margin-left: 0.25in;">4.5 ISC2; understands that occasionally there are certain extenuating circumstances that occur preventing members from completing all their recertification requirements by their expiration date. Some examples for such extenuating circumstances are the following:
+		<ul style="margin-left: 0.25in;">
+		<li>Personal/Immediate family, or household person’s medical issues</li>
+		<li>Extended involuntary unemployment</li>
+		<li>Military deployment</li>
+		<li>Natural disaster</li>
+		<li>Unexpected personal calamity</li>
+		<li>Death of Immediate Family Member (For purposes of this policy, &ldquo;immediate family&rdquo; is defined as the member’s or the member’s spouse’s parents, siblings, children, grandparents, grandchildren, the member’s spouse, and/or any other relative who resides in the member’s household)</li>
+		</ul>
+	
+	<p style="margin-left: 0.25in;">4.6 Extension of the 90-day grace period will be evaluated on a case-by-case basis as it relates to a medical or military issue that prevents the certified member or associate from fulfilling the AMF and CPE requirements on time. If certified members and associates have experienced hardships throughout their three-year certification cycle, they must contact Member Services at <a href="mailto:membersupport@isc2.org">membersupport@isc2.org</a>.</p>
+    </li>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-c4a4e0cef4404d3686031cab0597cead">
+            <span class="hide-sm">ISC2 Emeritus Status Policy</span>
+        <span class="hide-lt-sm">ISC2 Emeritus Status Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-c4a4e0cef4404d3686031cab0597cead" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><strong><span style="text-decoration: underline;">Purpose</span></strong>
+    <p>This policy provides the requirements for Member Emeritus.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 3.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all ISC2; certified members.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p style="margin-left: 0.25in;">4.1 ISC2; allows a certified member who wishes to retain his/her affiliation with ISC2; to be granted a designation upon his/her retirement from the information security profession.</p>
+    <p style="margin-left: 0.25in;">4.2 The Member Emeritus designation is defined as follows:</p>
+	<ul style="margin-left: 0.75in;">
+		<li>A Member Emeritus will enjoy all the rights of full ISC2 membership, including, but not limited to:
+		<ul>
+		<li>Access to member magazine</li>
+		<li>Access to security reports</li>
+		<li>Option to attend free virtual events</li>
+		<li>Vulnerability Central</li>
+		<li>Member discounts</li>
+		<li>All ISC2 official communications</li>
+		</ul></li>
+		<li>A Member Emeritus will:
+		<ul>
+		<li>keep their same ISC2 ID number</li>
+		<li>agree to follow ISC2 Logo Usage Guidelines</li>
+		<li>maintain contact information in the ISC2 Member Dashboard</li>
+		</ul></li>
+		<li>A Member Emeritus will be unable to:
+		<ul>
+		<li>vote in ISC2 elections</li>
+		<li>hold an ISC2 office</li>
+		<li>participate in ISC2 exam development activities</li>
+		</ul></li>
+	</ul>
+    <p style="margin-left: 0.25in;">4.3 To obtain Member Emeritus designation, a certified member must meet the following requirements:</p>
+	<ul style="margin-left: 0.75in;">
+	<li>Be a certified member in good standing</li>
+	<li>No longer practicing or employed as an information security professional (including consulting, private and public sector work)</li>
+	<li>Has been a credential holder of the certification associated with the emeritus status in good standing for at least 9 years.</li>
+	<li>Not be the subject of a current ISC2 ethics action/investigation</li>
+	</ul>
+    <p style="margin-left: 0.25in;">4.4 Member must complete a Member Emeritus Application Form <em>(form can be requested from <a href="mailto:MemberSupport@isc2.org">MemberSupport@isc2.org</a>)</em></p>
+       <!-- <p style="margin-left: 1.25in;">4.4.1 After the application fee is paid, if the applicant does not seek Emeritus Designation, the following cancellations and refunds policy apply:</p>
+	<ul style="margin-left: 1.25in;">
+		<li>Applicant must submit cancellation request in writing</li>
+		<li>For cancellation request received by ISC2; within 30 days of filing Emeritus Designation application, ISC2; will refund the full application fee of U.S. $100 and closes the application process</li>
+		<li>For cancellation request received ISC2; after 30 days of filing the application, the fee will be forfeited</li>
+		<li>The Endorsement/Programs Department will subsequently process the application</li>
+	</ul> -->
+    <p style="margin-left: 0.25in;">4.5 Member must pay a one-time application fee. The application fee will be equal to three (3) times the current certified member AMF. Application fees are non-refundable.</p>
+    <p style="margin-left: 0.25in;">4.6 Reinstatement to active status is not anticipated; however, a Member Emeritus must meet all the following qualifications/requirements before reinstating to active status.</p>
+        <p style="margin-left: 1.25in;">4.6.1 If the Member Emeritus is held for two years or less (the two-year timeframe begins at the date the Member Emeritus was approved. The Member Emeritus must:</p>
+	<ul style="margin-left: 1.25in;">
+		<li>Contact ISC2 Customer Experience</li>
+		<li>Report up to 60 CPE credits earned within the previous 12 months (actual amount of CPE required for reinstatement based on length of Member Emeritus status and is accrued monthly)</li>
+		<li>Agree to abide by and adhere to the ISC2 Code of Ethics.</li>
+	</ul>
+        <p style="margin-left: 1.25in;">4.6.2 If Member Emeritus is held for more than two years (the two-year timeframe begins at the date the designation was approved), the Member Emeritus must apply for reinstatement following certification and membership maintenance policy.</p>
+        <p style="margin-left: 1.25in;">4.6.3 A Member Emeritus that is reinstated to active credential holder will have their Member Emeritus status rescinded.</p>
+        <p style="margin-left: 1.25in;">4.6.4 Once Member Emeritus is granted; he/she may be reinstated only once to active status.</p></li></ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-3de4cff1f56f42ea9f6e8e2967c1dcd8">
+            <span class="hide-sm">ISC2 Voucher Policy</span>
+        <span class="hide-lt-sm">ISC2 Voucher Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-3de4cff1f56f42ea9f6e8e2967c1dcd8" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><span style="text-decoration: underline;"><strong>Purpose</strong></span>
+    <p>This policy details the terms of use, conditions, restrictions for ISC2;&nbsp;vouchers as a form of payment for products and services, and outlines internal procedures that guides the issuance and use of vouchers.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 1.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all ISC2;<sup> </sup>certified members, candidates and associates who wish to use vouchers as a form of payment for ISC2;<sup></sup>products and services.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy </span></strong>
+    <p>ISC2;&nbsp;allows vouchers to be used as a form of payment for Annual Maintenance Fee (AMF), examination fees and training fees. Voucher numbers are not issued and released until invoice is paid in full. The following outlines the guidelines for all types of vouchers issued by ISC2;.</p>
+    </li>
+</ol>
+<p style="margin-left: 0.25in;">4.1 Exam and Training Vouchers
+</p>
+<p style="margin-left: 1.25in;">4.1.1 Candidates can use the voucher to register for the exam and training of their choice.</p>
+<p style="margin-left: 1.25in;">4.1.2 Vouchers have an expiration date &ndash; one year from the purchase date and cannot be extended. The candidate is responsible for tracking when the voucher expires; no notification will be sent. </p>
+<p style="margin-left: 1.25in;">4.1.3 You must take your exam or training by the voucher expiration date. The examination and training fee will be forfeited on the date of expiration. </p>
+<p style="margin-left: 1.25in;">4.1.4 Vouchers cannot be extended, refunded nor replaced. It cannot be used for any other certifications. </p>
+<p style="margin-left: 1.25in;">4.1.5 Individuals using vouchers for payment for attendance at an examination or training session will be allowed to reschedule or cancel. However, the exam or training must be rescheduled for a date prior to the expiration date of the voucher. </p>
+<p style="margin-left: 1.25in;">The standard U.S. $50 reschedule fee and U.S. $100 cancellation fee for exams will apply. Cancellations and reschedules must be done at least 24 hours prior to the exam start time by contacting Pearson VUE. If you are not in attendance to the exam, you will be marked as a &ldquo;no-show&rdquo; and the entire exam fee will be forfeited.</p>
+<p style="margin-left: 0.25in;">4.2 Annual Maintenance Fee (AMF) Vouchers</p>
+<p style="margin-left: 1.25in;">4.2.1 Corporations/companies can purchase multiple vouchers to pay for their employees&rsquo; AMF. </p>
+<p style="margin-left: 1.25in;">4.2.2 Vouchers are purchased per individual/employee, and can be used as payment for their AMF. </p>
+<p style="margin-left: 1.25in;">4.2.3 Membership vouchers have an expiration date &ndash; one year from the purchase date and cannot be extended. The individual who has been issued with a voucher is responsible for tracking when the voucher expires; no notification will be sent. </p>
+<p style="margin-left: 1.25in;">4.2.4 The voucher must be used by the expiration date. It cannot be extended, refunded nor replaced.</p>
+<p style="margin-left: 0.25in;">5.1 Responsibilities </p>
+<p style="margin-left: 1.25in;">The ISC2; Member Services Team works closely with Finance, Exams and Education Teams on the purchase, usage and administration of vouchers as form of payment for (ISC)<sup>2 </sup>products and services.</p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-b0ccdbd1eb8c4935be75696a96f1d9ca">
+            <span class="hide-sm">ISC2 Community Usage Policy</span>
+        <span class="hide-lt-sm">ISC2 Community Usage Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-b0ccdbd1eb8c4935be75696a96f1d9ca" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><span style="text-decoration: underline;"><strong>Purpose</strong></span>
+    <p>This policy provides the usage rules and enforcement of the rules for the ISC2 Community at community.isc2.org.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 1.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to all ISC2 Community users (both ISC2 members and non-members).</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy </span></strong>
+    <p>Located publicly online at <a rel="noopener noreferrer" href="https://community.isc2.org/t5/Welcome/ISC-Community-Usage-Policy-Guidelines-Updated-August-2020/m-p/38340" title="https://community.isc2.org/t5/Welcome/ISC-Community-Usage-Policy-Guidelines-Updated-August-2020/m-p/38340" target="_blank">https://community.isc2.org/t5/Welcome/ISC-Community-Usage-Policy-Guidelines-Updated-August-2020/m-p/38340</a></p>
+    </li>
+    <p style="margin-left: .25in;">4.1 Open Forum</p>
+    <p style="margin-left: 1.25in;">a. One of the primary purposes of this Community is to raise awareness for cybersecurity issues and the profession. As such, this is an open forum. Post on the community knowing that what you share is viewable by the public and search engines. Only a limited number of closed groups are private and not visible to all users, including non-registered Community members.</p>
+    <p style="margin-left: 1.25in;">b. Only registered Community users can post messages. Create your <a rel="noopener noreferrer" href="https://community.isc2.org/plugins/common/feature/saml/doauth/post?RelayState=https://community.isc2.org/" target="_blank">Community account</a>.</p>
+    <p style="margin-left: 1.25in;">c. Community users often share personal experiences and might offer peer-to-peer support. Keep in mind, that these are personal opinions and do not necessarily represent the position of ISC2. Questions requiring a formal answer should be directed to ISC2 staff. When answering questions regarding ISC2;  policies or procedures, it is best to link to the appropriate ISC2 policy page and not try to summarize or paraphrase ISC2 policies as it can risk misunderstandings. It is fair to share your experiences and offer sources of support (such as emailing <a rel="noopener noreferrer" href="mailto:membersupport@isc2.org" target="_blank">membersupport@isc2.org</a> or flagging a Community manager), but ISC2 staff are aware of the latest policies, procedures and systems status, and are best equipped to officially and accurately address questions on the Community.
+    </p>
+    <ul style="margin-left: 1.25in; list-style-type: disc;">
+        <li>Our Community Champions are here to encourage current and future members and to share their extensive expertise in information security to help facilitate discussions. We appreciate the support they volunteer to help the Community, but please respect their time and direct member and candidate support questions to ISC2 staff.</li>
+    </ul>
+    <p style="margin-left: 1.25in;">d. The Community is a forum for honest, constructive discussion about the ISC2 association, including governance, processes, policies and systems. Be mindful that ISC2 members are the heart of the association. Everything ISC2 members post on this forum is an extension of the association. Help your association grow and thrive by being a welcoming and helpful place for members, certification candidates and interested parties looking for solutions to today’s security challenges.</p>
+    <p style="margin-left: 1.25in;">e. As an open forum, community users respond to questions/posts with advice on topics. While we will attempt to correct any misunderstandings or outdated advice, <span style="text-decoration: underline;">ISC2</span> is not responsible for inaccurate information posted. Regarding questions about ISC2 policy and practices, we recommend users refer directly to the <a rel="noopener noreferrer" href="https://www.isc2.org/Policies-Procedures" target="_blank">policies and procedures page</a>.</p>
+    <p style="margin-left: .25in;">4.2 Protect Privacy</p>
+    <p style="margin-left: 1.25in;">a. Don’t share any information about yourself or your organization you do not want made public. Do not share personal information. Personal information includes your home address, full name, ISC2 member/ID number, credit card numbers, social security numbers, email address, etc. In addition, do not request the personal information of other users. Keep in mind, as with any online forum, that even the Community’s Private Message function is no guarantee of privacy of your online exchanges.</p>
+    <p style="margin-left: 1.25in;">b. If you have any issues with your ISC2 account, contact Member Services with your specific issue, account number and contact information at <a rel="noopener noreferrer" href="mailto:membersupport@isc2.org" target="_blank">membersupport@isc2.org</a> or visit <a rel="noopener noreferrer" href="http://www.isc2.org/contact-us" target="_blank">www.isc2.org/contact-us</a> for additional resources.</p>
+    <p style="margin-left: 1.25in;">c.In the course of your interactions with ISC2, you may come in contact with staff members through various communications channels. Do not publicly share the email addresses, phone numbers or other information about ISC2 staff other than their user profiles on the Community. When addressing association issues, do not identify specific staff members you feel may be responsible. Please escalate issues through appropriate <a rel="noopener noreferrer" href="https://www.isc2.org/Contact-Us#accordion-ec0be5accd8a4a36a5dbbcd3adb5307b" target="_blank">channels</a> and through Community managers.</p>
+    <p style="margin-left: 1.25in;">d. ISC2 reserves the right to promote posts and conversations in public discussion boards within the Community on other channels such as Twitter, LinkedIn, Facebook and its magazine <em>InfoSecurity Professional</em> to help encourage more diverse input and awareness about topics.</p>
+    <p style="margin-left: 0.25in;">4.3 Honestly Represent Yourself</p>
+    <p style="margin-left: 1.25in;">a. Have fun with your username and avatar; however, remember this is a professional forum</p>
+    <p style="margin-left: 1.25in;">b. Do not purposely misrepresent yourself</p>
+    <p style="margin-left: 1.25in;">c.Do not impersonate other people, including ISC2 staff</p>
+    <p style="margin-left: 1.25in;">d. Do not use copyright-protected photos for your avatar</p>
+    <p style="margin-left: .25in;">4.4 Be Respectful</p>
+    <p style="margin-left: 1.25in;">a. Respect others’ time and attention with well-thought-out questions and discussion by keeping your tone positive and maintaining constructive criticism. Personal attacks or criticism of another’s abilities will not be tolerated. Insults, swear words, vulgar language, legal threats, controversial political statements, discriminatory remarks, ridicule, and/or illegal content is not allowed.</p>
+    <p style="margin-left: 1.25in;">b. Attempting to deliberately circumvent moderation tools and content filters in place to prevent inappropriate content is counter-productive and disrespectful of an administrator’s time. It will not be tolerated. Redacting or obfuscating offensive words when discussing threats and tactics used by threat actors is an appropriate way to address these valuable topics and information sharing.</p>
+    <p style="margin-left: .25in;">4.5 Be Relevant</p>
+    <p style="margin-left: 1.25in;">a. Keep discussions relevant to our Community’s mission and specific topic areas. Search to see if your question has already been posted to avoid duplication. If you are unsure if a topic is relevant to the Community, please do not hesitate to ask one of the Community team members at <a rel="noopener noreferrer" href="mailto:community@isc2.org" target="_blank">community@isc2.org</a>. Do not reply with off-topic comments; instead, create a new post and link to the original if needed. Don’t post the same message in multiple areas.</p>
+    <p style="margin-left: 1.25in;">b. External links (including those in a signature) should only be posted when related to the content in the thread and not link to irrelevant or off-topic content</p>
+    <p style="margin-left: 1.25in;">c. Professional signatures including your name, certifications and link to your <a href="https://www.isc2.org/Certifications/Digital-Badges">Credly badge</a> or a reputable professional network like LinkedIn are permissible</p>
+    <p style="margin-left: .25in;">4.6 Be Lawful</p>
+    <p style="margin-left: 1.25in;">a. Do not any violate any laws or break any contractual agreements you have made (copyright, trade secret, nondisclosure agreements or others)</p>
+    <p style="margin-left: .25in;">4.7 Adhere to ISC2 Exam Confidentiality</p>
+    <p style="margin-left: 1.25in;">a. Discussing ISC2 examination items, answers and responses with other individuals is a violation of the ISC2 Examination Non-Disclosure Agreement that is signed prior to taking an ISC2 examination. Any posts related to this will be removed, and users found to be in violation may face penalties.</p>
+    <p style="margin-left: 1.25in;">b. General discussions about exams that do not share specific exam items are permissible. We encourage Community members to help candidates prepare themselves for success and share their own experiences without disclosing any information that could compromise the integrity of the exam process.</p>
+    <p style="margin-left: .25in;">4.8 Be Responsible With Vulnerability Disclosures</p>
+    <p style="margin-left: 1.25in;">a. This Community is not to be used as a forum for public disclosure of vulnerabilities. Ethical disclosure is important; however, this Community is not the appropriate place for original disclosures.</p>
+    <p style="margin-left: 1.25in;">b. It is appropriate to discuss publicly disclosed vulnerabilities and how security professionals should respond.</p>
+    <p style="margin-left: .25in;">4.9 Promote Ideas, Not Products</p>
+    <p style="margin-left: 1.25in;">a. Solicitation or advertisement of goods or services in posts, links, private messages, or any other means of communication is prohibited, and Community users who violate these guidelines may also be subject to further action, including a permanent ban from the Community.</p>
+    <p style="margin-left: .25in;">4.10 Be Concise</p>
+    <p style="margin-left: 1.25in;">a. Lengthy posts can be intimidating on a forum and might discourage people from reading. Summarize your thoughts or question into a short paragraph with a few points to start a discussion within the Community. When reposting information from a blog, contributed article, or other information, provide a brief overview and include a link to the original source. We require compliance with “fair use” when reposting.</p>
+    <p style="margin-left: .25in;">4.11 Be Vigilant</p>
+    <p style="margin-left: 1.25in;">a. Flag inappropriate content if you notice anything that violates these guidelines. To flag, use the menu at the top right of a post and select “Report Inappropriate Content.” It will be reviewed by a Community team member. In addition to flagging content that is vulgar, hateful and/or off-topic, this extends to non-helpful, ridicule and baseless jokes as well. This Community is intended to be a tool for cybersecurity professionals to work together to solve problems. When in doubt, refer to our <a href="https://www.isc2.org/Ethics">Code of Ethics</a> Canons:
+    </p>
+    <ol style="list-style-type: upper-roman;">
+        <li style="margin-left: 1.25in;">Protect society, the common good, necessary public trust and confidence, and the infrastructure</li>
+        <li style="margin-left: 1.25in;">Act honorably, honestly, justly, responsibly, and legally</li>
+        <li style="margin-left: 1.25in;">Provide diligent and competent service to principals</li>
+        <li style="margin-left: 1.25in;">Advance and protect the profession</li>
+    </ol>
+    <p style="margin-left: .25in;">4.12 Escalate Issues Responsibly</p>
+    <p style="margin-left: 1.25in;">a. Alert the ISC2 Community managers to any issues you are experiencing or send an email to <a rel="noopener noreferrer" href="mailto:community@isc2.org" target="_blank">community@isc2.org</a>.</p>
+    <p style="margin-left: 1.25in;">b. Members and certification candidates seeking assistance should contact <a rel="noopener noreferrer" href="mailto:membersupport@isc2.org" target="_blank">membersupport@isc2.org</a> for assistance.</p>
+    <p style="margin-left: .25in;">4.13 Enforcement of Guidelines</p>
+    <p style="margin-left: 1.25in;">a. By using the ISC2 Community, you agree to the above stated guidelines, as well as the <a href="https://www.isc2.org/Policies-Procedures/Website-Access-Policy" title="https://www.isc2.org/Policies-Procedures/Website-Access-Policy">Website Access Policy</a> for the ISC2 Community. Content that violates the Website Access Policy or the Community Guidelines will be removed or edited. Users violating Community Guidelines will be warned. If users continue to violate guidelines, they will face a temporary, 30-day ban. If violations persist after reinstatement, users will be banned permanently. Hate speech, personal attacks and spam posts will not be tolerated, and may result in the permanent ban of the user immediately and without formal notice.</p>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-d2d1fb9fc16a4720a0a35e4b5d9bd73b">
+            <span class="hide-sm">Unacceptable/Abusive Behavior Policy</span>
+        <span class="hide-lt-sm">Unacceptable/Abusive Behavior Policy</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-d2d1fb9fc16a4720a0a35e4b5d9bd73b" class="collapse ">
+        <div class="content">
+            
+<ol>
+    <li><span style="text-decoration: underline;"><strong>Policy Overview</strong></span>
+    <p>ISC2; Member Services manages thousands of interactions with candidates, members and associates [hereafter, "ISC2; Community"] on an annual basis without incident. ISC2; Community feedback is integral to service improvements and enhancements, so we welcome all views, questions and recommendations about member services. There are times, however, when ISC2; Community members (acting out of anger, frustration or distress) demonstrate unacceptable behavior. This policy is designed to assist Member Services staff in managing situations in which ISC2; Community members demonstrate unacceptable behavior and provides guidance to staff on how to manage these behaviors. This guidance should be considered in conjunction with the ISC2; Harassment Policy.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Revision History</span></strong>
+    <p>Version 1.0</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Scope</span></strong>
+    <p>This policy applies to Member Services staff providing customer service and support and the ISC2; Community receiving that support in all ISC2; regions.</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Definitions</span></strong>
+    <p>Unacceptable &ndash; demonstrating unwelcome and intolerable behavior</p>
+    <p>Persistence &ndash; continuing firmly on a course of action despite opposition or requests to cease</p>
+    <p>Unreasonable &ndash; beyond the limits of acceptability, fairness or good sense</p>
+    </li>
+    <li><strong><span style="text-decoration: underline;">Policy</span></strong>
+    <p>Aligned with our Customer Service standards, ISC2; staff will deal fairly, respectfully and consistently with the ISC2; Community. This includes those whose actions are considered to be unacceptable. All of our customers have a right to have their service requests considered and to be treated with respect.</p>
+    <p>Staff of ISC2; have that same right. This policy provides guidance to manage our ISC2; Community with a service, even where it is considered that a person's behavior or actions are unacceptable. It aims to empower our staff to use this policy to deal with any unacceptable behavior and ensure that those who act in an unacceptable manner do not disadvantage themselves. It ensures that staff enjoy the same level of security whether their job involves them either working as a lone worker, in an office or an external environment.</p>
+    </li>
+    <p style="margin-left: .25in;">5.1 Categories of Behavior</p>
+    <p style="margin-left: 1.25in;">5.1.1 Unacceptable Use of Language</p>
+    <p style="margin-left: 1.25in;">ISC2; Member Services staff have the right not to be subjected or to suffer language that is abusive, offensive, threatening, derogatory nor discriminatory. Examples of this kind of language includes:</p>
+    <ul style="margin-left: 1.25in;">
+    <li>Yelling or shouting</li>
+    <li>Excessive profanity</li>
+    <li>Threats of violence</li>
+    <li>Bullying or intimidating</li>
+    <li>Remarks of a sexual nature</li>
+    <li>Unsubstantiated allegations</li>
+    <li>Remarks that are racist, homophobic, xenophobic or misogynistic</li>
+    </ul>
+    <p style="margin-left: 1.25in;">5.1.2 Unreasonable Expectations and Persistence</p>
+    <p style="margin-left: 1.25in;">Sometimes ISC2; Community members will not or cannot accept that Member Services is unable to assist them further or to provide the desired outcome. They may persist in disagreeing with the action or decision taken in relation to their concerns or they may persistently contact Member Services about the same issue(s). Note that the method some ISC2; Community members use in contacting Member Services is often reasonable, but the persistence in doing so that becomes unreasonably forceful or demanding. In some of these case, the continual telephone calls and emails may be considered harassment. Examples include:</p>
+    <ul style="margin-left: 1.25in;">
+    <li>Making the same complaint despite the matter having been full addressed by support staff or management</li>
+    <li>Repeating complaints about a previous or historical matter that cannot be undone or remedied</li>
+    <li>Refusal to accept the decision of Member Services staff</li>
+    <li>Refusal to abide by ISC2; Policies and Procedures</li>
+    <li>Continuing to contact Member Services (phone, email, letter) on the same issue(s) without providing any new information</li>
+    <li>Repeatedly changing the nature or focus of a complaint or desired outcome part way through an investigation or after a formal response has been provided</li>
+    <li>Amplification of issues on social media after Member Services has already provided a response</li>
+    </ul>
+    <p style="margin-left: 1.25in;">5.1.3 Unacceptable Demands on Service</p>
+    <p style="margin-left: 1.25in;">Some members of the ISC2; Community make unacceptable demands of Member Services due to the amount of information they ask for or the nature and scale of the service they expect. Examples include:</p>
+    <ul style="margin-left: 1.25in;">
+    <li>Refusal to end a telephone call</li>
+    <li>Sending the same or similar request to several members of staff</li>
+    <li>Demanding responses in an unreasonable timeframe</li>
+    <li>Requesting responses to correspondences that fall under the "Unacceptable Use of Language" category of behaviors</li>
+    <li>Demanding access to information not generally provided to ISC2; Community Members</li>
+    <li>Insisting to speak to someone who is either not available or not the appropriate person (e.g. the CEO or Board of Directors)</li>
+    <li>Demanding that ISC2; make unreasonable accommodations (fee waivers, refunds) based on their experience with any of our third-party partners (Pearson Vue)</li>
+    </ul>
+    <p style="margin-left: .25in;">5.2 Managing Behavior</p>
+    <p style="margin-left: .5in;">Members of ISC2; Community found demonstrating the above behaviors will be subject to sanctions up to, and including, restricting or banning access to ISC2; services.</p>
+    <p style="margin-left: .5in;">In some cases, a single violation could result in sanctions. These include:</p>
+    <ul style="margin-left: .5in;">
+    <li>Threats of violence</li>
+    <li>Remarks that are racist, homophobic, xenophobic or misogynistic</li>
+    <li>Remarks of a sexual nature</li>
+    </ul>
+    <p style="margin-left: .5in;">ISC2; takes a zero-tolerance approach to these types of behaviors and therefore reserves the right to apply more serious sanctions even after a first instance of these behaviors</p>
+    <p style="margin-left: 1.25in;">5.2.1 A member of the ISC2; community should always be given an opportunity to rectify his or her behavior and in the first instance, staff should explain that they find someone's behavior or language unacceptable and allow the person a chance to remedy, moderate or change the behavior.</p>
+    <p style="margin-left: 1.25in;">5.2.2 ISC2; recognizes that a person's actions may be affected by disability, including mental health issues, substance misuse or other factors. ISC2; will take these factors and any other relevant matters into account when implementing this policy.</p>
+    <p style="margin-left: 1.25in;">5.2.3 ISC2; staff should be aware of and put into practice any service specific guidelines/policies on managing unacceptable behavior. If the behavior continues, employees are able and empowered to:</p>
+    <ul style="margin-left: 1.25in;">
+    <li>End telephone calls if the caller is considered aggressive, abusive or offensive. Employees should clearly explain why they are ending the call.</li>
+    <li>Report the threat, verbal abuse/harassment or persistent correspondence to the Member Services Supervisor/Manager. Some situations need to be escalated or consulted with the Department head to decide how to manage communications or contact with the person.</li>
+    <li>If Member Services leadership has exhausted all mechanisms to handle this member, the matter may be escalated to upper management/senior officers or Legal, if necessary. All background information and details of the situation should be provided to allow for thorough review and action.</li>
+    </ul>
+</ol>
+        </div>
+    </div>
+</li>
+
+
+</ul>
+
+
+    <h2 class="accordionTitle__title" data-jump-link='' data-jump-text="(ISC)&#178; Logos &amp; Guidelines" id="accordionTitle-d379a47869224612a107d57e8138700b">(ISC)&#178; Logos &amp; Guidelines</h2>
+<ul class="ac hide-siblings" id="accordion-d379a47869224612a107d57e8138700b">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-b2b5d405be4540f88bb1f3e97841b316">
+            <span class="hide-sm">ISC2 Regulations Governing Use of Certification/Collective Logo Marks </span>
+        <span class="hide-lt-sm">ISC2 Regulations Governing Use of Certification/Collective Logo Marks </span>
+    </a>
+    <div data-jump-link='' data-jump-text="(ISC)&#178; Regulations Governing Use of Certification/Collective Logo Marks " id="accordion-b2b5d405be4540f88bb1f3e97841b316" class="collapse ">
+        <div class="content">
+            
+<p>ISC2; is a non-profit membership organization identified as the leader in certifying individuals in cybersecurity. All of ISC2;'s certifications are ANSI ISO/IEC 17024 accredited. ISC2; does not provide cyber security services, but focuses on the training, education, and certification of information and application security professionals.</p>
+<p>Candidates who successfully complete any of the ISC2; certification requirements may use the appropriate Certification Mark and Logo (collectively the "Logo") to identify themselves as having demonstrated the professional experience and requisite knowledge in the realm of cybersecurity. The following guidelines explain how ISC2; Logos may be used.</p>
+<h2 style="margin: 0px; padding: 10px 0px;">Using the Logo</h2>
+<p>Only those who have demonstrated the requisite experience in cybersecurity, agree to be bound by the ISC2; Code of Ethics, successfully passed the corresponding examination(s), and have had their experience and professionalism endorsed by an ISC2; member are certified by ISC2;. Those who meet these standards ("Certified") are authorized to use the appropriate Logo(s). The Logo(s) identifies those who have met the strict criteria for certification and are able to demonstrate professional judgment and abilities in information security. Use of the Logo indicates the Certified's acceptance of the terms in the agreement executed upon applying to sit for the corresponding examination and these guidelines and that Certified has met the criteria to be a CISSP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP, CGRC, CSSLP, SSCP, HCISPP, and/or CCSP and has maintained the requisite certification obligations..</p>
+<ul>
+    <li>Certified may use the Logo only on business cards, letterhead, marketing material and resume to indicate that they are an ISC2; credential holder. Certified may not use the Logo on any product or product-related material.</li>
+    <li>Certified may only use the Logo for which they have successfully completed the certification requirements (e.g. CISSPs may not use SSCP, nor may SSCPs use CISSP, unless they have completed the appropriate requirements).</li>
+    <li>Certified may not alter the Logo artwork in any way other than to increase or decrease in size.</li>
+    <li>The Logo may not be translated or otherwise localized into any other language. Any localized versions of the Logo must be provided by ISC2;.</li>
+    <li>Certified may not display the Logo in any manner that suggests they are an employee of ISC2; or in a manner that suggests "ISC2;" is a part of their company name. Use of the Logo must clearly indicate that Certified is independent from ISC2;.</li>
+    <li>Certified may not use the Logo in any manner that is derogatory to or critical of ISC2; or the certification.</li>
+    <li>Certified's name, trade name, or company name must appear on any materials where the Logo is used. The Logo cannot appear larger or more prominent than Certified's name, product or service name, trademark or service mark, logo or trade or company name.</li>
+    <li>The Logo may not be used in any manner that expresses or might imply ISC2;'s affiliation, sponsorship, endorsement, certification, or approval, other than as set forth by the ISC2; Application Agreement.</li>
+    <li>The Logo, or any elements thereof, may not be included in trade or business name, domain name, product or service name, logo, trade dress, design, slogan or other trademarks.</li>
+    <li>Certified may not combine the Logo with any other object, including, but not limited to, other logos, icons, words, graphics, photos, slogans, numbers, design features, symbols, or Website audio files. (i.e. Mixing another Logo with the CISSP Logo to create a variation)</li>
+    <li>The Logo may not be used as a design feature on any product or service materials.</li>
+    <li>The Logo may not be imitated in any manner.</li>
+    <li>On marketing material (exclusive of letterhead, business cards, and resumes), the Logo shall be attributed to the International Information Systems Security Certification Consortium with the following attribution clause in all materials where it is used: "CISSP (or appropriate certification) is a registered mark of the International Information Systems Security Certification Consortium in the United States and other countries."</li>
+    <li>The respective Logo (e.g. "CISSP" or "SSCP", etc.) shall always be accompanied by &reg; except where prohibited by size constraints (i.e. business cards).</li>
+    <li>Certified may not use the (ISC)<sup>2</sup> Logo or mark in any manner other than as a link on Certified's Website to <a href="http://www.isc2.org/" style="color: #006f53;">www.isc2.org.</a></li>
+    <li>Associates of ISC2; are NOT certified and may not use any Logo or description other than "Associate of ISC2;". Under no circumstances may they identify which exam they have successfully passed or use any Logo, other than "Associate of ISC2;", in any manner. Failure to abide by this rule may result in the candidate being prohibited from ever attaining any ISC2; certification.</li>
+</ul>
+<p>Logos may not be used in any way other than as specified in these guidelines. Failure to comply with these instructions shall constitute a breach of the ISC2; Application Agreement.</p>
+<h2 style="margin: 0px; padding: 10px 0px;">Compliance with Guidelines</h2>
+<p>ISC2; reserves the right to spot-check all marketing and promotion materials bearing the Logo and may periodically send out requests for samples. Certified must correct any deficiencies in use of the Logo. Refusal to correct such deficiencies or to cease publication or distribution could result in revocation of right to use the Logo.</p>
+<h2 style="margin: 0px; padding: 10px 0px;">Logo Artwork</h2>
+<p>Electronic artwork files for the Logo are available on the ISC2;'s members-only Website.</p>
+<p><strong>Use the following contact information to obtain clarification or permission:</strong></p>
+<p><strong>E-mail:</strong> <a href="mailto:legal@isc2.org?subject=Logo Guidelines">legal@isc2.org</a></p>
+<p><strong>Mail:</strong> Attn: Logo Guidelines</p>
+<p>ISC2;, Inc.<br>
+625 N Washington St., Suite 400<br>
+Alexandria, VA 22314</p>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-00b355fe670d4077bd3d8d8a00d964f6">
+            <span class="hide-sm">Logos Download & Usage</span>
+        <span class="hide-lt-sm">Logos Download & Usage</span>
+    </a>
+    <div data-jump-link='' data-jump-text="Logos Download &amp; Usage" id="accordion-00b355fe670d4077bd3d8d8a00d964f6" class="collapse ">
+        <div class="content">
+            
+The following are guidelines for using the ISC2; approved marks on industry information. All credential holders in good standing are authorized to use the appropriate certification mark and/or logo subject to the guidelines found in the official ISC2; Logo Usage Guidelines. Use of the ISC2; mark and/or logo is restricted. View the official ISC2; Logo Usage Guidelines for more details.<br>
+<br>
+<h2>ISC2; Logo and Usage</h2>
+<p style="text-align: left;">
+On all full-color communications materials, the ISC2; logo should be reproduced in the following Pantone color (3298 CP) or reversed out in white. When necessary, the logo can be produced using CMYK, RGB and HEX. As an alternative the ISC2; logo may be used in black.</p>
+<p style="text-align: center;">
+<br>
+<img height="192" alt="Logo Guidelines" width="548" src="/-/media/ISC2/Policies-and-Procedures/Main-Logo-Tagline.ashx?la=en&amp;hash=019399DB6649D0C0FCE28D1340FEC973D3CEE282" style="text-align: center;"></p>
+<br>
+<br>
+<h2>Logo Area</h2>
+<p>
+It is important to keep the logo area clear of any distracting elements. Please allow at least 1/5" of clear space around the logo, as shown.</p>
+<p style="text-align: center;">
+<img height="135" alt="Logo Guidelines" width="185" src="/-/media/ISC2/Policies-and-Procedures/Logo_Measure.ashx?la=en&amp;hash=9A8BC4EDDABAA74E8CB8612204D974C0B55EBB78" style="text-align: center;"><br>
+<br>
+</p>
+<h2>Credential Usage</h2>
+<p>
+Being a credential holder is a testament of one&rsquo;s profession and expertise. When indicating your credentials in business correspondence, it is important to list your certifications in the appropriate order after your name. ISC2; certifications should be listed from the highest experience level to the lowest: CISSP, CCSP, CSSLP, HCISPP, CGRC, SSCP, CC<br>
+<br>
+For example:<br>
+Isabella Rodriguez, SSCP, CC<br>
+Jim M. Smith, CISSP, SSCP<br>
+Melinda Adams, CISSP, CGRC, SSCP<br>
+<br>
+When listing multiple CISSP concentration certifications, the order should be alphabetical as follows: CISSP-ISSAP, ISSEP, ISSMP. These credentials should be listed before the CCSP, CSSLP, HCISPP, CGRC, SSCP and CC certifications.<br>
+<br>
+For example:<br>
+Jane K. Baker, CISSP-ISSAP, ISSMP, SSCP<br>
+Kevin S. Doane, CISSP-ISSEP, ISSMP, CGRC, SSCP</p>
+<p>Official logo files are available for download as a self-extracting ZIP file.</p>
+<p><a href="/-/media/ISC2/Policies-and-Procedures/Logo-Package-Web.ashx?la=en&amp;hash=20BE66B5997BD08949E65377F16717B092E24381" class="button button--legacy-light-blue">Download</a></p>
+        </div>
+    </div>
+</li>
+
+
+</ul><p><strong><span>Additional Membership Information</span></strong></p>
+<p>The following resources offer more details and information on navigating ISC2; membership.</p>
+<ul style="list-style-type: disc;">
+    <li><span><a href="/Ethics" title="Code of Ethics">Code of Ethics</a></span></li>
+    <li><span><a href="/Member-Resources/AMFs-Overview" title="AMF Overview">AMF Overview</a></span></li>
+    <li><span><a href="/Member-Resources/CPE-Overview" title="CPE Overview">CPE Overview</a> </span></li>
+    <li><span><a href="/Endorsement" title="Endorsement">Endorsement</a></span></li>
+    <li><a href="/Exams" title="Exam Policies and Procedures">Exam Policies and Procedures</a></li>
+    <li><span><a href="https://www.isc2.org/Contact-Us#accordion-1427f94f22f84b5aa6ccbaac84116cdd" title="Appeal Inquiries">Appeal Inquiries</a></span></li>
+    <li><span><a href="https://www.isc2.org/MemberVerification" title="Certification Verification">Certification Verification</a></span></li>
+    <li><span><a href="/Contact-Us" title="Contact Us">Contact Us</a></span></li>
+</ul>

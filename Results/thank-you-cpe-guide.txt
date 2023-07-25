@@ -1,4 +1,17 @@
 <div class="hero-text-wrapper content">
                                     <h2 class="section-tagline">Grow Your Cybersecurity Skills</h2>
                                                                     <h1 class="h1 section-title bar">Professional Development Institute</h1>
-                            </div>
+                            </div><style>
+.boxWrap{display: -webkit-box;display: -ms-flexbox;display: flex; -ms-flex-wrap:wrap;flex-wrap:wrap;}
+.boxLink{border-radius: 5px;-webkit-box-shadow: 0px 0px 2px #00000091;box-shadow: 0px 0px 2px #00000091;cursor: pointer;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;padding: 25px;margin: 10px;text-decoration: none;width: calc(50% - 20px);}
+.webinarBoxLink{-webkit-box-flex: 2;-ms-flex-positive: 2;flex-grow: 2;}
+.boxLink:hover{-webkit-box-shadow: 0px 0px 8px #00000091;box-shadow: 0px 0px 8px #00000091;color: inherit;text-decoration: none;}
+</style>
+<div class="boxWrap">
+<a class="boxLink" href="/Certificate">Certificates</a>
+<a class="boxLink" href="/skill-builders">Skill-Builders</a>
+<a class="boxLink" href="/Development/Immersive-Courses">Immersive Courses</a>
+<a class="boxLink" href="/Development/Express-Learning-Courses">Express Learning Courses</a>
+<a class="boxLink" href="/Development/Lab-Courses">Lab Courses</a>
+
+</div>

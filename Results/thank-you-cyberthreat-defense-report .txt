@@ -15,4 +15,8 @@
 <p style="clear: both;"><strong>Ready to start your journey toward CISSP?</strong> Start strong as an <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CDRTYP&utm_content=candidate">ISC2 Candidate</a>. You’ll gain access to exclusive benefits, including 20% off Official ISC2 Training so you can start preparing for the exam. <a href="/candidate?utm_source=isc2&utm_medium=textlink&utm_campaign=GBL-Candidate&utm_term=2023CDRTYP&utm_content=candidate">Sign up now.</a> Your first year is free — no cost to you.*</p>
 <p><em>*If you choose to renew after the first year, an annual fee of U.S. $50 will be due.</em></p>
 
-<hr>
+<hr><h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

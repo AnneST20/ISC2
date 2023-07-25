@@ -109,4 +109,818 @@ border-radius: 0 !important;
 <h3>Job Task Analysis (JTA)</h3>
 <p>ISC2; has an obligation to its membership to maintain the relevancy of the CSSLP. Conducted at regular intervals, the Job Task Analysis (JTA) is a methodical and critical process of determining the tasks that are performed by CSSLP credential holders. The results of the JTA are used to update the examination. This process ensures that candidates are tested on the topic areas relevant to the roles and responsibilities of today’s practicing information security professionals.</p>
 
-<hr>
+<hr><h2 data-jump-link='off' id="f19cd32b9e804d078b6ea486d5333ee7" data-jump-text="">CSSLP Examination Information</h2>
+<div class="table-wrapper">
+<table class="table simpleTable">
+<tbody>
+<tr><th>Length of exam</th><td>3 hours</td></tr>
+<tr><th>Number of items</th><td>125</td></tr>
+<tr><th>Item format</th><td>Multiple choice</td></tr>
+<tr><th>Passing grade</th><td>700 out of 1000 points</td></tr>
+<tr><th>Language availability</th><td>English</td></tr>
+<tr><th>Testing center</th><td>Pearson VUE Testing Center</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>CSSLP Examination Weights</h2>
+<div class="table-wrapper">
+<table class="table greenZebra">
+<thead>
+<tr><td>Domains</td><td>Average Weight</td></tr>
+</thead>
+<tbody>
+<tr><td>1. Secure Software Concepts</td><td>10%</td></tr>
+<tr><td>2. Secure Software Requirements</td><td>14%</td></tr>
+<tr><td>3. Secure Software Architecture and Design</td><td>14%</td></tr>
+<tr><td>4. Secure Software Implementation</td><td>14%</td></tr>
+<tr><td>5. Secure Software Testing</td><td>14%</td></tr>
+<tr><td>6. Secure Software Lifecycle Management</td><td>11%</td></tr>
+<tr><td>7. Secure Software Development, Operations, Maintenance</td><td>12%</td></tr>
+<tr><td>8. Secure Software Supply Chain</td><td>11%</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>100%</strong></td></tr>
+</tbody>
+</table>
+</div><h2 class="accordionTitle__title" data-jump-link='' data-jump-text="" id="accordionTitle-c52e52d9c77448cc95b3bd67abbd8266">Domains</h2>
+<ul class="ac hide-siblings" id="accordion-c52e52d9c77448cc95b3bd67abbd8266">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-4732f40e2dad481a97adc902e2e51eaa">
+            <span class="hide-sm">Domain 1: Secure Software Concepts</span>
+        <span class="hide-lt-sm">Domain 1: Secure Software Concepts</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-4732f40e2dad481a97adc902e2e51eaa" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-1-Icon.ashx?la=en&amp;hash=F2B099968B85AA3DBD2E1D183119325BF701E817" alt="Secure Software Concepts" title="Secure Software Concepts">
+<h2>Domain 1:<br>Secure Software Concepts</h2>
+</div>
+
+<div class="domainListItem">
+<h2>1.1</h2>
+<div class="itemContent">
+<h3>Core Concepts</h3>
+<ul>
+<li>Confidentiality (e.g., covert, overt, encryption)</li>
+<li>Integrity (e.g., hashing, digital signatures, code signing, reliability, modifications, authenticity)</li>
+<li>Availability (e.g., redundancy, replication, clustering, scalability, resiliency)</li>
+<li>Authentication (e.g., Multi-Factor Authentication (MFA), Identity and Access Management (IAM), Single Sign-On (SSO), federated identity)</li>
+<li>Authorization (e.g., access controls, permissions, entitlements)</li>
+<li>Accountability (e.g., auditing, logging)</li>
+<li>Nonrepudiation (e.g., digital signatures, block chain)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.2</h2>
+<div class="itemContent">
+<h3>Security Design Principles</h3>
+<ul>
+<li>Least privilege (e.g., access control, need-to-know, run-time privileges)</li>
+<li>Separation of Duties (SoD) (e.g., multi-party control, secret sharing and split knowledge)</li>
+<li>Defense in depth (e.g., layered controls, input validation, security zones)</li>
+<li>Resiliency (e.g., fail safe, fail secure, no Single Point of Failure (SPOF))</li>
+<li>Economy of mechanism (e.g., Single Sign-On (SSO), password vaults, resource efficiency)</li>
+<li>Complete mediation (e.g., cookie management, session management, caching of credentials)</li>
+<li>Open design (e.g., Kerckhoffs's principle)</li>
+<li>Collaborative design (e.g., peer review, open source, crowd source)</li>
+<li>Least common mechanism (e.g., compartmentalization/isolation, white-listing)</li>
+<li>Psychological acceptability (e.g., password complexity, screen layouts, Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA), biometrics)</li>
+<li>Component reuse (e.g., common controls, libraries)</li>
+<li>Diversity of defense (e.g., geographical diversity, technical diversity, distributed systems)</li>
+</ul>
+</div></div>
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-353461862f9c41bcb24c7ee411bd6f5c">
+            <span class="hide-sm">Domain 2: Secure Software Requirements</span>
+        <span class="hide-lt-sm">Domain 2: Secure Software Requirements</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-353461862f9c41bcb24c7ee411bd6f5c" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-2-Icon.ashx?la=en&amp;hash=5CE81F0FA2D38CCF26EB9255B4E4CB1BE9B10537" alt="Security Operations and Administration" title="Security Operations and Administration">
+<h2>Domain 2:<br>Secure Software Requirements</h2>
+</div>
+
+<div class="domainListItem">
+<h2>2.1</h2>
+<div class="itemContent">
+<h3>Define Software Security Requirements</h3>
+<ul>
+<li>Functional (e.g., business requirements, use cases, stories)</li>
+<li>Non-functional (e.g., operational, deployment, systemic qualities)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.2</h2>
+<div class="itemContent">
+<h3>Identify and Analyze Compliance Requirements</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.3</h2>
+<div class="itemContent">
+<h3>Identify and Analyze Data Classification Requirements</h3>
+<ul>
+<li>Data ownership (e.g., data owner, data custodian)</li>
+<li>Labeling (e.g., sensitivity, impact)</li>
+<li>Types of data (e.g., structured, unstructured data)</li>
+<li>Data life-cycle (e.g., generation, retention, disposal)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.4</h2>
+<div class="itemContent">
+<h3>Identify and Analyze Privacy Requirements</h3>
+<ul>
+<li>Data anonymization</li>
+<li>User consent</li>
+<li>Disposition (e.g., right to be forgotten)</li>
+<li>Data retention</li>
+<li>Cross borders (e.g., data residency, jurisdiction, multi-national data processing boundaries)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.5</h2>
+<div class="itemContent">
+<h3>Develop Misuse and Abuse Cases</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.6</h2>
+<div class="itemContent">
+<h3>Develop Security Requirement Traceability Matrix (STRM)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.7</h2>
+<div class="itemContent">
+<h3>Ensure Security Requirements Flow Down to Suppliers/Providers</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-dbc52a28275743ddb6885a43c7f96b20">
+            <span class="hide-sm">Domain 3: Secure Software Architecture and Design</span>
+        <span class="hide-lt-sm">Domain 3: Secure Software Architecture and Design</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-dbc52a28275743ddb6885a43c7f96b20" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-3-Icon.ashx?la=en&amp;hash=297FB432E4C11B5CEE556B6CBE564D584BCA5671" alt="Secure Software Architecture and Design" title="Secure Software Architecture and Design">
+<h2>Domain 3:<br>Secure Software Architecture and Design</h2>
+</div>
+
+<div class="domainListItem">
+<h2>3.1</h2>
+<div class="itemContent">
+<h3>Perform Threat Modeling</h3>
+<ul>
+<li>Understand common threats (e.g., Advanced Persistent Threat (APT), insider threat, common malware, third-party/supplier)</li>
+<li>Attack surface evaluation</li>
+<li>Threat intelligence (e.g., Identify credible relevant threats)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.2</h2>
+<div class="itemContent">
+<h3>Define the Security Architecture</h3>
+<ul>
+<li>Security control identification and prioritization</li>
+<li>Distributed computing (e.g., client server, Peer-to-Peer (P2P), message queuing)</li>
+<li>Service-Oriented Architecture (SOA) (e.g., Enterprise Service Bus (ESB), web services)</li>
+<li>Rich internet applications (e.g., client-side exploits or threats, remote code execution, constant connectivity)</li>
+<li>Pervasive/Ubiquitous computing (e.g., Internet of Things (IoT), wireless, location-based, Radio-Frequency Identification (RFID), Near-Field Communication (NFC), sensor networks)</li>
+<li>Embedded software (e.g., secure update, Field-Programmable Gate Array (FPGA) security features, microcontroller security)</li>
+<li>Cloud architectures (e.g., Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS))</li>
+<li>Mobile applications (e.g., implicit data collection privacy)</li>
+<li>Hardware platform concerns (e.g., side-channel mitigation, speculative execution mitigation, embedded Hardware Security Modules (HSM))</li>
+<li>Cognitive computing (e.g., Machine Learning (ML), Artificial Intelligence (AI))</li>
+<li>Control systems (e.g., industrial, medical, facility-related, automotive)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.3</h2>
+<div class="itemContent">
+<h3>Performing Secure Interface Design</h3>
+<ul>
+<li>Security management interfaces, Out-of-Band (OOB) management, log interfaces</li>
+<li>Upstream/downstream dependencies (e.g., key and data sharing between apps)</li>
+<li>Protocol design choices (e.g., Application Programming Interface (API)s, weaknesses, state, models)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.4</h2>
+<div class="itemContent">
+<h3>Performing Architectural Risk Assessment</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.5</h2>
+<div class="itemContent">
+<h3>Model (Non-Functional) Security Properties and Constraints</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.6</h2>
+<div class="itemContent">
+<h3>Model and Classify Data</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.7</h2>
+<div class="itemContent">
+<h3>Evaluate and Select Reusable Secure Design</h3>
+<ul>
+<li>Credential management (e.g., X.509 and Single Sign-On (SSO))</li>
+<li>Flow control (e.g., proxies, firewalls, protocols, queuing)</li>
+<li>Data Loss Prevention (DLP)</li>
+<li>Virtualization (e.g., software defined infrastructure, hypervisor, containers)</li>
+<li>Trusted computing (e.g., Trusted Platform Module (TPM), Trusted Computing Base (TCB))</li>
+<li>Database security (e.g., encryption, triggers, views, privilege management)</li>
+<li>Programming language environment (e.g., Common Language Runtime (CLR), Java Virtual Machine (JVM))</li>
+<li>Operating System (OS) controls and services</li>
+<li>Secure backup and restoration planning</li>
+<li>Secure data retention, retrieval, and destruction</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.8</h2>
+<div class="itemContent">
+<h3>Perform Security Architecture and Design Review
+</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.9</h2>
+<div class="itemContent">
+<h3>Define Secure Operational Architecture (e.g., deployment topology, operational interfaces)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.10</h2>
+<div class="itemContent">
+<h3>Use Secure Architecture and Design Principles, Patterns, and Tools</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-774e6e6fa86e4cca9e9fe0baf210ada4">
+            <span class="hide-sm">Domain 4: Secure Software Implementation</span>
+        <span class="hide-lt-sm">Domain 4: Secure Software Implementation</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-774e6e6fa86e4cca9e9fe0baf210ada4" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-4-Icon.ashx?la=en&amp;hash=28069AE9384678D39DCF5CC73A28A7A9D08DB5E6" alt="Secure Software Implementation" title="Secure Software Implementation">
+<h2>Domain 4:<br>Secure Software Implementation</h2>
+</div>
+
+<div class="domainListItem">
+<h2>4.1</h2>
+<div class="itemContent">
+<h3>Adhere to Relevant Secure Coding Practices (e.g., standards, guidelines and regulations)</h3>
+<ul>
+<li>Declarative versus imperative (programmatic) security</li>
+<li>Concurrency (e.g., thread safety, database concurrency controls)</li>
+<li>Output sanitization (e.g., encoding, obfuscation)</li>
+<li>Error and exception handling</li>
+<li>Input validation</li>
+<li>Secure logging & auditing</li>
+<li>Session management</li>
+<li>Trusted/Untrusted Application Programming Interface (API)s, and libraries</li>
+<li>Type safety</li>
+<li>Resource management (e.g., compute, storage, network, memory management)</li>
+<li>Secure configuration management (e.g., parameter, default options, credentials)</li>
+<li>Tokenization</li>
+<li>Isolation (e.g., sandboxing, virtualization, containers, Separation Kernel Protection Profiles (SKPP))</li>
+<li>Cryptography (e.g., payload, field level, transport, storage, agility, encryption, algorithm selection)</li>
+<li>Access control (e.g., trust zones, function permissions, Role Based Access Control (RBAC))</li>
+<li>Processor microarchitecture security extensions (e.g., Software Guard Extensions (SGX), Advanced Micro Devices (AMD) Secure Memory Encryption(SME)/Secure Encrypted Virtualization(SEV), ARM TrustZone)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.2</h2>
+<div class="itemContent">
+<h3>Analyze Code for Security Risks</h3>
+<ul>
+<li>Secure code reuse</li>
+<li>Vulnerability databases/lists (e.g., Open Web Application Security Project (OWASP) Top 10, Common Weakness Enumeration (CWE))</li>
+<li>Static Application Security Testing (SAST) (e.g., automated code coverage, linting)</li>
+<li>Dynamic Application Security Testing (DAST)</li>
+<li>Manual code review (e.g., individual, peer)</li>
+<li>Look for malicious code (e.g., backdoors, logic bombs, high entropy)</li>
+<li>Interactive Application Security Testing (IAST)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.3</h2>
+<div class="itemContent">
+<h3>Implement Security Controls (e.g., watchdogs, File Integrity Monitoring (FIM), anti- malware)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.4</h2>
+<div class="itemContent">
+<h3>Address Security Risks (e.g. remediation, mitigation, transfer, accept)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.5</h2>
+<div class="itemContent">
+<h3>Securely Reuse Third-Party Code or Libraries (e.g., Software Composition Analysis (SCA))</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.6</h2>
+<div class="itemContent">
+<h3>Securely Integrate Components</h3>
+<ul>
+<li>Systems-of-systems integration (e.g., trust contracts, security testing and analysis)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.7</h2>
+<div class="itemContent">
+<h3>Apply Security During the Build Process</h3>
+<ul>
+<li>Anti-tampering techniques (e.g., code signing, obfuscation)</li>
+<li>Compiler switches</li>
+<li>Address compiler warnings</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-1c77182ddf9a4d449fc6339336ad2cc9">
+            <span class="hide-sm">Domain 5: Secure Software Testing</span>
+        <span class="hide-lt-sm">Domain 5: Secure Software Testing</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-1c77182ddf9a4d449fc6339336ad2cc9" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-5-Icon.ashx?la=en&amp;hash=ED4C1B40DF2AFA9BBF774835DB447473D5C2EFCC" alt="Secure Software Testing" title="Secure Software Testing">
+<h2>Domain 5:<br>Secure Software Testing</h2>
+</div>
+
+<div class="domainListItem">
+<h2>5.1</h2>
+<div class="itemContent">
+<h3>Develop Security Test Cases</h3>
+<ul>
+<li>Attack surface validation</li>
+<li>Penetration tests</li>
+<li>Fuzzing (e.g., generated, mutated)</li>
+<li>Scanning (e.g., vulnerability, content, privacy)</li>
+<li>Simulation (e.g., simulating production environment and production data, synthetic workloads)</li>
+<li>Failure (e.g., fault injection, stress testing, break testing)</li>
+<li>Cryptographic validation (e.g., Pseudo-Random Number Generator (PRNG), entropy)</li>
+<li>Regression tests</li>
+<li>Integration tests</li>
+<li>Continuous (e.g., synthetic transactions)</li>
+<li>Unit testing and code coverage</li>
+<li>Misuse and abuse test cases</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.2</h2>
+<div class="itemContent">
+<h3>Develop Security Testing Strategy and Plan</h3>
+<ul>
+<li>Functional security testing (e.g., logic)</li>
+<li>Nonfunctional security testing (e.g., reliability, performance, scalability)</li>
+<li>Testing techniques (e.g., white box and black box)</li>
+<li>Environment (e.g., interoperability, test harness)</li>
+<li>Standards (e.g., International Organization for Standardization (ISO), Open Source Security Testing Methodology Manual (OSSTMM), Software Engineering Institute (SEI))</li>
+<li>Crowd sourcing (e.g., bug bounty)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.3</h2>
+<div class="itemContent">
+<h3>Verify and Validate Documentation (e.g., installation and setup instructions, error
+messages, user guides, release notes)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.4</h2>
+<div class="itemContent">
+<h3>Identify Undocumented Functionality</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.5</h2>
+<div class="itemContent">
+<h3>Analyze Security Implications of Test Results (e.g., impact on product management,
+prioritization, break build criteria)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.6</h2>
+<div class="itemContent">
+<h3>Classify and Track Security Errors</h3>
+<ul>
+<li>Bug tracking (e.g., defects, errors and vulnerabilities)</li>
+<li>Risk Scoring (e.g., Common Vulnerability Scoring System (CVSS))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.7</h2>
+<div class="itemContent">
+<h3>Secure Test Data</h3>
+<ul>
+<li>Generate test data (e.g., referential integrity, statistical quality, production representative)</li>
+<li>Reuse of production data (e.g., obfuscation, sanitization, anonymization, tokenization, data aggregation mitigation)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.8</h2>
+<div class="itemContent">
+<h3>Perform Verification and Validation Testing</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-04cb878dc64e49ce8e552760945095bb">
+            <span class="hide-sm">Domain 6: Secure Software Lifecycle Management</span>
+        <span class="hide-lt-sm">Domain 6: Secure Software Lifecycle Management</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-04cb878dc64e49ce8e552760945095bb" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-6-Icon.ashx?la=en&amp;hash=D573900B924C74724AA25C15FAB7DD65571FF742" alt="Network and Communication Security" title="Network and Communication Security">
+<h2>Domain 6:<br>Secure Software Lifecycle Management</h2>
+</div>
+
+<div class="domainListItem">
+<h2>6.1</h2>
+<div class="itemContent">
+<h3>Secure Configuration and Version Control (e.g., hardware, software, documentation,
+interfaces, patching)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.2</h2>
+<div class="itemContent">
+<h3>Define Strategy and Roadmap</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.3</h2>
+<div class="itemContent">
+<h3>Manage Security Within a Software Development Methodology</h3>
+<ul>
+<li>Security in adaptive methodologies (e.g., Agile methodologies)</li>
+<li>Security in predictive methodologies (e.g., Waterfall)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.4</h2>
+<div class="itemContent">
+<h3>Identify Security Standards and Frameworks</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.5</h2>
+<div class="itemContent">
+<h3>Define and Develop Security Documentation</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.6</h2>
+<div class="itemContent">
+<h3>Develop Security Metrics (e.g., defects per line of code, criticality level, average remediation time, complexity)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.7</h2>
+<div class="itemContent">
+<h3>Decommission Software</h3>
+<ul>
+<li>End-of-life policies (e.g., credential removal, configuration removal, license cancellation, archiving)</li>
+<li>Data disposition (e.g., retention, destruction, dependencies)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.8</h2>
+<div class="itemContent">
+<h3>Report Security Status (e.g., reports, dashboards, feedback loops)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.9</h2>
+<div class="itemContent">
+<h3>Incorporate Integrated Risk Management (IRM)</h3>
+<ul>
+<li>Regulations and compliance</li>
+<li>Legal (e.g., intellectual property, breach notification)</li>
+<li>Standards and guidelines (e.g., International Organization for Standardization (ISO), Payment Card Industry (PCI), National Institute of Standards and Technology (NIST), OWASP, Software Assurance Forum for Excellence in Code (SAFECode), Software Assurance Maturity Model (SAMM), Building Security In Maturity Model (BSIMM))</li>
+<li>Risk management (e.g., mitigate, accept, transfer, avoid)</li>
+<li>Terminology (e.g., threats, vulnerability, residual risk, controls, probability, impact)</li>
+<li>Technical risk vs business risk</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.10</h2>
+<div class="itemContent">
+<h3>Promote Security Culture in Software Development</h3>
+<ul>
+<li>Security champions</li>
+<li>Security education and guidance</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>6.11</h2>
+<div class="itemContent">
+<h3>Implement Continuous Improvement (e.g., retrospective, lessons learned)</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-6ec537f6fea74d54839e1e91482bb4fc">
+            <span class="hide-sm">Domain 7: Secure Software Deployment, Operations, Maintenance</span>
+        <span class="hide-lt-sm">Domain 7: Secure Software Deployment, Operations, Maintenance</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-6ec537f6fea74d54839e1e91482bb4fc" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-7-Icon.ashx?la=en&amp;hash=0D002C20788CB696C342250C8002A8148BA7B305" alt="Secure Software Deployment, Operations, Maintenance" title="Secure Software Deployment, Operations, Maintenance">
+<h2>Domain 7:<br>Secure Software Deployment, Operations, Maintenance</h2>
+</div>
+
+<div class="domainListItem">
+<h2>7.1</h2>
+<div class="itemContent">
+<h3>Perform Operational Risk Analysis</h3>
+<ul>
+<li>Deployment environment</li>
+<li>Personnel training (e.g., administrators vs users)</li>
+<li>Safety criticality</li>
+<li>System integration</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.2</h2>
+<div class="itemContent">
+<h3>Release Software Securely</h3>
+<ul>
+<li>Secure Continuous Integration and Continuous Delivery (CI/CD) pipeline</li>
+<li>Secure software tool chain</li>
+<li>Build artifact verification (e.g., code signing, checksums, hashes)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.3</h2>
+<div class="itemContent">
+<h3>Securely Store and Manage Security Data</h3>
+<ul>
+<li>Credentials</li>
+<li>Secrets</li>
+<li>Keys/certificates</li>
+<li>Configurations</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.4</h2>
+<div class="itemContent">
+<h3>Ensure Secure Installation</h3>
+<ul>
+<li>Bootstrapping (e.g., key generation, access, management)</li>
+<li>Least privilege</li>
+<li>Environment hardening</li>
+<li>Secure activation (e.g., credentials, white listing, device configuration, network configuration, licensing)</li>
+<li>Security policy implementation</li>
+<li>Secrets injection (e.g., certificate, Open Authorization (OAUTH) tokens, Secure Shell (SSH) keys)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.5</h2>
+<div class="itemContent">
+<h3>Perform Post-Deployment Security Testing</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.6</h2>
+<div class="itemContent">
+<h3>Obtain Security Approval to Operate (e.g., risk acceptance, sign-off at appropriate level)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.7</h2>
+<div class="itemContent">
+<h3>Perform Information Security Continuous Monitoring (ISCM)</h3>
+<ul>
+<li>Collect and analyze security observable data (e.g., logs, events, telemetry and trace data)</li>
+<li>Threat intel</li>
+<li>Intrusion detection/response</li>
+<li>Secure configuration</li>
+<li>Regulation changes</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.8</h2>
+<div class="itemContent">
+<h3>Support Incident Response</h3>
+<ul>
+<li>Root cause analysis</li>
+<li>Incident triage</li>
+<li>Forensics</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.9</h2>
+<div class="itemContent">
+<h3>Perform Patch Management (e.g. secure release, testing)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.10</h2>
+<div class="itemContent">
+<h3>Perform Vulnerability Management (e.g., scanning, tracking, triaging)</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.11</h2>
+<div class="itemContent">
+<h3>Runtime Protection (e.g., Runtime Application Self-Protection (RASP), Web Application Firewall (WAF), Address Space Layout Randomization (ASLR))</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.12</h2>
+<div class="itemContent">
+<h3>Support Continuity of Operations</h3>
+<ul>
+<li>Backup, archiving, retention</li>
+<li>Disaster Recovery (DR)</li>
+<li>Resiliency (e.g., operational redundancy, erasure code, survivability)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>7.13</h2>
+<div class="itemContent">
+<h3>Integrate Service Level Objectives (SLO) and Service Level Agreements (SLA) (e.g., maintenance, performance, availability, qualified personnel)</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-bf76d9f2e59340f1abd310efc770a9ae">
+            <span class="hide-sm">Domain 8: Secure Software Supply Chain</span>
+        <span class="hide-lt-sm">Domain 8: Secure Software Supply Chain</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-bf76d9f2e59340f1abd310efc770a9ae" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<img src="/-/media/ISC2/Certifications/CSSLP/Exam-Outline/CSSLP-Domain-8-Icon.ashx?la=en&amp;hash=F54C459F273C988BFB07BB636D156365BBAF4C0A" alt="Secure Software Supply Chain" title="Secure Software Supply Chain">
+<h2>Domain 8:<br>Secure Software Supply Chain</h2>
+</div>
+
+<div class="domainListItem">
+<h2>8.1</h2>
+<div class="itemContent">
+<h3>Implement Software Supply</h3>
+<ul>
+<li>Identify</li>
+<li>Assess</li>
+<li>Respond</li>
+<li>Monitor</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>8.2</h2>
+<div class="itemContent">
+<h3>Analyze Security of Third-Party Software</h3>
+</div></div>
+
+<div class="domainListItem">
+<h2>8.3</h2>
+<div class="itemContent">
+<h3>Verify Pedigree and Provenance</h3>
+<ul>
+<li>Secure transfer (e.g., interdiction mitigation)</li>
+<li>System sharing/interconnections</li>
+<li>Code repository security</li>
+<li>Build environment security</li>
+<li>Cryptographically-hashed, digitally signed components</li>
+<li>Right to audit</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>8.4</h2>
+<div class="itemContent">
+<h3>Ensure Supplier Security Requirements in the Acquisition Process</h3>
+<ul>
+<li>Audit of security policy compliance (e.g., secure software development practices)</li>
+<li>Vulnerability/incident notification, response, coordination and reporting</li>
+<li>Maintenance and support structure (e.g., community versus commercial, licensing)</li>
+<li>Security track record</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>8.5</h2>
+<div class="itemContent">
+<h3>Support contractual requirements (e.g., Intellectual Property (IP) ownership, code escrow, liability, warranty, End-User License Agreement (EULA), Service Level Agreements (SLA))</h3>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+</ul><h2 data-jump-link='off' id="e74ccdff04cf41c7bb018edc854c9e97" data-jump-text="">Additional Examination Information</h2>
+<h3>Supplementary References</h3>
+<p>Candidates are encouraged to supplement their education and experience by reviewing relevant resources that pertain to the CBK and identifying areas of study that may need additional attention.</p>
+<p>View the full list of supplementary references at <a class="link" href="/certifications/References">www.isc2.org/certifications/References</a>.</p>
+
+<h3>Examination Policies and Procedures</h3>
+<p>ISC2; recommends that CSSLP candidates review exam policies and procedures prior to registering for the examination. Read the comprehensive breakdown of this important information at <a class="link" href="/Register-for-Exam">www.isc2.org/Register-for-Exam</a>.</p>

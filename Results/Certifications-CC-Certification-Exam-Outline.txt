@@ -107,4 +107,348 @@ border-radius: 0 !important;
 <li>Security Operations</li>
 </ul>
 </div>
+</div><h2 data-jump-link='off' id="6370ac242d824453bf819c6b3fddb03e" data-jump-text="">Certified in Cybersecurity Examination Information</h2>
+<div class="table-wrapper">
+<table class="table simpleTable">
+    <tbody>
+        <tr>
+            <th>Length of exam</th>
+            <td>2 hours</td>
+        </tr>
+        <tr>
+            <th>Number of items</th>
+            <td><span>100</span></td>
+        </tr>
+        <tr>
+            <th>Item format</th>
+            <td>Multiple choice</td>
+        </tr>
+        <tr>
+            <th>Passing grade</th>
+            <td>700 out of 1000 points</td>
+        </tr>
+        <tr>
+            <th>Exam language availability</th>
+            <td>English</td>
+        </tr>
+        <tr>
+            <th>Testing center</th>
+            <td>Pearson VUE Testing Center</td>
+        </tr>
+    </tbody>
+</table>
 </div>
+
+<h2>Certified in Cybersecurity Examination Weights</h2>
+<div class="table-wrapper" style="margin-bottom: 1.5em;">
+<table class="table greenZebra">
+<thead>
+<tr><td>Domains</td><td>Average Weight</td><td># of Items</td></tr>
+</thead>
+<tbody>
+<tr><td>1. Security Principles</td><td>26%</td><td>20</td></tr>
+<tr><td>2. Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts</td><td>10%</td><td>7</td></tr>
+<tr><td>3. Access Controls Concepts</td><td>22%</td><td>17</td></tr>
+<tr><td>4. Network Security</td><td>24%</td><td>18</td></tr>
+<tr><td>5. Security Operations</td><td>18%</td><td>13</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>100%</strong></td><td><strong>75*</strong></td></tr>
+</tbody>
+</table>
+</div>
+<p>*Each exam also contains 25 pre-test items for a total of <strong>100 items</strong> during the pilot exam. They’re included for research purposes only. The pre-test items aren’t identified, so answer every item to the best of your ability.</p><h2 class="accordionTitle__title" data-jump-link='' data-jump-text="" id="accordionTitle-976198c74fce446ca1e0e0b74d33f3ca">Domains</h2>
+<ul class="ac hide-siblings" id="accordion-976198c74fce446ca1e0e0b74d33f3ca">
+
+    
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-3511cb31f0fe423f886220a850998a31">
+            <span class="hide-sm">Domain 1 - Security Principles</span>
+        <span class="hide-lt-sm">Domain 1 - Security Principles</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-3511cb31f0fe423f886220a850998a31" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<h2>Domain 1:<br>Security Principles (26%, 20 items)</h2>
+</div>
+
+<div class="domainListItem">
+<h2>1.1</h2>
+<div class="itemContent">
+<h3>Understand the security concepts of information assurance</h3>
+<ul>
+<li>Confidentiality</li>
+<li>Integrity</li>
+<li>Availability</li>
+<li>Authentication (e.g., methods of authentication, multi-factor authentication (MFA))</li>
+<li>Non-repudiation</li>
+<li>Privacy</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.2</h2>
+<div class="itemContent">
+<h3>Understand the risk management process</h3>
+<ul>
+<li>Risk management (e.g., risk priorities, risk tolerance)</li>
+<li>Risk identification, assessment and treatment</li>
+
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.3</h2>
+<div class="itemContent">
+<h3>Understand security controls</h3>
+<ul>
+<li>Technical controls</li>
+<li>Administrative controls</li>
+<li>Physical controls</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.4</h2>
+<div class="itemContent">
+<h3>Understand ISC2 Code of Ethics </h3>
+<ul>
+<li>Professional code of conduct</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>1.5</h2>
+<div class="itemContent">
+<h3>Understand governance processes</h3>
+<ul>
+<li>Policies</li>
+<li>Procedures</li>
+<li>Standards</li>
+<li>Regulations and laws</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-307cd93451f7437aa85848c37110028d">
+            <span class="hide-sm">Domain 2 – Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts</span>
+        <span class="hide-lt-sm">Domain 2 – Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-307cd93451f7437aa85848c37110028d" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<h2>Domain 2:<br>Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts (10%, 7 items)</h2>
+</div>
+
+<div class="domainListItem">
+<h2>2.1</h2>
+<div class="itemContent">
+<h3>Understand business continuity (BC)</h3>
+<ul>
+<li>Purpose</li>
+<li>Importance</li>
+<li>Components</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.2</h2>
+<div class="itemContent">
+<h3>Understand disaster recovery (DR)</h3>
+<ul>
+<li>Purpose</li>
+<li>Importance</li>
+<li>Components</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>2.3</h2>
+<div class="itemContent">
+<h3>Understand incident response</h3>
+<ul>
+<li>Purpose</li>
+<li>Importance</li>
+<li>Components</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-10359083b6f244f2ab23c960df81d4bc">
+            <span class="hide-sm">Domain 3 – Access Controls Concepts</span>
+        <span class="hide-lt-sm">Domain 3 – Access Controls Concepts</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-10359083b6f244f2ab23c960df81d4bc" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<h2>Domain 3:<br>Access Controls Concepts (22%, 17 items)</h2>
+</div>
+
+<div class="domainListItem">
+<h2>3.1</h2>
+<div class="itemContent">
+<h3>Understand physical access controls</h3>
+<ul>
+<li>Physical security controls (e.g., badge systems, gate entry, environmental design)</li>
+<li>Monitoring (e.g., security guards, closed-circuit television (CCTV), alarm systems, logs)</li>
+<li>Authorized versus unauthorized personnel</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>3.2</h2>
+<div class="itemContent">
+<h3>Understand logical access controls</h3>
+<ul>
+<li>Principle of least privilege </li>
+<li>Segregation of duties</li>
+<li>Discretionary access control (DAC)</li>
+<li>Mandatory access control (MAC)</li>
+<li>Role-based access control (RBAC)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-4163078f50e24af9948db742fd374ea8">
+            <span class="hide-sm">Domain 4 - Network Security </span>
+        <span class="hide-lt-sm">Domain 4 - Network Security </span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-4163078f50e24af9948db742fd374ea8" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<h2>Domain 4:<br>Network Security (24%, 18 items)</h2>
+</div>
+
+<div class="domainListItem">
+<h2>4.1</h2>
+<div class="itemContent">
+<h3>Understand computer networking </h3>
+<ul>
+<li>Networks (e.g., Open Systems Interconnection (OSI) model, Transmission Control Protocol/Internet Protocol (TCP/IP) model, Internet Protocol version 4 (IPv4), Internet Protocol version 6 (IPv6), WiFi)</li>
+<li>Ports</li>
+<li>Applications</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.2</h2>
+<div class="itemContent">
+<h3>Understand network threats and attacks</h3>
+<ul>
+<li>Types of threats (e.g., distributed denial-of-service (DDoS), virus, worm, Trojan, man-in-the-middle (MITM), side-channel)</li>
+<li>Identification (e.g., intrusion detection system (IDS), host-based intrusion detection system (HIDS), network intrusion detection system (NIDS))</li>
+<li>Prevention (e.g., antivirus, scans, firewalls, intrusion prevention system (IPS))</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>4.3</h2>
+<div class="itemContent">
+<h3>Understand network security infrastructure</h3>
+<ul>
+<li>On-premises (e.g., power, data center/closets, Heating, Ventilation, and Air Conditioning (HVAC), environmental, fire suppression, redundancy, memorandum of understanding (MOU)/memorandum of agreement (MOA))</li>
+<li>Design (e.g., network segmentation (demilitarized zone (DMZ), virtual local area network (VLAN), virtual private network (VPN), micro-segmentation), defense in depth, Network Access Control (NAC) (segmentation for embedded systems, Internet of Things (IoT))</li>
+<li>Cloud (e.g., service-level agreement (SLA), managed service provider (MSP), Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), hybrid)</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+<li class="panel">
+    <a data-toggle="collapse" href="#accordion-e578c03b895743c3bdde9a8bf757e1f6">
+            <span class="hide-sm">Domain 5 - Security Operations</span>
+        <span class="hide-lt-sm">Domain 5 - Security Operations</span>
+    </a>
+    <div data-jump-link='' data-jump-text="" id="accordion-e578c03b895743c3bdde9a8bf757e1f6" class="collapse ">
+        <div class="content">
+            
+<div class="domains">
+
+<div class="domainHead">
+<h2>Domain 5:<br>Security Operations (18%, 13 items)</h2>
+</div>
+
+<div class="domainListItem">
+<h2>5.1</h2>
+<div class="itemContent">
+<h3>Understand data security</h3>
+<ul>
+<li>Encryption (e.g., symmetric, asymmetric, hashing)</li>
+<li>Data handling (e.g., destruction, retention, classification, labeling)</li>
+<li>Logging and monitoring security events</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.2</h2>
+<div class="itemContent">
+<h3>Understand system hardening </h3>
+<ul>
+<li>Configuration management (e.g., baselines, updates, patches)</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.3</h2>
+<div class="itemContent">
+<h3>Understand best practice security policies </h3>
+<ul>
+<li>Data handling policy </li>
+<li>Password policy</li>
+<li>Acceptable Use Policy (AUP)</li>
+<li>Bring your own device (BYOD) policy</li>
+<li>Change management policy (e.g., documentation, approval, rollback)</li>
+<li>Privacy policy</li>
+</ul>
+</div></div>
+
+<div class="domainListItem">
+<h2>5.4</h2>
+<div class="itemContent">
+<h3>Understand security awareness training </h3>
+<ul>
+<li>Purpose/concepts (e.g., social engineering, password protection)</li>
+<li>Importance</li>
+</ul>
+</div></div>
+
+</div>
+        </div>
+    </div>
+</li>
+
+
+</ul>

@@ -5,4 +5,8 @@
 <p>Thank you for your interest in <em>Why It Is Important to have Qualified Cybersecurity Professionals on Your Team. The Definitive Guide for Cybersecurity and Business Prosperity</em>! Here is <a href="/-/media/ISC2/Research/Resource-Thumbnails/Resource-Center/White-Papers/2020/MAR-B2B-CISSP-Whitepaper-Cybersecurity_Professionals_On_Your_Team-Digital-20200831.ashx?la=en&amp;hash=BB0D4390931FDACD982C60B905AE3EA7CE345CB1" target="_blank" title="Opens in new window">your copy of the white paper</a>. We&rsquo;ll also email you the link so you can access this resource anytime.</p>
 <p>As the world&rsquo;s largest nonprofit association of certified cybersecurity professionals, (ISC)2 is here to help organizations ensure cybersecurity and business prosperity. Please <a href="/training/team-consult?utm_source=isc2&amp;utm_medium=asset&amp;utm_campaign=GBL-B2B-Consult&amp;utm_term=cisspqualifiedteamwhitepaper&amp;utm_content=training">reach out anytime</a> to discuss the CISSP (or another globally recognized credential in our portfolio) and enterprise training solutions for your staff.</p>
 <p>&nbsp;</p>
-<hr>
+<hr><h2>Connect with our team:</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>

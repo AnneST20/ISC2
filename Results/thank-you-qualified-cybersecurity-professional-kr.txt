@@ -7,4 +7,8 @@
 
 <p>세계 최대 규모의 비영리 공인 사이버 보안 전문가들의 협회인 ISC2;는 여러분의 커리어를 통해 전문성을 구축하고 유지할 수 있도록 도와드리겠습니다. 언제든지 연락 주셔서 CISSP 또는 저희 포트폴리오 내 국제적으로 인정받는 기타 자격증에 대해 상담하실 수 있습니다.</p>
 <p>&nbsp;</p>
-<hr>
+<hr><h2>저희에게 연락주세요.</h2>
+<p>Americas: +1-866-331-4722 ext. 2 | <a href="mailto:training@isc2.org"><span style="color: #253e51;">training@isc2.org</span></a><br>
+EMEA: +44-203-960-7800 |&nbsp;<a href="mailto:info-emea@isc2.org"><span style="color: #253e51;">info-emea@isc2.org</span></a><br>
+
+Asia-Pacific: +852-5803-5662 |&nbsp;<a href="mailto:isc2asia@isc2.org"><span style="color: #253e51;">isc2asia@isc2.org</span></a>, Japan:&nbsp;<a href="mailto:infoisc2-j@isc2.org"><span style="color: #253e51;">infoisc2-j@isc2.org</span></a>, China:&nbsp;<a href="mailto:isc2china@isc2.org"><span style="color: #253e51;">isc2china@isc2.org</span></a></p>
